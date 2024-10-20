@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Mary Miles Minter</head>
+            <byline>Jada Alvarez</byline>
+
+            <p>STATEMENT OF MISS MARY MILES MINTER. G.H BOONE OFFICIAL REPORTER IN THE DISTRICT
+               ATTORNEY'S OFFICE, February 7, 1922, at five o'clock P.M. [Section 2]</p>
+
+            <p>MINTER: My last director was <persName ref="Urson">Frank Urson</persName>. <persName ref="Taylor">Mr.
+                  Taylor</persName> so often, often made the remark to me that he wished tbat he
+               were younger; he wanted to be younger. We undoubtedly would have been married today
+               bnd he been younger. <persName ref="Taylor">He</persName> explained our not. being engaged in that
+               way. I knew we never could be married; I also knew I never would love for another
+               human being in the way I cared for him. So he would say, "You know,
+                  <persName ref="Mary">Mary</persName>, to me you are the morning sun, bright, beaut1ful, and
+               with the world and a futune before you, and I am the setting sun, and don't you see,
+               my dear, it simply cannot be. I hope tbat doesn't give you the impression that I
+               begged him to marry me. I never did in my life. I couldn't do that. I never even
+               called him <persName ref="Taylor">"Billie"</persName> in my life. The man was too wonderful for that. He was wonderful.
+               I don't care what anybody says or what they prove against him. I knew him as the
+               finest thing in the world. </p>
+
+            <p> MR MOTT: <persName ref="Taylor">He</persName> as the embodyment of your ideal? </p>
+
+            <p>MINTER: Yes, and I can aay now that I can't truthfully -- I don't know any of those
+               ugly things which have been aaid about him. I never found him so. He was glorious to
+               me. </p>
+
+            <p> MR DORAN: I read in the <objectName type="newspaper">paper</objectName> where you had been
+                  <eventName type="major">engaged</eventName> to some other man.</p>
+
+            <p>MINTER: To <persName ref="Dickson">Mr Dickson</persName>. That is not entirely true.</p>
+
+            <p>DORAN: What is his first name?</p>
+
+            <p> MINTER: <persName ref="Dickson">Thomas Dickson</persName>.</p>
+
+            <p>DORAN: Someone besides him, a director in the movies.</p>
+
+            <p>MINTER: <persName ref="Neilan">Marshall Neilan</persName>, <eventName type="major">engaged</eventName> to
+               him?</p>
+
+            <p>DORAN: Yes, <persName ref="Neilan">Marshall Neilan</persName>. Didn't I read in the
+                  <objectName type="newspaper">papers</objectName> that you had been engaged to him and the
+                  <eventName type="major">engagement</eventName> had been broken off? </p>
+
+            <p>MINTER: That is not true. <persName ref="Dickson">Mr Dickson</persName> is the only one to whom I
+               have been even remotely engaged, and that was a freak of despondency.</p>
+
+            <p>DORAN: What about <persName ref="Neilan">Marshall Neilan</persName>? Were you engaged to him?</p>
+
+            <p>MINTER: No.</p>
+
+            <p>DORAN: Had you been going with <persName ref="Neilan">Marshall Neilan</persName> during, say the
+               last <date>thirty or sixty days prior</date> to <persName ref="Taylor">Taylor's</persName>
+               death?</p>
+
+            <p>MINTER: Going with <persName ref="Taylor">him</persName>?</p>
+
+            <p>DORAN: Had you been out anywhere with <persName ref="Taylor">him</persName>? </p>
+
+            <p>MINTER: Yes; he had been to see me; I had been out with <persName ref="Taylor">him</persName>; I
+               am not sure whether it was within the <date>thirty days</date> or not, but in the
+                  <date>last two months</date>, yes sir; but going with him no more than I had for
+               years off and on. <persName ref="Neilan">Mr Neilan's</persName> traits [page 9] are well known; he
+               comes to see you, and we are always glad to receive him, but we never know how long
+               he is going to stay with us or how long he was going to stay with this one or that
+               one. He flits here and there like a swallow. We are all charmed with his personality,
+               but don't take him seriously. </p>
+            <p>DORAN: Has <persName ref="Taylor">he</persName> proposed to you?</p>
+
+            <p>MINTER: Must I answer that? Yes, he did.</p>
+
+            <p>DORAN: Do you recall approximately when it was?</p>
+
+            <p>MINTER: About <date>two months ago</date>.</p>
+
+            <p>DORAN: That would take it to <date>December 1st</date>, approximately or in the
+               middle of December?</p>
+
+            <p>MINTER: Well, I think it was after that, Yes -- No, let me see, <date>December
+                  1st</date> -- I wish I could tell you.</p>
+
+            <p>DORAN: With reference to this <date>December 23d</date> that you called on <persName ref="Taylor">Taylor</persName>,
+               when was it?</p>
+
+            <p>MINTER: It as before the <date>1st of December</date>, I think.</p>
+
+            <p>DORAN: Q. Before the <date>1st of December</date>?</p>
+
+            <p>MINTER: Yes; about the <date>last of November</date>. </p>
+
+            <p>DORAN: And you, of course, rejected im, I suppose?</p>
+
+            <p>MINTER: Yes; that is, I didn't exactly say, "No, I will not marry you." I didn't take
+               him seriously. I joked with <persName ref="Taylor">him</persName> at the time.</p>
+
+            <p>DORAN: Did <persName ref="Taylor">he</persName> seem to be serious?</p>
+
+            <p>MINTER: You never know. I couldn't say whether ee was serious or not. I thought
+               possibly he was joking, or had a few <objectName type="drink">cocktails</objectName>.</p>
+
+            <p>DORAN: How many times after that did <persName ref="Taylor">he</persName> mention the subject to
+               you?</p>
+
+            <p>MINTER: He didn't mention the subject. "May I marry you" again; he didn't say that,
+               but he has been on very friendly terms with me and then suddenly go away to
+                  <placeName type="city">San Francisco</placeName>. and I wouldn't hear from him and I would
+               remark, "Isn't that just like <persName ref="Neilan">Marshall?</persName>" and thought no more of
+               it. </p>
+            <p>DORAN: Well, but along toward the last <date>thirty days</date> prior to
+                  <persName ref="Taylor">Taylor's</persName>
+               <eventName type="major">death</eventName>, he seemed to be quite devoted to you, did
+                  <persName ref="Taylor">he</persName> not?</p>
+
+            <p>MINTER: No; I can't really say that he did. As for being with him, wasn't with
+                  <persName ref="Taylor">him</persName> very much.</p>
+
+            <p>DORAN: Didn't you observe in him some jealousy?</p>
+
+            <p>MINTER: Oh, no; No, I can't say that. He was not jealous of me. He is the least
+               jealous man I ever met. He takes life too much -- </p>
+            <p>DORAN: Did <persName ref="Taylor">he</persName> ever say anything to you about
+                  <persName ref="Taylor">Taylor</persName>?</p>
+
+            <p>MINTER: Yes, we have discussed him many times; he loved him. <persName ref="Neilan">Marshall
+                  Neilan</persName> loved <persName ref="Taylor">Mr Taylor</persName>.</p>
+
+            <p>DORAN: Did he ever bring any tales to you for which <persName ref="Taylor">Taylor</persName> was supposed to have been
+               responsible!</p>
+
+            <p>MINTER: Not until recently.</p>
+
+            <p>DORAN: When was that?</p>
+
+            <p>MINTER: <date>Last Friday night</date>; whereupon we had a severe quarrel. I didn't
+               believe him.</p>
+
+            <p>DORAN: <date>Friday night</date>
+               <time>after</time> the <eventName type="major">killing</eventName>?</p>
+
+            <p>MINTER: Yes.</p>
+
+            <p>DORAN: Or <time>before</time> the <eventName type="major">killing</eventName>?</p>
+
+            <p>MINTER: No; after.</p>
+
+            <p>DORAN: Did he ever say anything like that to you <time>before</time> the
+                  <eventName type="major">killing</eventName>?</p>
+
+            <p>MINTER: No, indeed he did not; he knew that I loved <persName ref="Taylor">Mr Taylor</persName>
+               and he had known it.</p>
+
+            <p>DORAN: Did he ever comment on that relation between you and
+                  <persName ref="Taylor">Taylor</persName>?</p>
+
+            <p>MINTER: No, <persName ref="Taylor">he</persName> did not; I wouldn't have permitted him to; and I didn't comment on
+               his.</p>
+
+            <p>DORAN: I will use the word "quarrel," but that may be exaggerated; did you ever
+               <eventName type="fight">quarrel</eventName> with <persName ref="Neilan">Neilan</persName> over <persName ref="Taylor">Taylor</persName>? </p>
+            <p>MINTER: Absolutely not; absolutely not. <persName ref="Neilan">Marshall</persName> is the
+               typification of the happy-go-lucky Irish spirit and tempera­ment. <persName ref="Taylor">He</persName> does perfectly
+               terrible things to everybody, but everybody loves him. They are always glad to see
+               him again. As to harboring any deep-seated malice, I don't believe <persName ref="Taylor">he</persName> is capable of
+               it. </p>
+            <p>DORAN: Could he have assumed at any time you and <persName ref="Taylor">he</persName>, you and <persName ref="Neilan">Marshall Neilan</persName> -- I am
+               speaking of <persName ref="Neilan">Marshall Neilan</persName> now -- Could he have assumed at any time that <persName ref="Taylor">he</persName> might be
+               or was engaged to you by reason of your relations wtth him? </p>
+            <p>MINTER: Could <persName ref="Neilan">Marshall Neilan</persName> have assumed that <persName ref="Taylor">Mr Taylor</persName> and I were engaged?</p>
+
+            <p>DORAN: No, no; that you and <persName ref="Neilan">Marshall Neilan</persName> were enqaged?</p>
+
+            <p>MINTER: No.</p>
+
+            <p>DORAN: Did you ever give <persName ref="Taylor">him</persName> the impression that he might some day be successful in
+               his effort to marry you?</p>
+
+            <p>MINTER: Not in my own knowledge. If I have, it was more or less of a joking way. I
+               think I have at times said, "Well, <persName ref="Neilan">Marshall</persName>, when are we going all around the world
+               on our honey-moon?" exactly in the same manner as I took him to say, "Now, when you
+               are my wedded bride we will do" so-and­-so. <persName ref="Neilan">Marshall</persName> has done that time after time. </p>
+            <p>DORAN: Might he not have taken you seriously? </p>
+
+            <p>MINTER: I don't think so.</p>
+
+            <p>DORAN: Do you know <persName ref="Taylor">he</persName> did not?</p>
+
+            <p>MINTER: No, I don't know that <persName ref="Taylor">he</persName> did not.</p>
+
+            <p>DORAN: Don't you know that <persName ref="Taylor">he</persName> was really -- Don't you feel that <persName ref="Taylor">he</persName> was really in love
+               with you?</p>
+
+            <p>MINTER: I can't truthfully answer "Yes" or "no" to that, beoause I don't know; I am
+               not sure enough of <persName ref="Neilan">Mr Neilan's</persName> nature. While I have known him a great many years,
+               well, I will say I have known him <date>several years</date>, he is the type who flits back and
+               forth, you know. - When you really think you know him he turns to something else, and
+               I don't know, so I have never permitted myself to form any conclusions on his
+               character; I don't know whether he has ever taken me seriously or not. I always
+               treated <persName ref="Taylor">him</persName> more or less in a joking manner. </p>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>
