@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Mary Miles Minter</head>
+            <byline>Nick Eisele</byline>
+            <p>STATEMENT OF <persName ref="minter">MISS MARY MILES MINTER</persName>. <persName
+                  ref="boone">G.H BOONE</persName> OFFICIAL REPORTER IN THE DISTRICT ATTORNEY'S
+               OFFICE, <date>February 7, 1922</date>, at <time>five o'clock P.M.</time> [Part 5]</p>
+
+            <p>DORAN: This was the second time that <persName ref="neilan">he</persName> had
+               declared love for you. On one occasion <persName ref="neilan">he</persName> proposed
+               to <persName ref="minter">you</persName>?</p>
+
+            <p>MINTER: Yes.</p>
+
+            <p>DORAN: <persName ref="neilan">He</persName> asked <persName ref="minter"
+                  >you</persName> to marry <persName ref="neilan">him</persName>?</p>
+
+            <p>MINTER: Yes, and then <persName ref="neilan">he</persName> would dart away again. I
+               mean <persName ref="neilan">he</persName> would call me up -- <persName ref="neilan"
+                  >He</persName> can't call me up, because I have no telephone; <persName
+                  ref="neilan">he</persName> would send me <objectName type="gift"
+                  >flowers</objectName>, too, and suddenly I would not hear from <persName
+                  ref="neilan">him</persName> for <time>two or three weeks</time>. As I said to
+                  <persName ref="neilan">him</persName> in the <objectName type="car"
+                  >car</objectName>, not particularly about that but about other things, about
+                  <eventName type="love">dinner engagements</eventName>, about appointments, I said,
+               "You know, <persName ref="neilan">Marshall</persName>, I never know when l am going
+               to see <persName ref="neilan">you</persName> and when I am not going to see <persName
+                  ref="neilan">you</persName>, and just what <persName ref="neilan">you</persName>
+               are going to do, and I am in no mood to go on like that at all; I don't care much
+               about it."</p>
+
+            <p>DORAN: When did <persName ref="minter">you</persName> tell <persName ref="neilan"
+                  >him</persName> that?</p>
+
+            <p>MINTER: I told <persName ref="neilan">him</persName> that when <persName
+                  ref="minterneilan">we</persName> were driving the <objectName type="car"
+                  >car</objectName>.</p>
+
+            <p>DORAN: How old a <persName ref="neilan">man</persName> is <persName ref="neilan"
+                  >Marshall Neilan</persName>?</p>
+
+            <p>MINTER: Just thirty.</p>
+
+            <p>DORAN: Has <persName ref="neilan">he</persName> ever been married?</p>
+
+            <p>MINTER: Yes, <persName ref="neilan">he</persName> has been married once for <time>a
+                  few days</time>. <persName ref="neilan">He</persName> remained married to
+                  <persName ref="neilanwife">his wife</persName> for a long time, for <time>seven
+                  years</time>, I think, but <persName ref="neilan">he</persName> was actually only
+               married a few days. I think <persName ref="neilan">he</persName> married when
+                  <persName ref="neilan">he</persName> was twenty or nineteen.</p>
+
+            <p>DORAN: Have <persName ref="minter">you</persName> seen <persName ref="neilan"
+                  >him</persName> since <time>this Friday night</time>?</p>
+
+            <p>MINTER: No, I have not.</p>
+
+            <p>DORAN: Have you talked with <persName ref="neilan">him</persName> over the
+                  <objectName type="phone">telephone</objectName>?</p>
+
+            <p>MINTER: It was really <time>Saturday morning</time>.</p>
+
+            <p>DORAN: Has <persName ref="neilan">he</persName> called you up on the <objectName
+                  type="phone">telephone</objectName>?</p>
+
+            <p>MINTER: No; <persName ref="neilan">he</persName> may have called me at the <placeName
+                  type="residence">New Hampshire house</placeName> and I wouldn't know.</p>
+
+            <p>DORAN: <persName ref="minter">You</persName> haven't talked with <persName
+                  ref="neilan">him</persName> over the <objectName type="phone"
+                  >telephone</objectName>?</p>
+
+            <p>MINTER: I haven't seen <persName ref="neilan">him</persName> or talked to <persName
+                  ref="neilan">him</persName> or come in touch with <persName ref="neilan"
+                  >him</persName> in any way</p>
+
+            <p>DORAN: You haven't received any <objectName type="letter">letters</objectName> from
+                  <persName ref="neilan">him</persName>?</p>
+
+            <p>MINTER: No.</p>
+
+            <p>DORAN: Did you part friendly or unfriendly?</p>
+
+            <p>MINTER: <persName ref="minterneilan">We</persName> did part more or less friendly, as
+               I always did with <persName ref="neilan">Marshall</persName>, no matter how angry I
+               would become with <persName ref="neilan">him</persName>, somehow you can't bear
+               malice against that <persName ref="neilan">boy</persName>.</p>
+
+            <p>DORAN: <persName ref="minter">You</persName> have become angry with <persName
+                  ref="neilan">him</persName> on <date>other occasions</date>?</p>
+
+            <p>MINTER: Yes. This night for the time being, I was furious [missing page] [...]
+                  <persName ref="neilan">Mr Neilan</persName> -- <persName ref="taylor"
+                  >Taylor's</persName>, and at the time of <persName ref="taylor">Mr
+                  Taylor</persName>'s <eventName type="murder">death</eventName>, <persName
+                  ref="harry">Harry</persName> was the assistant director in <persName ref="taylor"
+                  >Mr Taylor's</persName>
+               <orgName type="movie">companies</orgName> there, and he had said <persName
+                  ref="harry">Harry</persName> had been in <placeName type="room">the
+                  room</placeName> looking over the effects -- Just a minute. I wonder if <persName
+                  ref="maigne">Charles Maigne</persName> told me this. I think <persName
+                  ref="neilan">Mr Neilan</persName> told me this, too, that <persName ref="harry"
+                  >Harry</persName> bad gotten the <objectName type="letter">letters</objectName>
+               and taken <objectName type="letter">them</objectName> to <persName ref="vantrees">Jim
+                  Vantrees</persName>, <persName ref="vantrees">the camera man</persName>, whereupon
+               I remarked, "I will bet <persName ref="ivers">Mrs Ivers</persName> had them," and I
+               think <persName ref="vantrees">he</persName> said, "<persName ref="jim"
+                  >Jim</persName> gave <objectName type="letter">them</objectName> to <persName
+                  ref="eyton">Mr Eyton</persName>," and that <persName ref="eyton">Mr
+                  Eyton</persName> turned some of <objectName type="letter">them</objectName> over
+               to the <persName ref="examiner">Examiner</persName>. I am so afraid l am telling
+               things that are not so here, <persName ref="doran">Mr Doran</persName>; I don't mean
+               to, but I couldn't get all of it. That is as clear as I can make it. Anyway, I do
+               remember this part, <persName ref="eyton">he</persName> said <persName ref="eyton"
+                  >he</persName> heard about <objectName type="letter">them</objectName>, and I
+               don't know how <persName ref="eyton">he</persName> heard about <objectName
+                  type="letter">them</objectName>, and that <persName ref="eyton">he</persName> went
+               down, I believe, to the <persName ref="examiner">Examiner</persName>, to get ahold of
+                  <objectName type="letter">them</objectName> and <persName ref="eyton"
+                  >he</persName> had something to do with <placeName type="city"
+                  >Pasadena</placeName>, a <persName>man</persName>, he did tell me the man's name.
+               I don't remember <persName>his</persName> name, but I believe it be­gan with "S", and
+               this <persName ref="neilan">man</persName>, <persName ref="neilan"
+                  >Marshall</persName> said he was the <persName ref="neilan">big man</persName>
+               over the entire <orgName type="examiners">Examiner force</orgName>, told <persName
+                  ref="neilan">him</persName> to go down and take the <objectName type="letter"
+                  >letters</objectName>. <persName ref="neilan">He</persName> said, "Of course, if
+                  <persName ref="minter">you</persName> breathe this it wi11 just about throw
+                  <persName ref="neilan">me</persName> in jail for the rest of <persName
+                  ref="neilan">my</persName> life," but I don't believe it will. Then <persName
+                  ref="neilan">he</persName> said, "Didn't <persName ref="minter">you</persName> get
+                  <objectName type="letter">them</objectName> today?" I said, "<persName
+                  ref="minter">I</persName> did not." As well as I remember, <persName ref="neilan"
+                  >Marshall</persName> said, "I then sent <objectName type="letter"
+                  >them</objectName> to the <placeName type="studio">Realart Studio</placeName> and
+               they ought to be in <persName ref="charley">Charley</persName>'s hands now or
+                  <persName ref="garbut">Mr Garbut</persName>." This whole <time>Friday night</time>
+               is most hasy in my recollection.</p>
+
+            <p>DORAN: This <persName ref="neilan">man</persName> knew before <persName ref="minter"
+                  >you</persName> were in love with <persName ref="taylor">Mr Taylor</persName>?</p>
+
+            <p>MINTER: Oh, yes.</p>
+
+            <p>DORAN: <persName ref="minter">You</persName> had told <persName ref="neilan"
+                  >him</persName> that, had <persName ref="minter">you</persName> not?</p>
+
+            <p>MINTER: No; in fact, I had never said to <persName ref="neilan">Marshall</persName>
+                  "<persName ref="minter">I</persName> am in love with <persName ref="taylor"
+                  >William Desmond Taylor</persName>." I never had.</p>
+
+            <p>DORAN: How did <persName ref="neilan">he</persName> find it out, then?</p>
+
+            <p>MINTER: <persName ref="neilan">He</persName> knew about it, because <persName
+                  ref="mintertaylor">we</persName> had been friends a long time. Before this
+                  <persName ref="neilan">Marshall</persName> had come to <placeName type="residence"
+                  >my house</placeName> very despondent and said, "I think <persName ref="neilan"
+                  >I</persName> will go out in <placeName type="room">the garden</placeName> and eat
+               wooly worms." I said, "Don't feel that way; there are plenty of us who feel the same
+               way." I am certain <persName ref="neilan">he</persName> knew about <eventName
+                  type="taylorandminter">this thing</eventName>. I made no secret of <eventName
+                  type="taylorandminter">it</eventName>, but I didn't promenade it about.</p>
+
+            <p>DORAN: Don't <persName ref="minter">you</persName> have a recollection of having told
+                  <persName ref="neilan">him</persName>, <persName ref="neilan">Marshall
+                  Neilan</persName>, that you were fond of <persName ref="taylor"
+               >Taylor</persName>?</p>
+
+            <p>MINTER: No. Many times I said, "I admire <persName ref="taylor">Mr Taylor</persName>;
+               I respect <persName ref="taylor">him</persName>; <persName ref="neilan"
+                  >you</persName> know I respect his opinion; what a <persName ref="taylor"
+                  >wonderful man</persName> I consider <persName ref="taylor">him</persName> to be."
+                  <persName ref="neilan">He</persName> knew I regarded <persName ref="taylor"
+                  >him</persName> most highly.</p>
+
+            <p>DORAN: Do you remember if <persName ref="neilan">he</persName> asked you at the time
+                  <persName ref="neilan">he</persName>
+               <eventName type="love">pro­posed</eventName> to you if you were in love with any one
+               else?</p>
+
+            <p>MINTER: No, <persName ref="neilan">he</persName> didn't ask me that at all.</p>
+
+            <p>DORAN: Did you have any admirers who might have been jealous of <persName
+                  ref="neilan">him</persName>?</p>
+
+            <p>MINTER: There was only one possible <persName ref="dickson">admirer</persName>, and
+               that was <persName ref="dickson">Mr Dickson</persName>.</p>
+
+            <p>DORAN: Any besides <persName ref="dickson">Mr Dickson</persName>?</p>
+
+            <p>MINTER: No; in fact, if I may say so, neither <persName ref="dickson">Mr
+                  Dickson</persName> nor <persName ref="neilan">Mr Neilan</persName> has been with
+               me constantly enough, or I feel really care enough for me to do any such thing in my
+               behalf, I mean such as <eventName type="murder">commit murder</eventName>. In my own
+               mind I am absolutely convinced that I know they would not.</p>
+
+            <p>DORAN: <persName ref="minter">You</persName> think <persName ref="neilandickson"
+                  >they</persName> are incapable, in other words?</p>
+
+            <p>MINTER: I absolutely do.</p>
+
+            <p>DORAN: What kind of cigarettes was <persName ref="neilan">Neilan</persName> smoking
+                  <time>the night</time> at the <placeName type="studio">studio</placeName>?</p>
+
+            <p>MINTER: <persName ref="neilan">He</persName> smokes two kinds of <objectName
+                  type="cigarettes">cigarettes</objectName>. <persName ref="neilan">He</persName>
+               smokes a gold tipped called <objectName type="cigarettes">"Dimi"</objectName>
+               something from <placeName type="country">Egypt</placeName>, I forget the name,
+                  <objectName type="cigarettes">"D" something</objectName>; I noticed <objectName
+                  type="cigarettes">it</objectName> comes from <placeName type="city"
+                  >Cairo</placeName>; then <persName ref="neilan">he</persName> smokes <objectName
+                  type="cigarettes">Chesterfield cigarettes</objectName>. At least, I have seen
+                  <persName ref="neilan">him</persName> smoking <objectName type="cigarettes"
+                  >Chesterfield cigarettes</objectName>. I remember that much, because I have always
+               admired the face of the <objectName type="advertisement">Chesterfield
+                  boy</objectName> on that <objectName type="advertisement">red back
+                  sign</objectName>, you know, that <objectName type="advertisement">laughing
+                  boy</objectName> in the light hair that says, "Gee"! <objectName type="cigarettes"
+                  >They</objectName> satisfy!"</p>
+
+            <p>DORAN: Did <persName ref="neilan">Neilan</persName> take <persName ref="minter"
+                  >you</persName> home then <time>that morning</time> from the <placeName
+                  type="studio">studio</placeName> or did <persName ref="minter">you</persName> go
+               back in <placeName type="car">your own car</placeName>?</p>
+
+            <p>MINTER: No; my <objectName type="car">car</objectName> had been driven back to its
+                  <placeName type="room">garage</placeName> by <persName ref="neilanchauffeur">Mr
+                  Neilan's chauffeur</persName> with my <persName ref="scarborough"
+                  >friend</persName>
+               <persName ref="scarborough">Mr Scarborough</persName> in it. Poor <persName
+                  ref="scarborough">Mr Scarborough</persName> had been driving around with me
+                  <time>all evening</time>. I hadn't been able to sleep and that was why I ws_ out.
+                  <persName ref="scarborough">He</persName> said if I didn't mind <persName
+                  ref="scarborough">he</persName> would just go on back home, now that I was in safe
+               hands, and get some sleep. <persName ref="scarborough">He</persName> was pretty near
+               dead tired. <persName ref="scarborough">He</persName> isn't a very strong man.</p>
+
+            <p>DORAN: So <persName ref="neilan">Neilan</persName> took <persName ref="minter"
+                  >you</persName>
+               <placeName type="residence">home</placeName> then</p>
+
+            <p>MINTER: Yes; right straight <placeName type="residence">home</placeName>.</p>
+
+            <p>DORAN: Did <persName ref="neilan">he</persName> ask you to keep in confidence the
+                  <eventName type="conversation">conversation</eventName>
+               <persName>you</persName> had had with <persName ref="neilan">him</persName>? Did
+                  <persName ref="neilan">he</persName> tell you not to say anything about <eventName
+                  type="conversation">it</eventName>?</p>
+
+            <p>MINTER: l don't remember <persName ref="neilan">him</persName> saying to me, "You
+               must keep this all in secret oonfidenoe"; no, I do not, because when <persName
+                  ref="minterneilan">we</persName> got <placeName type="residence">home</placeName>
+               we discussed some of the things with <persName ref="shelby">mother</persName>, with
+               the whole family, in fact; <persName ref="neilan">he</persName> discussed the
+               seriousness of the <eventName type="conversation">conversation</eventName> and told
+               me not to do anything without my <persName ref="legal">at­torneys</persName>.</p>
+
+            <p>DORAN: <persName ref="neilan">He</persName> told you <eventName type="conversation"
+                  >that</eventName>?</p>
+
+            <p>MINTER: Yes; <persName ref="neilan">he</persName> said, "<persName>You</persName>
+               mustn't make any move without your <persName ref="legal">attorneys</persName>."
+                  <persName ref="neilan">He</persName> spoke of <persName ref="mott">Mr
+                  Mott</persName> and said <persName ref="mott">Mr Mott</persName> was very able and
+               that <persName ref="mott">he</persName> would tell me the right thing to do and not
+               to <eventName type="legal">make a move</eventName> without <persName ref="neilan"
+                  >him</persName>.</p>
+
+            <p>DORAN: Did <persName ref="minter">you</persName> comment on <persName ref="neilan"
+                  >his</persName> concern?</p>
+
+            <p>MINTER: No.</p>
+
+            <p>DORAN: Did <persName ref="minter">you</persName> say anything to <persName
+                  ref="neilan">him</persName>, for instance to this effect: "Why should <persName
+                  ref="neilan">you</persName> be so concerned about <persName ref="minter"
+                  >me</persName>? Why should <persName ref="minter">I</persName> consult <persName
+                  ref="legal">attorneys</persName> in connection with <eventName type="legal">this
+                  affair</eventName>?" or anything like that?</p>
+
+            <p>MINTER: No, I did not, because at the time, when I asked <persName ref="neilan"
+                  >him</persName> if <persName ref="neilan">he</persName> suspected me of <eventName
+                  type="murder">killing</eventName>
+               <persName>Mr Taylor</persName>, we had that out; <persName ref="neilan">he</persName>
+               assured me <persName ref="neilan">he</persName> didn't suspect any such thing, but
+                  <persName ref="neilan">he</persName> was very much impressed with the gravity of
+               the situation. In fact, evidently <persName ref="neilan">he</persName> knew at that
+               time exactly how these things were going to turn out. I mean that they would drag
+               everybody's name into it; that the <orgName type="newspaper">papers</orgName> could
+               get hold of for the notoriety of it. <persName ref="neilan">He</persName> said, "This
+               involves <orgName type="movie">picture people</orgName> and you know how <persName
+                  ref="hearst">Hearst</persName> hates the <orgName type="movie">picture
+                  people</orgName>. <persName ref="hearst">Hearst</persName> would do anything
+                  <persName ref="hearst">he</persName> could if <persName ref="hearst">he</persName>
+               thought you did know <persName ref="taylor">Mr Taylor</persName>," "There are lots of
+               prominent people in the <orgName type="movie">profession</orgName> who knew <persName
+                  ref="taylor">him</persName> and loved <persName ref="taylor">him</persName>. They
+               are certainly going to drag your name into it."</p>
+
+            <p>DORAN: <persName ref="minter">You</persName> didn't <eventName type="conversation"
+                  >telephone</eventName>
+               <persName ref="taylor">Taylor</persName> on <eventName type="murder">the night he was
+                  murdered</eventName>?</p>
+
+            <p>MINTER: No.</p>
+
+            <p>DORAN: Where did <persName ref="minter">you</persName> happen to be <eventName
+                  type="murder">that night</eventName>?</p>
+
+            <p>MINTER: I was at home reading the <objectName type="lit">Cruise of the
+                  Kewa</objectName>. It is a <objectName type="lit">humorous book</objectName>; it
+               is really a travesty of <objectName type="lit">Frederick O'Brien's
+                  stories</objectName> of the South Seas. It is very funny, and I laid there
+               laughing all the <time>evening</time>. I was very -- right while I was laying on the
+                  <objectName type="furniture">couch</objectName> reading aloud to <persName
+                  ref="shelby">mother</persName> and <persName ref="mintersister">sister</persName>
+               and we were all laughing heartily at that time, and at the same time <persName
+                  ref="taylor">Mr Taylor</persName> was <eventName type="murder">being
+                  murdered</eventName>. It seems very horrible to me.</p>
+
+            <p>DORAN: <persName ref="minter">You</persName> had no company at <placeName
+                  type="residence">home</placeName>
+               <eventName type="murder">that night</eventName>?</p>
+
+            <p>MINTER: Let me see. I don't remember any. Possibly <persName ref="stockdale">Mr
+                  Stockdale</persName>, he generally did, or maybe somebody dropped in. I don't just
+               remember. Usually every evening somebody drops in. I know they were not there at the
+               time I was reading <objectName type="lit">the book</objectName>.</p>
+
+            <p>DORAN: Your <objectName type="car">automobiles</objectName> were all <placeName
+                  type="residence">home</placeName>?</p>
+
+            <p>MINTER: Yes, unless I put my <objectName type="car">car</objectName> in the
+                  <placeName type="room">garage</placeName> called the <placeName type="business"
+                  >Standard Garage</placeName>. I leave it there sometimes, the <placeName
+                  type="business">Standard Garage</placeName> on <placeName type="city">Hollywood
+                  Boulevard and Western Avenue</placeName>. Sometimes when my girl friends stop with
+               me and have <persName ref="minterfriend">her</persName>
+               <objectName type="car">car</objectName>, I would move out and put it in this
+                  <placeName type="room">garage</placeName> and maybe wouldn't call for it for
+                  <time>several days</time>. I haven't been feeling well for some time; I have had
+               bronchitis. I hadn't gotten well when this awful shock came to me, and I haven't used
+               the little <objectName type="car">car</objectName> very much.</p>
+
+            <p>DORAN: Do you have a <persName ref="chaucy">chauffeur</persName>?</p>
+
+            <p>MINTER: Yes; faithful old <persName ref="chaucy">Chauncy</persName>. <persName
+                  ref="chaucy">Chauncy</persName> is just as concerned about this thing as <persName
+                  ref="shelby">my mother</persName> is.</p>
+
+            <p>DORAN: Well, I don't think of anything else I care to inquire about now.</p>
+
+            <p>MINTER: <persName ref="doran">Mr Doran</persName>, if I can be of any possible help
+               in any way, it is true I don't know any more than I have told you; if I can, please
+               call on me the first thing, won't you?</p>
+
+            <p>DORAN: Thank you, very much. You may think of little things of which you may not
+               appreciate the imporance, <persName ref="mott">Mr Mott</persName>.</p>
+
+            <p>MINTER: As I told <persName ref="mott">Mr Mott</persName> today, I remember saying to
+                  <persName ref="mott">Mr Mott</persName>, "I am so tired I am like a little child.
+               I speak words mechanically. I sit, sleep, get up, walk and dress, and I don't see
+               exactly what I am doing."</p>
+         </div>
+      </body>
+   </text>
+</TEI>
