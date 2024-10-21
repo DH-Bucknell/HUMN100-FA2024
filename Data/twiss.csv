@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 "elementName", "elementContent", "typeAttributeIfPresent"
 "objectName towel Cloth"
 "objectName arm "
@@ -36,3 +37,6 @@
 "placeName District Attorney's office "
 "placeName Seventh street and New Hampshire avenue "
 "placeName Seventh street and New Hampshire avenue the night "
+=======
+"elementName", "elementContent", "typeAttributeIfPresent"
+>>>>>>> Stashed changes
