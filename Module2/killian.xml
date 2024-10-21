@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview With Henry Peavey</head>
+            <byline>Campbell Killian</byline>
+            <p> </p>
+            <p> <persName ref="Peavey">Henry Peavey</persName> accuses <persName ref="Normand">Mabel Normand</persName></p>
+
+            <p> In 1922, and again in 1930, <persName ref="Peavey">Henry Peavey</persName> stated that he believed Mabel</p>
+            <p> Normand killed <persName ref="Taylor">Taylor</persName>. For his <date type="year">1922</date> accusation, see Wallace Smith's articles</p>
+            <p> in TAYLOROLOGY 22 and 23. Below is the most detailed article containing his</p>
+            <p> 1930 accusation. Although the name of the actress is not mentioned in the</p>
+            <p> article, <persName ref="Normand">Mabel Normand</persName> is certainly the person referred to, because she was</p>
+            <p> admittedly with <persName ref="Taylor">Taylor</persName> at that time on the evening of his death.</p>
+
+
+            <p> <date>January 7, 1930</date></p>
+            <p> Frank Bartholomew</p>
+            <p> LOS ANGELES RECORD</p>
+            <p> <placeName type="city">San Francisco</placeName>, <date>Jan. 7</date>--<persName ref="Peavey">Henry Peavey</persName>, second missing witness in
+               the</p>
+            <p>
+               <persName ref="Taylor">William Desmond Taylor</persName> murder case, was found in <placeName type="city">a
+                  northern California city</placeName></p>
+            <p> today by the <orgName type="newspaper">United Press</orgName>.</p>
+            <p> "I am willing to return to <placeName type="city">Los Angeles</placeName> immediately and tell the grand</p>
+            <p> jury all I know," the young Negro said.</p>
+            <p> "I'll tell them more than the <persName ref="District Attonery">district attorney</persName> let me tell the first</p>
+            <p> time."</p>
+            <p> "Do you know who killed <persName ref="Taylor">Taylor</persName>?" he was asked.</p>
+            <p> "I'll tell that to the grand jury," he said, nervously. He had been</p>
+            <p> awakened from a sound sleep. He arose and wrapped a dressing robe around</p>
+            <p> himself.</p>
+            <p> "Did you not confide in <persName ref="Filben">Dr. Thomas Filben</persName> that ----- (a motion picture</p>
+            <p> celebrity was named) killed <persName ref="Taylor">Taylor</persName>?"</p>
+            <p> "Yes, I did."</p>
+            <p> "Will you repeat it to the grand jury?"</p>
+            <p> "Yes."</p>
+            <p> <persName ref="Filben">Dr. Filbin</persName>, who befriended <persName ref="Peavey">Peavey</persName>, is executive secretary of the</p>
+            <p> California Law Enforcement League.</p>
+            <p> The person accused by <persName ref="Peavey">Peavey</persName> was the one named by <persName ref="Hefner">Otis Hefner</persName>, another</p>
+            <p> hitherto missing witness, in an exclusive statement to the United Press</p>
+            <p>yesterday...</p>
+            <p> "I'd been working for <persName ref="Taylor">Mr. Taylor</persName> as valet for eight months before he was</p>
+            <p> killed," <persName ref="Peavey">Peavey</persName> said. "He was my best friend. I've got his picture right</p>
+            <p> here on my dresser."</p>
+            <p> The photograph took its place in a gallery of pictures of actresses, most</p>
+            <p> of them in semi-nude poses.</p>
+            <p> "I went to [sic] <persName ref="Taylor">Mr. Taylor's</persName> <placeName>house</placeName> about <time>7 o'clock in the evening</time> that</p>
+            <p> he was shot. I wanted to check out for the day.</p>
+            <p> "Before I opened the door I heard loud voices. One was a woman's. She</p>
+            <p>was angry.</p>
+            <p> "I waited around for ten minutes, but the quarrel kept up. I wanted to</p>
+            <p> go <placeName type="LA">downtown</placeName>, and I didn't know whether to open the door or not."</p>
+            <p>"Did you recognize the woman's voice?" he was asked.</p>
+            <p> "Yes. I saw her, too, for pretty soon I got tired waiting outside and</p>
+            <p> opened the door to speak to <persName ref="Taylor">Mr. Taylor</persName>."</p>
+            <p> "Who was she?"</p>
+            <p> <persName ref="Peavey">Peavey</persName> hesitated, nervously. His glance swept the room, decorated with</p>
+            <p> table runners and handwork which <persName ref="Peavey">Peavey</persName> made himself.</p>
+            <p> "You told <persName ref="Filben">Dr. Filben</persName> who she was, didn't you?"</p>
+            <p> "Yes, I did."</p>
+            <p> "You named ----- ------ ?"</p>
+            <p> He nodded his head, affirmatively.</p>
+            <p> "Was that true?"</p>
+            <p> "Yes, it was!" he cried in a high voice. "It was all true, every word of</p>
+            <p> it! I'll go down to <placeName type="LA">Los Angeles</placeName> and tell it all to the grand jury. I'm not</p>
+            <p> afraid!"</p>
+            <p> "You didn't tell this at the coroner's inquest?"</p>
+            <p> "No. They wouldn't let me. They tried to shake the story I told them</p>
+            <p> before the inquest. They threatened me. I didn't change my story, because it</p>
+            <p> was true, but I left out that part about the row at <persName ref="Taylor">Mr. Taylor's</persName> house. Then</p>
+            <p> I knew they would make more trouble for me, so I left <placeName type="LA">Los Angeles</placeName> right away."</p>
+            <p> "Who do you mean by 'they'?"</p>
+            <p> "The district attorney's office."</p>
+            <p> "You told <persName ref="Filben">Dr. Filbin</persName> that when the district attorney was questioning you,</p>
+            <p> you said repeatedly, 'Why do you pick on me? You know who killed Taylor.' Is</p>
+            <p> that right?"</p>
+            <p> "Yes, it is."</p>
+            <p> <persName ref="Peavey">Peavey's</persName> story had to be drawn by close questioning. He volunteered</p>
+            <p> little.</p>
+            <p> "At what time do you think Taylor was shot?"</p>
+            <p> "Sometime between <time type="time">7:10</time>, when I finally spoke to him and left the house,</p>
+            <p> and <time type="time">7:30 p.m.</time>"</p>
+            <p> "Why before <time type="time">7:30?</time>"</p>
+            <p> "His chauffeur told me afterward that he telephoned <persName ref="Taylor">Taylor</persName> from <placeName>downtown</placeName>,</p>
+            <p> asking any further instructions for the day, at about half-past seven, and</p>
+            <p> couldn't get an answer to the phone. Then he want to <placeName type="house">Taylor's house</placeName>, but it</p>
+            <p> was dark [sic] and the door was locked."</p>
+            <p> "What time was it that the chauffeur went to the house?"</p>
+            <p> "I don't remember. Not very long, I guess, because he wanted to get home</p>
+            <p> himself."</p>
+            <p> "What about this quarrel that was going on?"</p>
+            <p> "Well, it was just a row, that's all. The woman was doing most of the</p>
+            <p> talking. She was mad."</p>
+            <p> "What have you been doing since you left Los Angeles?"</p>
+            <p> "I came up to <placeName type="SF">San Francisco</placeName> and went to work for the Corona Typewriter</p>
+            <p> company. That's where I met <persName ref="Filben">Dr. Filben</persName>, in the typewriter company office. He</p>
+            <p> recognized my name and identified me with the <persName ref="Taylor">Taylor</persName> case. He was nice to me,</p>
+            <p> and finally when I got to know him I told him the whole story--the part they</p>
+            <p> wouldn't let me tell in <placeName type="LA">Los Angeles</placeName>.</p>
+            <p> "Then I came to this city and got a job as an actor. I played a part in</p>
+            <p> 'White Cargo.'</p>
+            <p> "I've been around here since, and that's about all."</p>
+            <p> The Negro section of the city where <persName ref="Peavey">Peavey</persName> was found has been keeping him</p>
+            <p>under cover for several days, since Dr. Filben gave his story to the United</p>
+            <p> Press in <placeName type="SF">San Francisco</placeName>.</p>
+            <p> A negro political leader was finally prevailed upon, after a number of</p>
+            <p> blind leads had been followed, to assign a lieutenant to accopany the</p>
+            <p> reporters to <placeName type="Peavey">Peavey's home</placeName>.</p>
+            <p> He was found in a two-room apartment in the rear of a home which itself</p>
+            <p> faced the street. He had as a room mate a Portuguese boy, who was not present</p>
+            <p> at the interview.</p>
+            <p> "Henry likes to do fancy work," the guide explained. "He's got it all</p>
+            <p> over his place."</p>
+            <p> He had, and upon the various runners and doilies was an assortment of</p>
+            <p> powder boxes and paints.</p>
+            <p> ...He speaks in a voice surprisingly high in register for his build. He</p>
+            <p> is not well educated. The manager of the theater at which he plays occasional</p>
+            <p> parts informed reporters that Henry's bits in "White Cargo" had to be read to</p>
+            <p> him.</p>
+            <p> "I'm innocent of any wrongdoing," <persName ref="Peavey">Peavey</persName> assured his interviewers. "I've</p>
+            <p> been working and earning an honest living and minding my own business.</p>
+            <p> "My conscience is clear and I'm not afraid of anybody. I'm willing to go</p>
+            <p>right down to Los Angeles and tell the whole thing to the grand jury.</p>
+            <p> "They made me think, at the time <persName ref="Taylor">Mr. Taylor</persName> was killed, that if I didn't</p>
+            <p> keep my mouth shut about this quarrel and get out of Los Angeles that they</p>
+            <p> might accuse me of the murder. <persName ref="Taylor">Mr. Taylor</persName> was my close friend. I'm innocent.</p>
+            <p> Now I'm ready to tell them all I know."...</p>
+
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

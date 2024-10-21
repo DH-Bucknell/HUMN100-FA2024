@@ -1,5 +1,4 @@
 Byline,Type,Value,Attribute
-Byline,Type,Value,Attribute
 Waina A,persName,"Mr. W.C. Doran,",Doran
 Waina A,persName,"Miss Mary Miles Minter,",MaryMilesMinter
 Waina A,persName,"John G. Mott,",Mott
@@ -1508,7 +1507,52 @@ Diane Jakacki,persName,"Mrs. Shelby",shelby
 Diane Jakacki,persName,"Mrs. Shelby",shelby
 Diane Jakacki,placeName,"Portland Flouring Mills",business
 Diane Jakacki,orgName,"First National Bank",business
-"elementName", "elementContent", "typeAttributeIfPresent"Byline,Type,Value,Attribute
+Byline,Type,Value,Attribute
+Campbell Killian,persName,"Henry Peavey",Peavey
+Campbell Killian,persName,"Mabel Normand",Normand
+Campbell Killian,persName,"Henry Peavey",Peavey
+Campbell Killian,persName,"Taylor",Taylor
+Campbell Killian,persName,"Mabel Normand",Normand
+Campbell Killian,persName,"Taylor",Taylor
+Campbell Killian,placeName,"San Francisco",city
+Campbell Killian,persName,"Henry Peavey",Peavey
+Campbell Killian,persName,"William Desmond Taylor",Taylor
+Campbell Killian,placeName,"a northern California city",city
+Campbell Killian,orgName,"United Press",newspaper
+Campbell Killian,placeName,"Los Angeles",city
+Campbell Killian,persName,"district attorney",District Attonery
+Campbell Killian,persName,"Taylor",Taylor
+Campbell Killian,persName,"Dr. Thomas Filben",Filben
+Campbell Killian,persName,"Taylor",Taylor
+Campbell Killian,persName,"Dr. Filbin",Filben
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,persName,"Otis Hefner",Hefner
+Campbell Killian,persName,"Mr. Taylor",Taylor
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,persName,"Mr. Taylor's",Taylor
+Campbell Killian,placeName,"downtown",LA
+Campbell Killian,persName,"Mr. Taylor",Taylor
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,persName,"Dr. Filben",Filben
+Campbell Killian,placeName,"Los Angeles",LA
+Campbell Killian,persName,"Mr. Taylor's",Taylor
+Campbell Killian,placeName,"Los Angeles",LA
+Campbell Killian,persName,"Dr. Filbin",Filben
+Campbell Killian,persName,"Peavey's",Peavey
+Campbell Killian,persName,"Taylor",Taylor
+Campbell Killian,placeName,"Taylor's house",house
+Campbell Killian,placeName,"San Francisco",SF
+Campbell Killian,persName,"Dr. Filben",Filben
+Campbell Killian,persName,"Taylor",Taylor
+Campbell Killian,placeName,"Los Angeles",LA
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,placeName,"San Francisco",SF
+Campbell Killian,placeName,"Peavey's home",Peavey
+Campbell Killian,persName,"Peavey",Peavey
+Campbell Killian,persName,"Mr. Taylor",Taylor
+Campbell Killian,persName,"Mr. Taylor",Taylor
 Byline,Type,Value,Attribute
 Liv King,persName,"Julia Crawford Ivers",ivers
 Liv King,persName,"Julia Crawford Ivers",ivers
@@ -2223,7 +2267,6 @@ Rylie Smith,persName,"Miss Normand",mabel
 Rylie Smith,persName,"Mr. Taylor",taylor
 Rylie Smith,eventName,"heard the shot",murder
 Byline,Type,Value,Attribute
-Byline,Type,Value,Attribute
 Lily Stein,persName,"Mrs. Shelby",shelby
 Lily Stein,persName,"(Taylor)",taylor
 Lily Stein,eventName,"death",death
@@ -2342,7 +2385,6 @@ Riley Twiss,objectName,"chair",furniture
 Riley Twiss,objectName,"head",Body
 Riley Twiss,objectName,"desk",Furniture
 Riley Twiss,objectName,"table",Furniture
-Byline,Type,Value,Attribute
 Byline,Type,Value,Attribute
 Katrina von Behren,persName,"Mrs. Charlotte Shelby",cshelby
 Katrina von Behren,persName,"Mary Miles Minter",minter
