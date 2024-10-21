@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Charlotte Shelby</head>
+            <byline>Katrina von Behren</byline>
+
+
+            <p> December 26, 1929 A. M. Rochlen LOS ANGELES EXAMINER</p>
+
+            <p>In a remarkable interview, given exclusively to the LOS ANGELES EXAMINER, <persName ref="cshelby">Mrs.
+               Charlotte Shelby</persName>, mother of <persName ref="minter">Mary Miles Minter</persName>, last night for the first time revealed
+               hitherto unknown phases of <eventName type="murder">the <persName ref="taylor">William Desmond Taylor</persName> murder case</eventName>. From the wealth of
+               memories so closely associated with the career of <persName ref="minter">her talented daughter</persName> she brought
+               forth details that shed a new light on the many investigations that sought to unravel
+               the tangled threads of the <eventName type="murder">murder of the film director</eventName> -- a case famous the world
+               over. "The time for action has come. I'm not going to sit idly and be a target for
+               base rumors and vicious innuendo. there must be some justice in this world -- even
+               for a helpless woman." Breaking a silence of more than seven eventful years, <persName ref="cshelby">Mrs.
+               Shelby</persName>, one of the dramatic and ever-interesting figures of <eventName type="murder">the Taylor case</eventName>, thus
+               struck back at the endless chain of "whispers and theories" linking her, as well as
+               others, in the events of that <eventName type="murder">baffling mystery</eventName>. Of <persName ref="minter">Mary Miles Minter</persName>, who was a film
+               star under <persName ref="taylor">Taylor</persName>'s direction, she had little to say. </p>
+
+            <p>What here is disclosed would remain forever in her own
+               <objectName>heart</objectName>, she said, were it not for the rumors, reports and
+               insinuations that are making her life a dreadful dream. Desiring only to be left
+                  alone,<persName ref="cshelby"> Mrs. Shelby</persName> now feels that she must cut through the
+               web of whispers and suspicions to bring to an end the repetitions of her name in
+               connection with the case. And she wants to serve notice that every recourse of law
+               will be brought to bear to stop unwarranted bantering of her name and to force those
+               who have used it to come out in the open. "I have made complete statements to the
+                  <persName ref="police">proper authorities</persName> in the past and I stand ready to do it
+               again if it will help in a sincere and honest effort to solve <eventName type="murder">the mystery</eventName> of
+                  <persName ref="taylor">Mr. Taylor's</persName> death," <persName ref="cshelby">Mrs. Shelby</persName> said in the
+                  <eventName>interview</eventName>. "But somewhere, somehow, this thing has got to
+               stop. I demand it. We cannot go through life like this -- I and my <persName ref="minter">daughter</persName>,
+                  <persName ref="mshelby">Margaret</persName>. We are not hiding from anyone one anything. All we
+               ask is to be left alone, and somebody has got to help us fight this terrible thing."
+               For the purpose of an earnest and legitimate investigation, <persName ref="cshelby">Mrs. Shelby</persName> revealed for
+               the first time to THE EXAMINER <time>last night</time> that -- She was not in love
+               with <persName ref="taylor">William Desmond Taylor</persName>. She did not make threats against
+               the <persName ref="taylor">famous director</persName>.</p>
+
+
+            <p>She did not go to <persName ref="taylor">Taylor</persName>'s <placeName type="residence">bungalow</placeName> at <placeName type="reference">404B South
+                  Alvarado Street</placeName> at an <time>early morning hour</time>
+               <date>several weeks before the murder</date>, armed with a
+                  <objectName>revolver</objectName>. She did not, shortly before the murder,
+               purchase a <objectName>gun</objectName> and practice with it. "I know that some of
+               these things, with many vicious details added, had been whispered around," Mrs.
+               Shelby said. "How most of them originated, no one knows. Some, I'm sure, were spread
+               by a person formerly in my employ. I know that person and I know the motive. At the
+               proper time and place I shall make known this motive, but in the meantime I am
+               interested in just this: "I want to find out who circulates these
+                  rumors. I want to get definite information of definite statements
+               against me, and then I am going to take definite action to the limit of my ability
+               and the law." Mrs. Shelby's <objectName>blue eyes</objectName> lost some of their
+               softness as she spoke. Only a <time>few minutes before</time> she came into the room
+               to greet <persName>the visitor</persName>. Attired in a soft, clinging
+                  <objectName>Viennese gown</objectName> of golden brown, with brown suede shoes to
+               match, she sat near the window of her <placeName type="residence">charming apartment</placeName> in a
+               court that looked like a corner of some far-away nook in old Granada. Outside
+               Christmas crowds and <objectName>laden automobiles</objectName> moved back and forth.
+                  <persName ref="mshelby">Margaret Shelby Fillmore</persName>, always a close pal and companion of
+               her mother, sat nearby. </p>
+
+            <p> The two had but recently returned from <placeName type="continent">Europe</placeName>.
+               <placeName type="country">France</placeName>, <placeName type="country">Belgium</placeName>,
+               <placeName type="country">Germany</placeName>, <placeName type="country">Switzerland</placeName> and
+                  <placeName type="city">Italy</placeName>. <placeName type="city">Paris</placeName>,
+                  <placeName type="city">London</placeName>, <placeName type="city">Vienna</placeName> -- art museums and
+                  <placeName type="city">Florence</placeName> -- and then all the crash and cruel reverberations
+               of the old Taylor case. "We arrived in <placeName type="state">California</placeName>
+               <date>November 17</date>. For <time>more than three years</time> we lived in
+               <placeName type="continent">Europe</placeName>. You know, there are many things we do not discuss
+               with the outside world. There are many sorrows one must always bear alone or with
+               those who are very near and close. "My <persName ref="minter">daughter</persName> and I (to Mary
+               Miles Minter, Mrs. Shelby never alluded as "my daughter") traveled and saw everything
+               that was beautiful in old <placeName type="continent">Europe</placeName>, but now we are back -- and
+               to all this." As<persName ref="cshelby"> Mrs. Shelby</persName> talked, framed against the <objectName>deep
+                  window</objectName> and the <objectName>dazzling white walls</objectName> of the
+                  <placeName type="residence">courtyard</placeName>, there flashed before the
+                  <persName>interviewer</persName> another <eventName>occasion</eventName>,
+                  <time>almost eight years ago</time>, when <persName ref="cshelby"> Mrs. Shelby</persName> was an actress in a drama in
+               which <persName ref="minter">Mary Miles Minter</persName> was playing the leading part. It was in the
+               <placeName type="residence">artistic living room</placeName> of their <placeName type="residence">home</placeName>,
+               on North Hobart boulevard, in <date>February 1922</date>. <persName ref="taylor"> William Desmond
+                  Taylor</persName>, a man of mystery and romance, a leading figure in the motion
+               picture world, was <eventName type="murder">murdered in his home</eventName> <date>a few nights before</date>. One by one
+               several beautiful women -- names known throughout the world -- were brought into the
+               case. And <persName ref="minter">Mary Miles Minter</persName>, young, vivacious, and then at the <time>height of her artistic
+               career</time>, was one of these. Mary, her face like a Greek profile of exquisite marble,
+               sat on a couch and told of her last visit with Taylor -- in the darkened chamber of
+               the undertaking parlors. She had gone there alone to place a beautiful dark red rose
+               on the body of the man who was her director, friend, ideal. And Mrs. Shelby, close
+               by, listened to the story and watched over Mary.</p>
+
+
+            <p> But <time>yesterday</time>, as the brilliant <date>Christmas afternoon</date> was changing into <time>evening</time>, it
+               was a different story. "Yes, I remember that night, <time>nearly eight years ago</time>," Mrs.
+               Shelby replied, and paused. "I want to forget it. Of <persName ref="minter">Mary</persName> I shall have nothing to
+               say. She is in good hands and can take care of herself, I'm sure. "In those days my
+               whole life was wrapped up in her. It was my work. Now I must fight for vindication.
+               I've had enough of this, and I am going to ask that they put an end to the case once
+               and for all." Throughout the entire discussion <persName ref="cshelby">Mrs. Shelby</persName> was careful not to express
+               any opinion on who killed <persName ref="taylore">Taylor</persName>. "<persName ref="taylore">Mr. Taylor</persName> is dead. My daughter <persName ref="mshelby">Margaret</persName> and I are
+               still alive. We must be protected and not crushed by this gossip. "That's why," she
+               continued, "the truth must be revealed, the truth must be spoken, the truth must be
+               printed.</p>
+
+            <p>"Of course I have heard the dastardly whisperings about me and my connection with the
+               case. I have heard them all -- that I was in love with Mr. Taylor, that I owned a <objectName>gun</objectName>
+               and used to practice on a target a short time before the murder, that I went to Mr.
+               Taylor's <placeName type="residence">apartment</placeName> early <time>one morning</time> searching for Mr. Taylor and threatening him
+               with death, that I had made many other threats, and so on and on. </p>
+
+            <p>"Each and every one of these rumors and whisperings is ridiculous". </p>
+
+            <p>Let us take them one by one and see," she declared.</p>
+
+            <p>"I did have a <objectName>gun</objectName>."</p>
+
+            <p>"It was given to me by a jeweler friend of ours in <placeName type="city">Santa Barbara</placeName>, way back in <date>1916</date>.
+               That was a long time before<persName ref="taylor"> Mr. Taylor</persName> was killed.</p>
+
+            <p>"We were living in <placeName type="city">Santa Barbara</placeName>. I was <persName ref="minter">Mary</persName>'s business manager. I had to read the
+               stories for her <objectName>pictures</objectName>, work on the scenarios, watch over her <objectName>clothes</objectName>, the cast,
+               everything.</p>
+
+            <p>"We lived alone. No men folks in the <placeName type="residence">household</placeName>. Our friend brought the <objectName>gun</objectName> to the
+               <placeName type="residence">house</placeName> one night. He said I must keep it.</p>
+
+            <p> "'But I don't know how to use it. I never held one in my hand before,' I told him. </p>
+            <p>"'Well, let's learn,' he replied."</p>
+
+            <p><persName ref="cshelby">Mrs. Shelby</persName> smiled.</p>
+
+            <p>"You know, this really bears a strange element of humor, now that I look back on
+               it.</p>
+
+            <p> "We went out to some open spaces and I took this <objectName>gun</objectName> in my right hand. It was a
+               pretty little thing -- had a pearl handle and all that. I pointed the <objectName>gun</objectName> at
+               something or other, shut my eyes and pulled hard. The thing went 'boom' and threw my
+               arm back.</p>
+
+            <p> "I did that several times in succession. That was all."</p>
+
+            <p>"Still, they call it target practice."</p>
+
+            <p>Mrs. Shelby said she did not remember what had become of the <objectName>gun</objectName>. She says she has no
+               recollection of bringing it back to <placeName type="city">Los Angeles</placeName> when the household moved from <placeName type="city">Santa
+               Barbara.</placeName></p>
+
+            <p> "That much for target practicing," she declared.</p>
+
+            <p>"Now about that visit to <placeName>Mr. Taylor's house</placeName>.</p>
+
+            <p>"To understand it, I must take you <time>back a few years</time>. I must ask you to keep in mind
+               the fact that <persName ref="minter">Mary</persName> was at the height of her career, was making big pictures. We had
+               been in New York. I negotiated new contracts. There were trips and conferences and
+               all that. Many, many details that play no part here, except incidentally as they
+               relate to the contacts made with a former employee for whom I sent to <placeName type="state">New York</placeName> and
+               who later figured in the visit story.</p>
+
+            <p>"We were back in <placeName type="state">California</placeName>. <persName ref="minter">Mary</persName>'s contract originally called for pictures to be
+               made in <placeName type="state">New York</placeName>. <time>One day</time> <persName ref="zukor">Mr. Adolph Zukor</persName> held a conference with us. It was decided
+               that climatic conditions were better out here on <placeName>the Coast</placeName> for the type of picture
+               <persName ref="minter">Mary</persName> was making. So we came out.</p>
+
+            <p>"<persName ref="taylor">Mr. Taylor</persName> was <persName ref="minter">Mary</persName>'s director.</p>
+
+            <p>"About the time of this much-discussed visit <persName ref="minter">Mary</persName> bought a new <objectName>car</objectName>. It was a big,
+               fast roadster, and <persName ref="minter">Mary</persName> liked speed. She used to go out, tearing along the roads at
+               60 and 70 miles an hour. I was her mother and it worried me -- naturally.</p>
+
+            <p>"We were living on <placeName type="residence">Fremont place</placeName>. At <time>that time of the year</time> there was lots of fog at
+               nights.</p>
+
+            <p>"One night <persName ref="minter">Mary</persName> did not come home to dinner. We waited and waited. She did not call.
+               We began to worry. </p>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

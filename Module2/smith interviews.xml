@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head> Interview with W.A. Robertson, Charles Eyton, Neil Harrington, Charles Maigne </head>
+            <byline>Rylie Smith</byline>
+
+
+            <p> W. A. ROBERTSON, friend of Mr. Taylor. Statement taken 2-9-22 at 8 P.M.</p>
+
+            <p>POLICE: Were you ever present when <persName ref="taylor">Mr. Taylor</persName>
+               mentioned <persName ref="mary">Mary Miles Minter</persName>?</p>
+
+            <p>ROBERTSON: Yes.</p>
+
+            <p> POLICE: What was the occasion?</p>
+
+            <p>ROBERTSON: That was <date>last Saturday night</date>.</p>
+
+            <p> POLICE: Who, if anyone else was present?</p>
+
+            <p>ROBERTSON: <persName ref="hoyt">Mr. Hoyt</persName>.</p>
+
+            <p>POLICE: He said she had been pesticating around there and got to be a great deal of
+               annoyance.</p>
+
+            <p> ROBERTSON: No, that was <date>last Saturday *** that was the 28th</date>.</p>
+
+            <p>POLICE: <date>28th of January</date>?</p>
+
+            <p> ROBERTSON: Yes. She would come to <placeName type="residency">his house</placeName> and kick up a
+               fuss.</p>
+
+            <p> POLICE: What did he tell you about her kicking up a fuss?</p>
+
+            <p>ROBERTSON: She <eventName type="disturbance">threatened to scream</eventName>. She was very obnoxious to
+               him and all of these attentions.</p>
+
+            <p> POLICE (By Mr. Cato): were you ever with <persName ref="miss windsor">Miss
+                  Windsor</persName> and <persName ref="taylor">Mr. Taylor</persName> and <persName
+                  ref="blanche">Miss Blanche Street</persName> and <persName ref="marshal">Marshal
+                  Neilan</persName> and a couple of other girls at <placeName type="restaurant">a caf</placeName>√©
+               when <persName ref="taylor">Mr. Taylor</persName> taunted <persName ref="marshal"
+                  >Neilan</persName> regarding <persName ref="mary">Miss Minter</persName>?</p>
+
+            <p>~~~~~</p>
+
+            <p>MR. CHARLES EYTON Gen. Mgr. Famous Players-Lasky Statement taken 11-30-25 at 2:20
+               PM</p>
+
+            <p> A. (Speaking of the morning following the murder) ** I was called on the
+                  <objectName type="device">telephone</objectName>, I should judge at <time>8</time> by his
+               assistant <persName ref="harry">Harry Fellows</persName>, and he told me. He said,
+                  "<persName ref="eyton">Mr. Eyton</persName>, when I came over to <persName
+                  ref="taylor">Mr. Taylor's</persName> room <date>this morning</date>, I
+                  <eventName type="mortality">found him dead</eventName>." And I says, "Dead? What is the matter?" He
+               says "Well, we have had a <persName ref="doctor">docto</persName> here and he tells
+               us it is a <eventName type="illness">hemorhhage of the stomach</eventName>. **</p>
+
+            <p>A. That would make it about <time>8:30</time>, I should judge.</p>
+            <p> A. I didn't go through <placeName type="residency">the house</placeName>. <persName ref="maigne"
+                  >Charley Maigne</persName> and <persName ref="hoyt">Arthur Hoyt</persName> and
+                  <persName ref="douglas">Douglas MacLean</persName> and <persName ref="harry">Harry
+                  Fellows</persName>.</p>
+            <p> A. ** <persName ref="douglas">Douglas MacLean</persName> was the first man that put
+               it into my head that he (<persName ref="taylor">Taylor</persName>) <eventName type="mortality">was
+                  murdered</eventName>. He said he was confident that he had <eventName type="murder">heard a
+                  shot</eventName>
+               <date>the night before</date>. He said to me, "<persName ref="maigne"
+                  >Charley</persName>, don't let them take his body away with out turning it over,
+               because I think we heard a <eventName type="murder">shot last night</eventName>."</p>
+
+            <p> Q. Have you any idea who did the <eventName type="communication">telephoning</eventName> around about
+                  <eventName>the murder</eventName>?</p>
+            <p> A. No. <persName ref="harry">Harry Fellows</persName>
+               <eventName type="communication">telephoned me</eventName>.</p>
+            <p> Q. Did you hear anybody call up <persName ref="Mabel">Mabel Normand</persName> or
+                  <persName ref="Shelby">Mrs. Shelby</persName>?</p>
+            <p>A. No. That all happened before I got there, if <persName ref="shelby">Mrs.
+                  Shelby</persName> was called up. <persName ref="mabel">Mabel Normand</persName>
+               was called up, I know. <persName ref="Maigne">Charley Maigne</persName> told me.</p>
+            <p> Q. What was the position of the <objectName type="bodypart">body</objectName> when you first saw
+               it?</p>
+            <p> A. <objectName type="bodypart">The body</objectName> when I first saw it lay right <placeName type="positioning">in
+                  front of the desk</placeName>, with the head back. <placeName type="positioning">The desk was near
+                  his feet</placeName>.</p>
+
+            <p> A. ** Of course <persName ref="mary">Mary</persName> was <eventName type="betroth">engaged to
+                  marry</eventName>
+               <persName ref="neilan">Mickey Neilan</persName>, so she told me, but I don't think
+               there was very much to that.</p>
+            <p>Q. This trouble with <persName ref="taylor">Taylor</persName>, when was that?</p>
+            <p> A. He and <persName ref="neilan">Mickey</persName>? Oh, <persName ref="neilan"
+                  >Mickey</persName> said something one night. They were drunk and
+                  <persName ref="neilan">Mickey</persName> apologized. It was nothing serious.</p>
+
+            <p>Q. Do you know <persName ref="neva">Neva Gerber</persName>?</p>
+            <p> A. Yes. That was one of <persName ref="taylor">Taylor's</persName> former flames,
+               before any of this came up.</p>
+            <p> ** When he <eventName type="wartime">went to war</eventName> it was understood that when he came
+               back he was going to <eventName type="betroth">marry</eventName>
+               <persName ref="neva">Neva Gerber</persName>.</p>
+
+            <p> ~~~~~</p>
+
+            <p> NEIL HARRINGTON, Neighbor Statement taken 2-9-22</p>
+
+            <p> POLICE: *** I understand you went over with <persName ref="dumas">Mr.
+                  Dumas</persName>?</p>
+
+            <p> HARRINGTON: I went in there first.</p>
+
+            <p> POLICE: When you saw <persName ref="taylor">Taylor</persName>
+               <eventName type="positioning">lying out</eventName>
+               <placeName type="positioning">on the floor</placeName>, why <objectName type="garments">his clothing</objectName> was
+               perfectly arranged, was it not?</p>
+
+            <p> HARRINGTON: Perfectly arranged. I made the remark at the time, "I don't believe the
+               man fell in that position." (Re man peeping in windows of <persName ref="taylor"
+                  >Taylor's</persName>
+               <placeName type="residency">home</placeName> in <date>August, 1921</date>) Between <persName
+                  ref="taylor">Taylor's</persName> house and the garage, there is the
+                  two windows, and <persName ref="taylor"
+               >Taylor</persName>‚Äôs house the window to the living room and the window to the
+               kitchen - *** I saw <eventName type="suspisous">a man peeking in the curtain</eventName>, and as he
+               saw me‚Äî this man, I believe I would recognize-- as he heard me he started and
+               stopped naturally, rather frightened, and he didn't say a word, but whirled right
+               around and <eventName type="movement">walked out</eventName>.</p>
+
+            <p> POLICE: Do you know whether <persName ref="taylor">Mr. Taylor</persName> was there
+               or not?</p>
+
+            <p> HARRINGTON: There was a light in there, *** I should say probably along about the
+                  <date>20th of August</date>.</p>
+
+            <p> POLICE: How would you describe the <objectName type="bodypart">fellow's face</objectName>?</p>
+
+            <p> HARRINGTON: Rather a good looking fellow, good features. Of course I couldn't tell
+               whether <objectName type="bodypart">his face</objectName> was ruddy complexion --</p>
+
+            <p> POLICE: Regular features?</p>
+
+            <p>HARRINGTON: Yes, regular features. It wasn't <persName ref="Peavey">Taylor's
+                  chauffeur</persName> at that time.</p>
+
+            <p> POLICE: About what time was it <time>in the evening</time>?</p>
+
+            <p> HARRINGTON: Oh, somewhat around <time>9 o‚Äôclock</time>,<time> early in the
+                  evening</time>.</p>
+
+            <p>~~~~~</p>
+
+            <p>CHARLES MAIGNE (Friend of Taylor) Statement taken 2-9-22</p>
+
+            <p> MAIGNE: ** After I got over the shock of <eventName type="mortality">Bill's
+                  death</eventName>, was wondering how on earth <persName ref="taylor"
+                  >Bill</persName> could have fallen the way he did. The position that <persName
+                  ref="taylor">Bill</persName> was in stumped me for two solid days *** If he had
+               been sitting in his chair and <eventName type="murder">had been shot</eventName>, or if he
+                  <eventName type="murder">had been shot</eventName> in <objectName type="bodypart">his back</objectName> with his
+               back to the door, he was lying stretched out with his <placeName type="positoning">feet towards the
+                  door</placeName>, <objectName type="bodypart">hands</objectName> by his side. There was no
+                  <objectName type="liquid">blood</objectName> anywhere except directly under <objectName type="bodypart">his
+                  head</objectName> where <objectName type="liquid">the blood</objectName> had run out of
+                  <objectName type="bodypart">his mouth</objectName> from the hemorrhage and a little bit directly
+               under where the wound in the back was.</p>
+
+            <p>POLICE: Was the <objectName type="garments">clothing</objectName> all properly arranged?</p>
+
+            <p>MAIGNE: <objectName type="garments">Clothing</objectName> all <eventName type="positioning">properly
+                  arranged</eventName>. (Speaking of the condition of the room when he first saw
+                  it<date> the morning after the murder</date>)</p>
+
+            <p>WINN: There were also papers on <objectName type="furniture">the
+                  couch</objectName>? *** I know when you came up there about <time> 9:15 or
+                  9:30</time>.</p>
+
+            <p>MAIGNE: <time>Around 9:30 or 10 o'clock</time>. **** Before we had been there a half
+               or three-quarters of an hour, I noticed <objectName type="money">three or four checks</objectName>
+               on the floor alongside of <persName ref="taylor">Bill</persName>,
+                  <objectName type="money">cancelled checks</objectName>. They were <placeName type="positioning">not on the
+                  floor</placeName> when I came in. This pile of <objectName type="money">cancelled
+                  checks</objectName> was almost smooth and level right on <objectName type="furniture">his
+                  desk</objectName>, just as though he had been interrupted in his work and nobody
+               had touched them. ** On <date>the night after</date>
+               <persName ref="taylor">Taylor</persName> was <eventName type="murder">killed</eventName>
+               <eventName type="communication">I called up</eventName>
+               <persName ref="earl">Earl Tiffany</persName> and had him come up to <placeName type="residency">the
+                  house</placeName>. *** His wife came up with him *** The first thing he told me
+               was that his wife had positively seen <persName ref="sands">Sands</persName> at the
+               corner of <placeName type="street">Fifth and Figueroa</placeName>, I think it was, at <time>1:15
+                  PM</time> on the day before <persName ref="taylor">Taylor</persName> was murdered.
+               She had known <persName ref="sands">Sands</persName> and <persName ref="earl"
+                  >Tiffany</persName> before she married <persName ref="earl">
+               Tiffany</persName>.</p>
+
+            <p>(Second Statement taken 12-1-25)</p>
+
+            <p> MAIGNE: It must have been about half past <time>7 in the morning</time> of the day
+               that <persName ref="taylor">Bill</persName>was killed that <persName ref="maid">Miss
+                  Normand's maid</persName> came over and wanted to see me right away. *** I hurried
+               over and <persName ref="mabel">Mabel</persName> told me that <persName ref="edna"
+                  >Edna Purviance</persName> had <eventName type="communication">telephoned to her</eventName> that
+                  <persName ref="taylor">Bill</persName> had been found dead. *** and
+                  <persName ref="mabel">Mabel</persName> ** asked me to go up there, and I think there were only
+               two or three people here when I got in. It must have been approximately <time>8
+                  o'clock</time>.</p>
+
+            <p>POLICE: About what time was that that you got there?</p>
+
+            <p> MAIGNE: About <time>8 or 8:30</time>, I should say.The man in the corner court, just
+               beyond <persName ref="purviance">Miss Purviance</persName>, on the same side
+                  <persName ref="taylor">Bill</persName>was on, he said he was reading an <objectName type="newspaper">Evening
+                  Herald</objectName> and heard the conversation between <persName ref="mabel">Miss
+                  Normand</persName> and <persName ref="taylor">Mr. Taylor</persName>, and heard them say, "Good
+               night", and then the footsteps going back, and then immediately the whirr of the
+               motor, and she had gone and the footsteps died out, and he <eventName type="murder">heard the
+                  shot</eventName>. </p>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Charles Eyton</head>
+            <byline>Ethan Esclamado</byline>
+
+            <p>Coroner's Inquest Transcript</p>
+
+            <p>The following is the <objectName type="document">transcript</objectName> of the shorthand
+                  <objectName type="document">notes</objectName> taken at <persName ref="coroner">the Coroner's</persName> inquest
+               held on the <objectName type="mortality">body</objectName> of <persName ref="taylor">William Desmond
+                  Taylor</persName> at <placeName type="mortuary">Ivy H. Overholtzer [Mortuary]</placeName> at
+                  <placeName type="city">Los Angeles, California</placeName> on the <date>4th day of February,
+                  1922</date> at <time>10:00 a.m.</time></p>
+
+            <p><persName ref="eyton">CHARLES EYTON</persName>: <persName ref="nance">NANCE</persName>, <persName ref="eyton">Coroner Charles Eyton</persName>,
+               being first duly sworn, testified as follows:</p>
+
+            <p>BY <persName ref="coroner">THE CORONER</persName>:</p>
+
+            <p><persName ref="nance">NANCE</persName>: Please state your name.</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <persName ref="eyton">Charles Eyton</persName>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Where do you reside?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <placeName type="residence">1920 Vine Street, Hollywood</placeName>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: What is your occupation?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: General Manager, <orgName type="film">Famous Players-Lasky
+                  Corporation</orgName>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: <persName ref="eyton">Mr. Eyton</persName>, have you seen the
+                  <objectName type="mortality">remains</objectName> of the <objectName type="mortality">deceased</objectName> in the
+               adjoining <placeName type="house">room</placeName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes, sir.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Do you recognize them as one you knew in life?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes, sir.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Who was it.</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <persName ref="taylor">William Desmond Taylor</persName>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Where was he born?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: He was born in <placeName type="country">Ireland</placeName>, to the best of my
+               knowledge. He told me so.</p>
+
+            <p><persName ref="nance">NANCE</persName>: What was his age?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Forty-four, I should judge. [He was forty-nine.]</p>
+
+            <p><persName ref="nance">NANCE</persName>: Was he married, single or a widower?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: He was married. [He was divorced as of <date>1916</date>.]</p>
+
+            <p><persName ref="nance">NANCE</persName>: When did he die?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <date>Thursday morning</date> or <date>Wednesday night</date>. I
+               saw the <objectName type="mortality">body</objectName> first on <date>Thursday morning</date>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: <date>Last Thursday</date>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes, sir.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Do you recall that date?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: It was <date>the 2nd</date>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: <date>February 2nd?</date></p>
+
+            <p><persName ref="eyton">EYTON</persName>: <date>February 2nd</date>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Where did he die?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <persName ref="eyton">EYTON</persName>: the <persName ref="eyton">EYTON</persName>: <placeName type="residence">Apartment
+                  "B," South Alvarado Street, 404</placeName> I think it was.</p>
+
+            <p><persName ref="nance">NANCE</persName>: What was the cause of his death, if you know?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Well, <persName ref="taylor">Mr. Taylor's</persName> assistant <persName ref="harryFellows">[Harry
+                  Fellows]</persName> rang me up at my residence about, I should
+               judge, <time>eight o'clock</time>, and told me <persName ref="taylor">Mr. Taylor</persName> had died
+               suddenly; so I immediately went over to his residence, and he
+               was lying on the <objectName type="houseInterior">floor</objectName> on his <objectName type="bodyPart">back</objectName>.
+                  <persName ref="ziegler">Detective Ziegler</persName> was there and he had called the doctor, he told me,
+               previous to my arrival; and the doctor told me <persName ref="taylor">Mr. Taylor</persName> had died from
+               hemorrhage of the <objectName type="bodyPart">stomach</objectName>. <persName ref="dMaclean">Mr. Maclean - Douglas
+                  Maclean</persName> - had told me that he had thought he had heard <objectName type="weapon">a
+                  shot</objectName>
+               <date>the night before</date>, and his wife also thought she had heard <objectName type="weapon">a
+                  shot</objectName> - and he wanted the <objectName type="mortality">body</objectName> turned over;
+               they didn't want to turn it over until the coroner came. The <persName ref="coroner">deputy coroner</persName> came
+               after a while, and he told us he had died of hemorrhage of the
+                  <objectName type="bodyPart">stomach</objectName>, and I told him he had better turn the
+                  <objectName type="mortality">body</objectName> over to make sure, and he put his
+               <objectName type="bodyPart">hand</objectName> under <persName ref="taylor">Mr. Taylor's</persName>
+               <objectName type="mortality">body</objectName>, and found a little - when he pulled his
+                  <objectName type="bodyPart">hand</objectName> out, it had a little <objectName type="mortality">blood</objectName>
+               on his <objectName type="bodyPart">hand</objectName>. <persName ref="dMaclean">Douglas</persName> asked him what that was,
+               and he said it evidently had run down from his <persName ref="taylor">[Taylor's]</persName>
+               <objectName type="bodyPart">mouth</objectName>, but I noticed that there was no <objectName type="mortality">trail of
+                  blood</objectName>-<persName ref="taylor">Mr. Taylor's</persName>
+               <objectName type="bodyPart">head</objectName> was in a <objectName type="mortality">pool of blood</objectName> - there
+               was no <objectName type="mortality">trail of blood</objectName> running down. </p>
+            
+            <p><persName ref="nance">NANCE</persName>: There was a <objectName type="mortality">pool of blood</objectName> under his
+                  <objectName type="bodyPart">head</objectName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Under his <objectName type="bodyPart">head</objectName>, yes, a little
+               <objectName type="mortality">pool of blood</objectName>. I immediately opened up <persName ref="taylor">Mr.
+                  Taylor's</persName>
+               <objectName type="clothing">vest</objectName>, and looked, and looked on the right-hand side, and
+               there was no mark. I looked on the left-hand side and saw some
+                  <objectName type="mortality">blood</objectName>, and then I told the <persName ref="coroner">Deputy Coroner</persName>
+               that I thought that evidence enough to turn his <objectName type="mortality">body</objectName> over to
+               see what would happen. I sent for a <objectName type="furniture">pillow</objectName> to put under
+               <persName ref="taylor">Mr. Taylor's</persName>
+               <objectName type="bodyPart">head</objectName>, and we turned him over - the <persName ref="coroner">Deputy
+                  Coroner</persName> and myself - and we pulled his <objectName type="clothing">shirt</objectName> and
+               his <objectName type="clothing">vest</objectName> up, and we found the <objectName type="mortality">bullet
+                  wound</objectName>. </p>
+            
+            <p><persName ref="nance">NANCE</persName>: <persName ref="eyton">Mr. Eyton</persName>, was his <objectName type="mortality">body</objectName>
+               stone cold at that time?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Stone cold and very stiff and rigid.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Indicating that it had been dead for some time?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Where was the <objectName type="mortality">body</objectName> lying with reference
+               to the <placeName type="house">front entrance</placeName> to his
+               <placeName type="residence">home</placeName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: It was lying right in front of a little
+                  <objectName type="furniture">desk</objectName> with the <objectName type="bodyPart">head</objectName> pointed east
+               and the feet pointed west. I should judge the <objectName type="bodyPart">feet</objectName> were
+               three or four feet from the <placeName type="house">door</placeName> - the <placeName type="house">front
+                  entrance</placeName>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Who were present when you was there?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: When I came in, the first man I noticed was <persName ref="ziegler">Detective
+                  Ziegler</persName>, whom I have known for a number of years, and <persName ref="dMaclean">Douglas
+                  Maclean</persName>; <persName ref="maigne">Charles Maigne</persName>; the landlord <persName ref="jessurun">[E. C.
+                     Jessurun]</persName>; and <persName ref="harryFellows">Harry Fellows</persName>, <persName ref="taylor">Mr. Taylor's</persName>
+               assistant director.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Did all of these persons live there in this
+                  <placeName type="residence">neighborhood</placeName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: That I could not tell you. <persName ref="dMaclean">Mr. MacLean</persName> did, I know,
+               because he showed me where his <placeName type="residence">apartment</placeName> was.</p>
+
+            <p><persName ref="nance">NANCE</persName>: The place <persName ref="taylor">Mr. Taylor</persName> lived was in a
+                  <placeName type="residence">court</placeName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: In a <placeName type="residence">court</placeName>, yes.</p>
+
+            <p><persName ref="nance">NANCE</persName>: These other <objectName type="structure">buildings</objectName> were nearby?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: There are several <placeName type="residence">apartments</placeName> in this
+                  <placeName type="residence">court</placeName>, all the way around.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Did <persName type="dmaclean">Mr. and Mrs. MacLean</persName>, or either of them, tell
+               you about the <time>hour</time> that they heard the
+               <objectName type="weapon">gunshot</objectName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes, <persName ref="dMaclean">Mr. Maclean</persName> told me it was <time>about
+                  eight</time> or a <time>quarter after eight</time>, and <persName ref="fMaclean">Mrs. Maclean</persName>
+               thought it was <time>a little later</time>. [This is not correct.]</p>
+
+            <p><persName ref="nance">NANCE</persName>: <date>That night?</date></p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes, <date>the night before</date>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: You didn't make any definite measurements as to the position of
+               the <objectName type="mortality">body</objectName>?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: No, sir.</p>
+
+            <p><persName ref="nance">NANCE</persName>: So that what you testified to is only an estimate, and nothing
+               definite about it.</p>
+
+            <p><persName ref="eyton">EYTON</persName>: Yes.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Now, how long has <persName ref="taylor">Mr. Taylor</persName> lived in this
+               place?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: That I could not tell you. He lived in it before he went to
+                  <eventName type="war">the war</eventName>, I believe.</p>
+
+            <p><persName ref="nance">NANCE</persName>: When did you last see him alive?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <date>The same day</date> - <date>Wednesday</date>.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Now, did he have any <objectName type="weapon">fire-arms</objectName> of his
+               own?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: I believe he had a <objectName type="weapon">revolver</objectName>; I believe
+               the <objectName type="weapon">revolver</objectName> was in the <objectName type="furniture">upper
+                  drawer</objectName>
+               <placeName type="house">upstairs</placeName>; in fact, I know there was, because <persName ref="ziegler">Detective
+                  Ziegler</persName> and myself went up there and saw it.</p>
+
+            <p><persName ref="nance">NANCE</persName>: When you were called to this place, did you see any
+                  <objectName type="weapon">fire-arms</objectName> in this <placeName type="house">room</placeName> where he
+               was?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: No.</p>
+
+            <p><persName ref="nance">NANCE</persName>: What is the name of his valet, or attendant there?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <persName ref="peavey">Harry Peavey</persName>, the colored cook. I never knew him or
+               saw him.</p>
+
+            <p><persName ref="nance">NANCE</persName>: Was he the one who called you?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: <persName ref="harryFellows">Harry Fellows</persName>, his assistant director, was the one
+               who called me.</p>
+
+            <p><persName ref="nance">NANCE</persName>: You have no independent knowledge of the manner in which he met
+               his death?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: No, sire.</p>
+
+            <p><persName ref="cornoer">THE CORONER</persName>: Have you any questions, gentlemen?</p>
+
+            <p><persName ref="nance">NANCE</persName>: (By <persName ref="juror">a Juror</persName>) Was his
+                  <objectName type="clothing">clothing</objectName> ruffled in any way, showing any violence?</p>
+
+            <p><persName ref="eyton">EYTON</persName>: No, absolutely none; it looked like he just walked in the
+                  <placeName type="house">door</placeName> and was shot in the <objectName type="bodyPart">back</objectName>;
+               that is the way it looked. It didn't show evidence in the <placeName type="house">room</placeName>
+               when I got there- neither the <placeName type="house">room</placeName> or the
+                  <objectName type="mortality">body</objectName> showed any evidence of a struggle. He had on the
+               same <objectName type="clothing">suit</objectName> as when I seen him <date>the day before</date>
+               when he talked to me.</p>
+
+            <p><persName ref="coroner">THE CORONER</persName>: Is there any other questions? That is all, you may be
+               excused.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

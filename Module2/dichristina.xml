@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview With Mary Miles Minter</head>
+            <byline>Lucy DiChristina</byline>
+            <p> STATEMENT OF MISS MARY MILES MINTER. G.H BOONE OFFICIAL REPORTER IN THE DISTRICT
+               ATTORNEY'S OFFICE, February 7, 1922, at five o'clock P.M. [Part 4]
+                  <persName ref="Marshall">Marshall</persName> said that to me, and looked right at me. I could
+               feel myself grow red. I said, "Is that all you have to tell me about <persName ref="Taylor">Mr
+                  Taylor</persName>?" He said, "Well, I could recite some more instances about
+                  <persName ref="Taylor">Bill's</persName> seeming insanity." He said, "I am certain he was
+               insane. He stood up and told those things as <eventName type="sober">soberly</eventName> as I am talking to you now." </p>
+            <p> MR MOTT: Excuse me. Did he refer to <persName ref="Taylor">Mr Taylor's</persName> physical
+               condition? </p>
+            <p> MINTER: Yes, he said he was <eventName type="drunk">drunk</eventName> at the time. <persName ref="Marshall">Marshall</persName> has
+               told ma on several occasions, sometimes long ago and sometimes recently that he
+               always hated to see <persName ref="Taylor">Bill</persName> drink because he said, "You wouldn't
+               know the man; he changes so; he gets maudlin and silly, smiles in a foolish manner
+               and wobbles and talks, oh, just the silly, foolish things." He said, "None of his
+               friends like to see him drink." At this time he was <eventName type="drunk">intoxicated</eventName> and he talked on and
+               on and on about this thing." <persName ref="Marshall">Marshall</persName> said he got up and he told
+               <persName ref="Taylor"> Bill</persName>, "You are insane; something 1s the matter with your
+               mind. I would certainly take more vengeance on you if I didn't think you were crazy,"
+               and that was tbe opinion of <persName ref="Arthur">Arthur Hoyt</persName> and <persName ref="Robinson">Cap
+                  Robinson</persName> and everybody. They were perfectly amazed that a man of
+               <persName ref="Taylor">Mr Taylor's</persName> lovable, sweet, considerate, gentlemanly
+               disposition all through life should suddenly turn around and say this about not only
+               a woman, but about me, whom they all knew he admired and respected. </p>
+            <p> When I heard of this thing, l just looked to <persName ref="Marshall">Marshall</persName> and said,
+               "Is that all you have to tell me about <persName ref="Taylor">Mr Taylor</persName>?" And he said,
+               "Yes, that is all. That 1s the ghastly thing. I know you are going to hear this from
+               somebody and I wanted you to hear it from me, and want to find out what you knew
+               about the <eventName type="murder">murder</eventName> of this man." </p>
+            <p> By this time I was getting -- Oh, how can I can I express it? -- just exhausted with
+               shock, one shock after another and of all the shocks I had received, this coming from
+               hlm who I had no reason to doubt his word, I couldn't believe it; not as I knew
+               <persName ref="Taylor">Mr Taylor</persName>, I couldn't believe for an instant he had ever said
+               these things to anybody, yet there <persName ref="Marshall">Marshall</persName> giving me names,
+               dates and places. The thing was too much for me. I got furious; and I said, "I don't
+               believe you! I think you are lying! How dare you say this about him to me! I never
+               want to see you again?" He got up and walked around the room for a minute and I was
+               just broiling; I was just furious; and he turned around and he said, "Well,
+                  <persName ref="Mary">Mary</persName>, some day you will realize that I certainly am not
+               saying this for any personal reason. It hurts me as it must hurt you. I am simply
+               telling you because you are bound to know it; it is the truth and I wanted to be the
+               one to tell you. </p>
+            <p> Well, I didn't have any more to say to him. I was just furious; I was furious with
+               him; and finally he talked and he said, more, more, more personal things about, "You
+               know <persName ref="Mary">Mary</persName> that I care for you." </p>
+            <p> DORAN: He told you he loved you, did he? </p>
+            <p>MINTER: Yes; he did on <date type="Friday">Friday</date> night. He said, "You know I care for you deeply." </p>
+            <p> I said, "I don't care; I don't want you to care for me; I don't want <persName ref="Jones">John
+                  Jones</persName> to care for me or anybody; I don't want ever to be in <eventName type="love">love</eventName> again
+               as long as I <eventName type="life">live</eventName>; I don't want to see any man; I hate men." I probably raved on. </p>
+            <p> I dont know what more I can tell you. I was so tired, exhausted; I had been sitting
+               up all <time type="night">night</time>. This conversation didn't come as quickly as I am te11ing it to you. It
+               came with long pauses; he would get up and walk around with his <objectName type="cigarette">cigarette</objectName> smoking and
+               come back again and go out and talk to the property man, go out of the <placeName>office</placeName>, and I
+               would sit there alone and I tore a piece of paper, I was so tired, and suggested that
+               we go <placeName type="home">home</placeName>. I said, "Why keep sitting up? </p>
+            <p> You have got to get up at <time type="morning">eight o'clock</time> in the <time type="morning">morning</time> and it is nearly <time type="morning">dawn</time>." He
+               aaid, "I am worried about this thing; I want to find out what you know about this
+               <eventName type="murder">murder</eventName>." Then it developed that <persName ref="Marshall">Marshall</persName> thought I knew
+               something about it, and he looked at me and he said, "Now, <persName ref="Mary">Mary</persName>"
+               -- he got a little profane, he said, "Now, <persName ref="Mary">Mary</persName>, for God's sake,
+               if you know anything about the <eventName type="murder">murder</eventName> of <persName ref="Taylor">Bill</persName> tell it to me
+               now." He said, "Don't withhold anything." This was too much; not only had he been
+               telling me these things about <persName ref="Taylor">Mr Taylor</persName>, but there he sat
+               evidently believing that I knew someth1ng. I said, "Do you think that I <eventName type="murder">killed</eventName> <persName ref="Taylor">Mr
+               Taylor</persName>?" He said, "Oh, no; don't be silly. Now is no time to talk things like that. "
+               He said, "I am just trying to find something out about this. This is going to be an
+               awful <eventName type="affair">affair</eventName>." I said, "I didn't <eventName type="murder">kill</eventName> <persName ref="Taylor">William Desmond Taylor</persName> and I don't know who
+               <eventName type="murder">murdered</eventName> him." He said, "You don't? You don't know anything?" He said, "Of course,
+               you didn't <eventName type="murder">kill</eventName> him; of course, you didn't put anybody on to do it, But" he said,
+               "don't you know somebody, don't you know some inti­mate details that other people
+               might not know? Can't you rack your brain and think who would have a motive for
+               <eventName type="murder">killing</eventName> him?" </p>
+            <p> Then he sat there and we said words about pro and con, trying to think, and I
+               thought over everyrody I knew and I said this, more or less in a humourous way, I
+               said, "The only person I know who could have had a possible motive for <eventName type="murder">killing</eventName> him
+               would be <persName ref="Ivers">Mrs. Julia Crawford Ivers</persName>." I was not serious when I said that. I was more
+               or less humorous. She is a lady I feel I ought to explain about, who has never done
+               me a wrong thing in her life and I have never done her a wrong thing, either, but she
+               is a <orgName type="Christian">Christian Science lady</orgName> who has been associated with him as a <orgName type="writer">scenario writer</orgName> for
+               <time type="years">many years</time>; she is quite a trusted, lovely woman, I am sure; a very honorable
+               respectable woman, but we don't like eaeh other. There is no reason, but we don't
+               like each other. Every time I wanted to see him, somehow she would be there and she
+               had a strange way of treating me. She would say, Oh yes, there is little <persName ref="Mary">Mary</persName>. Here
+               she comes." She would go on in this manner, "Oh, there is little <persName ref="Mary">Mary</persName> again, Oh,
+               there she is; wbat can she be want1ng this time? Oh, yes, uh huh." Quite a strange
+               attitude, She just riled me. </p>
+            <p> DORAN: Bow old a woman was she? </p>
+            <p> MINTER: She must have been 50. Her son was <persName ref="Taylor">Mr Taylor's</persName> <orgName type="cameraman">camera man</orgName>. <persName ref="Jimmy">Jimmy</persName> was my
+               <orgName type="cameraman">camera man</orgName>, <persName ref="Jim">Jim Vantrees</persName>. I don't hate the woman, but she annoys me. She is one of
+               the few people in the world I dislike to see. In fact, the irony of fate it was when
+               I was in <placeName type="France">France</placeName> after looking at the beautifUl Venus de Milo in <placeName type="France">Paris</placeName> at the <placeName type="France">Louvre</placeName>,
+               and after I had walked a few steps done a long hall, thinking of this excellent
+               statue, who should I see but <persName ref="Ivers">Julia Crawford Ivers</persName>, a very, fat, large woman. She did
+               some more of these <orgName type="Christian">Christian Science things</orgName>, and she had a very unpleasant habit of
+               whenever she would be with me and <persName ref="Taylor">Mr Taylor</persName>, she would always come and twit my chin.
+               So I said, in really a joking manner -- I don't want to accuse the woman, because I
+               don't think she had anything to do with the matter -- I said "I don't know anyone who
+               would kill him but <persName ref="Ivers">Ju1ia Crawford Ivers</persName>." "I always suspected the woman of being in
+               love with him herself or she might have <eventName type="murder">killed</eventName> him tor that reason." He said, "My
+               goodness! You mustn't say that out loud; somebody w111 believe you." I said, "I don't
+               care if they do." I was in such a wild mood, Then, -- What else did we talk about?
+               Oh! He talked about his <orgName type="production">productions</orgName> and said, "I certainly have a terrible time,
+               working <time type="day">day</time> and <time type="night">night</time> and a great deal depended upon <date type="Saturday">Saturday</date> and we must get certain
+               work finished <date type="Friday">Friday</date>." We talked of <date type="Friday">Friday</date> <time type="night">night</time> and that he had to get up at <time type="morning">eight
+               o'clock</time>; he wasn't going to bed at all; that the boys were calling for him at <time type="morning">eight
+               o'clock</time>, he said, and he knew if they didn't call he would never get up out of his
+               <eventName type="sleep">slumbers</eventName>. They were going somewhere <placeName type="set">on location</placeName>, I understood, possibly at the
+               <placeName type="studio">studio</placeName>. He was just going <placeName type="home">home</placeName> and take a <eventName type="bathe">shower</eventName>, get a <eventName type="bathe">shave</eventName> if he felt like it, and
+               go on back and <eventName type="work">work</eventName> some more. He said, "I am dog tired. I was never so exhausted,
+               just <eventName type="dead">dead</eventName>." Finally I said, "Do you rea1ize this looks awful, being here all this
+               time?" And he said, "I can't help it if it does. I had to tell you these things and
+               wanted to find out what you knew about this case. That I know you knew <persName ref="Taylor">Bill</persName> very
+               well, probably better than any of us and" -- Oh, yes. He also asked me to tel1 him my
+               feelings toward <persName ref="Taylor">Mr Taylor</persName>, exactly what everybody has been asking me, and I told him
+               as I have been telling you, I loved him deeply, sincerely and absolutely; that I
+               <eventName type="love">loved</eventName> him truly, <eventName type="love">loved</eventName> him in an all-around way, I cared for his health; his health
+               came before my happiness and when he was ill -- and he didn't like to see anyone when
+               he was <eventName type="sick">ill</eventName>-- my natural impulse was to go to him and be with him and sit up <time type="night">night</time>
+               after <time type="night">night</time> with him, if necessary. l didn't do it; I didn t even attempt to, because
+               he didn't want me to, and although I had sat in the dark, not knowing anything and
+               worrying about it, I did that rather than intrude myself upon him when he didn't want
+               me. </p>
+            <p> DORAN: What time of <time type="night">night</time> dld you first meet -- What is this man's name? </p>
+            <p> MINTER: <persName ref="Neilan">Mr Neilan</persName>? </p>
+            <p> DORAN: <persName ref="Neilan">Mr Neilan</persName>, this particular night. </p>
+            <p> MINTER: We went down to the <placeName type="Utah">Salt Lake station</placeName> after <time type="night">one</time>. </p>
+            <p> DORAN: And you arrived at your <placeName type="home">home</placeName>, was it, or his <placeName type="home">home</placeName> or whose <placeName type="home">home</placeName> was it where
+               you were frying the eggs? </p>
+            <p> MINTER: His <placeName type="home">home</placeName>, <date type="Friday">Friday</date> <time type="night">night</time>; it was really <date type="Saturday">Saturday</date> <time type="morning">morning</time>, wasn't it? I call lt
+               <date type="Friday">Friday</date> <time type="night">night</time>, because it was still <time type="night">nighttime</time>. The five of us arrived there, oh, I
+               don't know, he didn't finish <eventName type="work">work</eventName> until between <time type="morning">two-thirty and three o'c1ock</time>, maybe
+               after three; I didn't have a <objectName type="jewelery">watch</objectName> at that time. </p>
+            <p> DORAN: Row long approximatey do you suppose you spent talking in the <placeName type="studio">studio</placeName>? </p>
+            <p> MINTER: Now, let me see, we stayed at <persName ref="Marshall">Marshall's</persName> <placeName type="home">house</placeName> wtth the eggs and things at
+               least an <time type="hours">hour</time>, maybe<time type="hours"> two hours</time>; I am not certain of that at all; I don't think much
+               more than an <time type="hours">hour</time>. Then we went right on to the <placeName type="studio">studio</placeName>, </p>
+            <p> DORAN: Do you suppose you spent a <time type="hours">couple of hours</time> down there? </p>
+            <p> MINTER: I think maybe we spent a <time type="hours">couple of hours</time>; maybe <time type="hours">three hours</time>; it takes a good
+               while to go from <placeName type= "Utah">Salt Lake station</placeName> up to <persName ref="Marshall">Marshall's</persName> <placeName type="home">home</placeName> on <placeName type="Hollywood">Sunset Boulevard</placeName>. It
+               would take at least <time type="hours">forty-five minutes</time>, I think. Then it takes some time to go from
+               his <placeName type="home">home</placeName> to the <placeName type="studio">studio</placeName>, way out on <placeName type="Hollywood">Santa Monica Boulevard</placeName>. </p>
+            <p> DORAN: Where was the <placeName type="studio">studio</placeName>? </p>
+            <p> MINTER: On <placeName type="Hollywood">Santa Monica Boulevard</placeName>, the <placeName type="studio">Hollyood Studios</placeName>. </p>
+            <p> DORAN: Did you suggest that you go down there with him? </p>
+            <p> MINTER: He said, "Let's go on down" -- No, the first thing he said was "Let's get
+               out of here. I am burning up alive." It was very cold when we came in the <placeName type="home">house</placeName> and
+               we put on steam and then he got terribly hot. I don't know what was the matter with
+               me, I wouldn't take off my <objectName type="clothes">coat</objectName>. He said, "If you are going to stay there and burn,
+               let's go out and talk." We got in the <objectName type="car">car</objectName> and drove around for a while. No, it is not
+               a fact that he said in the <placeName type="home">house</placeName>, "We must go to the <placeName type="studio">studio</placeName> and talk." I think I said
+               that at first; it is not so. He said, "Let's go out and talk." Then it was very
+               bitterly cold <placeName type="outside">outside</placeName>, freez1ng ocld. </p>
+            <p> DORAN: You left the rest of the party at the house? </p>
+            <p> MINTER: No; <persName ref="Swanson">Miss Swanson</persName> and <persName ref="Pickford">Mr Pickford</persName> got in <persName ref="Pickford">Mr Pickford's</persName> <objectName type="car">Locomobile</objectName> and he said
+               he ms going to take her <placeName type="home">home</placeName>. She was very anxious to get to <placeName type="bed">bed</placeName> as she had to get up
+               early and <eventName type="work">work</eventName>. </p>
+            <p> DORAN: Then, you and <persName ref="Marshall">Marshall Neilan</persName> <eventName type="drive">drove</eventName> around <time type="hours">awhile</time> and finally wound up in the
+               <placeName type="studio">studio</placeName>? </p>
+            <p> MINTER: Yes; we <eventName type="drive">drove</eventName> around, went out <placeName type="Hollywood">Sunset Boulevard</placeName> and went up -- We went along
+               <placeName type="Hollywood">Hollywood Boulevard</placeName> for a while, </p>
+            <p> DORAN: What did you discuss while you were <eventName type="drive">riding</eventName> around in the <placeName type="car">machine</placeName>? </p>
+            <p> MINTER: Why, about this thing about<persName ref="Taylor"> Mr Taylor</persName> and then also I was rather peeved na
+               <persName ref="Marshall">Marshall</persName> at the time because I hadn't heard from him in weeks. "Peeved" is hardly the
+               word. That sounds more as if I am interested in <persName ref="Marshall">Marshall</persName>, and I am; I like him, but l
+               wasn't caring particularly; I simply said, "Well, <persName ref="Marshall">Marshall</persName>, it was not a very nice
+               thing the way you ran off the last time. I understood they were going out to <eventName type="dinner">dinner</eventName>
+               and you were coming to my <placeName type="home">house</placeName> to <eventName type="dinner">dinner</eventName> and suddenly you went to <placeName type="hollywood">San Francisco</placeName>
+               without so much as a fare-thee-well."' He said, "You know I do those things." I said,
+               "Yes, you do those things, and it ts very annoying, but your friends love you and
+               love you yet in spite of those funny little tricks you do, darting here and there. I
+               don't know, I am in no mood to take thia foolishness; I want good wholesome
+               friendship, but I want to know when you are going to appear." Many times a whole
+               <eventName type="dinner">dinner</eventName> has gotten cold waiting for him. When we had a <eventName type="dinner">dinner party</eventName> at our <placeName type="home">house</placeName>, or
+               other people have given <eventName type="party">parties</eventName>, they have waited on <persName ref="Marshall">Marshall</persName> for <time type="hours">two or three hours</time>
+               and he finally would come along smiling sweetly at everybody and they couldn't scold
+               him. I was more or less taking him to task for his 1ife in general, saying he should
+               not do those things; it was very annoying and I was not going to put up with it. He
+               was sweet and Irish and said, "You wouldn't be angry with me?" And I said, "No, I
+               wouldn't be." That is the way we got out of that. There was nothing serious in the
+               talk, Just the way we always talked. </p>
+            <p> DORAN: Then you finally went to the <placeName type="studio">studio</placeName>? </p>
+            <p> MINTER: Finally he said, "Now, I have got something very important to tell you,
+               something that is going to hurt your feelings terribly, but I must tell you; we wi11
+               go in the <placeName type="studio">studio</placeName> and talk." Our teeth were chatter1ng with cold and we went in there
+               and he turned on the steam and I sat in this <objectName type="clothes">fur coat</objectName> in a <objectName type="chair">wicker chair</objectName>, and he said,
+               "This is going to b, a nine or "nineteen-days talk of the world" Then he told me all
+               the things I have been telling you. There may have been some more, and some thlngs I
+               have said may not be exactly accurate, but the gist of the thing is entirely
+               accurate. </p>
+            <p> DORAN: Did he declare his <eventName type="love">love</eventName> for you, whi1e rid1ng around in the <objectName type="car">machine</objectName>? </p>
+            <p> MINTER: No, he did not. </p>
+            <p> DORAN: Not until you reached the <placeName type="studio">studio</placeName> did he do tha that? </p>
+            <p> MINTER: Not until after we had been there a long time at the <placeName type="studio">studio</placeName>. </p>
+            <p> DORAN: Was it before or after he told you about this instance in connection with
+               <persName ref="Taylor">Taylor</persName> -- </p>
+            <p> MINTER: It was afterwards. I don't know yet whether he really meant it; maybe he was
+               as sincere as he could be, and he can be very sincere, I am sure. I am sure he can. </p>
+
+         </div>
+      </body>
+   </text>
+</TEI>
