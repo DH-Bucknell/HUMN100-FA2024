@@ -1,1 +1,141 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,persName,"Bill's",Taylor
+Lucy DiChristina,eventName,"soberly",sober
+Lucy DiChristina,persName,"Mr Taylor's",Taylor
+Lucy DiChristina,eventName,"drunk",drunk
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Bill",Taylor
+Lucy DiChristina,eventName,"intoxicated",drunk
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Bill",Taylor
+Lucy DiChristina,persName,"Arthur Hoyt",Arthur
+Lucy DiChristina,persName,"Cap Robinson",Robinson
+Lucy DiChristina,persName,"Mr Taylor's",Taylor
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,eventName,"murder",murder
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Mary",Mary
+Lucy DiChristina,persName,"Mary",Mary
+Lucy DiChristina,persName,"John Jones",Jones
+Lucy DiChristina,eventName,"love",love
+Lucy DiChristina,eventName,"live",life
+Lucy DiChristina,objectName,"cigarette",cigarette
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,eventName,"murder",murder
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Mary",Mary
+Lucy DiChristina,persName,"Mary",Mary
+Lucy DiChristina,eventName,"murder",murder
+Lucy DiChristina,persName,"Bill",Taylor
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,eventName,"killed",murder
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,eventName,"affair",affair
+Lucy DiChristina,eventName,"kill",murder
+Lucy DiChristina,persName,"William Desmond Taylor",Taylor
+Lucy DiChristina,eventName,"murdered",murder
+Lucy DiChristina,eventName,"kill",murder
+Lucy DiChristina,eventName,"killing",murder
+Lucy DiChristina,eventName,"killing",murder
+Lucy DiChristina,persName,"Mrs. Julia Crawford Ivers",Ivers
+Lucy DiChristina,orgName,"Christian Science lady",Christian
+Lucy DiChristina,orgName,"scenario writer",writer
+Lucy DiChristina,persName,"Mary",Mary
+Lucy DiChristina,persName,"Mary",Mary
+Lucy DiChristina,persName,"Mr Taylor's",Taylor
+Lucy DiChristina,orgName,"camera man",cameraman
+Lucy DiChristina,persName,"Jimmy",Jimmy
+Lucy DiChristina,orgName,"camera man",cameraman
+Lucy DiChristina,persName,"Jim Vantrees",Jim
+Lucy DiChristina,placeName,"France",France
+Lucy DiChristina,placeName,"Paris",France
+Lucy DiChristina,placeName,"Louvre",France
+Lucy DiChristina,persName,"Julia Crawford Ivers",Ivers
+Lucy DiChristina,orgName,"Christian Science things",Christian
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,persName,"Ju1ia Crawford Ivers",Ivers
+Lucy DiChristina,eventName,"killed",murder
+Lucy DiChristina,orgName,"productions",production
+Lucy DiChristina,eventName,"slumbers",sleep
+Lucy DiChristina,placeName,"on location",set
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,eventName,"shower",bathe
+Lucy DiChristina,eventName,"shave",bathe
+Lucy DiChristina,eventName,"work",work
+Lucy DiChristina,eventName,"dead",dead
+Lucy DiChristina,persName,"Bill",Taylor
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,eventName,"loved",love
+Lucy DiChristina,eventName,"loved",love
+Lucy DiChristina,eventName,"ill",sick
+Lucy DiChristina,persName,"Mr Neilan",Neilan
+Lucy DiChristina,persName,"Mr Neilan",Neilan
+Lucy DiChristina,placeName,"Salt Lake station",Utah
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,eventName,"work",work
+Lucy DiChristina,objectName,"watch",jewelery
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,persName,"Marshall's",Marshall
+Lucy DiChristina,placeName,"house",home
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"Salt Lake station",Utah
+Lucy DiChristina,persName,"Marshall's",Marshall
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,placeName,"Sunset Boulevard",Hollywood
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"Santa Monica Boulevard",Hollywood
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"Santa Monica Boulevard",Hollywood
+Lucy DiChristina,placeName,"Hollyood Studios",studio
+Lucy DiChristina,placeName,"house",home
+Lucy DiChristina,objectName,"coat",clothes
+Lucy DiChristina,objectName,"car",car
+Lucy DiChristina,placeName,"house",home
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"outside",outside
+Lucy DiChristina,persName,"Miss Swanson",Swanson
+Lucy DiChristina,persName,"Mr Pickford",Pickford
+Lucy DiChristina,persName,"Mr Pickford's",Pickford
+Lucy DiChristina,objectName,"Locomobile",car
+Lucy DiChristina,placeName,"home",home
+Lucy DiChristina,placeName,"bed",bed
+Lucy DiChristina,eventName,"work",work
+Lucy DiChristina,persName,"Marshall Neilan",Marshall
+Lucy DiChristina,eventName,"drove",drive
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,eventName,"drove",drive
+Lucy DiChristina,placeName,"Sunset Boulevard",Hollywood
+Lucy DiChristina,placeName,"Hollywood Boulevard",Hollywood
+Lucy DiChristina,eventName,"riding",drive
+Lucy DiChristina,placeName,"machine",car
+Lucy DiChristina,persName,"Mr Taylor",Taylor
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,eventName,"dinner",dinner
+Lucy DiChristina,placeName,"house",home
+Lucy DiChristina,eventName,"dinner",dinner
+Lucy DiChristina,placeName,"San Francisco",hollywood
+Lucy DiChristina,eventName,"dinner",dinner
+Lucy DiChristina,eventName,"dinner party",dinner
+Lucy DiChristina,placeName,"house",home
+Lucy DiChristina,eventName,"parties",party
+Lucy DiChristina,persName,"Marshall",Marshall
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,objectName,"fur coat",clothes
+Lucy DiChristina,objectName,"wicker chair",chair
+Lucy DiChristina,eventName,"love",love
+Lucy DiChristina,objectName,"machine",car
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,placeName,"studio",studio
+Lucy DiChristina,persName,"Taylor",Taylor

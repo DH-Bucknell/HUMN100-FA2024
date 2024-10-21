@@ -1,1 +1,203 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+Carter Morton,orgName,"NEW YORK HERALD",Newspaper
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"William Cunningham Deane-Tanner",Taylor
+Carter Morton,persName,"William Desmond Taylor",Taylor
+Carter Morton,placeName,"pony ranch",job
+Carter Morton,placeName,"southwestern",region
+Carter Morton,placeName,"Kansas",state
+Carter Morton,persName,"she",Ethel
+Carter Morton,persName,"Deane-Tanner",Taylor
+Carter Morton,persName,"Mr. Deane-Tanner",Taylor
+Carter Morton,placeName,"Ireland",country
+Carter Morton,placeName,"ranch",job
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,placeName,"Ireland",country
+Carter Morton,eventName,"bought",investment
+Carter Morton,objectName,"title",document
+Carter Morton,persName,"himself",Taylor
+Carter Morton,orgName,"Davenport road company",company
+Carter Morton,placeName,"Ireland",country
+Carter Morton,persName,"Mr. Taylor",Taylor
+Carter Morton,persName,"director",Taylor
+Carter Morton,persName,"Mr. Deane-Tanner's",Taylor
+Carter Morton,placeName,"ranch",job
+Carter Morton,placeName,"Kansas",state
+Carter Morton,persName,"Mr. Deane-Tanner",Taylor
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Mr. Deane-Tanner",Taylor
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,placeName,"Los Angeles",City
+Carter Morton,persName,"I",Ethel
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Mr. Taylor's",Taylor
+Carter Morton,persName,"movie director",Taylor
+Carter Morton,persName,"father",Taylor
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,placeName,"New York",city
+Carter Morton,persName,"She",Ethel
+Carter Morton,placeName,"this country",America
+Carter Morton,placeName,"Kansas",state
+Carter Morton,eventName,"disappeared",leaving
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,placeName,"ranch",job
+Carter Morton,placeName,"West",region
+Carter Morton,persName,"Mr. Deane-Tanner's",Taylor
+Carter Morton,placeName,"his country",Ireland
+Carter Morton,eventName,"married",marriage
+Carter Morton,orgName,"Little Church Around the Corner",Church
+Carter Morton,eventName,"dig up",investigation
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"Ethel",Daughter
+Carter Morton,placeName,"California",state
+Carter Morton,objectName,"estate",money
+Carter Morton,persName,"Frank E. Schrenseisen",Frank
+Carter Morton,placeName,"New Rochelle",city
+Carter Morton,placeName,"Los Angeles",city
+Carter Morton,persName,"Miss Tanner",Ethel
+Carter Morton,placeName,"Los Angeles",city
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Miss Tanner",Ethel
+Carter Morton,placeName,"the coast",region
+Carter Morton,persName,"Mr. Deane-Tanner",Taylor
+Carter Morton,persName,"daughter",Daughter
+Carter Morton,objectName,"will",will
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,objectName,"safe deposit box",bank
+Carter Morton,objectName,"items",will
+Carter Morton,eventName,"disappeared",disapearnce
+Carter Morton,persName,"Mr. Taylor",Taylor
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"Dennis Deane- Tanner",Dennis
+Carter Morton,persName,"brother",Dennis
+Carter Morton,persName,"director",Taylor
+Carter Morton,placeName,"city",NYC
+Carter Morton,eventName,"disappeared",disappearance
+Carter Morton,persName,"Dennis",Dennis
+Carter Morton,placeName,"Larchmont",town
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,orgName,"NEW YORK AMERICAN",newspaper
+Carter Morton,orgName,"New York American",newspaper
+Carter Morton,persName,"Edward F. Sands",Sands
+Carter Morton,persName,"Dennis Gage Deane-Tanner",Dennis
+Carter Morton,persName,"William Desmond Taylor",Taylor
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"W. C. Deane-Tanner",Taylor
+Carter Morton,placeName,"Adirondacks",region
+Carter Morton,persName,""Pete" Tanner",Taylor
+Carter Morton,persName,"Tanner",Taylor
+Carter Morton,persName,"Tanner's",Taylor
+Carter Morton,orgName,"A. J. Crawford Company",company
+Carter Morton,placeName,"No. 253 Fifth avenue",address
+Carter Morton,eventName,"suit",divorce
+Carter Morton,persName,""Pete" Tanner's",Taylor
+Carter Morton,persName,"Mrs. Ethel May Hamilton Robins",Ethel
+Carter Morton,persName,"Edward L. C. Robins",Robins
+Carter Morton,orgName,"Delmonico's",restaurant
+Carter Morton,persName,"man",Taylor
+Carter Morton,eventName,"avenge",revenge
+Carter Morton,persName,"man",Taylor
+Carter Morton,eventName,"fired",murder
+Carter Morton,objectName,"bullet",bullet
+Carter Morton,persName,"William Desmond Taylor",Taylor
+Carter Morton,placeName,"Orienta Point,",house
+Carter Morton,placeName,"Mamaroneck",town
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"director",Taylor
+Carter Morton,persName,"husband",Taylor
+Carter Morton,persName,"She",Ethel
+Carter Morton,persName,"newspaper men",reporter
+Carter Morton,persName,"I",Ethel
+Carter Morton,persName,"Mr. Tanner's",Taylor
+Carter Morton,persName,"Mr. Tanner's",Taylor
+Carter Morton,persName,"Mr. George Thoms",George
+Carter Morton,eventName,"suit",divorce
+Carter Morton,persName,"Mr. Tanner",Taylor
+Carter Morton,eventName,"saw",recognize
+Carter Morton,persName,"Mr. Tanner",Taylor
+Carter Morton,persName,"William Desmond Taylor",Taylor
+Carter Morton,orgName,"WASHINGTON TIMES",newspaper
+Carter Morton,placeName,"New York",city
+Carter Morton,persName,"William Desmond Taylor",Taylor
+Carter Morton,persName,"Mary Miles Minter",Mary
+Carter Morton,persName,"Miss Ethel Daisy Deane-Tanner",daughter
+Carter Morton,persName,"Miss Tanner",Daughter
+Carter Morton,persName,"Mrs. Edward L. C. Robins",Ethel
+Carter Morton,placeName,"Mamaroneck",town
+Carter Morton,eventName,"deserted",abondon
+Carter Morton,persName,"director",Taylor
+Carter Morton,persName,"He",Taylor
+Carter Morton,persName,"her",Mary
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,eventName,"murdered",murder
+Carter Morton,placeName,"Los Angeles",city
+Carter Morton,placeName,"bungalow",house
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"Mabel Normand",Mabel
+Carter Morton,persName,"Taylor's",Taylor
+Carter Morton,persName,"daughter",daughter
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,eventName,"disappearance",abandon
+Carter Morton,placeName,"New York",city
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Deane-Tanner",Taylor
+Carter Morton,eventName,"deserted",abandon
+Carter Morton,persName,"wife",Ethel
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"daughter",daughter
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Miss Deane-Tanner",daughter
+Carter Morton,persName,"she",daughter
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"husband",Taylor
+Carter Morton,placeName,"Vanderbilt",town
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"her",Ethel
+Carter Morton,persName,"director",Taylor
+Carter Morton,placeName,"Alaska",state
+Carter Morton,objectName,"letter",letter
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Sands",Sands
+Carter Morton,persName,"director",Taylor
+Carter Morton,persName,"Sands",Sands
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"daughter",daughter
+Carter Morton,persName,"Father",Taylor
+Carter Morton,persName,"Daddy Pete",Taylor
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Pete",Taylor
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"Deane-Tanner",Taylor
+Carter Morton,placeName,"New York",City
+Carter Morton,persName,"Taylor",Taylor
+Carter Morton,persName,"P. D. Q.",Taylor
+Carter Morton,persName,"Pete",Taylor
+Carter Morton,persName,"director's",Taylor
+Carter Morton,objectName,"estate",money
+Carter Morton,persName,"daughter",daughter
+Carter Morton,objectName,"letter",letter
+Carter Morton,persName,"Mrs. Robins",Ethel
+Carter Morton,objectName,"annuity",money
+Carter Morton,objectName,"will",will
+Carter Morton,objectName,"estate",money
+Carter Morton,persName,"Ethel Daisy",daughter
+Carter Morton,orgName,"NEW YORK AMERICAN",newspaper
+Carter Morton,persName,"Taylor's",Taylor
+Carter Morton,persName,"wife",Ethel
+Carter Morton,eventName,"hearing",divorce
+Carter Morton,persName,"Mrs. Tanner",Ethel
+Carter Morton,orgName,"Little Church Around the Corner",Church
+Carter Morton,persName,"Rev. George C. Houghton",reverend
+Carter Morton,placeName,"No. 40 Washington Square South",adress
+Carter Morton,placeName,"Hotel Colonial",hotel
+Carter Morton,placeName,"Columbus Avenue",street
+Carter Morton,placeName,"Eighty-first street",street
+Carter Morton,orgName,"A. J. Crawford & Co.",company
+Carter Morton,placeName,"No. 251 Fifth Avenue",adress
+Carter Morton,persName,"Mrs. Deane-Tanner",Ethel
+Carter Morton,orgName,"Crawford firm",company
+Carter Morton,objectName,"money",money

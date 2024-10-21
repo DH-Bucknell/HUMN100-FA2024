@@ -1,1 +1,95 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+Lily Stein,persName,"Mrs. Shelby",shelby
+Lily Stein,persName,"(Taylor)",taylor
+Lily Stein,eventName,"death",death
+Lily Stein,eventName,"murdered",murdered
+Lily Stein,persName,"Mrs. Shelby",shelby
+Lily Stein,placeName,"office",work
+Lily Stein,persName,"Mrs. Shelby",shelby
+Lily Stein,placeName,"house (N. Hampshire house)",newhamphouse
+Lily Stein,persName,"Mr. Smith",smith
+Lily Stein,persName,"Mrs. S helby",shelby
+Lily Stein,persName,"Taylor",taylor
+Lily Stein,persName,"Miss Berger",miss berger
+Lily Stein,persName,"Mrs. Shelby",shelby
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Mrs. Shelby",shelby
+Lily Stein,persName,"Mrs. Charlotte Shelby",shelby
+Lily Stein,persName,"Margery",margery
+Lily Stein,placeName,"office",work
+Lily Stein,persName,"Lasky's",lasky
+Lily Stein,placeName,"New Hampshire home",newhamphouse
+Lily Stein,placeName,"Lasky's Studio",laskystudio
+Lily Stein,placeName,"office",work
+Lily Stein,persName,"Miss Minter",minter
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,placeName,"studio",studio
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Miss Minter",minter
+Lily Stein,persName,"Miss Normand",normand
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,placeName,"house",taylorhome
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,eventName,"dead",dead 
+Lily Stein,placeName,"bed",bed
+Lily Stein,persName,"Harry",harry
+Lily Stein,persName,"Douglas MacLean",douglas
+Lily Stein,persName,"Jesserun",jesserun
+Lily Stein,persName,"Howard",howard
+Lily Stein,persName,"Henry Peavy",henry
+Lily Stein,persName,"doctor",doctor
+Lily Stein,persName,"Mr. Eyton",eyton
+Lily Stein,persName,"Arthur Hoyt",arthur
+Lily Stein,persName,"Charlie Maigne",charlie
+Lily Stein,objectName,"package",package
+Lily Stein,persName,"Jimmie Vantrees",jimmie
+Lily Stein,persName,"Mr. Taylor's Cameraman",camerman
+Lily Stein,persName,"Mrs. Ivers (Jimmie's mother)",ivers
+Lily Stein,persName,"Jimmie",jimmie
+Lily Stein,persName,"Mrs. Ivers",ivers
+Lily Stein,persName,"Mr. Eyton",eyton
+Lily Stein,persName,"Mr. Eyton",eyton
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,eventName,"killed",killed
+Lily Stein,placeName,"bank",bank
+Lily Stein,persName,"Harry",harry
+Lily Stein,placeName,"Robinson's",robinsonstore
+Lily Stein,placeName,"Robinson's Store",robinsonstore
+Lily Stein,persName,"Harry",harry
+Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Taylor",taylor
+Lily Stein,persName,"Mr. Taylor's",taylor
+Lily Stein,placeName,"house",taylorhome
+Lily Stein,eventName,"killed",killed
+Lily Stein,placeName,"Alvarado",alvardo
+Lily Stein,placeName,"Maryland",maryland
+Lily Stein,placeName,"landlord's house",landlordhome
+Lily Stein,objectName,"door bell",doorbell
+Lily Stein,placeName,"home",taylorhome
+Lily Stein,objectName,"garage doors",garagedoor
+Lily Stein,objectName,"car",car
+Lily Stein,objectName,"door",door
+Lily Stein,placeName,"Alvarado",alvardo
+Lily Stein,objectName,"screen door",screendoor
+Lily Stein,objectName,"door",door
+Lily Stein,objectName,"door bell",doorbell
+Lily Stein,placeName,"bedroom",bedroom
+Lily Stein,placeName,"den",den
+Lily Stein,placeName,"dining room",dinningroom
+Lily Stein,placeName,"upstairs",upstairs
+Lily Stein,objectName,"clock",clock
+Lily Stein,placeName,"New Hampshire house",newhamphouse
+Lily Stein,persName,"Taylor",taylor
+Lily Stein,persName,"Mrs. Shelby",shelby
+Lily Stein,placeName,"upstairs",upstairs
+Lily Stein,objectName,"window",window
+Lily Stein,persName,"Taylor",taylor
+Lily Stein,eventName,"murdered",murdered
+Lily Stein,objectName,"gun",gun
+Lily Stein,persName,"M.M. Minter",mary
+Lily Stein,persName,"Mary",mary
+Lily Stein,objectName,"25 caliber blue automatic",gun
+Lily Stein,objectName,"shells",shells
+Lily Stein,objectName,"gun",gun
+Lily Stein,placeName,"New Hampshire house",newhamphouse

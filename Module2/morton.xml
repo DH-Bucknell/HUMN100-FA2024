@@ -120,7 +120,7 @@
       <body>
          <div type="interview">
             <head>Interview with <persName>Ethel Mae Harrison</persName></head>
-            <byline>YOUR NAME</byline>
+            <byline>Carter Morton</byline>
             <p>
                
                Interviews with <persName>Ethel Mae Harrison</persName>
@@ -334,7 +334,7 @@
                <date>December 7, 1901</date>, at the <orgName type="Church">Little Church Around the Corner</orgName>.
                The ceremony was performed by <persName ref="reverend">Rev. George C. Houghton</persName>, pastor of the
                church.  Following the marriage the couple went to live at <placeName type="adress">No. 40 Washington
-               Square South</placeName>, and later moved to the <placeName type="hotel">Hotel Colonial</placeName> at <placeName type=street>Columbus Avenue</placeName> and
+               Square South</placeName>, and later moved to the <placeName type="hotel">Hotel Colonial</placeName> at <placeName type="street">Columbus Avenue</placeName> and
                <placeName type="street">Eighty-first street</placeName>, at which time her husband became associated with <orgName type="company">A. J.
                Crawford &amp; Co.</orgName>, at <placeName type="adress">No. 251 Fifth Avenue</placeName>.
                <persName ref="Ethel">Mrs. Deane-Tanner</persName> added:</p>
@@ -345,8 +345,6 @@
                <orgName type="company">Crawford firm</orgName> asking for a sum of <objectName type="money">money</objectName>.  This was sent to him by <persName type="Daniel">Daniel J.
                Barker</persName>, of the firm.  Then he disappeared."</p>
                
-            
-            </p>
          </div>
       </body>
    </text>

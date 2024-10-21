@@ -1,42 +1,24 @@
-<<<<<<< Updated upstream
-"elementName", "elementContent", "typeAttributeIfPresent"
-"objectName towel Cloth"
-"objectName arm "
-"objectName bullet "
-"objectName bullet "
-"objectName chair Furniture"
-"objectName chair Furniture"
-"objectName chair furniture"
-"objectName check book "
-"objectName checks "
-"objectName coat "
-"objectName desk Furniture"
-"objectName desk Furniture"
-"objectName desk Furniture"
-"objectName desk Furniture"
-"objectName door "
-"objectName door "
-"objectName ear "
-"objectName face "
-"objectName foot Body"
-"objectName foot Body"
-"objectName head Body"
-"objectName key "
-"objectName key "
-"objectName liquor "
-"objectName lock "
-"objectName robe clothing"
-"objectName rug Furniture"
-"objectName rug Furniture"
-"objectName stone Material"
-"objectName table Furniture"
-"placeName 404-B South Alvarado street "
-"placeName 6325 Fountain Avenue "
-"placeName 6325 Fountain Avenue "
-"placeName California's "
-"placeName District Attorney's office "
-"placeName Seventh street and New Hampshire avenue "
-"placeName Seventh street and New Hampshire avenue the night "
-=======
-"elementName", "elementContent", "typeAttributeIfPresent"
->>>>>>> Stashed changes
+Byline,Type,Value,Attribute
+Riley Twiss,persName,"Carl Stockdale",Carl
+Riley Twiss,persName,"Charlotte Shelby",Charlotte
+Riley Twiss,persName,"Mary Miles Minter",Mary
+Riley Twiss,persName,"William Desmond Taylor",taylor
+Riley Twiss,persName,"Edward Sands",Edward
+Riley Twiss,persName,"Margaret Shelby Fillmore",Margret
+Riley Twiss,persName,"VERNE DUMAS",Verne
+Riley Twiss,objectName,"stone",Material
+Riley Twiss,objectName,"towel",Cloth
+Riley Twiss,objectName,"robe",clothing
+Riley Twiss,objectName,"desk",Furniture
+Riley Twiss,objectName,"rug",Furniture
+Riley Twiss,objectName,"rug",Furniture
+Riley Twiss,objectName,"foot",Body
+Riley Twiss,objectName,"chair",Furniture
+Riley Twiss,objectName,"foot",Body
+Riley Twiss,objectName,"chair",Furniture
+Riley Twiss,objectName,"desk",Furniture
+Riley Twiss,objectName,"desk",Furniture
+Riley Twiss,objectName,"chair",furniture
+Riley Twiss,objectName,"head",Body
+Riley Twiss,objectName,"desk",Furniture
+Riley Twiss,objectName,"table",Furniture

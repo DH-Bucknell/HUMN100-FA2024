@@ -1,1 +1,186 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,placeName,"home",house
+John Cochran,persName,"grandmother",grandmother
+John Cochran,persName,"sister",sister
+John Cochran,eventName,"murder",death
+John Cochran,eventName,"murder",death
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,persName,"Mr Taylor",taylor
+John Cochran,persName,"Mr. Neilan",Neilan
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,persName,"Marshall's mother",Mother
+John Cochran,eventName,"murder",death
+John Cochran,persName,"Mickey",Mickey
+John Cochran,objectName,"green car",car
+John Cochran,persName,"Mary",Mary
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"sister",sister
+John Cochran,objectName,"telephone",phone
+John Cochran,placeName,"home",home
+John Cochran,objectName,"telephone",phone
+John Cochran,persName,"George Scarborough",George
+John Cochran,placeName,"Salt Lake Station",station
+John Cochran,persName,"Marshall",Neilan
+John Cochran,placeName,"house",house
+John Cochran,persName,"his mother",mother
+John Cochran,placeName,"studio",studio
+John Cochran,persName,"night watchman",watchman
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,persName,"Miss Minter",Minter
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,placeName,"Salt Lake Station",station
+John Cochran,persName,"Mr Scarborough",scarborough
+John Cochran,persName,"Gloria Swanson",Gloria
+John Cochran,persName,"Jack Pickford",Pickford
+John Cochran,persName,"Frank Urson",Urson
+John Cochran,persName,"Mr Frank Urson",Urson
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,persName,"director",director
+John Cochran,persName,"Marshall",Marshall
+John Cochran,placeName,"mother's home",home
+John Cochran,persName,"his mother",mother
+John Cochran,objectName,"eggs",eggs
+John Cochran,objectName,"eggs",eggs
+John Cochran,objectName,"things",things
+John Cochran,persName,"his mother",mother
+John Cochran,placeName,"upstairs",upstairs
+John Cochran,persName,"Marshall",Marshall
+John Cochran,persName,"Mary",Minter
+John Cochran,placeName,"studio",studio
+John Cochran,placeName,"Hollywood studio",studio
+John Cochran,placeName,"office",office
+John Cochran,objectName,"lights",lights
+John Cochran,persName,"watchman",watchman
+John Cochran,persName,"property man",property man
+John Cochran,placeName,"place",place
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Marshall Neilan",Neilan
+John Cochran,persName,"Marshall",Neilan
+John Cochran,objectName,"letters",letters
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Mary",Minter
+John Cochran,eventName,"murder",death
+John Cochran,persName,"Bill",Taylor
+John Cochran,placeName,"Los Angeles",LA
+John Cochran,persName,"Mary",Minter
+John Cochran,objectName,"letters",letters
+John Cochran,placeName,"studio",studio
+John Cochran,placeName,"Salt Lake Station",station
+John Cochran,placeName,"house",house
+John Cochran,objectName,"watch",watch
+John Cochran,placeName,"studio",studio
+John Cochran,persName,"Mother",mother
+John Cochran,persName,"Marhsall",Neilan
+John Cochran,persName,"mother",mother
+John Cochran,persName,"Mr Neilan",Neilan
+John Cochran,objectName,"letters",letters
+John Cochran,eventName,"case",case
+John Cochran,objectName,"letters",letters
+John Cochran,persName,"some body",person
+John Cochran,placeName,"Pasadena",Pasadena
+John Cochran,objectName,"letters",letters
+John Cochran,objectName,"letters",letters
+John Cochran,objectName,"letters",letters
+John Cochran,placeName,"studio",studio
+John Cochran,placeName,"Realart Studio",studio
+John Cochran,persName,"Charley Eyton's",Eyton
+John Cochran,persName,"Charley Eyton",Eyton
+John Cochran,persName,"Mr Carbut",Carbut
+John Cochran,objectName,"letter",letter
+John Cochran,objectName,"letters",letters
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Mary",Minter
+John Cochran,persName,"Billie",Taylor
+John Cochran,persName,"Bill",Taylor
+John Cochran,persName,"best friends",person
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Bill",Taylor
+John Cochran,persName,"Bill",Taylor
+John Cochran,placeName,"room in the club",room
+John Cochran,persName,"Marshall",Neilan
+John Cochran,objectName,"gold-tipped cigarettes",cigs
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Bill",Taylor
+John Cochran,objectName,"cigar",cigar
+John Cochran,persName,"Mr Taylor's",Taylor
+John Cochran,placeName,"house",house
+John Cochran,placeName,"house",house
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Marshall",Taylor
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"wife",wife
+John Cochran,placeName,"Sunset Inn",sunset
+John Cochran,persName,"Gloria Swanson",Gloria
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Marshall",Neilan
+John Cochran,placeName,"Sunset Inn",sunset
+John Cochran,persName,"Miss Swanson",Swanson
+John Cochran,persName,"Gertrude Banbrick",Banbrick
+John Cochran,persName,"Gloria",Gloria
+John Cochran,persName,"Gloria",Gloria
+John Cochran,persName,"Gertrude Bambrick",Bambrick
+John Cochran,persName,"Gloria",Gloria
+John Cochran,persName,"lady",person
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Marshall Neilan",Neilan
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Bill",Taylor
+John Cochran,objectName,"drink",drink
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Marshall",Neilan
+John Cochran,placeName,"Sunset Inn",sunset
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Bill",Taylor
+John Cochran,placeName,"New York City",NYC
+John Cochran,placeName,"Los Angeles",LA
+John Cochran,placeName,"California",Cali
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"girls",girls
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Miss Swanson",Swanson
+John Cochran,persName,"Gloria",Gloria
+John Cochran,placeName,"Sunset Inn",sunset
+John Cochran,persName,"Gertrude Bambrick",Bambrick
+John Cochran,placeName,"table",table
+John Cochran,persName,"former wife",ex
+John Cochran,persName,"Bill Taylor",Taylor
+John Cochran,persName,"William Taylor",Taylor
+John Cochran,placeName,"Sunset Inn",sunset
+John Cochran,persName,"friend of hers",person
+John Cochran,placeName,"orchestra",musical
+John Cochran,persName,"Mary",Minter
+John Cochran,persName,"Bill",Taylor
+John Cochran,persName,"Bill",Taylor
+John Cochran,persName,"former wife",ex
+John Cochran,persName,"Miss Swanson",Swanson
+John Cochran,eventName,"occasion",occasion
+John Cochran,persName,"Bill",Taylor
+John Cochran,objectName,"letter",letter
+John Cochran,persName,"Blanche Sweet",Sweet
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Marshell Neilan",Neilan
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Miss Sweet",Sweet
+John Cochran,persName,"Blanche",Sweet
+John Cochran,persName,"Bill",Taylor
+John Cochran,objectName,"poinsettias",flowers
+John Cochran,persName,"Miss Minter",Minter
+John Cochran,persName,"Marshall",Neilan
+John Cochran,persName,"Blanche",Sweet
+John Cochran,persName,"Bill",Taylor
+John Cochran,persName,"Mary",Minter
+John Cochran,placeName,"club",club
+John Cochran,placeName,"rooms",room
+John Cochran,persName,"Marshall Nieilan",Neilan
+John Cochran,persName,"Arthur Hoyt",Arthur
+John Cochran,persName,"Cap Robinson",Robinson
+John Cochran,persName,"Cap Robinson",Robinson
+John Cochran,persName,"Arthur",Arthur
+John Cochran,persName,"Antonio Moreno",Moreno
+John Cochran,persName,"Mr Taylor",Taylor
+John Cochran,persName,"Marshall",Neilan
+John Cochran,placeName,"apartments",apartments
+John Cochran,placeName,"apartments",apartments

@@ -1,1 +1,91 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+Blythe Sena,persName,"Mabel Normand",Normand
+Blythe Sena,persName,"Henry Peavy",Peavy
+Blythe Sena,persName,"Coroner",Corner
+Blythe Sena,persName,"William Desmond Taylor",Taylor
+Blythe Sena,placeName,"Ivy H. Overholtzer",Mortuary
+Blythe Sena,placeName,"Los Angeles, California",LA
+Blythe Sena,persName,"Mabel Normand",Normand
+Blythe Sena,placeName,"reside",Residence
+Blythe Sena,placeName,"3089 West Seventh",address
+Blythe Sena,orgName,"Motion pictures.",Hollywood
+Blythe Sena,persName,"Miss Normand",Normand
+Blythe Sena,persName,"Mr. Taylor",Taylor
+Blythe Sena,eventName,"death",Mortality
+Blythe Sena,placeName,"went in",entering
+Blythe Sena,placeName,"home",home
+Blythe Sena,eventName,"occasion",Meetup
+Blythe Sena,eventName,"7 o'clock and left at a quarter to 8",alibi
+Blythe Sena,placeName,"place",home
+Blythe Sena,placeName,"house",home
+Blythe Sena,placeName,"outside",outside
+Blythe Sena,objectName,"car",automobile
+Blythe Sena,objectName,"car",automobile
+Blythe Sena,placeName,"court",law
+Blythe Sena,placeName,"Alvarado street?",Address
+Blythe Sena,placeName,"hill",Hill
+Blythe Sena,objectName,"car",Automobile
+Blythe Sena,objectName,"car",automobile
+Blythe Sena,objectName,"stairs",Stairs
+Blythe Sena,placeName,"house",Home
+Blythe Sena,persName,"Henry",Peavy
+Blythe Sena,persName,"Henry Peavey?",Peavy
+Blythe Sena,persName,"Mr. Peavey",Peavy
+Blythe Sena,placeName,"house",House
+Blythe Sena,persName,"my chauffeur;",Staff
+Blythe Sena,persName,"Henry Peavey",Peavy
+Blythe Sena,placeName,"his place?",Taylorshouse
+Blythe Sena,objectName,"sidewalk",Road
+Blythe Sena,placeName,"home",Home
+Blythe Sena,objectName,"bed",Bed
+Blythe Sena,persName,"my maid",Maid
+Blythe Sena,persName,"Gentlemen",Jury
+Blythe Sena,persName,"shorthand reporter",Reporter
+Blythe Sena,persName,"Coroner",Coroner
+Blythe Sena,persName,"E.M. Allen, Shorthand Reporter",Reporter
+Blythe Sena,placeName,"Taylor's home",Taylorshome
+Blythe Sena,placeName,"house",House
+Blythe Sena,persName,"POLICE",Lawenforcement
+Blythe Sena,persName,"Peavey",Peavy
+Blythe Sena,persName,"NORMAND",Normand
+Blythe Sena,placeName,"room",Room
+Blythe Sena,objectName,"his desk",Desk
+Blythe Sena,placeName,"house",House
+Blythe Sena,persName,"Taylor",Taylor
+Blythe Sena,objectName,"street clothes",Clothes
+Blythe Sena,objectName,"smoking jacket",Jacket
+Blythe Sena,objectName,"house jacket",Jacket
+Blythe Sena,persName,"NORMAND",Normand
+Blythe Sena,objectName,"street clothes",Clothes
+Blythe Sena,persName,"HENRY PEAVY",Peavy
+Blythe Sena,persName,"Valet",Staff
+Blythe Sena,persName,"house servant",Staff
+Blythe Sena,persName,"POLICE",Lawenforcement
+Blythe Sena,persName,"Mr. Taylor's body",Taylor
+Blythe Sena,objectName,"davenport",evidence
+Blythe Sena,placeName,"room",Room
+Blythe Sena,placeName,"rooms",Room
+Blythe Sena,objectName,"chair",Chair
+Blythe Sena,eventName,"died",Mortality
+Blythe Sena,objectName,"chair",Chair
+Blythe Sena,objectName,"mail box",Houseitem
+Blythe Sena,placeName,"front porch"",House
+Blythe Sena,objectName,"box",Houseitem
+Blythe Sena,objectName,"gold tipped cigarette",Evidence
+Blythe Sena,persName,"Mr. Taylor",Taylor
+Blythe Sena,objectName,"gold tipped cigarettes",evidence
+Blythe Sena,objectName,"front door",House
+Blythe Sena,persName,"Mr. Taylor's body",Taylor
+Blythe Sena,objectName,"door",Houseitem
+Blythe Sena,objectName,"The screen door",House
+Blythe Sena,objectName,"the windows",Houseitem
+Blythe Sena,placeName,"first floor",House
+Blythe Sena,persName,"Mabel Normand",Normand
+Blythe Sena,persName,"Henry",Peavy
+Blythe Sena,persName,"Mr. Taylor",Taylor
+Blythe Sena,persName,"Mr. Taylor",Taylor
+Blythe Sena,persName,"baby",Baby
+Blythe Sena,persName,"Mr. Taylor",Taylor
+Blythe Sena,persName,"Miss Normand",Normand
+Blythe Sena,persName,"Mr. Taylor",Taylor
+Blythe Sena,persName,"Miss Normand.",Normand

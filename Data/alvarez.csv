@@ -1,9 +1,69 @@
-<<<<<<< Updated upstream
-"elementName", "elementContent", "typeAttributeIfPresent"
-"objectName cocktails drink"
-"objectName paper newspaper"
-"objectName papers newspaper"
-"placeName San Francisco city"
-=======
-"elementName", "elementContent", "typeAttributeIfPresent"
->>>>>>> Stashed changes
+Byline,Type,Value,Attribute
+Jada Alvarez,persName,"Frank Urson",Urson
+Jada Alvarez,persName,"Mr. Taylor",Taylor
+Jada Alvarez,persName,"He",Taylor
+Jada Alvarez,persName,"Mary",Mary
+Jada Alvarez,persName,""Billie"",Taylor
+Jada Alvarez,persName,"He",Taylor
+Jada Alvarez,objectName,"paper",newspaper
+Jada Alvarez,eventName,"engaged",major
+Jada Alvarez,persName,"Mr Dickson",Dickson
+Jada Alvarez,persName,"Thomas Dickson",Dickson
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,eventName,"engaged",major
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,objectName,"papers",newspaper
+Jada Alvarez,eventName,"engagement",major
+Jada Alvarez,persName,"Mr Dickson",Dickson
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Taylor's",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"Mr Neilan's",Neilan
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,objectName,"cocktails",drink
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,placeName,"San Francisco",city
+Jada Alvarez,persName,"Marshall?",Neilan
+Jada Alvarez,persName,"Taylor's",Taylor
+Jada Alvarez,eventName,"death",major
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Mr Taylor",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,eventName,"killing",major
+Jada Alvarez,eventName,"killing",major
+Jada Alvarez,eventName,"killing",major
+Jada Alvarez,persName,"Mr Taylor",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,eventName,"quarrel",fight
+Jada Alvarez,persName,"Neilan",Neilan
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"Marshall",Neilan
+Jada Alvarez,persName,"He",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Mr Taylor",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"Marshall",Neilan
+Jada Alvarez,persName,"Marshall",Neilan
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Mr Neilan's",Neilan
+Jada Alvarez,persName,"him",Taylor

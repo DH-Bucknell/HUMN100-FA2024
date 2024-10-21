@@ -1,46 +1,38 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
-"objectName ""The Cruise of the South Sea Islands"" book"
-"objectName Revolver "
-"objectName big coat sleeves "
-"objectName book lesiure"
-"objectName brains "
-"objectName coat sleeve "
-"objectName couch furniture"
-"objectName face "
-"objectName fist "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName gun "
-"objectName pistol "
-"placeName Engstrom Apartments, Los Angeles "
-"placeName Hobart house living"
-"placeName Hobart house living"
-"placeName Mary's room room"
-"placeName New Hampshire house "
-"placeName dressing room "
-"placeName dressing room "
-"placeName dressing room "
-"placeName home house"
-"placeName home house"
-"placeName home living"
-"placeName home living"
-"placeName house "
-"placeName house "
-"placeName living room room"
-"placeName mother's room "
-"placeName my office "
-"placeName office "
-"placeName office "
-"placeName office "
-"placeName office "
-"placeName set "
+Byline,Type,Value,Attribute
+Hunter Sloan,persName,"(Mary)",Minter
+Hunter Sloan,eventName,"dinner",eating
+Hunter Sloan,persName,"mama",Shelby
+Hunter Sloan,persName,"she",Minter
+Hunter Sloan,persName,"she",Shelby
+Hunter Sloan,persName,"she",Minter
+Hunter Sloan,placeName,"living room",room
+Hunter Sloan,persName,"Mary",Minter
+Hunter Sloan,objectName,"couch",furniture
+Hunter Sloan,objectName,"book",lesiure
+Hunter Sloan,objectName,""The Cruise of the South Sea Islands"",book
+Hunter Sloan,persName,"she",Minter
+Hunter Sloan,placeName,"home",living
+Hunter Sloan,placeName,"home",house
+Hunter Sloan,persName,"mother",Shelby
+Hunter Sloan,placeName,"home",living
+Hunter Sloan,persName,"she",Shelby
+Hunter Sloan,persName,"she",Shelby
+Hunter Sloan,persName,"Mr. Fitts",Fitts
+Hunter Sloan,persName,"mama",Shelby
+Hunter Sloan,persName,"Mary",Minter
+Hunter Sloan,persName,"I",MShelby
+Hunter Sloan,persName,"Mary",Minter
+Hunter Sloan,placeName,"home",house
+Hunter Sloan,persName,"mama",Shelby
+Hunter Sloan,placeName,"Mary's room",room
+Hunter Sloan,persName,"I",MShelby
+Hunter Sloan,persName,"her",Minter
+Hunter Sloan,persName,"I",MShelby
+Hunter Sloan,persName,"she",Minter
+Hunter Sloan,persName,"she",Minter
+Hunter Sloan,persName,"mother",Shelby
+Hunter Sloan,placeName,"Hobart house",living
+Hunter Sloan,persName,"she",Shelby
+Hunter Sloan,placeName,"Hobart house",living
+Hunter Sloan,persName,"she",Shelby
+Hunter Sloan,eventName,"Taylor had been killed",death

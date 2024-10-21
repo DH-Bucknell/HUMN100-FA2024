@@ -122,6 +122,7 @@
       <body>
          <div type="interview">
             <head>INTERVIEW WITH <persName ref="TIFFANY">EARL TIFFANY</persName></head>
+            <byline>Henry Gibbons</byline>
             <p> Chauffeur for <persName ref="TAYLOR">W.D. Taylor</persName> Statement taken 2-17-22 11:30 AM </p>
             <p><orgName type="law">POLICE</orgName>: Do you know of <persName ref="SANDS">Sands</persName> securing a
                considerable amount of <objectName type="power">money</objectName> that was not his? ** </p>

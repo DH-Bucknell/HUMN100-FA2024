@@ -1,75 +1,191 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
-"objectName a shot weapon"
-"objectName a shot weapon"
-"objectName back bodyPart"
-"objectName back bodyPart"
-"objectName blood mortality"
-"objectName blood mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName body mortality"
-"objectName buildings structure"
-"objectName bullet wound mortality"
-"objectName clothing clothing"
-"objectName deceased mortality"
-"objectName desk furniture"
-"objectName feet bodyPart"
-"objectName fire-arms weapon"
-"objectName fire-arms weapon"
-"objectName floor houseInterior"
-"objectName gunshot weapon"
-"objectName hand bodyPart"
-"objectName hand bodyPart"
-"objectName hand bodyPart"
-"objectName head bodyPart"
-"objectName head bodyPart"
-"objectName head bodyPart"
-"objectName head bodyPart"
-"objectName head bodyPart"
-"objectName mouth bodyPart"
-"objectName notes document"
-"objectName pillow furniture"
-"objectName pool of blood mortality"
-"objectName pool of blood mortality"
-"objectName pool of blood mortality"
-"objectName remains mortality"
-"objectName revolver weapon"
-"objectName revolver weapon"
-"objectName shirt clothing"
-"objectName stomach bodyPart"
-"objectName stomach bodyPart"
-"objectName suit clothing"
-"objectName trail of blood mortality"
-"objectName trail of blood mortality"
-"objectName transcript document"
-"objectName upper drawer furniture"
-"objectName vest clothing"
-"objectName vest clothing"
-"placeName 1920 Vine Street, Hollywood residence"
-"placeName Apartment ""B,"" South Alvarado Street, 404 residence"
-"placeName Ireland country"
-"placeName Ivy H. Overholtzer [Mortuary] mortuary"
-"placeName Los Angeles, California city"
-"placeName apartment residence"
-"placeName apartments residence"
-"placeName court residence"
-"placeName court residence"
-"placeName court residence"
-"placeName door house"
-"placeName door house"
-"placeName front entrance house"
-"placeName front entrance house"
-"placeName home residence"
-"placeName neighborhood residence"
-"placeName room house"
-"placeName room house"
-"placeName room house"
-"placeName room house"
-"placeName upstairs house"
+Byline,Type,Value,Attribute
+Ethan Esclamado,objectName,"transcript",document
+Ethan Esclamado,objectName,"notes",document
+Ethan Esclamado,persName,"the Coroner's",coroner
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,persName,"William Desmond Taylor",taylor
+Ethan Esclamado,placeName,"Ivy H. Overholtzer [Mortuary]",mortuary
+Ethan Esclamado,placeName,"Los Angeles, California",city
+Ethan Esclamado,persName,"CHARLES EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"Coroner Charles Eyton",eyton
+Ethan Esclamado,persName,"THE CORONER",coroner
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Charles Eyton",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,placeName,"1920 Vine Street, Hollywood",residence
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,orgName,"Famous Players-Lasky Corporation",film
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"Mr. Eyton",eyton
+Ethan Esclamado,objectName,"remains",mortality
+Ethan Esclamado,objectName,"deceased",mortality
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"William Desmond Taylor",taylor
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,placeName,"Ireland",country
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,placeName,"Apartment "B," South Alvarado Street, 404",residence
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,persName,"[Harry Fellows]",harryFellows
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,objectName,"floor",houseInterior
+Ethan Esclamado,objectName,"back",bodyPart
+Ethan Esclamado,persName,"Detective Ziegler",ziegler
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,objectName,"stomach",bodyPart
+Ethan Esclamado,persName,"Mr. Maclean - Douglas Maclean",dMaclean
+Ethan Esclamado,objectName,"a shot",weapon
+Ethan Esclamado,objectName,"a shot",weapon
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,persName,"deputy coroner",coroner
+Ethan Esclamado,objectName,"stomach",bodyPart
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,objectName,"hand",bodyPart
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,objectName,"hand",bodyPart
+Ethan Esclamado,objectName,"blood",mortality
+Ethan Esclamado,objectName,"hand",bodyPart
+Ethan Esclamado,persName,"Douglas",dMaclean
+Ethan Esclamado,persName,"[Taylor's]",taylor
+Ethan Esclamado,objectName,"mouth",bodyPart
+Ethan Esclamado,objectName,"trail of blood",mortality
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"pool of blood",mortality
+Ethan Esclamado,objectName,"trail of blood",mortality
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"pool of blood",mortality
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"pool of blood",mortality
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"vest",clothing
+Ethan Esclamado,objectName,"blood",mortality
+Ethan Esclamado,persName,"Deputy Coroner",coroner
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,objectName,"pillow",furniture
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,persName,"Deputy Coroner",coroner
+Ethan Esclamado,objectName,"shirt",clothing
+Ethan Esclamado,objectName,"vest",clothing
+Ethan Esclamado,objectName,"bullet wound",mortality
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"Mr. Eyton",eyton
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,placeName,"front entrance",house
+Ethan Esclamado,placeName,"home",residence
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,objectName,"desk",furniture
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"feet",bodyPart
+Ethan Esclamado,placeName,"door",house
+Ethan Esclamado,placeName,"front entrance",house
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Detective Ziegler",ziegler
+Ethan Esclamado,persName,"Douglas Maclean",dMaclean
+Ethan Esclamado,persName,"Charles Maigne",maigne
+Ethan Esclamado,persName,"[E. C. Jessurun]",jessurun
+Ethan Esclamado,persName,"Harry Fellows",harryFellows
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,placeName,"neighborhood",residence
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Mr. MacLean",dMaclean
+Ethan Esclamado,placeName,"apartment",residence
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,placeName,"court",residence
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,placeName,"court",residence
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"buildings",structure
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,placeName,"apartments",residence
+Ethan Esclamado,placeName,"court",residence
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"gunshot",weapon
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Mr. Maclean",dMaclean
+Ethan Esclamado,persName,"Mrs. Maclean",fMaclean
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,eventName,"the war",war
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"fire-arms",weapon
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,objectName,"revolver",weapon
+Ethan Esclamado,objectName,"revolver",weapon
+Ethan Esclamado,objectName,"upper drawer",furniture
+Ethan Esclamado,placeName,"upstairs",house
+Ethan Esclamado,persName,"Detective Ziegler",ziegler
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,objectName,"fire-arms",weapon
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Harry Peavey",peavey
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"Harry Fellows",harryFellows
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,persName,"THE CORONER",cornoer
+Ethan Esclamado,persName,"NANCE",nance
+Ethan Esclamado,persName,"a Juror",juror
+Ethan Esclamado,objectName,"clothing",clothing
+Ethan Esclamado,persName,"EYTON",eyton
+Ethan Esclamado,placeName,"door",house
+Ethan Esclamado,objectName,"back",bodyPart
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,objectName,"body",mortality
+Ethan Esclamado,objectName,"suit",clothing
+Ethan Esclamado,persName,"THE CORONER",coroner

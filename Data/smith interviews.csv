@@ -1,32 +1,117 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
-"objectName Clothing garments"
-"objectName Evening Herald newspaper"
-"objectName The body bodypart"
-"objectName blood liquid"
-"objectName body bodypart"
-"objectName cancelled checks money"
-"objectName cancelled checks money"
-"objectName clothing garments"
-"objectName fellow's face bodypart"
-"objectName hands bodypart"
-"objectName his desk furniture"
-"objectName his head bodypart"
-"objectName his back bodypart"
-"objectName his clothing garments"
-"objectName his face bodypart"
-"objectName his mouth bodypart"
-"objectName telephone device"
-"objectName the couch furniture"
-"objectName the blood liquid"
-"objectName three or four checks money"
-"placeName Fifth and Figueroa street"
-"placeName The desk was near his feet positioning"
-"placeName a caf restaurant"
-"placeName feet towards the door positoning"
-"placeName his house residency"
-"placeName home residency"
-"placeName in front of the desk positioning"
-"placeName not on the floor positioning"
-"placeName on the floor positioning"
-"placeName the house residency"
-"placeName the house residency"
+Byline,Type,Value,Attribute
+Rylie Smith,persName,"Mr. Taylor",taylor
+Rylie Smith,persName,"Mary Miles Minter",mary
+Rylie Smith,persName,"Mr. Hoyt",hoyt
+Rylie Smith,placeName,"his house",residency
+Rylie Smith,eventName,"threatened to scream",disturbance
+Rylie Smith,persName,"Miss Windsor",miss windsor
+Rylie Smith,persName,"Mr. Taylor",taylor
+Rylie Smith,persName,"Miss Blanche Street",blanche
+Rylie Smith,persName,"Marshal Neilan",marshal
+Rylie Smith,placeName,"a caf",restaurant
+Rylie Smith,persName,"Mr. Taylor",taylor
+Rylie Smith,persName,"Neilan",marshal
+Rylie Smith,persName,"Miss Minter",mary
+Rylie Smith,objectName,"telephone",device
+Rylie Smith,persName,"Harry Fellows",harry
+Rylie Smith,persName,"Mr. Eyton",eyton
+Rylie Smith,persName,"Mr. Taylor's",taylor
+Rylie Smith,eventName,"found him dead",mortality
+Rylie Smith,persName,"docto",doctor
+Rylie Smith,eventName,"hemorhhage of the stomach",illness
+Rylie Smith,placeName,"the house",residency
+Rylie Smith,persName,"Charley Maigne",maigne
+Rylie Smith,persName,"Arthur Hoyt",hoyt
+Rylie Smith,persName,"Douglas MacLean",douglas
+Rylie Smith,persName,"Harry Fellows",harry
+Rylie Smith,persName,"Douglas MacLean",douglas
+Rylie Smith,persName,"Taylor",taylor
+Rylie Smith,eventName,"was murdered",mortality
+Rylie Smith,eventName,"heard a shot",murder
+Rylie Smith,persName,"Charley",maigne
+Rylie Smith,eventName,"shot last night",murder
+Rylie Smith,eventName,"telephoning",communication
+Rylie Smith,persName,"Harry Fellows",harry
+Rylie Smith,eventName,"telephoned me",communication
+Rylie Smith,persName,"Mabel Normand",Mabel
+Rylie Smith,persName,"Mrs. Shelby",Shelby
+Rylie Smith,persName,"Mrs. Shelby",shelby
+Rylie Smith,persName,"Mabel Normand",mabel
+Rylie Smith,persName,"Charley Maigne",Maigne
+Rylie Smith,objectName,"body",bodypart
+Rylie Smith,objectName,"The body",bodypart
+Rylie Smith,placeName,"in front of the desk",positioning
+Rylie Smith,placeName,"The desk was near his feet",positioning
+Rylie Smith,persName,"Mary",mary
+Rylie Smith,eventName,"engaged to marry",betroth
+Rylie Smith,persName,"Mickey Neilan",neilan
+Rylie Smith,persName,"Taylor",taylor
+Rylie Smith,persName,"Mickey",neilan
+Rylie Smith,persName,"Mickey",neilan
+Rylie Smith,persName,"Mickey",neilan
+Rylie Smith,persName,"Neva Gerber",neva
+Rylie Smith,persName,"Taylor's",taylor
+Rylie Smith,eventName,"went to war",wartime
+Rylie Smith,eventName,"marry",betroth
+Rylie Smith,persName,"Neva Gerber",neva
+Rylie Smith,persName,"Mr. Dumas",dumas
+Rylie Smith,persName,"Taylor",taylor
+Rylie Smith,eventName,"lying out",positioning
+Rylie Smith,placeName,"on the floor",positioning
+Rylie Smith,objectName,"his clothing",garments
+Rylie Smith,persName,"Taylor's",taylor
+Rylie Smith,placeName,"home",residency
+Rylie Smith,persName,"Taylor's",taylor
+Rylie Smith,persName,"Taylor",taylor
+Rylie Smith,eventName,"a man peeking in the curtain",suspisous
+Rylie Smith,eventName,"walked out",movement
+Rylie Smith,persName,"Mr. Taylor",taylor
+Rylie Smith,objectName,"fellow's face",bodypart
+Rylie Smith,objectName,"his face",bodypart
+Rylie Smith,persName,"Taylor's chauffeur",Peavey
+Rylie Smith,eventName,"Bill's death",mortality
+Rylie Smith,persName,"Bill",taylor
+Rylie Smith,persName,"Bill",taylor
+Rylie Smith,eventName,"had been shot",murder
+Rylie Smith,eventName,"had been shot",murder
+Rylie Smith,objectName,"his back",bodypart
+Rylie Smith,placeName,"feet towards the door",positoning
+Rylie Smith,objectName,"hands",bodypart
+Rylie Smith,objectName,"blood",liquid
+Rylie Smith,objectName,"his head",bodypart
+Rylie Smith,objectName,"the blood",liquid
+Rylie Smith,objectName,"his mouth",bodypart
+Rylie Smith,objectName,"clothing",garments
+Rylie Smith,objectName,"Clothing",garments
+Rylie Smith,eventName,"properly arranged",positioning
+Rylie Smith,objectName,"the couch",furniture
+Rylie Smith,objectName,"three or four checks",money
+Rylie Smith,persName,"Bill",taylor
+Rylie Smith,objectName,"cancelled checks",money
+Rylie Smith,placeName,"not on the floor",positioning
+Rylie Smith,objectName,"cancelled checks",money
+Rylie Smith,objectName,"his desk",furniture
+Rylie Smith,persName,"Taylor",taylor
+Rylie Smith,eventName,"killed",murder
+Rylie Smith,eventName,"I called up",communication
+Rylie Smith,persName,"Earl Tiffany",earl
+Rylie Smith,placeName,"the house",residency
+Rylie Smith,persName,"Sands",sands
+Rylie Smith,placeName,"Fifth and Figueroa",street
+Rylie Smith,persName,"Taylor",taylor
+Rylie Smith,persName,"Sands",sands
+Rylie Smith,persName,"Tiffany",earl
+Rylie Smith,persName,"Tiffany",earl
+Rylie Smith,persName,"Bill",taylor
+Rylie Smith,persName,"Miss Normand's maid",maid
+Rylie Smith,persName,"Mabel",mabel
+Rylie Smith,persName,"Edna Purviance",edna
+Rylie Smith,eventName,"telephoned to her",communication
+Rylie Smith,persName,"Bill",taylor
+Rylie Smith,persName,"Mabel",mabel
+Rylie Smith,persName,"Miss Purviance",purviance
+Rylie Smith,persName,"Bill",taylor
+Rylie Smith,objectName,"Evening Herald",newspaper
+Rylie Smith,persName,"Miss Normand",mabel
+Rylie Smith,persName,"Mr. Taylor",taylor
+Rylie Smith,eventName,"heard the shot",murder

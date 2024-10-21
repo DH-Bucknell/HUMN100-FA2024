@@ -1,1 +1,138 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+Emma Walkowiak,orgName,"LOS ANGELES EXAMINER",Publication
+Emma Walkowiak,persName,"Mrs. Charlotte Shelby",Shelby
+Emma Walkowiak,persName,"Mary Miles Minter",Minter
+Emma Walkowiak,persName,"William Desmond Taylor",Taylor
+Emma Walkowiak,placeName,"someone's house",anonymous_house
+Emma Walkowiak,objectName,"big, fast car",Car
+Emma Walkowiak,placeName,"foggy roads",road
+Emma Walkowiak,placeName,"studio",studio
+Emma Walkowiak,persName,"cameraman",camera crew
+Emma Walkowiak,persName,"assistant cameraman",camera crew
+Emma Walkowiak,persName,"cameraman",camera crew
+Emma Walkowiak,persName,"Mary's",Minter
+Emma Walkowiak,placeName,"his house",cameraman_house
+Emma Walkowiak,persName,"cameraman",camera crew
+Emma Walkowiak,persName,"Mary",Minter
+Emma Walkowiak,placeName,"studio",Studio
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mary",Minter
+Emma Walkowiak,persName,"Juliette B. Miles",Minter Grandmother
+Emma Walkowiak,placeName,"Mr. Taylor's home",Taylor_Home
+Emma Walkowiak,persName,"Mr. Taylor's",Taylor
+Emma Walkowiak,eventName,"tea",Tea
+Emma Walkowiak,persName,"Chauncey",Chauncey
+Emma Walkowiak,persName,"Chauncey",Chauncey
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,placeName,"the place",Taylor_Home
+Emma Walkowiak,persName,"Chauncey",Chauncey
+Emma Walkowiak,persName,"I",Shelby
+Emma Walkowiak,eventName,"drove around",Driving
+Emma Walkowiak,placeName,"the neighborhood",Taylor_Home
+Emma Walkowiak,placeName,"corner of Fourth and Alvarado streets",Taylor_Home
+Emma Walkowiak,persName,"Chauncey",Chauncey
+Emma Walkowiak,placeName,"bungalow",Taylor_Home
+Emma Walkowiak,persName,"Mr. Taylor's",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,objectName,"right arm",body_part
+Emma Walkowiak,placeName,"some on the left, some on the right and some bungalows in the back",Taylor_Home
+Emma Walkowiak,objectName,"light",Lighting
+Emma Walkowiak,placeName,"window on the right",Neighbor_Home
+Emma Walkowiak,objectName,"bell",doorbell
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,placeName,"a house on the left side of the court, the last one in the back",Taylor_Home
+Emma Walkowiak,objectName,"bell",doorbell
+Emma Walkowiak,placeName,"The house",Taylor_Home
+Emma Walkowiak,persName,"Mr. Taylor's",Taylor
+Emma Walkowiak,placeName,"second story window",Taylor_Home
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mary",Minter
+Emma Walkowiak,objectName,"telephone",Communication
+Emma Walkowiak,placeName,"a telephone room -- an out of the way nook",Taylor_Home
+Emma Walkowiak,persName,"Frank O'Connor",O'Connor
+Emma Walkowiak,persName,"Mary",Minter
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,placeName,"our car",Shelby_Car
+Emma Walkowiak,persName,"Charlotte Whitney, the secretary",Whitney
+Emma Walkowiak,placeName,"home",Shelby_Home
+Emma Walkowiak,persName,"Mr. Taylor's",Taylor
+Emma Walkowiak,placeName,"the house",Taylor_Home
+Emma Walkowiak,objectName,"loaded revolver",weapon
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Miss Minter",Minter
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Frank Urson",Urson
+Emma Walkowiak,persName,"Mary",Minter
+Emma Walkowiak,objectName,"big roadster",Car
+Emma Walkowiak,placeName,"home",Shelby_Home
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,placeName,"Mr. Taylor's residence",Taylor_Home
+Emma Walkowiak,persName,"Mr. Taylor's",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Asa Keyes",Keyes
+Emma Walkowiak,persName,"Mr. Keyes",Keyes
+Emma Walkowiak,placeName,"New York",state
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby's",Shelby
+Emma Walkowiak,persName,"Mary's",Minter
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,eventName,"$1,000,000 suit filed by her daughter in 1926 and of her demand for accountings, for audits and for return of money earned in the films",lawsuit
+Emma Walkowiak,objectName,"$1,000,000",money
+Emma Walkowiak,objectName,"money",money
+Emma Walkowiak,eventName,"intense recital of Mary's visit to the body",Body_Viewing
+Emma Walkowiak,persName,"Mary's",Minter
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Mary Miles Minter's",Minter
+Emma Walkowiak,placeName,"in his apartment",Taylor_Home
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mary's",Minter
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Mary's",Minter
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mary's",Minter
+Emma Walkowiak,persName,"William Desmond Taylor",Taylor
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mary",Minter
+Emma Walkowiak,persName,"Mrs. Shelby's",Shelby
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Mabel Normand",Normand
+Emma Walkowiak,placeName,"the bungalow",Taylor_Home
+Emma Walkowiak,persName,"Sands -- Edward F. Sands",Sands
+Emma Walkowiak,eventName,"robbed and flaunted his employer",Robbery
+Emma Walkowiak,persName,""Bill" Taylor",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Henry Peavey",Peavey
+Emma Walkowiak,eventName,"served dinner",dinner
+Emma Walkowiak,persName,"Miss Normand",Normand
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Mr. Taylor",Taylor
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,persName,"Mrs. Douglas MacLean",Douglas
+Emma Walkowiak,eventName,"heard the shot",Gunshot
+Emma Walkowiak,persName,"a man",unidentified man
+Emma Walkowiak,placeName,"Taylor bungalow",Taylor_Home
+Emma Walkowiak,persName,"Taylor",Taylor
+Emma Walkowiak,persName,"Mrs. MacLean",MacLean
+Emma Walkowiak,placeName,"her own apartment",Neighbor_Home
+Emma Walkowiak,placeName,"from the front door, only a short distance away",Neighbor_Home
+Emma Walkowiak,persName,"this man",unidentified man
+Emma Walkowiak,persName,"him",unidentified man
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,objectName,"silk-encased arms",clothing
+Emma Walkowiak,objectName,"men's clothes",clothing
+Emma Walkowiak,objectName,"clothes",clothing
+Emma Walkowiak,placeName,"California",state
+Emma Walkowiak,persName,"Mrs. Shelby",Shelby
+Emma Walkowiak,placeName,"right here",Shelby_Location
+Emma Walkowiak,placeName,"charming apartment",Shelby_Location
+Emma Walkowiak,placeName,"our own home",Shelby_Home

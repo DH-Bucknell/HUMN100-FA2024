@@ -1,1 +1,96 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
+Byline,Type,Value,Attribute
+Firestone,persName,"Henry Peavey",Peavey
+Firestone,placeName,"127 1/2 East 3rd Street",living
+Firestone,persName,"Mr. Peavey",Peavey
+Firestone,persName,"Mr. Taylor",Taylor
+Firestone,persName,"the deceased",Taylor
+Firestone,persName,"the dead man",Taylor
+Firestone,placeName,"house",living
+Firestone,placeName,"house",living
+Firestone,placeName,"house",living
+Firestone,objectName,"chair",furniture
+Firestone,objectName,"chair",furniture
+Firestone,objectName,"a red-backed book",posession
+Firestone,placeName,"house",living
+Firestone,placeName,"dining-room",room
+Firestone,placeName,"dining-room",room
+Firestone,placeName,"living-room",room
+Firestone,placeName,"two-story apartment",living
+Firestone,placeName,"ground floor",wing
+Firestone,placeName,"living-room",room
+Firestone,placeName,"dining-room",room
+Firestone,placeName,"kitchen",room
+Firestone,placeName,"the entrance",passage
+Firestone,placeName,"apartment",living
+Firestone,placeName,"front room",room
+Firestone,placeName,"front room",room
+Firestone,placeName,"dining-room",room
+Firestone,placeName,"living-room",room
+Firestone,placeName,"entrance to the dining-room",passage
+Firestone,placeName,"the front",passage
+Firestone,placeName,"the back",passage
+Firestone,placeName,"the front way",passage
+Firestone,objectName,"back door",passage
+Firestone,objectName,"back door screen",passage
+Firestone,objectName,"hook",thing
+Firestone,objectName,"front door",passage
+Firestone,objectName,"the back door key",posession
+Firestone,objectName,"door",passage
+Firestone,persName,"Mr. Taylor",Taylor
+Firestone,eventName,"I picked up the paper",action
+Firestone,eventName,"I stopped in a drug store",action
+Firestone,placeName,"corner of 5th and Los Angeles",buisness
+Firestone,objectName,"bottle of medicine",consumable
+Firestone,objectName,"milk of magnesia",consumable
+Firestone,persName,"he",Taylor
+Firestone,eventName,"I bought that",action
+Firestone,eventName,"I picked up the paper and unlocked the door",action
+Firestone,persName,"Mr. Taylor",Taylor
+Firestone,persName,"He",Taylor
+Firestone,placeName,"the court",Neighborhood
+Firestone,placeName,"the place",living
+Firestone,objectName,"lights",tool
+Firestone,objectName,"limousine",car
+Firestone,eventName,"I hit him on the back and stopped and talked to him a few minutes",action
+Firestone,objectName,"chair",furniture
+Firestone,objectName,"feet",bodypart
+Firestone,objectName,"chair",furniture
+Firestone,objectName,"furniture",decorations
+Firestone,placeName,"house",living
+Firestone,placeName,"room upstairs",room
+Firestone,objectName,"body",bodypart
+Firestone,objectName,"jewelry",posessions
+Firestone,objectName,"jewelry",posessions
+Firestone,objectName,"wrist watch",posessions
+Firestone,objectName,"watch",posession
+Firestone,objectName,"thing",posession
+Firestone,objectName,"checks",money
+Firestone,objectName,"checks",money
+Firestone,objectName,"lead pencil",posession
+Firestone,objectName,"diamond ring",posession
+Firestone,objectName,"diamond ring",posession
+Firestone,objectName,"ring",posession
+Firestone,objectName,"finger",bodypart
+Firestone,objectName,"jewelry",posession
+Firestone,objectName,"dresser drawer",storage
+Firestone,placeName,"apartment",living
+Firestone,objectName,"rug",decoration
+Firestone,placeName,"living-room",room
+Firestone,objectName,"table",furniture
+Firestone,objectName,"rocking chair",furniture
+Firestone,objectName,"table",furniture
+Firestone,objectName,"table",furniture
+Firestone,objectName,"rocking chair",furniture
+Firestone,objectName,"table",furniture
+Firestone,objectName,"windows",decoration
+Firestone,objectName,"pins",thng
+Firestone,objectName,"windows",decoration
+Firestone,objectName,"windows",decoration
+Firestone,placeName,"upstairs",wing
+Firestone,placeName,"bedroom",room
+Firestone,objectName,"windows",decoration
+Firestone,objectName,"window",decoration
+Firestone,objectName,"lights",tool
+Firestone,objectName,"two lights",tool
+Firestone,placeName,"living-room",room
+Firestone,placeName,"dining-room",room

@@ -1,10 +1,21 @@
-"elementName", "elementContent", "typeAttributeIfPresent"
-"objectName commission "
-"objectName income tax form "
-"objectName schedule document"
-"objectName securities document"
-"objectName statement document"
-"placeName Laughlin Park property "
-"placeName Laughlin Park property residence"
-"placeName Portland Flouring Mills business"
-"placeName the house residence"
+Byline,Type,Value,Attribute
+Diane Jakacki,persName,"Leslie Henry",henry
+Diane Jakacki,persName,"[Mary's] mother",cshelby
+Diane Jakacki,persName,"herself",minter
+Diane Jakacki,persName,"The mother",cshelby
+Diane Jakacki,persName,"daughter",minter
+Diane Jakacki,eventName,"she had killed Taylor",murder
+Diane Jakacki,persName,"Taylor",taylor
+Diane Jakacki,persName,"Mrs. Shelby",cshelby
+Diane Jakacki,persName,"Margaret",mshelby
+Diane Jakacki,objectName,"securities",document
+Diane Jakacki,eventName,"the Taylor murder",murder
+Diane Jakacki,objectName,"schedule",document
+Diane Jakacki,objectName,"statement",document
+Diane Jakacki,placeName,"Laughlin Park property",residence
+Diane Jakacki,placeName,"the house",residence
+Diane Jakacki,eventName,"death",mortality
+Diane Jakacki,persName,"Mrs. Shelby",shelby
+Diane Jakacki,persName,"Mrs. Shelby",shelby
+Diane Jakacki,placeName,"Portland Flouring Mills",business
+Diane Jakacki,orgName,"First National Bank",business
