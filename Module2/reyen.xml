@@ -124,16 +124,16 @@
             <head>Interview with Christina Jewett</head>
             <byline>Kate Reyen</byline>
 
-            <p><persName ref="jewett">CHRISTINA JEWETT</persName>, maid for <persName ref="mrs.maclean">Mrs. MacLean</persName>
+            <p><persName ref="jewett">CHRISTINA JEWETT</persName>, maid for <persName ref="faithMaclean">Mrs. MacLean</persName>
                Statement taken 2-9-22 </p>
 
             <p>(Witness after explaining that she was waiting between the service of courses to the
-                  <persName>MacLeans</persName>, states as follows) </p>
+                  <persName ref="macleans">MacLeans</persName>, states as follows) </p>
 
             <p>JEWETT: While I was waiting there I heard <persName ref="murderer">a man</persName> come from the
-                  <placeName type= "street">corner</placeName> and go down in the <placeName type="street">alley</placeName> and
+                  <placeName type= "street">corner</placeName> and go down in the <placeName type="passage">alley</placeName> and
                   <persName ref="murderer">he</persName> stopped right near against a big
-                  <objectName type="boundary">fence</objectName> there in the <placeName type="street">alley</placeName>, and it
+                  <objectName type="yard">fence</objectName> there in the <placeName type="passage">alley</placeName>, and it
                seems to me <persName ref="murderer">he</persName> stopped just between the
                   <placeName type="storage">garage</placeName> and <placeName type= "living">Mr. Jesserun's house</placeName>.
                   <persName ref="murderer">He</persName> had <objectName type="clothing">flat shoes</objectName> on, I know
@@ -146,44 +146,44 @@
                   <objectName type="instrument">bell</objectName> for me, and I went up and walked in and then I came
                out from the <placeName type="house">dining room</placeName>, then was I heard
                   <persName ref="murderer">him</persName> walking, I thought <persName ref="murderer">he</persName> walked in
-               between <placeName>the buildings</placeName> and between <placeName>the
-                  garage</placeName> and <placeName>the house,Mr. Jesserun living in</placeName> * *
+               between <placeName>the buildings</placeName> and between <placeName type="storage">the
+                  garage</placeName> and <placeName type="neighbor">the house,Mr. Jesserun living in</placeName> * *
                and then I cleared out the <objectName type="furniture">table</objectName> and as I cleared out the
                   <objectName type="furniture">table</objectName> and was going to take out the
                   <objectName type="decoration">tablecloth</objectName> was then I heard the shot. Yes, <time>in the
-               morning</time>, the <time>next morning</time> * * * around the back in <placeName type="street">the alley</placeName> *
-               * * I heard somebody coming behind me. I turned my head, I saw <persName ref="fellows">Mr.
+               morning</time>, the <time>next morning</time> * * * around the back in <placeName type="passage">the alley</placeName> *
+               * * I heard somebody coming behind me. I turned my head, I saw <persName ref="howardFellows">Mr.
                   Taylor's man</persName> who drives <objectName type="vehicles">the machine</objectName> and he said "Good morning." He was
                in a great hurry and I thought well, he is late * * * because he is supposed to have
                <objectName type="vehicles">the machine</objectName> out I guess before <time>8 o'clock</time> in front for <persName ref="taylor">Mr.
                   Taylor</persName> ** I guess just about <time>8 o'clock</time>. (Witness quoting
-                  <persName ref="mrs.maclean">Mrs. MacLean</persName>) She says "Come up stairs". I says "All right."
+                  <persName ref="faithMaclean">Mrs. MacLean</persName>) She says "Come up stairs". I says "All right."
                I come up stairs. She says "<persName ref="taylor">Mr. Taylor</persName> was shot last night."
                "Oh' I said "Was he, that is what I heard," and she said "Yes." I think I said to
-                  <persName ref="mrs.maclean">Mrs. MacLean</persName> "That is <persName ref="murderer">the man</persName> I heard in <placeName type="street">the
-                  alley</placeName>. POLICE: Are you sure <persName ref="mrs.maclean">Mrs. MacLean</persName> told you
+                  <persName ref="faithMaclean">Mrs. MacLean</persName> "That is <persName ref="murderer">the man</persName> I heard in <placeName type="passage">the
+                  alley</placeName>. POLICE: Are you sure <persName ref="faithMaclean">Mrs. MacLean</persName> told you
                when you went up-there ‚Äì ‚Äì ‚Äî you say at <time>8 o'clock</time></p>
 
             <p>JEWETT: <time>In the morning</time>.</p>
 
-            <p>POLICE: Are you sure <persName ref="mrs.maclean">Mrs. MacLean</persName>told you at that time
+            <p>POLICE: Are you sure <persName ref="faithMaclean">Mrs. MacLean</persName>told you at that time
                   <persName ref="taylor">Mr. Taylor</persName> had been shot? JEWETT: Yes.</p>
 
             <p>POLICE: What time of the day was that?</p>
 
             <p>JEWETT: <time>8 o'clock in the morning</time>.POLICE: Can you think of that remark
-                  <persName ref="mrs.maclean">Mrs. MacLean</persName> said "<persName ref="taylor">Mr. Taylor</persName> is shot."
+                  <persName ref="faithMaclean">Mrs. MacLean</persName> said "<persName ref="taylor">Mr. Taylor</persName> is shot."
                Didn't she say, "<persName ref="taylor">Mr. Taylor</persName> is dead."</p>
 
             <p>JEWETT: No, she said "<persName ref="taylor">Mr. Taylor</persName> has been shot."</p>
 
 
 
-            <p><persName ref="charles maclean">CHARLES DOUGLAS MacLEAN</persName>, Neighbor Statement taken
+            <p><persName ref="charlesMaclean">CHARLES DOUGLAS MacLEAN</persName>, Neighbor Statement taken
                   <date>2-9-22</date> at ten MACLEAN: M.</p>
 
-            <p>MACLEAN: I told the <persName ref="police">officers</persName> what occurred the <eventName type="death">night
-                  of the murder</eventName> * * I was late for <eventName>dinner</eventName>. I 'was
+            <p>MACLEAN: I told the <persName ref="law">officers</persName> what occurred the <eventName type="death">night
+                  of the murder</eventName> * * I was late for <eventName type="meal">dinner</eventName>. I 'was
                5 minutes late. We had <eventName type="meal">dinner</eventName> at <time>7 o'clock</time>. I must have taken another 5
                minutes to get ready. We sat down I should judge <time>10 minutes after 7</time>. We
                sat there and I guess it took a half hour to eat dinner.</p>
@@ -206,8 +206,8 @@
 
             <p>POLICE: How was he lying?</p>
 
-            <p>MACLEAN: He was lying flat on his back, his feet separated a little, his legs apart
-               and his hands at his sides, lying perfectly on his back.</p>
+            <p>MACLEAN: He was lying flat on his <objectName type="bodypart">back</objectName>, his <objectName type="bodypart">feet</objectName> separated a little, his <objectName type="bodypart">legs</objectName> apart
+               and his <objectName type="bodypart">hands</objectName> at his sides, lying perfectly on his <objectName type="bodypart">back</objectName>.</p>
 
             <p>POLICE: Why is <objectName type="clothing">coat</objectName> appeared to be arranged you may say,
                just like he was laid out by friends.</p>
@@ -215,7 +215,7 @@
             <p>MACLEAN: Yes, he was perfect.</p>
 
             <p>MACLEAN: As I remember the <objectName type="clothing">coat</objectName> laid perfectly along his
-               body. It wasn't thrown back over or anything.</p>
+               <objectName type="body">body</objectName>. It wasn't thrown back over or anything.</p>
 
             <p>POLICE: Was his <objectName type="clothing">coat</objectName> buttoned?</p>
 
@@ -229,7 +229,7 @@
 
 
 
-            <p><persName ref="mrs.maclean">MRS. FAITH MACLEAN</persName>: neighbor Statement taken on <date>2-9-22</date> POLICE:
+            <p><persName ref="faithMaclean">MRS. FAITH MACLEAN</persName>: neighbor Statement taken on <date>2-9-22</date> POLICE:
                When did you first learn that <persName ref="taylor">Mr. Taylor</persName> was dead? </p>
 
             <p>MACLEAN: At <time>7:30</time>
@@ -242,14 +242,14 @@
 
             <p>POLICE: What did he say?</p>
 
-            <p>MACLEAN: "Help, <orgName type="police">Police</orgName>, <persName ref="taylor">Mr. Taylor</persName> is
+            <p>MACLEAN: "Help, <orgName type="law">Police</orgName>, <persName ref="taylor">Mr. Taylor</persName> is
                dead."</p>
 
             <p>POLICE: Did the fact that <persName ref="taylor">Mr. Taylor</persName> was dead remind you of
                anything that occurred <eventName type="murder">the night before</eventName> * did you hear a
                shot.</p>
 
-            <p>MACLEAN: Yes, what we thought might be a shot or a <objectName type="car">muffler</objectName>
+            <p>MACLEAN: Yes, what we thought might be a shot or a <objectName type="vehicle">muffler</objectName>
                explosion, I do not know which.</p>
 
             <p>POLICE: When did you hear that?</p>
@@ -274,21 +274,21 @@
 
             <p>POLICE: Which way was the <objectName type="door">screen</objectName>?</p>
 
-            <p>MACLEAN: The <objectName type="house">screen door</objectName> was open. I think the
-                  <objectName type="house">screen door</objectName> was open then it must have been to have seen
+            <p>MACLEAN: The <objectName type="door">screen door</objectName> was open. I think the
+                  <objectName type="door">screen door</objectName> was open then it must have been to have seen
                <persName ref="murderer">his</persName> figure as clearly as I did.</p>
 
-            <p>POLICE: Did <persName ref="murderer">he</persName> shut the <objectName type="house">door</objectName>?</p>
+            <p>POLICE: Did <persName ref="murderer">he</persName> shut the <objectName type="passage">door</objectName>?</p>
 
-            <p>MACLEAN: It seems like <persName ref="murderer">he</persName> shut the <objectName type="house">door</objectName>. It seems like <persName ref="murderer">he</persName>
+            <p>MACLEAN: It seems like <persName ref="murderer">he</persName> shut the <objectName type="passage">door</objectName>. It seems like <persName ref="murderer">he</persName>
                leaned in and pulled it closed.</p>
 
             <p>MACLEAN: So it must have been opened because I distinctly saw <persName ref="murderer">his</persName>
                   <objectName type="clothing">cap</objectName>.</p>
 
             <p>POLICE: You are satisfied are you, that the light came from <placeName type="scene">Taylor's
-                  apartment</placeName> out on <placeName type="street">the street</placeName> through the
-                  <objectName type="house">open door</objectName>?</p>
+                  apartment</placeName> out on <placeName type="passage">the street</placeName> through the
+                  <objectName type="passage">open door</objectName>?</p>
 
             <p>MACLEAN: Yes.</p>
 
@@ -296,19 +296,18 @@
 
             <p>MACLEAN: No, <persName ref="murderer">he</persName> was the coolest thing I have ever seen * * *. <persName ref="murderer">He</persName> turned around and
                looked at me and hesitated. Then it seems as if * * * that <persName ref="taylor">Mr.
-                  Taylor</persName> must have spoken to <persName ref="murderer">him</persName> from inside <placeName type="
-                     scene">the
-                  house</placeName> *** <persName ref="murderer">he</persName> thought he had spoken and he didn't. Seemed like <persName ref="murderer">he</persName>
-               pulled the <objectName type="house">door</objectName> shut, then turned around and looking at me
-               all the time, walked down a couple of steps that go up to <placeName ref="taylor">Mr. Taylor's
+                  Taylor</persName> must have spoken to <persName ref="murderer">him</persName> from inside <placeName type="scene">the house</placeName> 
+               *** <persName ref="murderer">he</persName> thought he had spoken and he didn't. Seemed like <persName ref="murderer">he</persName>
+               pulled the <objectName type="passage">door</objectName> shut, then turned around and looking at me
+               all the time, walked down a couple of <objectName type="house">steps</objectName> that go up to <placeName ref="taylor">Mr. Taylor's
                   house</placeName> there.</p>
             <p>POLICE: Do you know whether <persName ref="murderer">the man</persName> that you saw went to <placeName type="location">Alvarado
                   St</placeName>. through the open court there?</p>
 
             <p>MACLEAN: <persName ref="murderer">He</persName> went towards <placeName type="location">Maryland St.</placeName> and towards
-                  <placeName type="street">the alley</placeName> in <placeName type="street">between the two houses</placeName>
+                  <placeName type="passage">the alley</placeName> in <placeName type="passage">between the two houses</placeName>
                because <persName ref="murderer">he</persName> was facing that way ready to go when I closed the
-                  <objectName type="house">door</objectName>.</p>
+                  <objectName type="passage">door</objectName>.</p>
 
             <p>POLICE: You knew it wasn't <persName ref="taylor">Taylor</persName>.</p>
 
@@ -319,7 +318,7 @@
 
             <p>MACLEAN: Oh, yes, positively. </p>
 
-            <p>POLICE: Now, is it possible that it might have been this young man <persName ref="fellows">Howard
+            <p>POLICE: Now, is it possible that it might have been this young man <persName ref="howardFellows">Howard
                   Fellows</persName>, the chauffeur, that you saw there. Could that be possible.</p>
 
             <p>MACLEAN: I suppose it could be possible but it doesn't seem to me that he was <persName ref="murderer">the boy
