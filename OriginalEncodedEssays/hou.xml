@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>TITLE OF INTERVIEW</head>
+            <byline>Daniel Hou</byline>
+            <p> MEMORANDUM RE: <persName ref="Kirkwood">JAMES KIRKWOOD</persName> AND <persName ref="Mary">MARY MILES MINTER</persName></p>
+
+            <p><persName ref="Kirkwood">James Kirkwood</persName>, <persName ref="Kirkwood">actor and motion-picture director</persName>, was
+               <persName ref="Mary">Mary Miles Minter's</persName> <persName ref="Kirkwood">first director</persName> when she commenced making
+               <objectName type="document">pictures</objectName> for <orgName type="company">the American Film Company</orgName> in <placeName type="city">Santa
+                  Barbara</placeName> in <time>1916</time>. <persName ref="Mary">She</persName> was 15 years of age at the time.</p>
+
+            <p><eventName type="sex"><persName ref="kirkwood">Kirkwood</persName> then consummated the marriage in a much more mundane way as a result of
+               which <persName ref="Mary">Mary</persName> became pregnant</eventName>. <eventName type="sex">Intercourse went on for <time>a number of months</time></eventName>.</p>
+
+            <p><persName ref="Kirkwood">Kirkwood</persName> then left for <placeName type="city">New York</placeName> <time>(late 1916 or early in 1917)</time> and a
+               clandestine correspondence commenced between the two. <eventName type="contaction"><persName ref="Kirkwood">Kirkwood</persName> wrote a series of
+               <objectName type="document">letters</objectName> to <persName ref="Mary">Mary</persName></eventName>. These were sent to another male member of <orgName type="company">the motion-picture company</orgName>
+               who delivered the missives to <persName ref="Mary">Mary</persName>. The <objectName type="document">letters</objectName> were in <objectName type="document">plain white envelopes</objectName> labeled
+               <persName ref="Mary">“Juliet”</persName>. (Mary' s true name was Juliet Reilly.) In the meantime <persName ref="Mary">Mary's</persName> condition was
+               causing <persName ref="Shelby">her mother</persName>, <persName ref="Shelby">Mrs. Charlotte Shelby</persName>, (<eventName type="murder">always a <persName ref="Shelby">suspect</persName> in the <persName ref="Taylor">Taylor</persName> murder</eventName>,)
+               much concern. The <persName ref="Mary">girl's</persName> weight continued to increase and <persName ref="Shelby">the mother</persName> tried <objectName type="food">all kinds
+               of diets</objectName>.</p>
+ 
+            <p><eventName type="conatction">The correspondence between <persName ref="Kirkwood">Kirkwood</persName> and <persName ref="Mary">Mary</persName> continued</eventName>, <eventName type="contaction">but <persName ref="Shelby">the mother</persName> at last
+               intercepted <objectName type="document">one of the letters</objectName></eventName>. <persName ref="Kirkwood">Kirkwood</persName> at the time was staying at <placeName type="residence">the Lamb's Club</placeName>
+               in <placeName type="city">New York</placeName>. <persName ref="Shelby">Mrs. Shelby</persName> tore up the ground, to use Kary1s words, when <persName ref="Shelby">she</persName> found out
+               what was going on.</p>
+
+            <p><eventName type="contaction"><persName ref="Mary">Mary</persName> was forced to write a <objectName type="doument">letter</objectName> to <persName ref="Kirkwood">Kirkwood</persName> saying that they had been found out and
+               that her mother insisted that their <eventName type="sex">romance</eventName> end at once</eventName>. Also the mother insisted
+               that <persName ref="Kirkwood">Kirkwood</persName> return <objectName type="document">letters</objectName> written to <persName ref="Kirkwood">him</persName> by <persName ref="Mary">Mary</persName>. </p>
+
+            <p><persName ref="Shelby">The mother</persName> then took this <objectName type="document">collection of letters</objectName> and kept them in <objectName type="box">a safe-deposit box</objectName>.
+               <eventName type="contaction"><objectName type="document">They</objectName> were given to <persName ref="Mary">Mary</persName> recently</eventName> when <eventName type="relationship"><persName ref="Margaret">Mary's sister</persName>, <persName ref="Margaret">Margaret Fillmore</persName>, had a falling
+               out with <persName ref="Shelby">her mother</persName></eventName>. <persName ref="Shelby">The mother</persName> supposedly kept these <objectName type="document">letters</objectName> to hold over Mary's
+               head but <persName ref="Mary">Mary</persName> says that throughout the many rows between <persName ref="Mary">her</persName> and <persName ref="Shelby">her mother</persName> since
+               that the latter never mentioned the <objectName type="document">missives</objectName>.</p>
+            
+            <p><persName ref="Margaret">Margaret</persName> says that her mother once declared she was keeping the <objectName type="document">letters</objectName> so if anyone
+               ever <eventName type="murder">accused <persName ref="Shelby">her</persName> of murdering <persName ref="Taylor">Taylor</persName> that <persName ref="Shelby">she</persName> could prove that if <persName ref="Shelby">she</persName> was ever going
+               to murder anyone <persName ref="Shelby">she</persName> would have murdered <persName ref="Kirkwood">Kirkwood</persName> at the time</eventName>.</p>
+            
+            <p>The assortment of <objectName>letters</objectName> from <persName ref="Kirkwood">Kirkwood</persName> contain little factual evidence and are
+               mostly devoted to the outpouring of a <persName ref="Kirkwood">man</persName> obviously infatuated with <persName ref="Mary">the young screen
+               star</persName>. He speaks of <eventName type="contaction">writing two and three <objectName type="document">letters</objectName> a day and <objectName type="document">all the missives</objectName> were
+               ended in a long series of “X’s” or kisses</eventName>.</p>
+            
+            <p>Typical of the character of these fervent <objectName type="document">letters</objectName> is the following extract: "<persName ref="Mary">My
+               sweetheart</persName>, <persName ref="Mary">my wife</persName>, <persName ref="Mary">the mother of my children</persName>.” The last salutation was
+               underlined.</p>
+
+            <p>In <objectName type="document">the letter</objectName> <persName ref="Mary">Mary</persName> wrote telling <persName ref="Kirkwood">Kirkwood</persName> that all was over <persName ref="Mary">she</persName> mentions an·
+               "operation" performed: by <persName ref="Hutchison">Dr. Hutchison</persName>. <eventName type="sex">It seems that <persName ref="Kirkwood">Kirkwood</persName> or <persName ref="Shelby">Mrs. Shelby</persName>
+               arranged for this abortion</eventName>.</p> 
+            
+            <p>Only five persons, says <persName ref="Mary">Mary</persName>, ever knew of the extent of <eventName type="sex">this romance</eventName>. These were <persName ref="Shelby">her
+               mother,</persName> her grandmother, now dead, <persName ref="Margaret">her sister</persName> and <persName ref="Kirkwood">Kirkwood</persName>.</p>
+            
+            <p><persName ref="Mary">Mary</persName> claims that this definitely ended <eventName type="sex">her romance with <persName ref="Kirkwood">Kirkwood</persName></eventName> and that when she
+               met <persName ref="Taylor">William Desmond Taylor</persName> a year or two later that <persName ref="Mary">she</persName> realized that <eventName type="sex"><persName ref="Mary">her</persName> affair with
+               <persName ref="Kirkwood">Kirkwood</persName></eventName> was merely an infatuation and that <eventName type="sex"><persName ref="Mary">she</persName> really was in love with <persName ref="Taylor">Taylor</persName></eventName>.</p>
+            
+            <p>She says, however, that a year after <eventName type="murder">Taylor's murder</eventName> <date>in February, 1922</date>, that <persName ref="Kirkwood">Kirkwood</persName>
+               came to <persName ref="Mary">her</persName> and <eventName type="marry">wanted to marry <persName type="Mary">her</persName></eventName>. <eventName type="marry">She says she refused him</eventName> because she was still
+               in love with <objectName>Taylor's ghost</objectName> and <time>a short time later</time>, <eventName type="marry">having obtained a <eventName>divorce</eventName> from
+               <persName ref="Lila">his first wife</persName> <persName ref="Taylor">he</persName> married <persName ref="Lila">Lila Lee</persName></eventName>.</p>
+            
+            <p><objectName type="document">Investigation</objectName> at <time>the present time</time>, although handicapped by <time>the passage of time</time>,
+               indicates that <persName ref="Kirkwood">Kirkwood</persName> was in <placeName type="city">Los Angeles</placeName> at the time of the <eventName type="murder">Taylor murder</eventName> at about
+               <time>7:45 P.M</time>. <date>on the night of February 1, 1922</date>. <eventName type="sex"><persName ref="Kirkwood">He</persName> may even have been working on <placeName type="residence">the same
+                  lot</placeName> with <persName ref="Mary">Mary</persName></eventName>.</p>
+            
+            <p><objectName type="document">Old directories</objectName> of <time>the period</time> give his address as the <orgName type="residence">Los Angeles Athletic C1ub</orgName>, then
+               the habitat of many screen personalities including <persName ref="Neilan">Mickey Neilan</persName> and others. It was at the club that <eventName type="sex">a story was widely circu1lated that <persName>Mary</persName> one night went to <placeName type="residence">Taylor's
+               bungalow</placeName> and taking off all <persName ref="Mary">her</persName> <objectName type="clothes">clothes</objectName> begging <persName ref="Taylor">him</persName> to have intercourse with <persName ref="Mary">her</persName>.</eventName>
+               <persName>Mrs. Shelby</persName> is said to have arrived <time>a few minutes after</time> <persName>Mary</persName> left and demanded <persName ref="Mary">her
+               daughter</persName>. <persName>Taylor</persName> refused to have anything to do with <persName ref="Mary">the girl</persName> after. It is well
+               established, however, that <persName ref="Shelby">the mother</persName> considered <persName>Taylor</persName> a menace to her control over
+               <persName ref="Mary">her money-making daughter</persName> and hated <persName ref="Taylor">him</persName> accordingly.</p>
+            
+            <p>In a statement taken in <placeName>New York</placeName> in <time>1925</time> by former Chief Deputy District <persName ref="Attorney">Attorney
+               Harold Davis</persName> <persName ref="Mary">Mary</persName> recites that <persName ref="Shelby">her mother</persName> "tore"' up the earth when any man came
+               around her.” She recalled on one occasion, according to <objectName type="document">the transcript</objectName> or <objectName type="document">the
+               statement</objectName>, that she was present <placeName type="transportation">at a railroad station in Santa Barbara or Los Angeles</placeName>
+               with <persName ref="Kirkwood">Kirkwood</persName> and others and the <persName ref="Shelby">mother</persName>, 'being momentarily displeased with <eventName type="talk"><persName ref="Mary">Mary</persName>,
+               asserted that <persName ref="Shelby">she</persName> would kill anyone that came between <persName ref="Shelby">her</persName> and <persName ref="Mary">Mary</persName></eventName>,” man or woman and
+               even included a dog belonging to one of the company.</p>
+
+            <p>The theory of every person closely connected with the <persName ref="Taylor">Taylor</persName> case – Taylor’s personal
+               friends, intimates of the Shelby family -- has always been that <persName ref="Shelby">Mrs. Shelby</persName> either
+               killed <persName ref="Taylor">Taylor</persName> or influenced some other person to do it. It appears that <persName ref="Kirkwood">Kirkwood</persName> had
+               a romantic interest in <persName ref="Mary">Mary</persName> <time>at the time</time> of the <eventName type="murder">murder</eventName> and was also in a position to
+               have been under the domination of <persName ref="Shelby">Mrs.Shelby</persName>--<eventName type="sex"><persName ref="Kirkwood">he</persName> had committed statutory rape when
+               he had intercourse with <persName ref="Mary">Mary</persName> at the age or 15</eventName> and <eventName type="marry"><persName ref="Kirkwood">he</persName> was still married to <persName ref="Kirkwood">his</persName> first
+               wife <time>in 1922</time> and seeking a divorce</eventName>.</p>
+
+            <p><eventName type="murder"><persName ref="Maclean">The main witness</persName> in the <persName ref="Taylor">Taylor</persName> murder <time>at the time</time> of its commission</eventName> was <persName ref="Maclean">Mrs. Douglas
+               MacLean</persName>, <persName ref="Maclean">wife</persName> or the <persName ref="Maclean">comedian</persName> who lived <placeName type="residence">in a bungalow nearby</placeName>. <persName ref="Maclean">She</persName> heard a shot and
+               looked out in time to see a <persName ref="murderer">man</persName> leaving <placeName type="residence">the Taylor house</placeName>. This was unquestionably the
+               <persName ref="murderer">murderer</persName>. She says it could not have been a <persName ref="murderer">woman</persName> dressed in man's clothing. The
+               description given at the time closely resembles that of <persName ref="Kirkwood">Kirkwood</persName>. In addition <persName ref="Maclean">Mrs.
+               MacLean</persName> said that <eventName type="murder">the person appeared to <persName ref="Maclean">her</persName> to resemble someone in a motion-picture
+               get-up or in makeup</eventName>.</p>
+
+            <p>Another <persName ref="witness">witness</persName> recalls seeing <eventName type="murder"><persName ref="murderer">two men</persName> <placeName type="residence">at Taylor's door</placeName> <time>two nights before</time> the murder
+               at about <time>6:00 P.M.</time></eventName> These were described as <persName ref="murderer">tall men</persName> (<persName ref="Kirkwood">Kirkwood</persName> was six feet and
+               weighed 180 pounds) and <persName ref="murderer">a very small man</persName> weighing about 125 pounds.</p>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

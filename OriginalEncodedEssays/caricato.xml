@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Antonio Moreno</head>
+            <byline>Colin Caricato</byline>
+
+            <p><date>February 5, 1922</date>
+               <orgName type="newsletter">LOS ANGELES EXAMINER</orgName>
+               <persName type="victim">Victim</persName> Happy Before <eventName type="tragedy">Death</eventName>
+               <persName ref="moreno">Antonio Moreno</persName> Tells of Phone Conversation With Him
+                     <date><time>at 7 o'clock Night of Tragedy</time></date></p>
+
+            <p>The <eventName type="tragedy">assassination</eventName> of <persName ref="taylor"
+                  >William Desmond Taylor</persName>, <date><time>Wednesday night</time></date>,
+               postponed forever an <eventName type="meeting">engagement</eventName> which the film director had
+               with <persName ref="moreno">Antonio Moreno</persName>, film star, on
+                     <date><time>Thursday morning</time></date>. When <persName ref="moreno"
+                  >Moreno</persName> talked with <persName ref="taylor">Taylor</persName> over the
+                  <objectName type="communication">telephone</objectName>
+               <date><time>Wednesday night</time></date>, <time>about 7 o'clock</time>, <persName
+                  ref="Taylor">Taylor</persName> was in the best of spirits, according to <persName
+                  ref="moreno">Moreno's</persName> story told <date>yesterday</date>.</p>
+            <p>But when the time came for the <eventName type="meeting">appointment</eventName> to
+               be fulfilled <date><time>the following morning, between 10 and 10:30
+                  o'clock</time></date>, the film director's <objectName type="evidence">corpse</objectName> lay in
+               a <placeName type="storage">local undertaking company's morgue</placeName>, pierced by a
+                  <objectName type="evidence">murderer's bullet</objectName>. <persName ref="moreno"
+                  >Moreno</persName> said <date>yesterday</date> that he had been an intimate friend
+               of <persName ref="taylor">Taylor</persName> for <time>several years</time>, since the
+               time <persName ref="taylor">Taylor</persName> had become associated with <orgName
+                  type="film">the old Vitagraph Company</orgName> at <placeName type="city">Santa
+                  Monica</placeName> in <date>1914</date>.</p>
+            <p>"He was one of the finest men I ever met," "<persName ref="moreno">Tony</persName>"
+               said. "He had the highest ideals, I believe, of any man I've ever met in the
+               profession." Details of a <eventName type="party">dinner party</eventName> which he attended with
+                  <persName ref="taylor">Taylor</persName>, <persName ref="betty">Miss Betty Francisco</persName>
+               and <persName ref="windsor">Miss Claire Windsor</persName>, at the <placeName
+                  type="hotel">Ambassador Hotel</placeName>
+               <time>Thursday night</time>, <date>January 27</date>, were given by
+                  <persName ref="moreno">Moreno</persName>, as well as an <eventName type="meeting">informal meeting</eventName>
+               held between <persName ref="moreno">Moreno</persName>, <persName ref="taylor"
+                  >Taylor</persName>, <persName ref="hoyt">Arthur Hoyt</persName> and <persName
+                  ref="Robinson">a Captain Robinson</persName> [sic], <date>January 28</date>, at
+                  <persName ref="moreno">Moreno's</persName>
+               <placeName type="club">room at the Los Angeles Athletic Club</placeName>.</p>
+            <p>"I left them there <time>about 7 o'clock</time>," <persName ref="moreno"
+                  >Moreno</persName> said, "to go to a <eventName type="party">dinner party</eventName> at
+                  <placeName type="hotel">the Ambassador</placeName>, which I had arranged for
+                  <persName ref="relationship">a friend</persName> visiting here from <placeName type="city"
+                  >Chicago</placeName>. Later, I understand, the three went to <eventName
+                  type="meal">dinner</eventName> at a <placeName type="resturant">roadhouse between
+                  <placeName type="city">Los Angeles</placeName> and <placeName type="city">Pasadena</placeName></placeName>--I do not know its name--and then on to the
+                  <placeName type="club">Annandale Club</placeName>
+               <time>after <eventName type="meal">dinner</eventName></time>, finally going to <persName ref="taylor"
+                  >Taylor's</persName>
+               <placeName type="residence">home</placeName>."</p>
+            <p><persName ref="moreno">Moreno</persName> declared he had spent <time><date>about two
+                     hours last Monday</date></time> with <persName ref="taylor">Taylor</persName>
+               at <placeName type="film">the Vitagraph studio</placeName>, where <persName ref="moreno"
+                  >Moreno</persName> is working. He had an <eventName type="meeting">appointment</eventName> with
+               him for <date>Tuesday</date>, also, but the director, according to <persName
+                  ref="moreno">Moreno</persName>, did not fill it because of a
+                  <eventName type="travel">trip</eventName> to <placeName type="mountain">Mount Lowe</placeName> on location.</p>
+            <p>"Then I called him again <date><time>Wednesday night</time></date>," <persName
+                  ref="moreno">Moreno</persName> said, "<time>about 6 o'clock</time>. His boy,
+                  <persName ref="henry">Henry</persName>, answered <objectName type="communication">the
+                  phone</objectName>. <persName ref="taylor">Mr. Taylor</persName> was not
+                  <placeName type="residence">at home</placeName>. However, he called me later, <time>about 7</time>,
+               and we arranged that I should call for <persName ref="taylor">Mr. Taylor</persName>,
+               at the <placeName type="film">Lasky studio</placeName>, <date><time>about 10 o'clock
+                     Thursday morning</time></date>. <persName ref="hoyt">Mr. Hoyt</persName> was with me in
+                  <placeName type="residence">my room</placeName> at the time. <persName
+                  ref="taylor">Mr. Taylor</persName> was to go with me to the <placeName type="film"
+                  >Vitagraph studio</placeName>, on a matter of personal business."</p>
+            <p>"But--" and here <persName ref="moreno">Moreno</persName> gave a sorrowful shake of
+               his head--"But you know the rest. The <eventName type="meeting"
+                  >appointment</eventName> was not fulfilled--and never will be. "I feel that in
+                  <persName ref="taylor">Mr. Taylor's</persName>
+               <eventName type="morality">death</eventName> I've lost one of the best friends I've
+               ever know. And I'll do everything in my power to run down <persName ref="perpatrator"
+                  >the man who killed him</persName>."</p>
+
+            <p>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</p>
+
+            <p><date>February 5, 1922</date>
+               <orgName type="newsletter">LOS ANGELES TIMES</orgName> Film Star Aids <persName ref="enforcement">Police</persName> Search
+                  <persName ref="moreno">Tony Moreno</persName> With <persName ref="taylor"
+                  >Taylor</persName>
+               <time>Before Shooting</time>
+               <persName type="director">Director</persName> Was Healthy and Cheerful, Says Friend Check on Events
+               of Week Taken by <persName ref="enforcement">Officers</persName></p>
+
+            <p><persName ref="taylor">William D. Taylor</persName> appeared to be in the best of
+               health and spirits <time>about one hour before</time> he was shot down in his own
+                  <placeName type="residence">apartment</placeName> at <placeName type="street"
+                  >404-B South Alvarado Street</placeName>. He did not appear to have any
+               premonition of what lay in store for him, although, according to the <persName
+                  ref="enforcement">police</persName> theory of the slaying of the film director,
+               the <persName ref="perpatrator">murderer</persName> was then lurking in the shadows a few feet away
+               from <persName ref="taylor">Mr. Taylor</persName>.</p>
+            <p>This was disclosed yesterday by <persName ref="moreno">Tony Moreno</persName>,
+                  <orgName type="film">Vitagraph</orgName> star. <persName ref="moreno">Mr.
+                  Moreno's</persName> story of his conversations with the <persName type="director">slain director</persName> on the
+               night of the murder and for <date>a week prior</date> to the shooting, furnish an
+               important check on <persName ref="taylor">Mr. Taylor's</persName> movement for at
+               least <time>seven days preceding the shooting</time>. "I played <eventName
+                  type="leisure">golf</eventName> with <persName ref="taylor">Mr. Taylor</persName>
+               <date>exactly a week before his <eventName type="morality">death</eventName></date>. We drove to the <placeName type="club"
+                  >San Gabriel Country Club</placeName> and remained there <time>from about noon
+                  till dark</time>. While there I introduced him to <persName ref="enforcement">Asa
+                  Keyes, the Deputy District Attorney</persName>." <persName ref="moreno">Mr.
+                  Moreno</persName> said yesterday at his <placeName type="residence"
+                  >apartment</placeName>, in the <placeName type="club">Los Angeles Athletic
+                  Club</placeName>.</p>
+            <p>"The <date>next day</date> I saw him again. I met him at <placeName type="hotel">the
+                  Ambassador</placeName> at a <eventName type="party">party</eventName>. <persName
+                  ref="taylor">Mr. Taylor</persName> was with <persName ref="windsor">Miss Claire
+                  Windsor</persName>. I saw him leave <placeName type="hotel">the hotel</placeName> with her.
+               There were a number of picture people there <date>that night</date>.
+                     "<date><time>Saturday night</time></date>--that is, <date><time>a week ago
+                     tonight</time></date>--<persName ref="taylor">Mr. Taylor</persName> was here
+                  <placeName type="club">in the club</placeName>. He was in <placeName type="residence">my room</placeName> and
+               with us were <persName ref="hoyt">Arthur Hoyt</persName> and <persName ref="robertson">Capt.
+                  Robertson</persName>, who is a close friend of <persName ref="taylor">Mr.
+                  Taylor</persName>. We sat and talked a while. Then <persName ref="taylor">Mr.
+                  Taylor</persName>, <persName ref="hoyt">Mr. Hoyt</persName> and <persName ref="robertson">Capt.
+                  Robertson</persName> left. Later I learned they drove to <placeName type="town">Cedar Grove,
+                  near <placeName type="city">Pasadena</placeName>,</placeName> and had something to eat there. From there they drove
+               to the <placeName type="club">Annandale Country Club</placeName>.</p>
+            <p>"I saw <persName ref="taylor">Mr. Taylor</persName> next at the <placeName
+                  type="film">Lasky studios</placeName>, <date>Monday morning</date>
+               <time>at 10 o'clock</time>. I had an <eventName type="meeting"
+                  >appointment</eventName> with him to go to the <placeName type="film">Vitagraph
+                  studios</placeName>, on a matter of business importance to me. <persName
+                  ref="bennett">Chester Bennett</persName> of the <placeName type="film">Brunton
+                  studios</placeName>, was with us. We were together <time>until 12:30 p.m. that
+                  day</time>. "We were unable to see the people we wanted that day. <eventName type="meeting">The
+                  appointment</eventName> had to be made over again. I called <persName ref="taylor"
+                  >Mr. Taylor</persName> again, <date>Tuesday</date> at the <placeName type="film">Lasky
+                  lot</placeName>, but I did not get to talk to him. I was informed that he was out
+               on location on <placeName type="mountain">Mt. Lowe</placeName>. <date>Tuesday, which was the day
+                  before the murder</date>, I could not get in touch with him.</p>
+            <p>"<date><time>Wednesday night</time></date>
+               <persName ref="taylor">Mr. Taylor</persName> called me <placeName type="club">at the
+                  club</placeName>. I was in <persName ref="hoyt">Mr. Hoyt's</persName>
+               <placeName type="residence">room</placeName>, when the call came. We discussed the <eventName
+                  type="meeting">business appointment</eventName> I wanted <persName ref="taylor"
+                  >Mr. Taylor</persName> to participate in. As near as I can now recall it, it was
+                  <time>about 7 o'clock</time> when <persName ref="taylor">Mr. Taylor</persName>
+               called. He did not tell me much about <eventName type="travel">his trip</eventName> to <placeName
+                  type="mountain">Mt. Lowe</placeName>.</p>
+            <p>"<persName ref="hoyt">Mr. Hoyt</persName> was present at the conversation. It lasted
+                  <time>several minutes</time>. <persName ref="taylor">Mr. Taylor</persName> then
+               made an <eventName type="meeting">appointment</eventName> for <date><time>Thursday
+                     morning, at 10 o'clock</time></date>. He appeared to be in best of spirits. He
+               was pleasant and cheerful. "It was <time>a few minutes after 7</time> that <persName
+                  ref="taylor">Mr. Taylor</persName> hung up. Then <persName ref="hoyt">Mr.
+                  Hoyt</persName> and I went to the <placeName type="club">club
+                  dining-room</placeName> and stayed there for <eventName type="meal"
+                  >dinner</eventName>. "<date><time>Thursday morning</time></date>, <persName
+                  ref="hoyt">Mr. Hoyt</persName> called me and told me I would not be able to keep
+               the <eventName type="meeting">appointment</eventName> with <persName ref="taylor">Mr.
+                  Taylor</persName> because he was dead. He then told me what he read in the
+               papers."</p>
+            <p><persName ref="enforcement">The investigators</persName>
+               <time>last night</time> began to check up the facts supplied by <persName
+                  ref="moreno">Mr. Moreno</persName> in an effort to supply the missing links and
+               thus account for every action and movement of the <persName ref="director">slain director</persName>. <persName
+                  ref="moreno">Mr. Moreno's</persName> story supplied much important data, the
+                  <persName ref="enforcement">officers</persName> say.</p>
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

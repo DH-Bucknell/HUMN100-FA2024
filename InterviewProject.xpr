@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Module2/killian.xml</String>
+                                    <String>Module2/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Module2/</String>
+                                    <String>Module2/killian.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

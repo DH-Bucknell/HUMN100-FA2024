@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall 2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with <persName>Ethel Mae Harrison</persName></head>
+            <byline>Carter Morton</byline>
+            <p>
+               
+               Interviews with <persName>Ethel Mae Harrison</persName>
+               
+              <date>February 13, 1922</date>
+              <orgName type="Newspaper">NEW YORK HERALD</orgName> </p>
+           
+            <p>...<persName ref="Ethel">Mrs. Robins</persName>, who married <persName ref="Taylor">William Cunningham Deane-Tanner</persName>, or <persName ref="Taylor">William
+               Desmond Taylor</persName>, as he was later known, in <date>1902</date>, said her former husband had
+               spent some time on a <placeName type="job">pony ranch</placeName> in <placeName type="region">southwestern</placeName> <placeName type="state">Kansas</placeName> before <persName ref="Ethel">she</persName> met him in
+               <placeName ref="city">New York</placeName>.  The only information she had ever had was that which <persName ref="Taylor">Deane-Tanner</persName>
+               gave her personally.</p>
+            
+            <p>"<persName ref="Taylor">Mr. Deane-Tanner</persName> told me that when he arrived here from <placeName type="country">Ireland</placeName> he had
+               gone out to this <placeName type="job">ranch</placeName>," <persName ref="Ethel">Mrs. Robins</persName> said, "and his family in <placeName type="country">Ireland</placeName> had
+               <eventName type="investment">bought</eventName> for him a part interest in it.  When I met him he referred to it and
+               told me a flaw in the <objectName type="document">title</objectName> had forced several of the shareholders,
+               including <persName ref="Taylor">himself</persName>, to give up their part, and he then joined the <orgName type="company">Davenport
+               road company</orgName>.  After the failure of his venture in <placeName>Kansas</placeName> he returned to his
+               home in <placeName type="country">Ireland</placeName> for a visit.</p>
+            
+            <p>"With reference to the claim of this <persName ref="Taylor">Mr. Taylor</persName> in <placeName ref="State">California</placeName> that he
+               is the son of the murdered <persName ref="Taylor">director</persName>, I would not like to say flatly that the
+               claim is or is not true, for I knew little of <persName ref="Taylor">Mr. Deane-Tanner's</persName> life on the
+               <placeName type="job">ranch</placeName> in <placeName type="state">Kansas</placeName> and did not find it necessary to catechize him minutely, and
+               he never mentioned anything to me about having been married out there.
+               Perhaps there is some truth in the story, or it may be another of the many
+               persons who come forward whenever there is an <objectName ref="money">estate</objectName> to be settled.  I have
+               been interested in the number of persons who claim <persName ref="Taylor">Mr. Deane-Tanner</persName>, or
+                  <persName ref="Taylor">Taylor</persName>, was their father.  To date he must have had at least six or seven
+                  children besides my own daughter, if the stories are all correct.  As <persName ref="Taylor">Mr.
+               Deane-Tanner</persName> would only be about <time>fifty years</time> old now, that is rather
+               ridiculous, I think."</p>
+             
+            <p> Referring to the criminal end of the case, <persName ref= "Ethel">Mrs. Robins</persName> criticized the
+               work of the <placeName type="City">Los Angeles</placeName> detectives and prosecutors, saying they do not seem
+               to be particularly anxious to solve the mystery of the identity of the
+               murderer.</p>
+               
+            <p>"<persName ref="Ethel">I</persName> have bitterly resented the accounts printed in some of the
+               newspapers here that my daughter and myself are merely interested in the
+               financial part of the affair and are more interested in the <persName ref="Taylor">Taylor</persName> <objectName ref="money">estate</objectName>
+               than in the identity of the person who killed my former husband.  This is
+               absolutely untrue, for, as <persName ref="Taylor">Mr. Taylor's</persName> former wife, I am deeply grieved at
+               this terrible affair and am anxious to see the guilty person punished."
+               Returning to the discussion of the claim of the man who says the <persName ref="Taylor">movie
+               director</persName> was his <persName ref="Taylor">father</persName>, <persName ref="Ethel">Mrs. Robins</persName> said that it seemed improbable that her
+               first husband ever used the name of <persName ref="Taylor">Taylor</persName> before he left <placeName type="city">New York</placeName> in <date>1908</date>.
+               <persName ref="Ethel">She</persName> said that to old friends who knew him when he first came to <placeName type="America">this country</placeName>
+               and had been in constant touch with him during his stay in <placeName type="state">Kansas</placeName> nothing
+               was known of any marriage while he was in the <placeName>West</placeName>.  After that, and until
+                  he <eventName type="leaving">disappeared</eventName>, <persName ref="Ethel">Mrs. Robins</persName> said, he never used the name of <persName ref="Taylor">Taylor</persName>, or
+               referred extensively to his visit to the <placeName type="job">ranch</placeName> in the <placeName type="region">West</placeName>.</p>
+            
+            <p>"I never really knew <persName ref="Taylor">Mr. Deane-Tanner's</persName> right age," <persName>Mrs. Robins</persName> said,
+               "and I understood that he had been in <placeName type="Ireland">his country</placeName> about eight or nine years,
+               when I <eventName type="marriage">married</eventName> him at the <orgName type="Church">Little Church Around the Corner</orgName> in <date>1901</date>.  He was a
+               fine, lovable man, and I never had occasion to closely question him about
+               his 'past,' which every one seems trying to <eventName type="investigation">dig up</eventName>."</p>
+              
+            <p>No decision whether <persName ref="Ethel">Mrs. Robins</persName> or her daughter, <persName ref="Daughter">Ethel</persName>, will go to
+               <placeName type="state">California</placeName> in connection with the settling of the <objectName type="money">estate</objectName> has been reached.
+               <persName ref="Frank">Frank E. Schrenseisen</persName> of <placeName type="city">New Rochelle</placeName>, attorney for <persName>Miss Tanner</persName>, said that
+               he was awaiting developments and instructions from the office of the Public
+               <title type="politician">Administrator</title> in <placeName type="city">Los Angeles</placeName>.  Another attorney for <persName ref="Ethel">Miss Tanner</persName> has been
+               engaged in <placeName type="city">Los Angeles</placeName>.  Should the <title type="politician">Public Administrator</title> place credence in
+                  the story of <persName ref="Taylor">Taylor</persName>, it is probable that <persName ref="Ethel">Miss Tanner</persName> will accompany her
+               attorney to <placeName type="region">the coast</placeName>.</p>
+           
+            <p> "<persName ref="Taylor">Mr. Deane-Tanner</persName> told my <persName ref="Daughter">daughter</persName> that he had made a <objectName type="will">will</objectName> in her
+               favor," <persName ref="Ethel">Mrs. Robins</persName> said, "and had placed it in his <objectName type="bank">safe deposit box</objectName>.  I
+               understand that this is another one of the <objectName type="will">items</objectName> which the police say have
+               strangely '<eventName type="disapearnce">disappeared</eventName>.'  What he did with it I have no idea, but I feel
+               that the entire matter will be straightened out.  Just at present I am
+               hoping that the murderer of <persName ref="Taylor">Mr. Taylor</persName> will be brought to justice for this
+               terrible crime."</p>
+              
+            <p><persName ref="Ethel">Mrs. Robins</persName> commented on the strange disappearance of <persName ref="Dennis">Dennis Deane-
+               Tanner</persName>, <persName ref="Dennis">brother</persName> of the murdered <persName ref="Taylor">director</persName>, and said she had never heard a
+               word from him since he left this <placeName type="NYC">city</placeName> in <date>1912</date>, just <time>four years</time> after her
+               husband <eventName type="disappearance">disappeared</eventName>.  She said the two brothers had been good friends and
+               business associates, and that <persName ref="Dennis">Dennis</persName> had visited their home at <placeName type="town">Larchmont</placeName> on
+               several occasions, and had met many of their friends.  There was never any
+               trouble between the brothers as far as she knew, <persName ref="Ethel">Mrs. Robins </persName>said.</p>
+            
+               <p><date>February 14, 1922</date>
+               <orgName type="newspaper">NEW YORK AMERICAN</orgName></p>
+              
+            <p>To the two names suggested in the <orgName type="newspaper">New York American</orgName> <date>yesterday</date>--<persName ref="Sands">Edward
+               F. Sands</persName> and <persName ref="Dennis">Dennis Gage Deane-Tanner</persName> as persons whose discovery may furnish
+               a clue to the identity of the slayer of <persName ref="Taylor">William Desmond Taylor</persName>--was added
+               <date>yesterday</date> a third.</p>
+             
+            <p> The third person is a woman, a fascinating blonde who was the companion
+               of <persName ref="Taylor">Taylor</persName> (or <persName ref="Taylor">W. C. Deane-Tanner</persName>, as he was then known) on a trip through
+               the <placeName type="region">Adirondacks</placeName> during the <date>Summer of 1908</date>, <date>three months prior</date> to the sudden
+               disappearance of <persName ref="Taylor">"Pete" Tanner</persName> in <date>late October, 1908</date>.</p>
+              
+            <p>This woman, who had completely enchained the fancy of the aristocratic,
+               handsome <persName ref="Taylor">Tanner</persName>, was married.  Her identity is said to be known to a few of
+               <persName ref="Taylor">Tanner's</persName> associates of the old days when he was a director in the <orgName type="company">A. J.
+               Crawford Company</orgName> firm at <placeName type="address">No. 253 Fifth avenue</placeName>.  She was the co-respondent in
+               the divorce <eventName type="divorce">suit</eventName> instituted some two years after <persName ref="Taylor">"Pete" Tanner's</persName>
+               disappearance by <persName ref="Ethel">Mrs. Ethel May Hamilton Robins</persName>, now the wife of <persName ref="Robins">Edward L.
+               C. Robins</persName>, managing proprietor of <orgName type="restaurant">Delmonico's</orgName>.</p>
+              
+            <p>Does this hitherto hidden episode in the life of the murdered <persName ref="Taylor">man</persName> bear
+               any significance upon the crime?</p>
+               
+            <p>Was the woman's husband implacably determined to <eventName type="revenge">avenge</eventName> himself upon
+               the <persName ref="Taylor">man</persName> who had won the affections of his wife?</p>
+              
+            <p>Was it the hand of the husband that <eventName type="murder">fired</eventName> the fatal <objectName type="bullet">bullet</objectName> (from twelve
+               to fourteen years old, according to the testimony of experts in ballistics)
+               that killed <persName ref="Taylor">William Desmond Taylor</persName>?</p>
+              
+            <p> ...At her home, <placeName type="house">Orienta Point,</placeName> <placeName type="town">Mamaroneck</placeName>, <persName ref="Ethel">Mrs. Robins</persName>, former wife of
+               the slain <persName ref="Taylor">director</persName>, <date>yesterday</date> refused to discuss this episode in the life of
+               her former <persName ref="Taylor">husband</persName>.  <persName ref="Ethel">She</persName> refused to see <persName ref="reporter">newspaper men</persName> but told a friend:
+               "<persName ref="Ethel">I</persName> would do anything in my power to solve the mystery of <persName ref="Taylor">Mr. Tanner's</persName>
+               death but I do not think there can be any possible relation between this
+               incident and the crime.  It was not until <date>long after</date> <persName ref="Taylor">Mr. Tanner's</persName>
+               disappearance that I learned definitely there was another woman in his life.
+               "This information was placed in the hands of my attorney, <persName ref="George">Mr. George
+               Thoms</persName>, and he brought a successful <eventName type="divorce">suit</eventName> for divorce against <persName>Mr. Tanner</persName>.
+               This was in <date>the latter part of 1918</date> [sic].  At that time I did not know
+               whether <persName ref="Taylor">Mr. Tanner</persName> was dead or alive.</p>
+             
+            <p>"It was <date>later</date>, perhaps <date>seven years ago</date>, that I <eventName type="recognize">saw</eventName> <persName ref="Taylor">Mr. Tanner</persName> for the
+               first time on the screen.  I cannot remember the name of the photoplay in
+               which he appeared.  However, it was not until <date>two and one-half years ago</date>
+               that I learned definitely that <persName ref="Taylor">William Desmond Taylor</persName> was my former
+               husband."</p>
+              
+               <p><date>February 14, 1922</date>
+               <orgName type="newspaper">WASHINGTON TIMES</orgName></p>
+              
+            <p> <placeName type="city">New York</placeName>, <date>Feb. 14</date> -- Of the many screen stars he knew, some of whom
+               have been thrown squarely into the spotlight by the unrelenting inquiry into
+               his association with <persName ref="Taylor">William Desmond Taylor</persName>, slain director, mentioned but
+               one--<persName ref="Mary">Mary Miles Minter</persName>--in his letters to his nineteen-year-old daughter,
+               <persName ref="daughter">Miss Ethel Daisy Deane-Tanner</persName>.</p>
+              
+            <p> Disclosing this fact to a reporter today, <persName ref="Daughter">Miss Tanner</persName> and her mother,
+               <persName ref="Ethel">Mrs. Edward L. C. Robins</persName>, who live in <placeName type="town">Mamaroneck</placeName>, both of whom were <eventName type="abondon">deserted</eventName>
+               by the man of mystery in <date>1908</date>, said that <persName>Miss Minter's</persName> name was used by the
+               <persName ref="Taylor">director</persName> only in an impersonal way.</p>
+               
+            <p><persName ref="Taylor">He</persName> referred to her as an actress of ability, and said he had directed
+               <persName ref="Mary">her</persName> in some of her photoplays.  This was one of the last letters written to
+               his daughter by <persName ref="Taylor">Taylor</persName> before he was <eventName type="murder">murdered</eventName> in his <placeName type="city">Los Angeles</placeName> <placeName type="house">bungalow</placeName>.
+               <persName ref="Ethel">Mrs. Robins</persName> and her daughter expressly asserted that the name of <persName ref="Mabel">Mabel
+               Normand</persName>, screen comedienne, and last person to see the director alive, did
+               not appear in <persName ref="Taylor">Taylor's</persName> letters to his <persName ref="daughter">daughter</persName>, which had been more or less
+               frequent during the <date>last two years</date>.</p>
+               
+            <p>Curiously enough, (and one reason why <persName ref="Ethel">Mrs. Robins</persName> is increasingly
+               inclined to the opinion that her husband's sudden <eventName type="abandon">disappearance</eventName> from <placeName type="city">New
+               York</placeName> was due to loss of memory), her former husband never mentioned her in
+               the letters.</p>
+              
+            <p>Another reason for this belief, she declared, was that on the times she
+               and her daughter lunched here with <persName ref="Taylor">Taylor</persName>--after it was definitely
+               established that <persName ref="Taylor">Taylor</persName> was in reality <persName ref="Taylor">Deane-Tanner</persName>--he never mentioned the
+               fact that he <eventName type="abandon">deserted</eventName> his <persName ref="Ethel">wife</persName> and <persName type="Ethel">daughter</persName>.  On these occasions all three
+               felt the subject was rather delicate and it was never brought up.
+               <persName ref="Ethel">Mrs. Robins</persName> said that when <persName type="Ethel">she</persName> and her <persName ref="daughter">daughter</persName> became convinced <date>two
+               years ago</date>, after seeing pictures of <persName ref="Taylor">Taylor</persName>, that he was the girl's father,
+               <persName ref="daughter">Miss Deane-Tanner</persName> took the initiative and wrote to him.  His reply came
+               <time>immediately</time>.</p>
+            
+            <p>In it he said he was very glad to hear from her; that he had not heard
+               from he for so <time>long</time> that he thought <persName ref="daughter">she</persName> was dead.  This is one more reason
+               why <persName ref="Ethel">Mrs. Robins</persName> believes her former <persName ref="Taylor">husband</persName> was a victim of aphasia when he
+               left, after attending the <placeName type="town">Vanderbilt</placeName> cup races in <date>1908</date>.
+               <persName>Taylor</persName> also, <persName>Mrs. Robins</persName> asserted, was unable to recall friends of
+               their married life, and when their names were mentioned, his face failed to
+               show the slightest signs of remembrance.  He did remember, however, favorite
+               dishes of his former wife when he was dining with his daughter, pointing
+               them out to the latter on the menu during their luncheon together.
+               <persName ref="Ethel">Mrs. Robins</persName> declared that these points proved that his mind, while
+               vague as to consequential facts about <persName ref="Ethel">her</persName> married life with the <persName ref="Taylor">director</persName>,
+               retained minor details.</p>
+             
+            <p> The director's experiences in <placeName type="state">Alaska</placeName> also were set forth in one <objectName type="letter">letter</objectName>.
+               <persName ref="Taylor">Taylor</persName> told of how he contracted scurvy, consequently suffering from loss of
+               hair, headaches and neuralgia.  Another letter dismissed with a few scornful
+               words <persName ref="Sands">Sands</persName>, his chauffeur, who is still being sought by police.  The
+               <persName ref="Taylor">director</persName> declared <persName ref="Sands">Sands</persName> had upset his home and said his name had been forged
+               to checks by his unfaithful servant.</p>
+              
+            <p>Signatures <persName ref="Taylor">Taylor</persName> used in his letters to his <persName ref="daughter">daughter</persName>, for whom he
+               showed deep devotion, were "<persName ref="Taylor">Father</persName>" and "<persName ref="Taylor">Daddy Pete</persName>."  The origin of how
+               <persName ref="Taylor">Taylor</persName> came to be known as "<persName ref="Taylor">Pete</persName>" was explained by <persName ref="Ethel">Mrs. Robins</persName>.  She said
+               when <persName ref="Taylor">Taylor</persName>, or as he was known then, <persName ref="Taylor">Deane-Tanner</persName>, first came to live in
+               <placeName type="City">New York</placeName> he took lodging with several Englishmen.</p>
+             
+               <p><persName ref="Taylor">Taylor</persName>, always deliberate and calculating in his methods, was nicknamed
+               "<persName ref="Taylor">P. D. Q.</persName>," by his roommates, which was quickly shortened to "<persName ref="Taylor">Pete</persName>."
+               The <persName ref="Taylor">director's</persName> promise to leave his <objectName type="money">estate</objectName> to his <persName ref="daughter">daughter</persName> was
+               contained in a <objectName type="letter">letter</objectName> written in <date>February, 1920</date>.  <persName ref="Ethel">Mrs. Robins</persName> said her
+               former husband said in this message he thought it would be good policy to
+               leave them both an <objectName type="money">annuity</objectName>, in addition to telling of his <objectName type="will">will</objectName> bequeathing
+               his <objectName type="money">estate</objectName> to <persName ref="daughter">Ethel Daisy</persName>.</p>
+              
+               <p><date>February 7, 1922</date>
+               <orgName type="newspaper">NEW YORK AMERICAN</orgName></p>
+             
+            <p> [relating the testimony of <persName ref="Taylor">Taylor's</persName> <persName ref="Ethel">wife</persName> during the divorce <eventName type="divorce">hearing</eventName> in
+               <date>1911</date>]...<persName ref="Ethel">Mrs. Tanner</persName>, in her testimony, said she was married on
+               <date>December 7, 1901</date>, at the <orgName type="Church">Little Church Around the Corner</orgName>.
+               The ceremony was performed by <persName ref="reverend">Rev. George C. Houghton</persName>, pastor of the
+               church.  Following the marriage the couple went to live at <placeName type="adress">No. 40 Washington
+               Square South</placeName>, and later moved to the <placeName type="hotel">Hotel Colonial</placeName> at <placeName type="street">Columbus Avenue</placeName> and
+               <placeName type="street">Eighty-first street</placeName>, at which time her husband became associated with <orgName type="company">A. J.
+               Crawford &amp; Co.</orgName>, at <placeName type="adress">No. 251 Fifth Avenue</placeName>.
+               <persName ref="Ethel">Mrs. Deane-Tanner</persName> added:</p>
+             
+            <p>"My husband left home at <time>noon</time> on <date>October 23, 1908</date>, and I have never
+               seen him since.  The last word received from him was on <date>October 26, 1908</date>,
+               when he was stopping at the <placeName>Broadway Central Hotel</placeName>.  He sent word to the
+               <orgName type="company">Crawford firm</orgName> asking for a sum of <objectName type="money">money</objectName>.  This was sent to him by <persName type="Daniel">Daniel J.
+               Barker</persName>, of the firm.  Then he disappeared."</p>
+               
+         </div>
+      </body>
+   </text>
+</TEI>

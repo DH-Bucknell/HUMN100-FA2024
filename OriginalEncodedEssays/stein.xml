@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Miss J. M. Berger</head>
+            <byline>Lily Stein</byline>
+
+            <p>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement taken
+               3-11-26 at 1:30 PM </p>
+            <p>POLICE: We have been informed that you had a conversation with<persName ref="shelby"> Mrs.
+                  Shelby</persName> at the time he <persName ref="taylor">(Taylor)</persName> was killed in which
+               you were the first that gave her the information as to his <eventName type="death">death</eventName>. </p>
+
+            <p>BERGER: I did! My god, the next thing they will say I <eventName type="murdered">murdered</eventName> him. I should say not.
+               I was the first one to give it to her? Absolutely not. I didn't know it until it was
+               given to me. I think <persName ref="shelby">Mrs. Shelby</persName> called me up right after I got
+               to my <placeName type="work">office</placeName> in the morning.</p>
+
+            <p> POLICE: What time was that?</p>
+
+            <p> BERGER: I imagine about <time type="morning">7:30</time>. </p>
+
+            <p> POLICE: Do you recall that you warned <persName ref="shelby">Mrs. Shelby</persName> that she
+               should not be in that <placeName type="newhamphouse">house (N. Hampshire house)</placeName> by
+               herself?</p>
+
+            <p> BERGER: I did? Well, I should say not.</p>
+
+            <p> POLICE: And that she replied over the phone that she wasn't alone, that she had
+                  <persName ref="smith">Mr. Smith</persName> there?</p>
+
+            <p> BERGER: I say that? How could I ever make such a remark? The first time I heard or
+               saw you was after this murder, wasn't it?</p>
+
+            <p>POLICE: Do you remember of ever calling<persName ref="shelby"> Mrs. S helby</persName> on the
+               telephone and telling her <persName ref="taylor">Taylor</persName> was killed or murdered?</p>
+
+            <p>BERGER: NO - capital letters - NO.</p>
+
+            <p> POLICE: Now, <persName ref="miss berger">Miss Berger</persName>, I asked you <time>yesterday</time> a question,
+               whether or not you ever had a conversation with<persName ref="shelby"> Mrs. Shelby</persName> on
+               the morning of <date type="febuary2">February 2, 1922</date>, following the death of<persName ref="taylor"> Mr.
+                  Taylor</persName>? </p>
+            <p> BERGER: I did. </p>
+            <p> POLICE: At what time?</p>
+
+            <p>BERGER: At <time type="morning">half past seven in the morning</time><persName ref="shelby"> Mrs.
+                  Shelby</persName> called me.</p>
+
+            <p>POLICE: Wou1d you care to relate to me what the conversation was?</p>
+
+            <p>BERGER: Absolutely. Gladly. I arrived at my <placeName ref="work">office</placeName>
+               <time>between 7 and 7:30 on the morning</time> of<date type="febuary2"> February 2nd, 1922</date>. My
+               telephone was ringing. I answered the phone. <persName ref="shelby">Mrs. Charlotte
+                  Shelby</persName> said, "<persName ref="margery">Margery</persName>, I have something terrible
+               to tell you. The man that was in your <placeName type="work">office</placeName>
+               <time>yesterday afternoon</time> is no more. He is dead." I said, "What do you mean?"
+               She said, "He was found dead <time ref="morning">this morning</time>." "Who told you? What do you
+               know about it?" I said. "<persName ref="lasky">Lasky's</persName> just called me up and told me."
+               I said, "Where are you now?" She said, "I am at the <placeName type="newhamphouse">New Hampshire
+                  home</placeName>". I said, "Is the whole family there?" She said, "No, I am
+               alone." She did state that <placeName type="laskystudio">Lasky's Studio</placeName> had called her up
+               and informed her about <time ref="estimation">half an hour previous</time> to her calling me. It was
+               between <time type="morning">7 and 7:30 that morning</time> at my <placeName type="work">office</placeName> that
+               she called. </p>
+
+
+            <p> HARRY FELLOWS, Assistant Director to Wm. Desmond Taylor Statement taken 2-9-22.</p>
+
+            <p> POLICE: Did she appear to be fond of him?</p>
+
+            <p>FELLOWS: <persName ref="minter">Miss Minter</persName>?</p>
+
+            <p>POLICE: Yes.</p>
+
+            <p>FELLOWS: Yes, she did seem to be very fond of <persName ref="taylor">Mr. Taylor</persName>. - - -
+               and seemed to chase him around to the <placeName type="studio">studio</placeName> and things like that. As far as I
+                  know<persName ref="taylor"> Mr. Taylor</persName> never really thought an awful lot of
+                  <persName ref="minter">Miss Minter</persName>. I mean more than just to like her for a nice
+               little girl. He thought more of <persName ref="normand">Miss Normand</persName> than he did of any
+               one I have ever known. I got there ‚Äì ‚Äì ‚Äì I must have got at <persName ref="taylor">Mr.
+                  Taylor</persName>‚Äôs <placeName type="taylorhome">house</placeName> about <time type="morning">8 o'clock in the morning</time> when I
+               came there.</p>
+
+            <p>POLICE: That is the day he was killed?</p>
+
+            <p>FELLOWS: Yes, on <time ref="morning">Thursday morning</time>.</p>
+
+            <p> POLICE: Well, did you know that he was killed before you went there?</p>
+
+            <p>FELLOWS: No, my brother called me up and told me<persName ref="taylor"> Mr. Taylor</persName> was
+               found dead. I understood him to say <persName ref="taylor">Mr. Taylor</persName> was found <eventName type="dead ">dead</eventName> in
+               <placeName type="bed">bed</placeName>.</p>
+
+            <p>POLICE: Who was there, <persName ref="harry">Harry</persName>, when you came in?</p>
+
+            <p> FELLOWS: There was <persName ref="douglas">Douglas MacLean</persName> and the owner of the court I
+               think, his name is <persName ref="jesserun">Jesserun</persName>. I think there was two men from
+               headquarters and my brother, <persName ref="howard">Howard</persName> and<persName ref="henry"> Henry
+                  Peavy</persName>. I am not positive whether the <persName ref="doctor">doctor</persName> was
+               there when I first got there or whether he came when I was phoning <persName ref="eyton">Mr.
+                  Eyton</persName>. <persName ref="arthur">Arthur Hoyt</persName> and <persName ref="charlie">Charlie
+                  Maigne</persName> and myself went <placeName ref="place">upstairs</placeName> and got all the
+               literature and things like that that we could get and put them in a <objectName type="package">package</objectName> *** and I
+               gave <persName ref="jimmie">Jimmie Vantrees</persName> who was <persName ref="camerman">Mr. Taylor's
+                  Cameraman</persName> and<persName ref="ivers"> Mrs. Ivers (Jimmie's mother)</persName> and ask
+               them to keep the letters for me. Why <persName ref="jimmie">Jimmie</persName> must have given them
+               to <persName ref="ivers">Mrs. Ivers</persName> and then then I went right over and got them from
+               her and took them out to the<placeName ref="studio"> studio</placeName>.</p>
+
+            <p>POLICE: What did you do with them?</p>
+
+            <p> FELLOWS: Gave them to<persName ref="eyton"> Mr. Eyton</persName>. *** I don‚Äôt think any body
+               made an examination until <persName ref="eyton">Mr. Eyton</persName> insisted on an examination
+               being made and that must have been <time type="estimation">two hours or 2¬Ω hours after</time> the time
+               we got there anyway.</p>
+
+
+            <p> HOWARD FELLOWS, Chauffeur for Mr. Taylor Statement taken 2-9-22, 4:45 P.M.</p>
+
+            <p>POLICE: Where did you take<persName ref="taylor"> Mr. Taylor</persName> the day he was <eventName type="killed">killed</eventName>
+               begin in the morning?</p>
+
+            <p> FELLOWS: It was the studio. ...called for him I think at <time type="estimation">one o'clock.</time> I took him
+               down town to the <placeName type="bank">bank</placeName>, which I drove <persName ref="harry">Harry</persName> up to see you, I
+               think it was, which I went home and called for him at <time type="afternoon">quarter of four</time> at
+               <placeName type="robinsonstore">Robinson's</placeName>.</p>
+
+            <p> POLICE: <placeName type="robinsonstore">Robinson's Store</placeName>? </p>
+
+            <p>FELLOWS: Yes. He came along ‚Äî <persName ref="harry">Harry</persName> was waiting to see him.
+               They talked there until it was pretty near time for me to move or get a ticket for
+               standing after hours. (After relating taking <persName ref="taylor">Mr. Taylor</persName> home,
+               he, <persName ref="taylor">Taylor</persName> said) "I will call you between <time type="nighttime">7 and 7:30
+               </time>if I want you.</p>
+
+            <p>POLICE: You went around to<persName ref="taylor"> Mr. Taylor's</persName>
+               <placeName type="taylorhome">house</placeName> the night he was <eventName type="killed">killed</eventName>.</p>
+
+            <p>FELLOWS: Yes.</p>
+
+            <p>POLICE: Just describe your movements when you went there giving the time?</p>
+
+            <p> FELLOWS: I called up at the <placeName>house </placeName>at <time>5 minutes after
+                  8</time> which I looked at my watch * * I called up and got no answer. About
+                  <time ref="morning">5 minutes after 8</time> I tried to call and I went out and got into the
+               car, drove up 6th to <placeName type="alvardo">Alvarado</placeName>, up
+                  <placeName>Alvarado</placeName> to <placeName type="maryland">Maryland</placeName> and right
+               around in back there where his garage is, right behind the <placeName type="landlordhome">landlord's
+                  house</placeName> * * * I didn't put the car away then, I left the engine running
+               and lights on.** I rang the <objectName type="doorbell">door bell</objectName>, the lights were all lit which I thought he
+               might be <placeName type="taylorhome">home</placeName> on account of all the lights being lit. I rang
+               the door bell and the second time I rang the door bell I looked at my <objectName ref="watch">watch</objectName> ***,
+               which my watch says <time>quarter after 8</time>. I rung the <objectName ref="doorbell">door bell</objectName> 4 or 5 times
+               because I kind of thought he was in there on account of thoughts being lit.</p>
+
+            <p>POLICE: Could you hear the<objectName ref="doorbell"> door bell</objectName> ringing?</p>
+
+            <p> FELLOWS: Yes. I started away and I got about to the steps and I hesitated to see if
+               I could hear him coming. As I hesitated there was no sound and I went and put the <objectName>car</objectName>
+               away, opened the <objectName type="garagedoor">garage doors</objectName> and put the <objectName type="car">car</objectName> away, closed the <objectName type="door">door</objectName> and walked right
+               straight through the court down <placeName type="alvardo">Alvarado</placeName>.</p>
+
+            <p> POLICE: You did not open the <objectName type="screendoor">screen door</objectName>?</p>
+
+            <p>FELLOWS: No, never do open any <objectName type="door">door</objectName>.</p>
+
+            <p>POLICE: Did you ever have such occasion before, the lights would be on and he would
+               not answer the <objectName type="doorbell">door bell</objectName>?</p>
+
+            <p> FELLOWS: I never had any occasions like that. *** as I go around I notice there is a
+               light lit in his <placeName type="bedroom">bedroom</placeName> and a light lit in his
+                  <placeName type="den">den</placeName>. There is always them lights but it was a dim light.
+               This time all the lights were lit, <placeName type="dinningroom">dining room</placeName> lights were lit and they lit up the
+               certains that much more.</p>
+
+            <p>POLICE: His <placeName type="upstairs">upstairs</placeName> lights were lit?</p>
+
+            <p>FELLOWS: One of them, just a glance I took at them.</p>
+
+
+            <p> WILLIAM DAVIS, Chauffeur for Mabel Normand Statement taken 2-10-22 POLICE: About how
+               long did you wait? (Speaking of the night of the murder) </p>
+            <p> DAVIS: Well, something -- <time type="estimation">30 or 35 minutes;</time> just an estimate.</p>
+
+            <p> POLICE: About what time did you arrive?</p>
+
+            <p> DAVIS: About <time type="allibi">7 o‚Äôclock</time>.</p>
+
+            <p> POLICE: About what time was it when you drove away from there? </p>
+
+            <p> DAVIS: It was around‚Äî it was between <time type="allibi">twenty and a quarter of eight</time>;
+               it was within <time type="allbi">five minutes</time> of that because I looked at the <objectName type="clock">clock</objectName> and it
+               showed about <time type="nighttime">twenty minutes of eight</time>. </p>
+
+            <p> CHAUNCEY EATON Chauffeur for Mrs Shelby Taken 6-1-36, at 4:30 PM</p>
+            <p>POLICE: He was murdered on the night of <date type="febuary1">February 1st, 1922</date>. "When did you first hear
+               of the minder.</p>
+
+            <p>EATON: If I am not mistaken, when I went to the <placeName type="newhamphouse">New Hampshire house</placeName> <time type="morning">the next morning
+               about 8 o'clock</time>.</p>
+
+            <p> POLICE: Who told you about <persName ref="taylor">Taylor</persName> being <eventName ref="murdered">murdered</eventName>?</p>
+
+            <p> EATON: I think <persName ref="shelby">Mrs. Shelby</persName> called to me from an <placeName type="upstairs">upstairs</placeName> <objectName type="window">window</objectName>
+               and said, "Did you know that <persName ref="taylor">Taylor</persName> had been <eventName type="murdered">murdered</eventName>?</p>
+
+            <p> POLICE: Can you fix the exact time of the <time type="morning">morning</time>?</p>
+
+            <p> EATON: Not otherwise, about <time type="motning">8 o'clock.</time> (Witness is speaking about taking the <objectName type="gun">gun</objectName>
+               from <persName ref="mary">M.M. Minter</persName> at the time of her attempted suicide)</p>
+
+            <p> POLICE: Can you describe the gun which you unloaded which belonged to
+                  <persName ref="mary">Mary</persName>?</p>
+
+            <p> EATON: I think a <objectName type="gun">25 caliber blue automatic</objectName>. I believe we could find the <objectName type="shells">shells</objectName> of
+               that <objectName type="gun">gun</objectName> because I hid them on a beam in the <placeName type="newhamphouse">New Hampshire house</placeName>.</p>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

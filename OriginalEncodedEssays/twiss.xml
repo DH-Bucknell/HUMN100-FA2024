@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Stockdale+Dumas</head>
+            <byline>Riley Twiss</byline>
+            <p> Statements by Carl Stockdale <date>June 10, 1937</date> <orgName>LOS ANGELES NEWS</orgName></p>
+
+            <p> It was divulged that <persName ref="Carl">Carl Stockdale</persName>, veteran
+               character actor and close friend of Mrs. <persName ref="Charlotte">Charlotte
+                  Shelby</persName>, mother of <persName ref="Mary">Mary Miles Minter</persName>,
+               screen star who collapsed at news of <persName>Taylor's</persName> death, had
+               admitted that he was in the company of Mrs. <persName>Shelby</persName> at the time
+                  <persName>Taylor</persName> is believed to have been murdered.
+                  <persName>Stockdale</persName>, interviewed at his home, <placeName>6325 Fountain
+                  Avenue</placeName>, chuckled when asked for his own conclusions on the long
+               unsolved murder.</p>
+
+            <p> "So <persName>Fitts</persName> thinks I killed <persName ref="taylor">William
+                  Desmond Taylor</persName>," he remarked. "I'll tell you this, I was never in
+                  <persName>Bill Taylor's</persName> home. I met him at a big party thrown by Mrs.
+                  <persName>Shelby</persName>." Pressed for his own suspicions of the killer's
+               identity, <persName>Stockdale</persName> promptly answered,
+                  "<persName>Sands.</persName>" He referred to <persName>Taylor's</persName>
+               one-time chauffeur [sic], <persName ref="Edward">Edward Sands</persName>, whose
+               mysterious disappearance immediately after the murder and before authorities could
+               question him, has caused his name to be listed among those "wanted for questioning"
+               by police. The veteran actor, now 63, declared he was with Mrs. <persName>Charlotte
+                  Shelby</persName> at her home the night <persName>Taylor</persName> was murdered
+               February 1, 1922. He fixed the time of his <eventName>visit</eventName> from 7 to 9
+               p.m. Police have set the hour of the shooting at <time>7:45 p.m.</time> "I told my brother,
+                  <persName>Frank</persName>," <persName>Stockdale</persName> said, "that I was
+               droppin' in on Mrs. <persName>Shelby</persName> that night." </p>
+            <p>
+               <persName>Stockdale</persName> said he first met Mrs. <persName>Shelby</persName> in
+                  <persName>Santa Barbara</persName> at the time when her daughter, <persName>Mary
+                  Miles Minter</persName> was working for the old American Film Company. ---</p>
+
+            <p><date>June 10, 1937</date> <orgName>LOS ANGELES TIMES</orgName></p>
+
+            <p> While authorities deferred definite action yesterday in the investigation into the
+               fifteen-year-old murder of <persName>William Desmond Taylor</persName>, a 63-year-old
+               film character actor stepped forward to make the most important statement to be added
+               recently to the mazes of <placeName>California's</placeName> most famous murder
+               mystery. The new figure in the case is <persName>Carl Stockdale</persName>, for years
+               well known as an actor in Hollywood and who now lives at <placeName>6325 Fountain
+                  Avenue</placeName>. </p>
+            <p>Disclosing that he had been a close friend of Mrs. <persName>Charlotte
+                  Shelby</persName>, mother of <persName>Mary Miles Minter</persName>, the latter,
+               who admitted she was in love with <persName>Taylor</persName> at the time of his
+               slaying, <persName>Stockdale</persName> had this to say yesterday: "I have expected
+               the authorities to question me for some time and have made no effort to evade such
+               interrogation despite the fact that no one welcomes publicity of the sort. </p>
+            <p> "I was with Mrs. <persName>Shelby</persName> on the night that
+                  <persName>Taylor</persName> was murdered at about the time fixed by the
+               authorities that the fatal <objectName>bullet</objectName> was fired. That may be
+               considered of importance to the authorities and is information I am quite willing to
+               give." </p>
+            <p><persName>Stockdale</persName> indicated that he is in complete sympathy with a
+               statement recently issued by Mrs. <persName>Shelby</persName> in which she declared
+               that, sick of the innuendoes which have followed in the wake of the
+                  <persName>Taylor</persName> murder, she wanted action to clear up the case once
+               and for all.</p>
+
+            <p>Although apparently unwilling to move at once, the <placeName>District Attorney's
+                  office</placeName> yesterday stated that Stockdale is scheduled to be questioned
+               before the present investigation is concluded.</p>
+
+            <p> "I am willing to tell all I know to the District Attorney or anyone else," commented
+               the actor. "I have known Mrs. <persName>Shelby</persName> and her family for
+               approximately twenty years. I was living on Winona Boulevard with my brother
+                  <persName>Frank</persName>, and my mother and father on the day of the
+                  <eventName>shooting</eventName> of <persName>Taylor</persName>. "In the evening I
+               left my home and went to pay a visit to Mrs. <persName>Shelby</persName> in the new
+               house she had purchased at <placeName>Seventh street and New Hampshire
+                  avenue</placeName>. I arrived shortly before <time>7 o'clock </time>in the evening and left
+               about 9 o'clock."</p>
+
+            <p><persName>Taylor</persName>, as near as authorities could fix the time, was shot
+               about <time>7:45 p.m.</time> on <date>February 1, 1922</date>. Several persons in the neighborhood of his
+               bungalow at <placeName>404-B South Alvarado street</placeName> reported hearing a
+               shot at that time. </p>
+            <p>"I was the first person," went on Stockdale, "to inform Mrs. Shelby that Taylor had
+               been killed. That was about <time>9 o'clock</time> the next morning. I had gone to the studio
+               where I was working on a picture with Mabel Normand and some one told me that Taylor
+               had been found dead. I telephoned Mrs. <persName>Shelby</persName> at once because I
+               knew that he had been <persName>Mary's</persName> director and that the whole family
+               knew him well." </p>
+            <p>--- <date>August 26, 1937</date> <orgName> LOS ANGELES EXAMINER</orgName></p>
+
+            <p> When a <objectName>bullet</objectName> snuffed out the life of <persName>William
+                  Desmond Taylor</persName>, noted picture director, in <date>1922</date>, Mrs.
+                  <persName>Charlotte Shelby</persName> was at home. </p>
+            <p>
+               <persName>Carl Stockdale</persName>, veteran actor and friend of Mrs.
+                  <persName>Shelby</persName>, so testified in Superior Judge <persName>Parker
+                  Wood's</persName> court yesterday.</p>
+
+            <p> He appeared as a defense witness in trial of the civil suit by which <persName
+                  ref="Margret">Margaret Shelby Fillmore</persName>, Mrs.
+                  <persName>Shelby's</persName> daughter, is seeking to regain $48,750 in bonds,
+               which she contends her mother removed from a joint safety deposit box.</p>
+
+            <p> "I was with Mrs. <persName>Shelby</persName> from <time>7:30 to 9:30 p.m.</time> in her apartment
+               at <placeName>Seventh street and New Hampshire avenue the night</placeName> of the
+               murder," <persName>Stockdale stated.</persName>
+            </p>
+            <p>"I did not know of the tragedy until the following morning when I arrived for work at
+               the <orgName>Mack Sennett Studios</orgName>. </p>
+            <p>"I immediately called Mrs. <persName>Shelby</persName> and told her to prepare
+               herself for a shock. Then I told her Mr.<persName> Taylor</persName> had been slain. </p>
+            <p> "She screamed: 'Impossible!' "</p>
+
+            <p> The actor's testimony, while perhaps not strictly pertinent to the present
+                  <eventName>suit</eventName>, was introduced to answer certain pointed intimations
+               made during its trial, attorneys explained.</p>
+
+            <p>
+               <persName>Mary Miles Minter</persName> and the late <persName>Mabel
+                  Normand</persName> frequently were mentioned in gossip concerning the
+                  <persName>Taylor</persName> mystery, <persName>Stockdale</persName> said. But at
+               no time had he heard rumors that Mrs. <persName>Shelby</persName> might be involved
+               as a suspect, he added. </p>
+
+            <p> The actor also testified that he had seen Mrs. <persName>Fillmore</persName> under
+               the influence of <objectName>liquor</objectName> four times between <date>1925 and 1931</date>. </p>
+            <p> --- <date>August 26, 1937</date> <orgName>LOS ANGELES NEWS</orgName></p>
+
+            <p>...<persName>Stockdale's </persName>testimony was in the nature of a reply to that of
+               Mrs. <persName>Fillmore</persName> two days ago when she said she did not know her
+               mother's whereabouts at the hour of the murder. Cross-examined as to whether he had
+               ever heard that Mrs. <persName>Shelby</persName> was a suspect in the murder, the
+               veteran actor replied, "I did not hear any such rumors, but I did hear rumors that
+                  <persName>Mary</persName> (Miss Minter) and <persName>Mabel Normand</persName>
+               were suspected of the murder." ~~~~</p>
+
+            <p>
+               <persName ref="Verne"> VERNE DUMAS</persName>, neighbor Statement taken 2-9-22.</p>
+
+            <p> A. ** About <time>7:30 </time>as near as I remember *** I was in my bath room
+                  <eventName>shaving</eventName> ** I heard this noise or the nigger hollering, **
+               and he hollered Mr. <persName>Taylor</persName> was dead, <objectName type="Material"
+                  >stone</objectName> dead, somebody come quick. I ran back in the bathroom, grabbed
+                  a<objectName type="Cloth"> towel</objectName>, wiped the lather from my
+                  <objectName>face</objectName>, put on a bath <objectName type="clothing">robe</objectName> and ran
+               over there. **** Well, when I went in <persName>Henry</persName> preceded me ** and
+               there was Mr. <persName>Harrington</persName> and some gentlemen whose names I do not
+               know 1iving across the street there. In other words, 4 of us in a room *** evidently
+               he had died from a hemorrhage because blood had run from his mouth and his nose and
+               then looked like from his <objectName>ear </objectName>and had congealed and he was
+               lying perfectly natural as though he was simply laid out as a corpse. *** but the
+               body was lying parallel with the <objectName type="Furniture">desk </objectName>with the feet to the
+                  <objectName>door</objectName> and the <objectName type="Furniture">rug</objectName>, the corner of
+               the <objectName type="Furniture">rug</objectName> near his <objectName type= "Body">foot</objectName> was pushed
+               back a little bit *** and the <objectName type="Furniture">chair</objectName> upright and this
+                  <objectName type="Body">foot</objectName> under it and the <objectName type="Furniture">chair</objectName> at
+               the <objectName type="Furniture">desk</objectName> wee pushed just partially under the
+                  <objectName type="Furniture">desk</objectName> ** and the <objectName type= "furniture">chair</objectName> right
+               between his <objectName type="Body">head</objectName> and the <objectName type="Furniture">desk</objectName>.
+               Well, on the <objectName type="Furniture">table</objectName> was a <objectName>check book</objectName>
+               open and two piles of <objectName>checks</objectName>. </p>
+            <p>Q. Has the rear <objectName>door</objectName> a spring <objectName>lock</objectName>
+               or is it locked with a <objectName>key</objectName>.</p>
+            <p> A. Locked with a <objectName>key</objectName> from the inside.</p>
+
+            <p> Q. There was no chance for anybody at straightening this body out between the time
+               the colored boy hollered and you went in there. </p>
+            <p> A. No, the only part of his body I touched was this <objectName>arm</objectName> and
+               it was absolutely stiff.</p>
+
+            <p>Q. How about his <objectName>coat</objectName>?</p>
+
+            <p>A. It was as straight as if it had been pressed. ** and it was absolutely pulled
+               perfectly straight. </p>
+
+
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

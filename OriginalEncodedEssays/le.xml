@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Mrs.Charlotte Shelby</head>
+            <byline>William Le</byline>
+
+            <p> MRS. CHARLOTTE SHELBY mother of Mary M.Minter Statement taken 4-9-26 </p>
+
+
+            <p> POLICE: During the time in the east there, when he (Taylor) was directing her
+               (Mary), did you observe any awakening of a friendship or love between the two of
+               them?</p>
+
+            <p>SHELBY: No.</p>
+
+            <p>POLICE: When did you first see that, or did you at all?</p>
+
+            <p>SHELBY: I never did know it, <persName>Mr. Keyes</persName>, until <persName>Mr. Mott</persName> told
+               me of the letters that had been found in Taylor's <placeName>drawer</placeName> that
+               absolutely is convincing that there had been something there.</p>
+
+            <p>POLICE: You mean after he was killed</p>
+
+            <p>SHELBY: Yes, and <persName>Mr. Eyton</persName> told me also after <persName>Mr. Taylor</persName>
+               was killed that he knew that, that he knew for a long time that <persName>Mary and Mr.
+                  Taylor</persName> had been intimate, and I said then "<persName> Mr. Eyton</persName> you
+               should have told me."</p>
+
+            <p>POLICE: During that time. <persName>Mrs. Shelby</persName> (referring to latter part of 1919
+               and early part of 1920), was Mary going around with Taylor to your knowledge at
+               all?</p>
+
+            <p>SHELBY: Why no, and <persName>Mr. Taylor</persName> was the most perfectly poised man, such a
+               proper man. He would take Mary out to <name>dinner</name> and he would invariably invite me and my
+               mother to go to dinner with them.</p>
+
+            <p>POLICE: Did you make any objections?</p>
+
+            <p>SHELBY: Not the least in the world.</p>
+
+            <p>POLICE: Were you friendly with him?</p>
+
+            <p>SHELBY: Oh, yes. ***</p>
+
+            <p>POLICE: Do you remember anyone in particular with whom she was associating at that
+               time?</p>
+
+            <p>SHELBY: It wasn't men. Men hadn't begun to give me any trouble at that time. It was
+               women.</p>
+
+            <p>POLICE: Who was that?</p>
+
+            <p>SHELBY: <persName>Jeannie McPherson</persName>.</p>
+
+            <p>POLICE: Taylor's name never entered into <name>the discussion</name> then?</p>
+
+            <p>SHELBY: No. I always felt that, when <persName>Mary</persName> was out with <persName>Mr.
+                  Taylor</persName> she was under a good influence. ***</p>
+
+            <p>POLICE: Did you ever have any words with <persName>Mr. Taylo</persName>r over
+                  <persName>Mary</persName>?</p>
+
+            <p>SHELBY: Never a word, never the slightest word. (Speaking of the time <persName>Mrs.
+                  Shelby</persName> went to <placeName>Taylor's home</placeName> at 2 a.m. looking for
+                  <name>Mary</name>).</p>
+
+            <p>POLICE: Did this secretary of yours, <persName>Miss Whitney</persName>, go in <placeName>the
+                  house</placeName> with you?</p>
+
+            <p>SHELBY: No, I know she didn‚Äôt because there was nobody in <placeName>the
+                  room</placeName> but <persName>Mr. Taylor</persName> and me. She stayed in the car.</p>
+
+            <p>POLICE: Did you have any weapon with you at that time?</p>
+
+            <p> SHELBY: Good lord, no.</p>
+
+            <p>POLICE: You are sure you didn't have <objectName>a revolver</objectName> with
+               you?</p>
+
+            <p>SHELBY: No, <persName>Mr. Keye</persName>s.</p>
+
+            <p>POLICE: Well, you owned <objectName>a revolver</objectName> at that time?</p>
+
+            <p>SHELBY: No. If I owned <objectName>a revolver</objectName> at that time, I don‚Äôt
+               know where it was. It was thrown away.</p>
+
+            <p>POLICE: What date was it when you were at Mr. Taylor's home that you were telling
+               about?</p>
+
+            <p>SHELBY: I think I could almost fix that date,<persName> Mr. Keyes</persName>, referring to
+                  <objectName>a certain little book</objectName>, you know. Because I was reading
+                  <objectName>Mary's diary</objectName> and she goes on to say in this
+                  <objectName>diary</objectName> that she and I had some little words that evening,
+               you see, and she has written it very clearly, about the small girl going out in a
+               huff, etc., and she adds that mother was right. **** And I think the date of that
+               happeningis right in her diary.</p>
+
+            <p>POLICE: Did you ever make a threat to kill<persName> Mr. Taylor</persName></p>
+
+            <p>SHELBY: No, <persName>Mr. Keyes</persName>. I never had any reason or desire to kill
+                  <persName>Mr. Taylor</persName>.</p>
+
+            <p>POLICE: And you are positive, are you, <persName>Mrs. Shelby</persName>, that you never at
+               any time threatened <persName>Mr. Taylor</persName>?</p>
+
+            <p>SHELBY: Certainly not, I had no reason. I never threatened to shot <persName>Mr.
+                  Taylor</persName>. I don't think I ever threatened to shoot any man. To shoot him? No,
+               because I had no reason. I had no provocation. I never had a quarrel with <persName>Mr.
+                  Taylor</persName> in my life.</p>
+
+            <p>POLICE: You spoke of having thrown <objectName>a gun</objectName> away?</p>
+
+            <p>SHELBY: No, my mother did that.</p>
+
+            <p>POLICE: That was your gun?</p>
+
+            <p>SHELBY: Yes. It was <objectName>a gun</objectName> I used once. I shot it once and
+               once was enough.</p>
+
+            <p>POLICE: How long had you had <objectName>the gun</objectName>?</p>
+
+            <p>SHELBY: <objectName>The gun</objectName> was given to me in Santa Barbara by
+                <persName>Harry Eaves</persName>, who has a jewelry shop up there ‚Äî <objectName>a very
+                  short little pistoi</objectName> - a little automatic - ***** and he said to me,
+               "I have got two and you ought to have one.</p>
+
+            <p>POLICE: Where did you say you shot it once?</p>
+
+            <p>SHELBY: I got a friend of mine to take me out in <placeName>Santa
+               Barbara</placeName>, just off the road, and we shot it into a bank and I shot it
+               once.</p>
+
+            <p>POLICE: Did you ever do any target practice with it?</p>
+
+            <p>SHELBY: Yes, that one time. It was enough for me. The thing was too short. I can
+               shoot a long pistol. I wouldn‚Äôt mind shooting a shot gun. ***</p>
+
+            <p>POLICE: Well, <persName>Mrs. Shelby</persName>, <persName>Mary</persName> shot that
+                  <objectName>pistol</objectName> off one time, didn't she?</p>
+
+            <p>SHELBY: Yes, she shot it off twice.</p>
+
+            <p>POLICE: Was that the "suicide"?</p>
+
+            <p>SHELBY: That‚Äôs the ‚Äúsuicide‚Äù (Re: supposed suicide) "Well, we were living at
+                  <placeName>56 Fremont Place</placeName>. **** I remember the secretary was there
+               that night, <persName>Miss Whitney</persName> *** She (Mary) rushed up <objectName>the
+                  stairs</objectName> saying "I am going to end it, all. I am going to end it all.
+               ** Then <persName>Charlotte</persName> (Miss ‚ÄúWhitney) said to me, "<persName>Mrs.
+                  Shelby</persName>, oh, <persName>Mrs. Shelby</persName>, there's a pistol in your closet." ***
+               But she ran up the stairs and ran in my room and closed the door.</p>
+
+            <p>POLICE: Did she lock the door?</p>
+
+            <p>SHELBY: Oh, locked <placeName>the door</placeName>, and the first thing we knew- bang. *** and a second more
+               and - bang ‚Äì the second shot. **** The chauffeur (<persName>Chauncey Eaton</persName>)
+               appeared, and <persName>the night watchman</persName> (?), and I said "Break in the door" The two men
+               rushed against the door, the door fell in, and there lay <persName>Mary</persName> on my bedroom floor ***
+               They picked her up so tenderly, and <persName>Chauncey</persName> turned her over and he said, "Why,
+                  <persName>Mrs. Shelb</persName>y, there is no blood on her." **** By that time the
+               secretary had faded out of the picture in a faint *** and she (<persName>Mrs. Shelby's mother</persName>,
+               Mrs. Miles) said, "Why no, she is not shot; stand her up, Chauncey." *** Then she
+               (Mary) looked at us and said, "I thought I would give you all a jolt."</p>
+
+            <p>POLICE: ** was there anything said about <name>Taylor</name> in that? Did he have
+               anything to do with that quarrel?</p>
+
+            <p>SHELBY: No, I don't think he had anything to do with that *** I may have asked her if
+               she had been out with . But there was no quarrel about <name>Mr. Taylor</name>? It
+               seems to me she mentioned Taylor's name. I don't remember now, or what. Then the
+               report that I got that you have been practicing some rerevolver shooting - is there
+               anything to that? I told you I shot it once. I know a man who will verify it -
+                  <name>Mr. Stockdale</name>.</p>
+
+            <p>POLICE: No other <objectName>pistol</objectName> at any other time?</p>
+
+            <p>SHELBY: No, I am afraid of <objectName>pistols</objectName>. ***</p>
+
+            <p>POLICE: What did your mother do with<objectName> your pistol</objectName> after
+                  <persName>Mary</persName> pulled this stunt.</p>
+
+            <p>SHELBY: That was all there was to it. Of course, we found <persName>Charlotte
+                  Witney</persName> in a faint on the <placeName>floor</placeName> and we had to revive her. *** And
+                 <persName>Chauncey</persName> was trying to find out where <objectName>the
+                  bullets</objectName> went, and we discovered <objectName>one bullet</objectName>
+               had been shot into my closet, and we found that, and another one went up in the
+               ceiling of the closet. I remember mother taking <objectName>the pistol</objectName>.
+               he said, "Here, give me that. That‚Äôs enough of <objectName>pistols</objectName> lying around.</p>
+
+            <p>POLICE: What did she do with it. I never saw it again. I think I asked her once or
+               twice what she did with it, and she said, "It's out. It's put away."</p>
+
+            <p>SHELBY: I had <name>an engagement</name> with a man the next morning at 9 o'clock. ** This man was
+               a client of a friend of my daughter's, <name>Mr. Albert Heiner</name>. *** I also had
+               been talking to a man about buying <objectName>an Aeolian Organ</objectName>, and he stopped in that morning
+               *** And while these two men were in the room, the telephone rang. It was then a
+               little after 9, and <persName>Mr. Carl Stocktdle</persName> called me up. He had gone to the
+               studio to work and had learned of the death of <persName>William Desmond Taylor</persName>.
+               Naturally, knowing that he directed <persName>Mary</persName>, he called me up and told me
+               that <persName>William Desmond Taylor</persName> had been found dead that morning.</p>
+
+            <p>POLICE: Just what did he tell you?</p>
+
+            <p>SHELBY: He said, "<persName>Mrs. Shelby</persName>, I just wanted to call you up and tell
+               you, I am at <placeName>the studio</placeName>. <persName>William Desmond Taylor</persName> was found dead this
+               morning." "Oh," I said, "that's terrible." That's all he knew. ** I turned to these
+               gentlemen and said, "Oh, my, it's terrible. A man who directed my daughter, a very
+               charming gentleman, was found dead this morning." **** Then <objectName>the
+                  telephone</objectName> rang again and the inevitable Miss Berger again. *** I
+               said, "Oh, <persName>Margery</persName>, <persName>Mr. Stockdale</persName> just telephoned me from
+                  <placeName>the studio</placeName> that <name>Mr. Taylor</name> was found dead this
+               morning." **** In a few minutes <objectName>the telephone</objectName> rang again.
+               *** This time <persName>Miss Berger</persName> said, "<persName>William Desmond Taylor</persName> was
+               murdered this morning. He was shot." I said, "Oh, my, this is terrible; the man was
+               murdered," Was shot? So we discussed that and the organ man knew I was waiting to go
+               out with <persName>Mr. Rice</persName> so ** <persName>Mr. Rice</persName> and I got in his car *** and I said, ‚ÄúMr. Rice, do
+               you mind if I stop at <placeName>my house</placeName> and tell my people?" *** and it seems to me that on
+               the way crossing <placeName>Vermont</placeName> met my mother coming over in a car with the chauffeur and I
+               just waved to her to turn around and come on back with us. I remember that
+               distinctly. ***** I was in a great hurry because <persName>Mr. Rice</persName> was waiting
+               for me in front, and I remember the chauffeur had parked <objectName>my blue Packard</objectName> in the
+               <placeName>driveway</placeName>, and something was said about Mary wanted <objectName>the car</objectName>.
+               <persName>Chauncey</persName> had gone to get <objectName>Mary's car</objectName>. However, I went
+                  <placeName>upstairs</placeName> in a great hurry, and I said, "Oh,
+               <persName> Julia</persName>, dear, Mr. Taylor was murdered last night." She said, "Oh, it
+               isn't possible. I can't believe it. It isn't true." I said, "Oh, yes, it is.
+                 <persName>Miss Berger</persName> told me so." *****</p>
+
+            <p>POLICE: Did <persName>Mr. Woolwine</persName> ever try to take your statement?</p>
+
+            <p>SHELBY: No, he never asked me a thing, <persName>Mr. Keyes</persName>. Nobody ever questioned
+               me.</p>
+
+            <p>MR. MOTT: Tell <persName>Mr. Keye</persName>s exactly now, that part of the conversation with
+              <persName> Chauncey</persName>?</p>
+
+            <p>SHELBY: I said "<persName>Chauncey</persName>, what did you tell them?" He said, "I told them
+               that you called me up very early that morning, about half past seven, and my wife
+               said you went ever there without breakfast; that you wanted to go over to
+                  <placeName>the Hobart house</placeName>." I said, "The morning of the Taylor
+               murder." He said, "Yes." I said, "Why, I couldn't have known until after 9
+               o‚Äôclock.‚Äù He said that he drove me over that morning and said that I was at the
+               wisdom with <objectName>the papers</objectName> I said, "How could that be; besides there wasn't any <objectName>papers</objectName>
+               that morning." "No," he said, "that's what they told me down at <placeName>the
+                  office</placeName>, that there wasn‚Äôt any papers that early." I said, "Well,
+               that's nothing, it is just a laps of memory, it is of no consequence." And finally he
+               saw he was in the wrong. I explained to him that <persName>Mr. Rice</persName> had driven me
+               over."</p>
+
+            <p>MR. MOTT: Now explain that Monte Blue proposition.</p>
+
+            <p>SHELBY: (<persName>Mrs. Shelby</persName> tells about some night when Mary had failed to come
+              <placeName> home</placeName>, and they had looked for her until about 2:30 a.m. and finally located
+                  <objectName>her car</objectName> in front of <placeName>Charlotte Whitney's
+                  house</placeName>) So <persName>Margaret</persName> and I rushed in and went up the steps
+               hurriedly and opened <placeName>the door</placeName> and came upon Mary &amp; Monte (Blue) on the couch. The
+               door opened right into the front room. This Monte Blue started to run out into <placeName>the
+               kitchen</placeName> and out <placeName>the back door</placeName>.</p>
+
+            <p>POLICE: You mean that they were in a compromising position?</p>
+
+            <p>SHELBY: Yes. I was about the maddest woman that could ever be. I grabbed this
+               halfbreed Indian by his shirt tail and I said, "Come right back in <placeName>this
+                  room</placeName>. I have something very forceful to say to you. Come back
+               here!"</p>
+
+            <p>MR. DAVIS: That time she went out with <persName>Marshall Neilan</persName>, after the
+               murder; wasn't that about two nights afterwards?</p>
+
+            <p>SHELBY: Yes.</p>
+
+            <p>POLICE: Immediately afterwards, wasn't it?</p>
+
+            <p>SHELBY: It was.</p>
+
+            <p>MR. KEYES: She tried to kill you, you say?</p>
+
+            <p>SHELBY: Yes. *** Oh, "Mary said around the house freely. "Oh, <name>4</name> killed
+               Taylor". Not only once but many times. The was always saying that.</p>
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview With Julia C. Ivers</head>
+            <byline>Liv King</byline>
+            <p> Interviews with <persName ref="ivers">Julia Crawford Ivers</persName>
+            </p>
+            <p>
+               <persName ref="ivers">Julia Crawford Ivers</persName> was closely associated with
+                  <persName ref="taylor"> Taylor</persName> for over six years and wrote the
+               scenarios for most of his <orgName type="company">Paramount</orgName> films. After
+                  <persName ref="taylor"> Taylor's </persName> murder, her career soon faded.</p>
+            <p><persName ref="minter">When Mary Miles Minter</persName> was interrogated by Deputy
+               District Attorney William Doran<persName/>, on February 7, 1922, <persName
+                  ref="minter">Minter</persName> recalled a conversation with <persName ref="neilan"
+                  > Marshall Neilan</persName> in which <persName ref="minter">Minter</persName>
+               stated that the only person she could think of who might have killed <persName
+                  ref="taylor">Taylor</persName> was <persName ref="ivers"> Julia Crawford
+                  Ivers</persName>. But <persName ref="ivers">Ivers</persName> was never seriously
+               considered a suspect.</p>
+            <p>Reticent and shy of personal publicity, she gave very few interviews throughout her
+               career. [17] The following are some isolated exceptions:</p>
+
+            <p> October 16, 1920 Giebler MOVING PICTURE WORLD I had the pleasure of making the
+               acquaintance of <persName ref="ivers">Julia Crawford Ivers</persName>, of the
+                  <placeName type="setting">scenario department</placeName>, a lady who occupies a
+               large and closely written page in the "Who's Who and Why, and What and When, and
+               Where, and How Come" of <placeName type="company">Filmland</placeName>.</p>
+            <p><persName ref="ivers">Miss Ivers</persName> says she has done almost everything
+               around a <placeName type="setting">studio</placeName> but sweep <objectName
+                  type="builing">the floor</objectName>. She was six years at the <placeName
+                  type="company">Morosco studio</placeName> before coming to the <placeName
+                  type="company">Lasky plant</placeName>, where she held every position from film
+               cutter and editor to superintendent of the plant. [<persName ref="ivers"
+                  >Ivers</persName> also directed several films.] <persName ref="ivers">Miss
+                  Ivers</persName> has a large number of original stories and adaptations to her
+               credit, including Tom Sawyer, Huck and Tom, The Furnace, The Soul of Youth, two
+               stories as yet unnamed to be produced by <persName ref="minter">Mary Miles
+                  Minter</persName>, and The Witching Hour, now being made by <persName ref="taylor"
+                  >William D. Taylor</persName>; and in addition to this, she has published
+                  <objectName type="thing">stories and articles </objectName>in many of the leading
+                  <objectName type="thing">magazines</objectName>. She is a person of decided
+               opinions as to the writer and his relation to the finished film.</p>
+            <p> "The writer is only a helper," she says, "and sometimes very poor help. More stories
+               have been spoiled than made by writers who tried to put them in picture form, and if
+               many of the writers who are yelping for credit on the screen should be debited with
+               the lack of imagination and lack of vision they display, they would have no more to
+               say."</p>
+
+
+
+            <p> February 7, 1922 LOS ANGELES EXAMINER <persName ref="ivers">Julia Crawford
+                  Ivers</persName>, scenarist for the late <persName ref="taylor">William D.
+                  Taylor</persName>, yesterday gave out the following statement:</p>
+            <p> "Today the friends of <persName ref="taylor">William D. Taylor</persName>, and they
+               are legion, will gather to pay the last tribute to the man they love, to one who as
+               man, director and friend measured 100 per cent. </p>
+            <p> "I have worked side by side with this man for seven years. We have solved many
+               difficult problems together, sometimes pleasant, sometimes unpleasant: always hard,
+               trying nerve-wracking. And during all these years of close association I have never
+               known him to do one unkind, one ungenerous act, but I have known hundreds of
+               instances of open-handed generosity and in most cases the beneficiary never knew whom
+               to thank.</p>
+            <p>"This man whose loyalty and honor were without question, who takes with him the
+               undying gratitude of the thousands to whom he has lent a helping hand--this man who
+               stood for everything that was fine and clean in pictures, who is known to have
+               declared that if it were necessary to his success to produce unclean pictures he
+               would go back to the white, clean snows of <placeName type="setting"
+                  >Alaska</placeName> and dig his living out of the ground--this man was shot in the
+               back by a cowardly assassin. He was given no opportunity to defend himself and
+                  <persName ref="taylor">William D. Taylor</persName> would have defended himself,
+               for he did not know the meaning of the word fear. And more cowardly than the
+                  <objectName type="thing">assassin's bullet</objectName>, lodged in<objectName
+                  type="body"> the heart</objectName> of this dear man, is the tongue of scandal,
+               which safely sheltered behind his <objectName type="body">dead body</objectName>, is
+               striking at his reputation--more cowardly for he is powerless to defend himself.</p>
+            <p>"His friends know that when it is all over the character of <persName ref="taylor"
+                  >Mr. Taylor</persName> will stand, as it always has stood, for everything that is
+               fine and worth while.</p>
+            <p>"<objectName type="thing">The good book</objectName> says, 'Let him who is without
+               sin cast the first stone.' And it is recorded that no stones were cast."</p>
+
+
+            <p> April 29, 1922 HONOLULU ADVERTISER Scenario Writer is Seeking Material from Old
+               Hawaiian Legends <placeName type="setting">Hawaii</placeName> may really find favor
+               in the big <placeName type="setting">motion picture studios</placeName> and its
+               wealth of legendary lore form the subject of a play or two to be presented to
+               millions of movie fans under the name of <persName ref="lasky"> Jesse
+                  Lasky</persName>, providing <persName ref="ivers">Miss Julia Crawford
+                  Ivers</persName>, his foremost scenario writer, find the legends and myths
+               appropriate for filming.</p>
+            <p><persName ref="ivers">Miss Ivers</persName> arrived on the Matsonia from <placeName
+                  type="setting">Los Angeles</placeName>, accompanied by her secretary, Miss
+               Aldrich<persName/>, and although here but three days, she is already delving deep
+               into legends and also the history of <placeName type="setting">Hawaii</placeName>,
+               particularly that relating to old feudal <placeName type="setting"
+               >Hawaii</placeName>.</p>
+            <p>Whether her readings, her conversations <placeName type="setting">with
+                  Island</placeName> folk acquainted with legends, and her observations, will lead
+               her into the path that will eventually open out into the appropriate theme, she does
+               not know, but she has hopes.</p>
+            <p>To further acquaint herself with <placeName type="setting">the Islands</placeName>
+               and to absorb the atmosphere of old and new <placeName type="setting"
+                  >Hawaii</placeName>, she will visit <placeName type="setting">Kauai</placeName>
+               next week, leaving here Monday or Tuesday night and remaining a few days on the
+                  <placeName type="setting">Garden Island</placeName>.</p>
+            <p>The following week she will go to <placeName type="setting">Hilo</placeName>, taking
+               her car, and will motor over to <placeName type="setting">Kalapana</placeName>, all
+               through <placeName type="setting">Puna</placeName>, thence to <placeName
+                  type="setting">the Volcano</placeName>, and then around to <placeName
+                  type="setting">Kona</placeName>, where she will learn all she can of <placeName
+                  type="setting">Kealakekua Bay</placeName>, the scene of Captain Cook's<persName/>
+               discovery and tragedy; the city of refuge at <placeName type="setting"
+                  >Honaunau</placeName> and may possibly go into <placeName type="setting"
+                  >Kohala</placeName>, which abounds in historic wealth.</p>
+            <p><persName ref="ivers">Miss Ivers</persName> says she has been a scenario writer with
+               the <persName ref="lasky">Lasky</persName> interest for about eight years and during
+               seven years of that time was closely associated in motion picture production with
+                  <persName ref="taylor">William D. Taylor</persName>, whose tragic death caused a
+               temporary suspension of much work planned.</p>
+            <p>"<persName ref="taylor">Mr. Taylor</persName> was a splendid picture director," said
+                  <persName ref="ivers">Miss Ivers</persName>. "He was a man of fine attainments. He
+               was sympathetic and those who worked with and under his direction regarded him as one
+               with whom it was a pleasure to be associated.</p>
+            <p>"My own work as a scenario writer was pleasurable from the fact that there was
+               co-operation. He wanted the best and we desired to give him only the best. He was a
+               credit to the motion picture service and will be a loss to it, for he was of a
+               constructive type, doing the best with the highest class of material."</p>
+            <p>It was partly because of his death that <persName ref="ivers">Miss Ivers</persName>
+               dropped her own activities for a time, superinduced by a cold, resulting in the end
+               in a determination to visit <placeName type="setting">Hawaii</placeName>, with
+                  <persName ref="lasky">Mr. Lasky's</persName> injunction that she delve into
+               Hawaiian legends and find whether any of them can be filmed.</p>
+            <p><persName ref="ivers">Miss Ivers</persName> is at the <placeName type="setting"
+                  >Seaside hotel</placeName>. She makes no promises, but is reading much about
+               Hawaii. She is dictating morning and afternoon. She is going here and there where
+               details of Hawaiian life may be learned.</p>
+            <p>If such a motion picture play is to be written it may not deal entirely with legends,
+               but legends may be woven into a modern type of play. The story of the Goddess
+               Pele<persName/>, who dwells in <placeName type="setting">Kilauea volcano</placeName>,
+               has attracted much of her attention and her own visit to the volcano in a week or so
+               will have that much more interest for her. There is a dramatic, tragic, firey element
+               in Pele<persName/> which may be converted to the screen, in her opinion.</p>
+            <p> Much of <persName ref="ivers">Miss Ivers'</persName> work at the studio in Los
+               Angeles is associated directly with literary folk, writers of books whose names are
+               known throughout the reading world--<persName ref="parker">Sir Gilbert
+                  Parker</persName>, <persName ref="maugham">Sydney [sic] Maugham</persName>,
+                  <persName ref="glyn">Elinor Glyn</persName> and many others. It is <persName
+                  ref="ivers">Miss Ivers</persName> who takes their books and prepares or directs
+               the preparation of scenarios for the director.</p>
+            <p>It is this contact between the scenario writer and the authors that counts for
+               success or failure in the motion picture product. If the scenario writer is
+               sympathetic and endeavors to get the soul of the author's intent, there are
+               exceptional possibilities. If not, there is more likely to be a failure in the
+               interpretation.</p>
+            <p> Many <objectName type="thing">books</objectName> to be screened must be ripped to
+               pieces. As the story is written it can seldom be filmed. The change is the task of
+               the scenario writer.</p>
+            <p>Life must have been lived by scenario writers to really interpret a story for the
+               screen for the eyes of the millions of theater patrons. Phases of life that are near
+               the raw edge of actuality and realism may not be interpreted by the old maid who has
+               not seen life and whose first impulse, and probably her last, is to eliminate that
+               particular phase. A man of sensual thought may regard that particular phase as one to
+               work into a maudlin interpretation which would be offensive.</p>
+            <p> Between these two extremes there is the middle course and that path must be taken by
+               the writer who understands life and understands the multiplicity of types and
+               characters that patronize the theaters.</p>
+            <p>
+               <persName ref="ivers">Miss Ivers</persName> is a hard worker. She maintains high
+               ideals as to picture production. Hers is a constant study of human nature. Philosophy
+               and psychology are tangible factors with her, for both play important parts in
+               decisions as to the worth of stories and the filmed product.</p>
+            <p>"I must necessarily write in dashes where authors employ sentences and paragraphs,"
+               said <persName ref="ivers">Miss Ivers</persName> discussing her method of writing. "I
+               cull and cut, where book writers must enlarge and pad."</p>
+
+
+
+            <p> October 3, 1922 HONOLULU STAR-BULLETIN A dramatic love story with all the gripping
+               beauty of the <placeName type="setting">Hawaiian islands</placeName> as a background
+               is what <persName ref="ivers">Mrs. Julia Crawford Ivers</persName>, scenario writer
+               and director for the <orgName type="company">Lasky corporation</orgName>, has come to
+                  <placeName type="setting">Honolulu </placeName>to film.</p>
+            <p> The beaches, mountains, gardens and palm trees of <placeName type="setting">Oahu
+               </placeName>and <placeName type="setting">Hawaii</placeName> are to provide the
+               setting for the story, which <persName ref="ivers">Mrs. Ivers</persName> says could
+               be produced nowhere else in the world. "I wrote the scenario here," she told a
+               representative of the Star-Bulletin at <placeName type="setting"> the
+                  Moana</placeName> today, "and this is the only spot in the universe where it can
+               be filmed as it should be. It is imbued with the breath of <placeName type="setting"
+                  >the islands</placeName>. When I returned to <placeName type="setting">Los Angeles
+               </placeName>after my visit here last spring, at which time I gathered material for
+               the scenario, <persName ref="lasky">Mr. Lasky</persName> asked me if the picture
+               could not be produced on <placeName type="setting">the mainland</placeName>. 'I'll
+               read you the story,' I replied, and I did. He had nothing more to say, and here we
+               are ready to work.</p>
+            <p>While the picture was not planned with the specific idea of giving publicity to
+                  <placeName type="setting">the islands</placeName>, it still will be of tremendous
+               benefit in portraying to mainland people the marvels of this section of the globe. It
+               will be a true mirror in which those of the outer world may see life as it is lived
+               in the Paradise of the Pacific.</p>
+            <p> "I wrote the story," <persName ref="ivers">Mrs. Ivers</persName> said, "with a
+               genuine love and affection for the islands, and I will produce it in the same way. No
+               'roughneck' of a director will have a chance to squeeze the fragrance out of the
+               plot, for I am going to direct the action myself. It is some time since I did that
+               sort of work, but I have chosen my cast and staff myself. I know something of the
+               atmosphere of Hawaii and I wrote the story myself. I am just sure that if we can get
+               things into film as we see them here the island will owe us a very great deal of
+               gratitude.</p>
+            <p> "One scene will be taken showing the departure of a steamer and including that
+               lovable custom of giving leis, which is to me most touching. When I left <placeName
+                  type="setting">Honolulu</placeName> last spring returning to <placeName
+                  type="setting">Los Angeles</placeName> I cried as the boat pulled away from the
+               dock. I was not leaving a host of friends either, but there is something about the
+               strains of 'Aloha Oe' which brings the moisture to the eyes and a catch to the
+               throat. This atmosphere is what we hope to catch in our picture, and we hope that
+               when it comes back to <placeName type="setting">Honolulu </placeName>as a finished
+               product the people will think that we have done full justice to our theme."</p>
+            <p>
+               <persName ref="ivers">Mrs. Ivers</persName> is a pioneer in the moving picture
+               profession, having been identified with it in every sort of a capacity for the last
+               nine years. She knows the game from A to Z. "I will have no one to blame if I fail to
+               get a good <objectName type="thing">picture</objectName>," she says. "<persName
+                  ref="lasky">Mr. Lasky</persName> permitted me to select my own cast and to choose
+               my technical force, camera man, art director and all. I am in full charge and I have
+               every confidence in my company. There is not a person in it who will not go the limit
+               to do as he or she is told. I know they will all give their very best to make the
+               picture a success."</p>
+            <p>
+               <persName ref="ivers">Mrs. Ivers</persName> believes she is especially fortunate in
+               her choice of her art director, George Hopkins<persName/>. "He is really very
+               superior," she said, "and has done some wonderful work on interiors. He has a weird
+               touch which makes his work stand out."</p>
+            <p> While a number of locations have been chosen, <persName ref="ivers">Mrs.
+                  Ivers</persName> said that they may not be used. "You see," she said, "the art
+               director, the camera man, and electrician always inspect a location before we begin
+               to 'shoot.' If any one of them has a fault to find I simply give up the location and
+               seek something else that will be suitable. The art director and the camera man have
+               to produce the artistic part of the film. I have my company in the center of the
+               location and I am often called upon to move the actors to one side or another in
+               order that <objectName type="thing">the camera</objectName> may register striking
+               features that may be at one side or the other of those of the cast. It would never do
+               to have <objectName type="thing">the film </objectName>unbalanced."</p>
+            <p>The very newest in motion picture cameras will be used by the company here.
+                  <objectName type="thing">The "Mitchell,"</objectName> a machine which combines all
+               of the good points of all other cameras with none of their bad points, is included in
+               the equipment brought from <placeName type="setting">the mainland</placeName>. There
+               also are <objectName type="thing">two other older style cameras</objectName> to be
+               used.</p>
+            <p>It is possible that work of filming may start before Friday, <persName ref="ivers"
+                  >Mrs. Ivers</persName> said.</p>
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

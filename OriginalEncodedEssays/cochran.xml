@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Leslie Henry</head>
+            <byline>John Cochran</byline>
+            <p> STATEMENT OF MISS MARY MILES MINTER. G.H BOONE OFFICIAL REPORTER IN THE DISTRICT
+               ATTORNEY'S OFFICE, February 7, 1922, at five o'clock P.M. [Part 3] </p>
+
+            <p> DORAN: I understand the <date type="dark">night of the murrder</date> you were with <persName ref="Neilan">Mr Neilan</persName>. </p>
+
+            <p>MINTER: No, I was not. I was at <placeName type="house">home</placeName> with my <persName ref="grandmother">grandmother</persName> and <persName ref="sister">sister</persName>. </p>
+
+            <p> DORAN: I mean after the <eventName type="death">murder</eventName>, after you learned of the <eventName type="death">murder</eventName>.</p>
+
+            <p> MINTER: Yes, <date type="end">Friday</date>. </p>
+
+            <p> DORAN: The next <date type="dark">night</date>, was it?</p>
+
+            <p> MINTER: No, it was the <date type="fun">night after Thursday</date>. <persName ref="Neilan">Mr Neilan</persName> -- I mean <persName ref="taylor">Mr Taylor</persName> was found
+               dead <date type="early">Thursday morning</date>, was he not? </p>
+
+            <p> DORAN: Yes.</p>
+
+            <p> MINTER: <date>Thursday</date> was such a long day. <time>Friday night</time> I saw <persName ref="Neilan">Mr. Neilan</persName>.</p>
+
+            <p> DORAN: Did he. communicate w1 th you or you with him? </p>
+
+            <p> MINTER: Why, he communicated with me; he tried to, but it was because of me he did
+               that. On <time>Thuraday night</time> I was worried about <persName ref="Taylor">Mr Taylor</persName>; I was worried about <persName ref="Neilan">Mr Neilan</persName>
+               and called <persName ref="Mother">Marshall's mother</persName>.</p>
+
+            <p> DORAN: This was after the <eventName type="death">murder</eventName>?</p>
+
+            <p> A Yes, this vas <time>Thursday night</time> after the <eventName>murder</eventName>. I said, "Please tell <persName ref="Mickey">Mickey</persName> not to
+               drive that <objectName type="car">green car</objectName> so reckless; I am so afraid that he, too, will fall into
+               trouble. And she thanked me and said, "I will tell him. That is just exactly what I
+               havebeen thinking lately myself, and I want to see you soon, <persName ref="Mary">Mary</persName>." With that I
+               thought no more about it. In fact, I didn't even think [page 14] <persName ref="Neilan">Marshall</persName> would call
+               me. He had not caled me in three week or more. 1 thought no more about it and I was
+               surprised the <date>next day</date> to learn -- yes, <date>Friday</date> -- that he had tried to get me at
+               <time>five-thirty</time>. My <persName ref="sister">sister</persName> was at our old <placeName>home</placeName> where there is a <objectName type="phone">telephone</objectName>. The present
+               <placeName type="home">home</placeName> has no <objectName type="phone">telephone</objectName>, and when he happened to call there she was there.</p>
+
+            <p> DORAN: At <time>five-thirty</time> of what day? </p>
+
+            <p> MINTER: <date>Friday</date>; and he ea1d he ms very anxious to see me. She knew I had left and
+               wass driving with <persName ref="George">George Scarborough</persName>, and she said she didn't know what time 1 would
+               be back. He said well, he wanted me to come to see him before <time>ten o'clock</time>, but after
+               <time>ten o'clock</time> he would be on location. He didn't say the <placeName type="station">Salt Lake Station</placeName>, but he was
+               very anxious to get hold of me before <time>ten o'clock</time>. I came in after <time>ten</time> and they all
+               told me l had better call <persName ref="Neilan">Marshall</persName>; he seemed very anxious to get hold of me. I
+               didn't· know where to call him; I thought possibly he would come to the <placeName type="house">house</placeName>. I
+               I were you I would call him up or at 1east call <persName ref="mother">his mother</persName> and find out where he is."
+               I called the <placeName type="studio">studio</placeName> and the <persName ref="watchman">night watchman</persName> immediately said, "<persName ref="Neilan">Mr Neilan</persName> is not here;
+               is this <persName ref="Minter">Miss Minter</persName>?" I said, "Yes."</p>
+
+            <p> And he said, "<persName ref="Neilan" > Mr Neilan</persName> ia at the <placeName type="station">Salt Lake Station</placeName>." <persName ref="scarborough">Mr Scarborough</persName> and l drove
+               down there in my runabout. He was very hard at work and had been all <time>night</time>, it seemed
+               he had [page 15] been working all night for four nights past. They were all just dead
+               tired. <time>Night and day</time> they had been working. He finished about <time>two-thirty</time>, and then
+               there were several in the party, <persName ref="Gloria">Gloria Swanson</persName>, <persName ref="Pickford">Jack Pickford</persName>, <persName ref="Urson">Frank Urson</persName> -- <persName ref="Urson">Mr
+               Frank Urson</persName> is now associated with <persName ref="Neilan">Mr Neilan</persName> as <persName ref="director">director</persName> -- and <persName ref="Marshall">Marshall</persName> and myself.
+               We went to his <placeName type="home">mother's home</placeName> where he lives with <persName ref="mother">his mother</persName> and we tried to make <objectName type="eggs">eggs</objectName>
+               and things. It was very amusing; we only had four <objectName type="eggs">eggs</objectName>, and I tried to fry two of
+               them and ruined the <objectName type="things">things</objectName>, adn we didn't have enough to go around and we made so
+               much noise <persName ref="mother">his mother</persName>, who was ill <placeName type="upstairs">upstairs</placeName>, told us we must behave ourselves.
+               <persName ref="Marshall">Marshall</persName> said, "There is only one thing to do; I have got to talk to you. We have had
+               all of this foolishness, and I have got something very important to say to you, <persName ref="Minter">Mary</persName>.
+               Let's drive to the <placeName type="studio">studio</placeName> where we can talk." We drove down to the <placeName type="studio">Hollywood studio</placeName>
+               and we sat there in the <placeName type="office">office</placeName>, the <objectName type="lights">lights</objectName> burning and the <persName ref="watchman">watchman</persName> was there and the
+               <persName ref="property man">property man</persName> was not around. He was outside. We talked until <time>dawn</time>; it was <time>dawn</time> when
+               we came out of the <placeName type="place">place</placeName>.</p>
+
+            <p> DORAN: What were you talking about?</p>
+
+            <p> MINTER: About <persName ref="Taylor">Mr Taylor</persName> and letters <persName ref="Neilan">Marshall Neilan</persName> had tried to get for me.</p>
+
+            <p> DORAN: Who had tried to get for you?</p>
+
+            <p> MINTER: <persName ref="Neilan">Marshall</persName> had tried to get for me, which was the first inkling I knew of his
+               knowledge of my <objectName type="letters">letters</objectName>, that I had written any to <persName ref="Taylor">Mr Taylor</persName>. He told me certain
+               very, very [page 16]ghastly things have since been proven absolutely true. He told
+               them to me in my interest, but they made me very furious at the time, and we left
+               more or less in a quarrel.</p>
+
+            <p> DORAN: Will you please tell us everything that he told you there?</p>
+
+            <p> MINTER: Yes, indeed. He first said, "<persName ref="Minter">Mary</persName>, sit down. I have something very importnat
+               to tell you." I sat down, and he said, "You know this <eventName type="death">murder</eventName> of <persName ref="Taylor">Bill</persName> is going to be
+               the greatest nine-days wonder" or "nineteen-days wonder that we have ever had,
+               certainly that <placeName type="LA">Los Angeles</placeName> ever had. You don't know what a terrible thing it is going
+               to be." I said, "Yes, I do. It is awful!" He said, "Now, <persName ref="Minter">Mary</persName>, I tried to get your
+               <objectName type="letters">letters</objectName>" --</p>
+
+            <p> DORAN: May I interrupt you a moment? What time did you arrive at his <placeName type="studio">studio</placeName>?</p>
+
+            <p> MINTER: We left location, he worked down at the <placeName type="station">Salt Lake Station</placeName>, about <time>two-thirty
+               to a quarter to three</time>, we left there and went to his <placeName type="house">house</placeName>. How long we were there I
+               couldn't say; I didn't have a <objectName type="watch">watch</objectName>; I imagine we were there about an hour or maybe
+               more, and then we went on down to the <placeName type="studio">studio</placeName> and we stayed until <time>dawn</time>, whatever time
+               that is. We then came on back to my <objectName>house</objectName>. <persName>Mother</persName> was waiting for us and we got out
+               and explained to her. <persName ref="mother">Mother</persName> knew he had had a verious talk and she felt sure
+               <persName ref="Neilan">Marhsall</persName> would try to come to our aid. My <persName ref="mother">mother</persName> is very fond of <persName ref="Neilan">Mr Neilan</persName> and the
+               whole family. He said he was just dead tired. The man took his hours when hee needed
+               sleep to tell me these things. He was going to be up at <time>eight o'clock</time> that morning
+               and he didn't even go to bed that night. He just sat up in his clothes and went out
+               to work again at <time>eight o'clock</time>. Anyway, he said, "I tried to get your <objectName type="letters">letters</objectName> for
+               you. You know they are a very important factor in the <eventName type="case">case</eventName>, if they get hold of
+               them." I was shocked to find that he knew of my <objectName type="letters">letters</objectName>. I said that I wrote some,
+               and he said something about going to a newspaper or getting hold of <persName ref="person">some body</persName> in
+               <placeName type="Pasadena">Pasadena</placeName> to get me the <objectName type="letters">letters</objectName>. That part is not clear in my mind. I think I was so
+               tired at the time I couldn't understand him. I haven't seen him since or I would have
+               questioned him again about the <objectName type="letters">letters</objectName> just what he did. He told me I should have
+               received them that <date>day</date>. He asked me if I had gotten them and I said, "No, I haven't
+               received the <objectName type="letters">letters</objectName> <date>today</date>." He said, "Well, I sent them to the <placeName type="studio">studio</placeName>, and I believe
+               the studio," the <placeName type="studio">Realart Studio</placeName> where I had last worked. He said, "They are in
+               <persName ref="Eyton">Charley Eyton's</persName> hands now." He either said <persName ref="Eyton">Charley Eyton</persName> or <persName ref="Carbut">Mr Carbut</persName>, but I can't
+               state this acutally because I was so tired at the time I could hardly hear him and I
+               was desperately interested to hear what he said about the <objectName type="letter">letter</objectName>, and I strained all
+               my nerves to hear, but instead it came back and forth; it was hazy. I don't know the
+               exact words he spoke. Anyway, I remember saying, "Well, there is nothing in the
+               <objectName type="letters">letters</objectName> that the world can't read except that it is horribly painful to me to have
+               them read my <objectName>letters</objectName> to him." He said, "You loved <persName>Billie</persName>, didn't you?" I said, "Yes,
+               <persName ref="Neilan">Marshall</persName>, I loved him deeply and sincerely." And he said, "Did you ever want to marry
+               him?" Whereupon I replied, I said, "No, no; I know it couldn't have been. It was not
+               meant to be." Then we talked about -- Oh, yes. Then he said, "Now, <persName ref="Minter">Mary</persName>, I am going
+               to tell you some very important thing; they are going to hurt you, going to shock
+               you, but before I say a word I want you to consider <persName ref="Taylor">Billie</persName> was just as crazy as a
+               March hare months before his death." He said, "I am going to recite a few instances
+               that <persName ref="Taylor">Bill</persName> told me about, things irrelevant to you, to show he didn't do this only to
+               you but to others of his very <persName ref="person">best friends</persName>." </p>
+
+            <p> <persName ref="Neilan">Marshall</persName> and <persName ref="Taylor">Mr Taylor</persName> were extremely good friends. I don't think they saw each
+               other often, but they were most affectionately fond of each other. He said, "On
+               several occasions <persName ref="Taylor">Bill</persName>" -- he spoke of him as '<persName ref="Taylor">Bill</persName>' -- "has confessed to me that --
+               Oh, I am so tired I can't think how I am trying­ to say it. He came up to my <placeName type="room">room in
+               the club</placeName> one day and he said, "Oh, I know something about you, <persName ref="Neilan">Marshall</persName>, and those
+               <objectName type="cigs">gold-tipped cigarettes</objectName> I found of yours." Whereupon <persName ref="Neilan">Marshall</persName> said he replied, "Well,
+               you needn't say anything, <persName ref="Taylor">Bill</persName>" -- l don't know what it was, a <objectName type="cigar">cigar</objectName> or something of
+               some personal nature that he recognized of <persName ref="Taylor">Mr Taylor's</persName> at somebody's <placeName type="house">house</placeName>. I don't
+               know whose <placeName type="house">house</placeName>. He said, "That makes us Elks. Don't you say anything about me, what
+               I have been doing in a joking, friendly manner." <persName ref="Taylor">Mr Taylor</persName>, he said, suddenly stood
+               up and looked at him very seriously, soberly, and said, "<persName ref="Taylor">Marshall</persName>, I am surprised at
+               the things you are doing now-a-days." <persName ref="Neilan">Marshall</persName> said, "Just what do you mean by that?"
+               and he said, "Why, what you said to your <persName ref="wife">wife</persName> the other night at <placeName type="sunset">Sunset Inn</placeName> about
+               poor little <placeName ref="Gloria">Gloria Swanson</placeName>."</p>
+
+            <p> I may be getting some of those words mixed; maybe he didn't say "poor little <persName ref="Gloria">Gloria
+               Swanson</persName>." Maybe <persName ref="Neilan">Marshall</persName> didn't tell me that. This is my impression. <persName ref="Neilan">Marshall</persName> said,
+               "What do you mean?" And he said, "Don't you remember the night we were at <placeName type="sunset">Sunset Inn</placeName>
+               and you were sitting here and <persName ref="Swanson">Miss Swanson</persName> was sitting there and your former wife,
+               <persName ref="Banbrick">Gertrude Banbrick</persName>, came in and said, 'Hello, <persName ref="Gloria">Gloria</persName>, how are you?' and <persName ref="Gloria">Gloria</persName> replied
+               pleasantly, and you turned to <persName ref="Bambrick">Gertrude Bambrick</persName> and said, 'How dare you speak to this
+               girl?' pointing to <persName ref="Gloria">Gloria</persName>, the <persName ref="person">lady</persName> he was with, 'How dare you speak to her? Don't
+               you ever dare to speak to her again,'" And <persName ref="Taylor">Mr Taylor</persName> was telling <persName ref="Neilan">Marshall Neilan</persName>.
+               <persName ref="Neilan">Marshall</persName> said he looked at him and said, "What's the matter with you, <persName ref="Taylor">Bill</persName>? Are you
+               drunk?" He said, I haven't had a <objectName type="drink">drink</objectName>," <persName ref="Taylor">Mr Taylor</persName> said, and he said, "The funny part
+               of it was he wasn't drunk." He couldn't detect it on his breath. "But he looked quite
+               as serious and sober as I do this minute." He said, "Why, tell me what day you think
+               this was." He said it was on a <date>certain day</date> -- I don't know if <persName ref="Neilan">Marshall</persName> told me the
+               day or not. He said, on a <date>certain day</date> at <placeName type="sunset">Sunset Inn</placeName> recently. <persName ref="Neilan">Marshall</persName> said, "Why,
+               <persName ref="Taylor">Bill</persName>, at that time l I was in <placeName type="NYC">New York City</placeName> and was not in <placeName type="LA">Los Angeles</placeName> nor
+               <placeName type="Cali">California</placeName>."</p>
+
+            <p> <persName ref="Taylor">Mr Taylor</persName> and he had quite a friendly argument over it, and he said, "I know it is
+               so; I was there myself and heard what you said upon this greeting between those two
+               <persName ref="girls">girls</persName>." <persName ref="Neilan">Marshall</persName> said he thought perhaps he had lost his mind. The next day he called
+               up, haVing that in mind, <persName ref="Swanson">Miss Swanson</persName> and he said, "<persName ref="Gloria">Gloria</persName>, am I going crazy? Have I
+               lost my mind? Do you remember of ever being at <placeName type="sunset">Sunset Inn</placeName> with me when <persName ref="Bambrick">Gertrude
+                  Bambrick</persName> passed our <placeName type="table">table</placeName> and spoke to us pleasantly and railed at my <persName ref="ex">former wife</persName> for
+               having spoken to you pleasantly and told her not to speak to you again?" And she
+               said, "What on earth are you talking about? What is this? I don't understand you,"
+               And he said, "Do you ever remember seeing <persName ref="Taylor">Bill Taylor</persName> there near us at any time on
+               any such occasion?" And she said, "Certainly not, !the oniy time I ever saw <persName ref="Taylor">William
+                  Taylor</persName> at <placeName type="sunset">Sunset Inn</placeName> was the <date>night</date> I was with" -- I don't know his name, some <persName ref="person">friend
+               of hers</persName> -- "and <persName>Bill Taylor</persName> was sitting away over on the other side by the <placeName>wall</placeName> and
+               we were by the <placeName type="musical">orchestra</placeName> on this side." He said, "Was I there?" And she said, "No.
+               Don't you remember you were in <placeName ref="NYC">New York</placeName> at the time?" He said, "That is one instance,
+               <persName ref="Minter">Mary</persName>, of <persName ref="Taylor">Bill</persName>'s failing mind, I have never cleared that up. <persName ref="Taylor">Bill</persName> and I have discussed
+               it many times since, and I have always gone away puzzled, amazed, that he still stuck
+               to his version of my having spoken to my <persName ref="ex">former wife</persName> as I did. I didn't see her;
+               neither <persName ref="Swanson">Miss Swanson</persName> saw her on that occasion." Then he said, "On another <eventName type="occasion">occasion</eventName>
+               <persName ref="Taylor">Bill</persName> told me he had received a <objectName type="letter">letter</objectName> from <persName ref="Sweet">Blanche Sweet</persName>; that she told <persName ref="Taylor">Mr Taylor</persName>
+               that she was grieved he was sick;" that <persName ref="Neilan">Marshell Neilan</persName> was calling on me and she
+               intended to sue him. <persName ref="Neilan">Marshall</persName> said that sounded so unlike <persName ref="Sweet">Miss Sweet</persName> that he went to
+               her and questioned her, and he said, "<persName ref="Sweet">Blanche</persName>, have you writtn to <persName ref="Taylor">Bill</persName> lately?" She
+               said, "Why, yes, I wrote him a little <objectName>note</objectName> not so long ago thanking him for some
+               <objectName type="flowers">poinsettias</objectName> he sent me <date>Christmas</date>." He aa1d, "Did you say anything else?" She said,
+               "No, not that I can remember." He said, "Did you ever say that you regretted my going
+               about with <persName ref="Minter">Miss Minter</persName> and that you intended to sue me?" She said, "Perfectly
+               ridiculous. What do you mean? I certainly did not say any such thing."</p>
+
+            <p> <persName ref="Neilan">Marshall</persName> at that time said to me, "And you know <persName ref="Sweet">Blanche</persName> doesn't lie. She certainly
+               doesn't lie; tbat is her reputation all over the world, over the picture game. I have
+               heard that hundreds of times myself; I am pretty sure it is so." He said, "Now, that
+               is another instance of poor <persName ref="Taylor">Bill</persName>'s insanity. Now, <persName ref="Minter">Mary</persName>, here is the ghastly thing I
+               have to tell you." He said, "One time" -- I don't know whether he said in his <placeName>room</placeName> or
+               the <placeName type="club">club</placeName>, he was somewhere, I think in one of his own <placeName type="room">rooms</placeName>, he, <persName ref="Neilan">Marshall Nieilan</persName>,
+               and <persName ref="Arthur">Arthur Hoyt</persName>, <persName ref="Robinson">Cap Robinson</persName> -- He said "<persName ref="Robinson">Cap Robinson</persName>"; maybe he meant "Captain"; I
+               don't know; I don't know how he is; I know <persName ref="Arthur">Arthur</persName> well. He said, "We were all
+               standing around there talking pleasantly" -- I think he said <persName ref="Moreno">Antonio Moreno</persName> was
+               there. He said, "We were all talking pleasantly and <persName ref="Taylor">Mr Taylor</persName> suddenly started
+               talking about you, and the talk grew finally more and more personal and finally he
+               said -- and this is terrible -- 'presently he said you had been over in the last two
+               weeks" -- I should say this is within at least three weeks of <persName>Mr Taylor</persName>'s <eventName>death</eventName>; I
+               think <persName ref="Neilan">Marshall</persName> told me at the time, but I have forgotten the time. -- "within the
+               last two weeks, that you were undressed in his <placeName type="apartments">apartments</placeName>; that you beseeched him for
+               his love; that he resisted you, and finally persuaded you to leave his
+               <placeName type="apartments">apartments</placeName>."</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

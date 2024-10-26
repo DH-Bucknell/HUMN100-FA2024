@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Henry Peavey</head>
+            <byline>Firestone</byline>
+            <p> Coroner's Inquest Transcript The following is the transcript of the shorthand notes
+               taken at the Coroner's inquest held on the body of William Desmond Taylor at Ivy H.
+               Overholtzer [Mortuary] at Los Angeles, California on the 4th day of February, 1922 at
+               10:00 a.m. Frank Nance, coroner, presided. Henry Peavey, being first duly sworn,
+               testified as follows:</p>
+
+            <p>NANCE: Please state your name.</p>
+
+            <p>PEAVEY: <persName ref="Peavey">Henry Peavey</persName>.</p>
+
+            <p>NANCE: Where do you live?</p>
+
+            <p>PEAVEY: I live at <placeName type="living">127 1/2 East 3rd Street</placeName>. </p>
+
+            <p>NANCE: What is your occupation?</p>
+
+            <p>PEAVEY: Cook and valet.</p>
+
+            <p>NANCE: <persName ref="Peavey">Mr. Peavey</persName>, were you employed by <persName ref="Taylor">Mr.
+                  Taylor</persName>, <persName ref="Taylor">the deceased</persName> in this case? </p>
+
+            <p>PEAVEY: Sir?</p>
+
+            <p>NANCE: Were you employed by <persName ref="Taylor">the dead man</persName> in the case?</p>
+
+            <p>PEAVEY: Yes,sir.</p>
+
+            <p>NANCE: How long have you been working for him?</p>
+
+            <p>PEAVEY: <time>About six months</time>.</p>
+
+            <p>NANCE: Were you in the <placeName type="living">house</placeName> on <time>the evening when he
+                  was found dead</time> there?</p>
+
+            <p>PEAVEY: Yes, sir.</p>
+
+            <p>NANCE: What time did you leave the <placeName type="living">house</placeName>?</p>
+
+            <p>PEAVEY: I figured it was about <time>a quarter past [seven]</time> that I left the
+                  <placeName type="living">house</placeName>.</p>
+
+            <p>NANCE: Where was he when you left?</p>
+
+            <p>PEAVEY: He was sitting in a <objectName type="furniture">chair</objectName> facing ust to the
+               [illegible] now, and Miss Normand was sitting in a <objectName type="furniture">chair</objectName>
+               just the same. They were discussing <objectName type="posession">a red-backed book</objectName>.</p>
+
+            <p>NANCE: In what part of the <placeName type="living">house</placeName> were they?</p>
+
+            <p>PEAVEY: They were near the <placeName type="room">dining-room</placeName>, where you enter the
+                  <placeName type="room">dining-room</placeName> from the
+               <placeName type="room">living-room</placeName>.</p>
+
+            <p>NANCE: That is a <placeName type="living">two-story apartment</placeName>, is it not?</p>
+
+            <p>PEAVEY: Yes, sir.</p>
+
+            <p>NANCE: And on the <placeName type="wing">ground floor</placeName>, how many rooms?</p>
+
+            <p>PEAVEY: The <placeName type="room">living-room</placeName>, <placeName type="room">dining-room</placeName>
+               and <placeName type="room">kitchen</placeName>.</p>
+
+            <p>NANCE: Now, <placeName type="passage">the entrance</placeName> to this
+                  <placeName type="living">apartment</placeName> is immediately into the front there, is it
+               not-the <placeName type="room">front room</placeName>, rather?</p>
+
+            <p>PEAVEY: The <placeName type="room">front room</placeName>, yes sir.</p>
+
+            <p>NANCE: They were seated?</p>
+
+            <p>PEAVEY: Near the <placeName type="room">dining-room</placeName> there, in the
+                  <placeName type="room">living-room</placeName>, near the <placeName type="passage">entrance to the
+                  dining-room</placeName>. </p>
+
+            <p>NANCE: When you went out, which way did you go out, at <placeName type="passage">the
+                  front</placeName> or <placeName type="passage">the back</placeName>?</p>
+
+            <p>PEAVEY: I went out <placeName type="passage">the front way</placeName>. I always lock up the
+                  <objectName type="passage">back door</objectName> when I go out. I always lock the
+                  <objectName type="passage">back door screen</objectName>; it has a <objectName type="thing">hook</objectName>
+               on the inside. I used the <objectName type="passage">front door</objectName> to come out <time>all
+                  the time</time>.</p>
+
+            <p>NANCE: Did you carry <objectName type="posession">the back door key</objectName> with you?</p>
+
+            <p>PEAVEY: No, sir. I always turn it in the <objectName type="passage">door</objectName> and leave it
+               just as it is.</p>
+
+            <p>NANCE: Now, when did you next see <persName ref="Taylor">Mr. Taylor</persName>?</p>
+
+            <p>PEAVEY: The <time>next morning</time>, when I went to work.</p>
+
+            <p>NANCE: What time are you in the habit of coming to work?</p>
+
+            <p>PEAVEY: I am usually there about <time>half past seven</time>.</p>
+
+            <p>NANCE: What time did you arrive there the next morning?</p>
+
+            <p>PEAVEY: PEAVEY: just about <time>half past seven</time>.</p>
+
+            <p>NANCE: What day was that?</p>
+
+            <p>PEAVEY: <time>Thursday morning [February 2]</time>.</p>
+
+            <p>NANCE: On arriving there, what did you do?</p>
+
+            <p>PEAVEY. <eventName type="action">I picked up the paper</eventName> first; <eventName type="action">I stopped in a
+                  drug store</eventName> at the <placeName type="buisness">corner of 5th and Los Angeles</placeName>
+               to get a <objectName type="consumable">bottle of medicine</objectName> - <objectName type="consumable">milk of
+                  magnesia</objectName>, <persName ref="Taylor">he</persName> usually takes that every morning; <eventName type="action">I bought
+                  that</eventName> on my way out. <eventName type="action">I picked up the paper and unlocked the
+                  door</eventName>. The first thing I saw was his feet. <eventName>I looked at his
+                  feet a few minutes and said, "<persName ref="Taylor">Mr. Taylor</persName>." <persName ref="Taylor">He</persName> never moved. I
+                  stepped a little further in the <objectName>door</objectName>, and seen his
+                     <objectName>face</objectName>, and turned and ran out and
+               hollered</eventName>.</p>
+
+            <p>NANCE: Who did you summon? Who did you call to?</p>
+
+            <p> PEAVEY: I don't know.</p>
+
+            <p>NANCE: You just made a lot of noise to attract all the attention you could?</p>
+
+            <p>PEAVEY: Yes, sir.</p>
+
+            <p>NANCE: Several people came, did they?</p>
+
+            <p>PEAVEY: Yes, sir. I think <persName type="Taylor">Mr. Desmond [sic]</persName>, and the
+                  <persName type="Jessurun">gentleman</persName> who owns <placeName type="Neighborhood">the court</placeName> was the
+               first.</p>
+
+            <p>NANCE: You mean <persName type="Jessurun">Mr. Jessurun</persName>?</p>
+
+            <p>PEAVEY: Yes, sir.</p>
+
+            <p>NANCE: Who else came?</p>
+
+            <p>PEAVEY: And Mr. - you see, I don't know their names - I just seen them - the two
+               gentlemens next door, <persName type="MacLean">Mr. MacLean</persName> and Mr. - I can't
+                  think of the other gentleman's name - right next door to us [<persName type="Maigne">Charles
+               Maigne]</persName>.</p>
+
+            <p>NANCE: You didn't come back there after you had gone away, when <persName type="Normand">Miss Normand</persName> was
+               there with <persName type="Taylor">Mr. Taylor</persName>?</p>
+
+            <p>PEAVEY: No, sir.</p>
+
+            <p>NANCE: When you went out, was anybody around <placeName type="living">the place</placeName>? </p>
+
+            <p>PEAVEY: Only <persName type="Normand">Miss Normand's chauffeur</persName>; he had his <objectName type="tool">lights</objectName> all on inside the <objectName type="car">limousine</objectName>,
+               cleaning it. <eventName type="action">I hit him on the back and stopped and talked to him <time>a few minutes</time></eventName>.</p>
+
+            <p>NANCE: When you <time>first opened the door</time>, did you see any furniture overturned, or any
+               sign of a disturbance in the house?</p>
+
+            <p>PEAVEY: Nothing more than a <objectName type="furniture">chair</objectName> that was sitting next to the wall had been pushed
+               out a little bit and his <objectName type="bodypart">feet</objectName> was under this <objectName type="furniture">chair</objectName>. The rest of the <objectName type="decorations">furniture</objectName> around
+               the <placeName type="living">house</placeName> and <placeName type="room">room upstairs</placeName> was just as I left them when I went away that
+               evening.</p>
+
+            <p>NANCE: And did you notice whether anything had been taken off of his <objectName type="bodypart">body</objectName>, or not -
+               any <objectName type="posessions">jewelry</objectName>?</p>
+
+            <p>PEAVEY: I didn't notice that; I didn't touch him at all.</p>
+
+            <p> NANCE: Do you know whether he wore any valuable <objectName type="posessions">jewelry</objectName>?</p>
+
+            <p>PEAVEY: Yes sir, he had a <objectName type="posessions">wrist watch</objectName> and another<objectName type="posession"> watch</objectName> with a lot of little trinkets
+               on; and a <objectName type="posession">thing</objectName> you stamp <objectName type="money">checks</objectName> with to keep anybody from making the <objectName type="money">checks</objectName> any big-
+               ger, and a <objectName type="posession">lead pencil</objectName>.</p>
+
+            <p>NANCE: Did he have a <objectName type="posession">diamond ring</objectName>?</p>
+
+            <p>PEAVEY: Yes sir, he had a large <objectName type="posession">diamond ring</objectName> that he wore.</p>
+
+            <p>NANCE: Do you know whether he had it on that <time>evening</time>?,</p>
+
+            <p>PEAVEY: Yes sir, he was dressed just as when I went <time>that evening</time>, as I found him the
+               next morning.</p>
+
+            <p>NANCE: Was the <objectName type="posession">ring</objectName> on his <objectName type="bodypart">finger</objectName> the <time>next morning</time>?</p>
+
+            <p>PEAVEY: Yes sir, his other <objectName type="posession">jewelry</objectName> that I had put away <time>the night before</time> was just as I
+               had put it away up in the <objectName type="storage">dresser drawer</objectName>.</p>
+
+            <p>NANCE: You didn't find anything taken from the <placeName type="living">apartment</placeName>?</p>
+
+            <p>PEAVEY: No sir, it was just as when I left it when I found it. The <objectName type="decoration">rug</objectName> was a little
+               bit kicked up. It looked like he had kicked it with his foot.</p>
+
+            <p>NANCE: There was no other disturbance there?</p>
+
+            <p>PEAVEY: No, sir. Even the <placeName type="room">living-room</placeName> <objectName type="furniture">table</objectName> that I had moved aside. The <objectName type="furniture">rocking chair</objectName>
+               would hit the <objectName type="furniture">table</objectName>, and I moved the <objectName type="furniture">table</objectName> so the <objectName type="furniture">rocking chair</objectName> would not hit the
+               <objectName type="furniture">table</objectName>. It was just as I left it.</p>
+
+            <p>NANCE: By a juror: Were any of the <objectName type="decoration">windows</objectName> up at night?</p>
+
+            <p>PEAVEY: No sir, we had those little long <objectName type="thng">pins</objectName> that runs in the <objectName type="decoration">windows</objectName>. The <objectName type="decoration">windows</objectName>
+               <placeName type="wing">upstairs</placeName> in his <placeName type="room">bedroom</placeName> were up. The <objectName type="decoration">windows</objectName> downstairs I always locked with this peg
+               that slipped in the <objectName type="decoration">window</objectName>.</p>
+
+            <p>NANCE: Were they still that way in the <time>morning</time>?</p>
+
+            <p>PEAVEY: They were still that way in the <time>morning</time>. The <objectName type="tool">lights</objectName> were burning just as I
+               had left them <time>that night</time>; <objectName type="tool">two lights</objectName>, one in the <placeName type="room">living-room</placeName> and one in the
+               <placeName type="room">dining-room</placeName>.</p>
+
+            <p>NANCE:That is all, you may be excused.</p>
+
+            <p>I hereby certify that I, as shorthand reporter, correctly took down in shorthand the
+               testimony and proceedings had at the within named Coroner's inquest; that the
+               foregoing is a full, true and correct copy of my shorthand notes and a full, true and
+               correct statement of the testimony and pro- ceedings had at said inquest. E.M. Allen,
+               Shorthand Reporter</p>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

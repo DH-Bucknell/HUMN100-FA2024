@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with T.H. Ziegler and Detectives</head>
+            <byline>Amanda Woertz</byline>
+
+            <p><persName ref="Coroner">Coroner's</persName> Inquest
+                  <objectName>Transcript</objectName></p>
+
+            <p>The following is the <objectName>transcript</objectName> of the <objectName>shorthand
+                  notes</objectName> taken at the <persName ref="Coroner">Coroner's</persName>
+               <eventName type="investigation">inquest</eventName> held on the <objectName
+                  ref="Taylor">body</objectName> of <persName ref="Taylor">William Desmond
+                  Taylor</persName> at <placeName><orgName>Ivy H. Overholtzer</orgName>
+                  [Mortuary]</placeName> at <placeName>Los Angeles, California</placeName> on the
+                  <date>4th day of February, 1922 </date>at <time>10:00 a.m</time>. </p>
+            <p><persName ref="Ziegler">T.H. Ziegler</persName>, being first duly sworn, <eventName
+                  type="investigation">testified</eventName> as follows:</p>
+
+            <p>BY THE CORONER:</p>
+
+            <p>NANCE: Please state your name.</p>
+
+            <p>ZIEGLER: <persName ref="Ziegler">T.H. Ziegler</persName>.</p>
+
+            <p>NANCE: Where do you live?</p>
+
+            <p>ZIEGLER: <placeName type="house">425 North Hill</placeName>.</p>
+
+            <p>NANCE: What is your occupation?</p>
+
+            <p>ZIEGLER: Police officer.</p>
+
+            <p>NANCE: <persName ref="Ziegler">Mr. Ziegler</persName>, were you called to the
+                  <placeName type="house">premises</placeName> when the <objectName ref="Taylor"
+                  >deceased</objectName> was <eventName type="investigation">found
+               dead</eventName>?</p>
+
+            <p>ZIEGLER: I was.</p>
+
+            <p>NANCE: When did you arrive <placeName type="house">there</placeName>?</p>
+
+            <p>ZIEGLER: A little <time>before</time>
+               <time>8 o'clock</time> in the <time>morning</time> of <date>February 2nd</date>.</p>
+
+            <p>NANCE: Will you state what you found when you got <placeName type="house"
+                  >there</placeName>?</p>
+
+            <p>ZIEGLER: I found the <objectName ref="Taylor">deceased</objectName>, <persName
+                  ref="Taylor">Mr. Taylor</persName>, lying just <placeName type="house"
+                  >inside</placeName> of the <objectName>door</objectName>, on <persName
+                  ref="Taylor">his</persName>
+               <objectName type="body">back</objectName>. <persName ref="Taylor">His</persName>
+               <objectName type="body">hands</objectName>, one of them, apparently to the side of
+                  <persName ref="Taylor">his</persName>
+               <persName ref="Taylor">body</persName>, and the other lying outstretched; and
+                  <objectName type="body">blood</objectName> pouring from <persName ref="Taylor"
+                  >his</persName>
+               <objectName type="body">mouth</objectName>. <persName ref="Taylor">He</persName> was
+               lying with <persName ref="Taylor">his</persName>
+               <objectName type="body">head</objectName> to the <placeName type="location"
+                  >east</placeName>, flat on <persName ref="Taylor">his</persName>
+               <objectName type="body">back</objectName>, dead. </p>
+            <p>NANCE: Was <persName ref="Taylor">his</persName>
+               <objectName ref="Taylor">body</objectName> rigid and cold?</p>
+
+            <p>ZIEGLER: It was.</p>
+
+            <p>NANCE: Indicating <persName ref="Taylor">he</persName> had been dead for <time>some
+                  time</time>?</p>
+
+            <p>ZIEGLER: Yes, <persName ref="Nance">sir</persName>.</p>
+
+            <p>NANCE: Did you see any <objectName type="investigation">evidence</objectName> of a
+               disturbance in the <placeName type="house">house</placeName>?</p>
+
+            <p>ZIEGLER: Not any.</p>
+
+            <p>NANCE: Who was <placeName type="house">there</placeName> when you arrived <placeName
+                  type="house">there</placeName>?</p>
+
+            <p>ZIEGLER: The <persName ref="Jessurun">owner</persName> of the <objectName
+                  type="building">building</objectName>; <persName ref="Mr MacLean">Mr.
+                  MacLean</persName>; another <persName ref="Maigne">movie actor</persName>
+                  [<persName ref="Maigne">Charles Maigne</persName>], and <persName ref="Peavey"
+                  >Peavey</persName>.</p>
+
+            <p>NANCE: You mean the <persName ref="Jessurn">owner</persName> of the <objectName
+                  type="building">building</objectName>, <persName ref="Jessurun">Mr.
+                  Jessurun</persName>?</p>
+
+            <p>ZIEGLER: Yes, <persName ref="Nance">sir</persName>, and <persName ref="Mr MacLean"
+                  >Mr. MacLean</persName> and another <persName>man</persName> I don't know.</p>
+
+            <p>NANCE: One of the <placeName type="location">adjacent</placeName>
+               <persName ref="tenants">tenants </persName>of the <objectName type="building"
+                  >building</objectName>?</p>
+
+            <p> ZIEGLER: Yes <persName ref="Nance">sir</persName>, living <placeName type="location"
+                  >next <objectName>door</objectName></placeName>
+               <placeName type="location">east</placeName> of <persName ref="Taylor">Mr.
+                  Taylor</persName>.</p>
+
+            <p>NANCE: Did you <eventName type="investigation">question</eventName> any of those
+                  <persName ref="tenants">persons</persName> as to whether they had heard any
+               gunshot the <time>night previous</time>?</p>
+
+            <p>ZIEGLER: I did. I learned that from <persName ref=" Mrs MacLean">Mrs.
+                  MacLean</persName>, that along about <time>fifteen or perhaps ten minutes to
+                  eight,</time>
+               <time>the night before</time>, <persName ref="Mrs Maclean">she</persName> heard
+                  <objectName type="gun">a shot</objectName>. <persName ref="Mrs MacLean"
+                  >She</persName> thought it was a gunshot. <persName ref="Mrs MacLean"
+                  >She</persName> went to <persName ref="Mrs MacLean">her</persName>
+               <placeName type="house">front door</placeName> and opened the
+                  <objectName>door</objectName>, and saw a <persName ref="Murderer">man</persName>
+               standing in <persName ref="Taylor">Mr. Taylor's</persName>
+               <objectName>door</objectName>. <persName ref="Mrs MacLean">She</persName> looked at
+                  <persName ref="Murderer">him</persName>, and <persName ref="Murderer"
+                  >he</persName> stood and looked at <persName ref="Mrs MacLean">her</persName>; and
+                  <persName ref="Murderer">he</persName> walked down the <objectName type="house"
+                  >steps</objectName>, turned to the left, and going around the <placeName
+                  type="building">end of the building</placeName>, which is to the <placeName
+                  type="location">east</placeName>; and out into the <objectName type="location"
+                  >street</objectName>. </p>
+            <p>NANCE: Into what <objectName type="location">street</objectName>?</p>
+
+            <p>ZIEGLER: Which is <placeName type="location"> Maryland</placeName>, I think.</p>
+
+            <p>NANCE: Did <persName ref="Jessurun">Mr. Jessurun</persName> tell you <persName
+                  ref="Jessurn">he</persName> heard <objectName type="gun">a shot</objectName>?</p>
+
+            <p>ZIEGLER: I think <persName ref="Jessurun">he</persName> did.</p>
+
+            <p>NANCE: Did <persName ref="Jessurun">he</persName> say why <persName ref="Jessurun"
+                  >he</persName> didn't try to investigate it?</p>
+
+            <p>ZIEGLER: <persName ref="Jessurun">He</persName> did not. <persName ref="Jessurun"
+                  >He</persName> didn't know but what it was an <objectName type="car"
+                  >automobile</objectName> making a noise.</p>
+
+            <p>NANCE: Did <persName ref="Mr MacLean">Mr. MacLean</persName> endeavor to investigate
+               it?</p>
+
+            <p>ZIEGLER: Not that I know of, and <persName ref="Maid">Mrs. MacLean's maid</persName>
+               also heard <objectName type="gun">a shot</objectName>.</p>
+
+            <p>NANCE: Did <persName>they</persName> say why <persName>they</persName> didn't attempt
+               to investigate the cause of the <objectName type="gun">shot</objectName>?</p>
+
+            <p>ZIEGLER: <persName>They</persName> did not.</p>
+
+            <p>NANCE: Did you find any <objectName type="gun">weapon</objectName> about
+                  the<placeName type="house">room</placeName> where the <objectName ref="Taylor"
+                  >deceased</objectName> was lying?</p>
+
+            <p>ZIEGLER: I found a <objectName type="gun"> weapon</objectName> in the <placeName
+                  type="house">room</placeName> above.</p>
+
+            <p>NANCE: Where was it?</p>
+
+            <p>ZIEGLER: In the <placeName type="house">front bedroom</placeName> in the <objectName
+                  type="furniture">dresser drawer</objectName>, lying on a sort of <objectName
+                  type="furniture">box</objectName>.</p>
+
+            <p>NANCE: Did you <eventName type="investigation">investigate</eventName> to see whether
+               the <objectName type="clothing">clothing</objectName> was <objectName>powder
+                  burnt</objectName> or not?</p>
+
+            <p>ZIEGLER: I did not. That was <eventName type="investigaton">investigated</eventName>,
+               I understand, <time>later</time>.</p>
+
+            <p>NANCE: Did you ask any of the <persName>persons</persName> who were called by
+                  <persName ref="Peavy">Henry Peavey, the valet</persName>, whether there was any
+                  <objectName type="gun">weapon</objectName> there when they first came into the
+                  <placeName type="house">room</placeName>?</p>
+
+            <p>ZIEGLER: Yes, <persName ref="Nance">sir</persName>. We looked for everything of that
+               kind.</p>
+
+            <p>NANCE: Have you formed any <eventName type="investigation">conclusion</eventName>
+               whether it was possible this <objectName type="gun">shot</objectName> could have been
+               fired by the <objectName ref="Taylor">deceased</objectName>
+               <persName ref="Taylor">himself</persName>?</p>
+            <p>ZIEGLER: Impossible.</p>
+
+            <p>THE CORONER: Have you any questions, <persName ref="Nance and Ziegler"
+                  >gentlemen</persName>?</p>
+
+            <p>NANCE: By a <persName ref="juror">juror</persName>: Was the <objectName type="gun"
+                  >revolver</objectName> found <placeName type="location">upstairs</placeName>
+               <objectName type="gun">loaded</objectName>? </p>
+
+            <p>ZIEGLER: It was. It had five <objectName type="gun">shells</objectName> in it; it had
+               not been shot of <time>late</time>. </p>
+
+            <p>NANCE: Was it the same caliber <objectName type="gun">bullet</objectName> as was
+               found on the <persName ref="Taylor">deceased</persName>?</p>
+
+            <p>ZIEGLER: This was a <objectName type="gun">.32 automatic Savage</objectName>.</p>
+
+            <p>NANCE: In the <objectName type="furniture">drawer</objectName>
+               <placeName type="location">upstairs</placeName>?</p>
+
+            <p>ZIEGLER: Yes.</p>
+
+            <p>NANCE: What was the number of the <objectName type="gun">bullet</objectName> that was
+               found? </p>
+
+            <p>ZIEGLER: I understand that it was a <objectName type="gun">.38</objectName>. I
+               haven't seen it.</p>
+
+            <p>THE CORONER: That is all, you may be excused. That is all the <objectName
+                  type="investigation">evidence</objectName> we will take in this <eventName
+                  type="investigation">case</eventName>. All but the <persName ref="Jury"
+                  >Jury</persName> will be excused. </p>
+            <p>I hereby certify that I, as a <persName ref="Coroner">shorthand reporter</persName>,
+               correctly took down in <objectName type="investigation">shorthand</objectName> the
+                  <eventName type="investigation">testimony and proceedings</eventName> had at the
+               within named <persName ref="Coroner">Coroner's</persName>
+               <eventName type="investigation">inquest</eventName>; that the foregoing is a full,
+               true and correct copy of my <objectName type="investigation">shorthand</objectName>
+               <objectName>notes</objectName> and a full, true and correct statement of <eventName
+                  type="investigation">the testimony and proceedings</eventName> had at said
+                  <eventName type="investigation">inquest</eventName>. <persName ref="Coroner">E.M.
+                  Allen</persName>, <objectName type="investigation">Shorthand</objectName> Reporter </p>
+            <p> _____ </p>
+
+            <p>DETECTIVE STATEMENTS</p>
+
+            <p>MR. CAHILL: We <eventName type="investigation">tested </eventName>that and the
+                  <objectName type="gun">bullet</objectName> --- the <objectName type="gun"
+                  >gun</objectName> was not more than an inch away from <persName ref="Taylor">his
+                  body</persName> and they couldn't possibly get that close. </p>
+            <p>MR. WOOLWINE: I heard it was 2 to 4 inches.</p>
+
+            <p>MR. CAHILL: No, we have got it to within an inch, the <objectName
+                  type="investigation">test</objectName> shows that.</p>
+
+            <p>MR. WINN: In my opinion, the <objectName type="gun">shot</objectName> that was fired
+               4 inches from the <objectName type="clothing">pants</objectName> in making
+                  that<eventName type="investigation"> demonstration</eventName>, is the nearest
+               likeness to the <objectName type="gun">shot</objectName> in the <objectName
+                  type="clothing">coat</objectName>. </p>
+
+         </div>
+      </body>
+   </text>
+</TEI>
