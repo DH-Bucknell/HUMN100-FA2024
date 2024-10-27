@@ -142,7 +142,7 @@
                   ref="neilan">he</persName> would send me <objectName type="gift"
                   >flowers</objectName>, too, and suddenly I would not hear from <persName
                   ref="neilan">him</persName> for <time>two or three weeks</time>. As I said to
-                  <persName ref="neilan">him</persName> in the <objectName type="car"
+                  <persName ref="neilan">him</persName> in the <objectName type="vehicle"
                   >car</objectName>, not particularly about that but about other things, about
                   <eventName type="love">dinner engagements</eventName>, about appointments, I said,
                "You know, <persName ref="neilan">Marshall</persName>, I never know when l am going
@@ -155,7 +155,7 @@
                   >him</persName> that?</p>
 
             <p>MINTER: I told <persName ref="neilan">him</persName> that when <persName
-                  ref="minterneilan">we</persName> were driving the <objectName type="car"
+                  ref="minterneilan">we</persName> were driving the <objectName type="vehicle"
                   >car</objectName>.</p>
 
             <p>DORAN: How old a <persName ref="neilan">man</persName> is <persName ref="neilan"
@@ -178,18 +178,18 @@
             <p>MINTER: No, I have not.</p>
 
             <p>DORAN: Have you talked with <persName ref="neilan">him</persName> over the
-                  <objectName type="phone">telephone</objectName>?</p>
+                  <objectName type="communication">telephone</objectName>?</p>
 
             <p>MINTER: It was really <time>Saturday morning</time>.</p>
 
             <p>DORAN: Has <persName ref="neilan">he</persName> called you up on the <objectName
-                  type="phone">telephone</objectName>?</p>
+                  type="communication">telephone</objectName>?</p>
 
             <p>MINTER: No; <persName ref="neilan">he</persName> may have called me at the <placeName
                   type="residence">New Hampshire house</placeName> and I wouldn't know.</p>
 
             <p>DORAN: <persName ref="minter">You</persName> haven't talked with <persName
-                  ref="neilan">him</persName> over the <objectName type="phone"
+                  ref="neilan">him</persName> over the <objectName type="communication"
                   >telephone</objectName>?</p>
 
             <p>MINTER: I haven't seen <persName ref="neilan">him</persName> or talked to <persName
@@ -217,7 +217,7 @@
                   Taylor</persName>'s <eventName type="murder">death</eventName>, <persName
                   ref="harry">Harry</persName> was the assistant director in <persName ref="taylor"
                   >Mr Taylor's</persName>
-               <orgName type="movie">companies</orgName> there, and he had said <persName
+               <orgName type="company">companies</orgName> there, and he had said <persName
                   ref="harry">Harry</persName> had been in <placeName type="room">the
                   room</placeName> looking over the effects -- Just a minute. I wonder if <persName
                   ref="maigne">Charles Maigne</persName> told me this. I think <persName
@@ -321,33 +321,34 @@
 
             <p>MINTER: I absolutely do.</p>
 
-            <p>DORAN: What kind of cigarettes was <persName ref="neilan">Neilan</persName> smoking
-                  <time>the night</time> at the <placeName type="studio">studio</placeName>?</p>
+            <p>DORAN: What kind of <objectName ref="cigarette">cigarettes</objectName> was <persName
+                  ref="neilan">Neilan</persName> smoking <time>the night</time> at the <placeName
+                  type="studio">studio</placeName>?</p>
 
             <p>MINTER: <persName ref="neilan">He</persName> smokes two kinds of <objectName
-                  type="cigarettes">cigarettes</objectName>. <persName ref="neilan">He</persName>
-               smokes a gold tipped called <objectName type="cigarettes">"Dimi"</objectName>
+                  type="cigarette">cigarettes</objectName>. <persName ref="neilan">He</persName>
+               smokes a gold tipped called <objectName type="cigarette">"Dimi"</objectName>
                something from <placeName type="country">Egypt</placeName>, I forget the name,
-                  <objectName type="cigarettes">"D" something</objectName>; I noticed <objectName
-                  type="cigarettes">it</objectName> comes from <placeName type="city"
+                  <objectName type="cigarette">"D" something</objectName>; I noticed <objectName
+                  type="cigarette">it</objectName> comes from <placeName type="city"
                   >Cairo</placeName>; then <persName ref="neilan">he</persName> smokes <objectName
-                  type="cigarettes">Chesterfield cigarettes</objectName>. At least, I have seen
-                  <persName ref="neilan">him</persName> smoking <objectName type="cigarettes"
+                  type="cigarette">Chesterfield cigarettes</objectName>. At least, I have seen
+                  <persName ref="neilan">him</persName> smoking <objectName type="cigarette"
                   >Chesterfield cigarettes</objectName>. I remember that much, because I have always
                admired the face of the <objectName type="advertisement">Chesterfield
                   boy</objectName> on that <objectName type="advertisement">red back
                   sign</objectName>, you know, that <objectName type="advertisement">laughing
-                  boy</objectName> in the light hair that says, "Gee"! <objectName type="cigarettes"
+                  boy</objectName> in the light hair that says, "Gee"! <objectName type="cigarette"
                   >They</objectName> satisfy!"</p>
 
             <p>DORAN: Did <persName ref="neilan">Neilan</persName> take <persName ref="minter"
                   >you</persName> home then <time>that morning</time> from the <placeName
                   type="studio">studio</placeName> or did <persName ref="minter">you</persName> go
-               back in <placeName type="car">your own car</placeName>?</p>
+               back in <placeName type="vehicle">your own car</placeName>?</p>
 
-            <p>MINTER: No; my <objectName type="car">car</objectName> had been driven back to its
-                  <placeName type="room">garage</placeName> by <persName ref="neilanchauffeur">Mr
-                  Neilan's chauffeur</persName> with my <persName ref="scarborough"
+            <p>MINTER: No; my <objectName type="vehicle">car</objectName> had been driven back to
+               its <placeName type="storage">garage</placeName> by <persName ref="neilanchauffeur"
+                  >Mr Neilan's chauffeur</persName> with my <persName ref="scarborough"
                   >friend</persName>
                <persName ref="scarborough">Mr Scarborough</persName> in it. Poor <persName
                   ref="scarborough">Mr Scarborough</persName> had been driving around with me
@@ -372,7 +373,7 @@
             <p>MINTER: l don't remember <persName ref="neilan">him</persName> saying to me, "You
                must keep this all in secret oonfidenoe"; no, I do not, because when <persName
                   ref="minterneilan">we</persName> got <placeName type="residence">home</placeName>
-               we discussed some of the things with <persName ref="shelby">mother</persName>, with
+               we discussed some of the things with <persName ref="cshelby">mother</persName>, with
                the whole family, in fact; <persName ref="neilan">he</persName> discussed the
                seriousness of the <eventName type="conversation">conversation</eventName> and told
                me not to do anything without my <persName ref="legal">at­torneys</persName>.</p>
@@ -410,14 +411,14 @@
                time exactly how these things were going to turn out. I mean that they would drag
                everybody's name into it; that the <orgName type="newspaper">papers</orgName> could
                get hold of for the notoriety of it. <persName ref="neilan">He</persName> said, "This
-               involves <orgName type="movie">picture people</orgName> and you know how <persName
-                  ref="hearst">Hearst</persName> hates the <orgName type="movie">picture
+               involves <orgName type="company">picture people</orgName> and you know how <persName
+                  ref="hearst">Hearst</persName> hates the <orgName type="company">picture
                   people</orgName>. <persName ref="hearst">Hearst</persName> would do anything
                   <persName ref="hearst">he</persName> could if <persName ref="hearst">he</persName>
                thought you did know <persName ref="taylor">Mr Taylor</persName>," "There are lots of
-               prominent people in the <orgName type="movie">profession</orgName> who knew <persName
-                  ref="taylor">him</persName> and loved <persName ref="taylor">him</persName>. They
-               are certainly going to drag your name into it."</p>
+               prominent people in the <orgName type="company">profession</orgName> who knew
+                  <persName ref="taylor">him</persName> and loved <persName ref="taylor"
+                  >him</persName>. They are certainly going to drag your name into it."</p>
 
             <p>DORAN: <persName ref="minter">You</persName> didn't <eventName type="conversation"
                   >telephone</eventName>
@@ -435,7 +436,7 @@
                   stories</objectName> of the South Seas. It is very funny, and I laid there
                laughing all the <time>evening</time>. I was very -- right while I was laying on the
                   <objectName type="furniture">couch</objectName> reading aloud to <persName
-                  ref="shelby">mother</persName> and <persName ref="mintersister">sister</persName>
+                  ref="cshelby">mother</persName> and <persName ref="mintersister">sister</persName>
                and we were all laughing heartily at that time, and at the same time <persName
                   ref="taylor">Mr Taylor</persName> was <eventName type="murder">being
                   murdered</eventName>. It seems very horrible to me.</p>
@@ -449,26 +450,26 @@
                remember. Usually every evening somebody drops in. I know they were not there at the
                time I was reading <objectName type="lit">the book</objectName>.</p>
 
-            <p>DORAN: Your <objectName type="car">automobiles</objectName> were all <placeName
+            <p>DORAN: Your <objectName type="vehicle">automobiles</objectName> were all <placeName
                   type="residence">home</placeName>?</p>
 
-            <p>MINTER: Yes, unless I put my <objectName type="car">car</objectName> in the
-                  <placeName type="room">garage</placeName> called the <placeName type="business"
+            <p>MINTER: Yes, unless I put my <objectName type="vehicle">car</objectName> in the
+                  <placeName type="storage">garage</placeName> called the <placeName type="business"
                   >Standard Garage</placeName>. I leave it there sometimes, the <placeName
                   type="business">Standard Garage</placeName> on <placeName type="city">Hollywood
                   Boulevard and Western Avenue</placeName>. Sometimes when my girl friends stop with
                me and have <persName ref="minterfriend">her</persName>
-               <objectName type="car">car</objectName>, I would move out and put it in this
-                  <placeName type="room">garage</placeName> and maybe wouldn't call for it for
+               <objectName type="vehicle">car</objectName>, I would move out and put it in this
+                  <placeName type="storage">garage</placeName> and maybe wouldn't call for it for
                   <time>several days</time>. I haven't been feeling well for some time; I have had
                bronchitis. I hadn't gotten well when this awful shock came to me, and I haven't used
-               the little <objectName type="car">car</objectName> very much.</p>
+               the little <objectName type="vehicle">car</objectName> very much.</p>
 
             <p>DORAN: Do you have a <persName ref="chaucy">chauffeur</persName>?</p>
 
             <p>MINTER: Yes; faithful old <persName ref="chaucy">Chauncy</persName>. <persName
                   ref="chaucy">Chauncy</persName> is just as concerned about this thing as <persName
-                  ref="shelby">my mother</persName> is.</p>
+                  ref="cshelby">my mother</persName> is.</p>
 
             <p>DORAN: Well, I don't think of anything else I care to inquire about now.</p>
 
