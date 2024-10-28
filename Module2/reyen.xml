@@ -135,27 +135,27 @@
                   <persName ref="murderer">he</persName> stopped right near against a big
                   <objectName type="yard">fence</objectName> there in the <placeName type="passage">alley</placeName>, and it
                seems to me <persName ref="murderer">he</persName> stopped just between the
-                  <placeName type="storage">garage</placeName> and <placeName type= "living">Mr. Jesserun's house</placeName>.
+                  <placeName type="house">garage</placeName> and <placeName type= "residence">Mr. Jesserun's house</placeName>.
                   <persName ref="murderer">He</persName> had <objectName type="clothing">flat shoes</objectName> on, I know
                that.</p>
 
             <p>POLICE: You think it was a man's steps?</p>
 
-            <p> JEWETT: Yes. When I came in after she rang the <objectName type="instrument">bell</objectName> I heard
+            <p> JEWETT: Yes. When I came in after she rang the <objectName type="bell">bell</objectName> I heard
                   <persName ref="murderer">him</persName> move around just as she rang the
-                  <objectName type="instrument">bell</objectName> for me, and I went up and walked in and then I came
+                  <objectName type="bell">bell</objectName> for me, and I went up and walked in and then I came
                out from the <placeName type="house">dining room</placeName>, then was I heard
                   <persName ref="murderer">him</persName> walking, I thought <persName ref="murderer">he</persName> walked in
-               between <placeName>the buildings</placeName> and between <placeName type="storage">the
-                  garage</placeName> and <placeName type="neighbor">the house,Mr. Jesserun living in</placeName> * *
+               between <placeName>the buildings</placeName> and between <placeName type="house">the
+                  garage</placeName> and <placeName type="residence">the house,Mr. Jesserun living in</placeName> * *
                and then I cleared out the <objectName type="furniture">table</objectName> and as I cleared out the
                   <objectName type="furniture">table</objectName> and was going to take out the
                   <objectName type="decoration">tablecloth</objectName> was then I heard the shot. Yes, <time>in the
                morning</time>, the <time>next morning</time> * * * around the back in <placeName type="passage">the alley</placeName> *
                * * I heard somebody coming behind me. I turned my head, I saw <persName ref="howardFellows">Mr.
-                  Taylor's man</persName> who drives <objectName type="vehicles">the machine</objectName> and he said "Good morning." He was
+                  Taylor's man</persName> who drives <objectName type="vehicle">the machine</objectName> and he said "Good morning." He was
                in a great hurry and I thought well, he is late * * * because he is supposed to have
-               <objectName type="vehicles">the machine</objectName> out I guess before <time>8 o'clock</time> in front for <persName ref="taylor">Mr.
+               <objectName type="vehicle">the machine</objectName> out I guess before <time>8 o'clock</time> in front for <persName ref="taylor">Mr.
                   Taylor</persName> ** I guess just about <time>8 o'clock</time>. (Witness quoting
                   <persName ref="faithMaclean">Mrs. MacLean</persName>) She says "Come up stairs". I says "All right."
                I come up stairs. She says "<persName ref="taylor">Mr. Taylor</persName> was shot last night."
@@ -238,7 +238,7 @@
             <p>POLICE: Who was it that brought it to your attention?</p>
 
             <p>MACLEAN: <persName ref="peavey">His colored servant</persName> came screaming out of
-                  <placeName type="scene">the house</placeName>.</p>
+                  <placeName type="residence">the house</placeName>.</p>
 
             <p>POLICE: What did he say?</p>
 
@@ -267,10 +267,10 @@
 
             <p>POLICE: Well, what did you say?</p>
 
-            <p>MACLEAN: I saw <persName ref="murderer">a man</persName> had already opened the <objectName type="house">door</objectName> of
-                  <placeName type="scene">Mr. Taylor's house</placeName> and was looking towards
+            <p>MACLEAN: I saw <persName ref="murderer">a man</persName> had already opened the <objectName type="passage">door</objectName> of
+                  <placeName type="residence">Mr. Taylor's house</placeName> and was looking towards
                   <placeName type="location">Alverado St</placeName>. *** I didn't see <persName ref="murderer">him</persName> open the
-                  <objectName type="house">door</objectName>; it was already open I think.</p>
+                  <objectName type="passage">door</objectName>; it was already open I think.</p>
 
             <p>POLICE: Which way was the <objectName type="door">screen</objectName>?</p>
 
