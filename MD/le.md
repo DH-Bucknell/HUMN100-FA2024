@@ -17,22 +17,22 @@
 
             POLICE: When did you first see that, or did you at all?
 
-            SHELBY: I never did know it, [Mr. Keyes](Keyes) , until [Mr. Mott](Mott)  told
+            SHELBY: I never did know it, Mr. Keyes, until Mr. Mott told
                me of the letters that had been found in Taylor's drawer that
                absolutely is convincing that there had been something there.
 
             POLICE: You mean after he was killed
 
-            SHELBY: Yes, and [Mr. Eyton](Eyton)  told me also after [Mr. Taylor](Taylor) 
-               was killed that he knew that, that he knew for a long time that [Mary](Mary)  and [Mr.
-                  Taylor](Taylor)  had been intimate, and I said then "[ Mr. Eyton](Eyton)  you
+            SHELBY: Yes, and Mr. Eyton told me also after Mr. Taylor
+               was killed that he knew that, that he knew for a long time that Mary and Mr.
+                  Taylor had been intimate, and I said then " Mr. Eyton you
                should have told me."
 
-            POLICE: During that time. [Mrs. Shelby](Shelby)  (referring to latter part of 1919
+            POLICE: During that time. Mrs. Shelby (referring to latter part of 1919
                and early part of 1920), was Mary going around with Taylor to your knowledge at
                all?
 
-            SHELBY: Why no, and [Mr. Taylor](Taylor)  was the most perfectly poised man, such a
+            SHELBY: Why no, and Mr. Taylor was the most perfectly poised man, such a
                proper man. He would take Mary out to dinner and he would invariably invite me and my
                mother to go to dinner with them.
 
@@ -52,25 +52,25 @@
 
             POLICE: Who was that?
 
-            SHELBY: [Jeannie McPherson](Jeannie) .
+            SHELBY: Jeannie McPherson.
 
             POLICE: Taylor's name never entered into the discussion then?
 
-            SHELBY: No. I always felt that, when Mary was out with [Mr.
-                  Taylor](Taylor)  she was under a good influence. ***
+            SHELBY: No. I always felt that, when Mary was out with Mr.
+                  Taylor she was under a good influence. ***
 
-            POLICE: Did you ever have any words with [Mr. Taylor](Taylor)  over
-                  [Mary](Mary) ?
+            POLICE: Did you ever have any words with Mr. Taylor over
+                  Mary?
 
-            SHELBY: Never a word, never the slightest word. (Speaking of the time [Mrs.
-                  Shelby](Shelby)  went to Taylor's home at 2 a.m. looking for
+            SHELBY: Never a word, never the slightest word. (Speaking of the time Mrs.
+                  Shelby went to Taylor's home at 2 a.m. looking for
                   Mary).
 
-            POLICE: Did this secretary of yours, [Miss Whitney](Whitney) , go in the
+            POLICE: Did this secretary of yours, Miss Whitney, go in the
                   house with you?
 
-            SHELBY: No, I know she didn‚Äôt because there was nobody in [the
-                  room](house)  but Mr. Taylor and me. She stayed in the car.
+            SHELBY: No, I know she didn‚Äôt because there was nobody in the
+                  room but Mr. Taylor and me. She stayed in the car.
 
             POLICE: Did you have any weapon with you at that time?
 
@@ -79,7 +79,7 @@
             POLICE: You are sure you didn't have a revolver with
                you?
 
-            SHELBY: No, [Mr. Keyes](Keyes) .
+            SHELBY: No, Mr. Keyes.
 
             POLICE: Well, you owned a revolver at that time?
 
@@ -89,7 +89,7 @@
             POLICE: What date was it when you were at Mr. Taylor's home that you were telling
                about?
 
-            SHELBY: I think I could almost fix that date,[ Mr. Keyes](Keyes) , referring to
+            SHELBY: I think I could almost fix that date, Mr. Keyes, referring to
                   a certain little book, you know. Because I was reading
                   Mary's diary and she goes on to say in this
                diary that she and I had some little words that evening,
@@ -97,18 +97,18 @@
                huff, etc., and she adds that mother was right. **** And I think the date of that
                happeningis right in her diary.
 
-            POLICE: Did you ever make a threat to kill[ Mr. Taylor](Taylor) 
+            POLICE: Did you ever make a threat to kill Mr. Taylor
 
-            SHELBY: No, [Mr. Keyes](Keyes) . I never had any reason or desire to kill
-                  [Mr. Taylor](Taylor) .
+            SHELBY: No, Mr. Keyes. I never had any reason or desire to kill
+                  Mr. Taylor.
 
-            POLICE: And you are positive, are you, [Mrs. Shelby](Shelby) , that you never at
-               any time threatened [Mr. Taylor](Taylor) ?
+            POLICE: And you are positive, are you, Mrs. Shelby, that you never at
+               any time threatened Mr. Taylor?
 
-            SHELBY: Certainly not, I had no reason. I never threatened to shot [Mr.
-                  Taylor](Taylor) . I don't think I ever threatened to shoot any man. To shoot him? No,
-               because I had no reason. I had no provocation. I never had a quarrel with [Mr.
-                  Taylor](Taylor)  in my life.
+            SHELBY: Certainly not, I had no reason. I never threatened to shot Mr.
+                  Taylor. I don't think I ever threatened to shoot any man. To shoot him? No,
+               because I had no reason. I had no provocation. I never had a quarrel with Mr.
+                  Taylor in my life.
 
             POLICE: You spoke of having thrown a gun away?
 
@@ -122,7 +122,7 @@
             POLICE: How long had you had the gun?
 
             SHELBY: The gun was given to me in Santa Barbara by
-               [Harry Eaves](Harry Eaves) , who has a jewelry shop up there ‚Äî a very
+               Harry Eaves, who has a jewelry shop up there ‚Äî a very
                   short little pistoi - a little automatic - ***** and he said to me,
                "I have got two and you ought to have one.
 
@@ -137,7 +137,7 @@
             SHELBY: Yes, that one time. It was enough for me. The thing was too short. I can
                shoot a long pistol. I wouldn‚Äôt mind shooting a shot gun. ***
 
-            POLICE: Well, [Mrs. Shelby](Shelby) , [Mary](Mary)  shot that
+            POLICE: Well, Mrs. Shelby, Mary shot that
                   pistol off one time, didn't she?
 
             SHELBY: Yes, she shot it off twice.
@@ -146,21 +146,21 @@
 
             SHELBY: That‚Äôs the ‚Äúsuicide‚Äù (Re: supposed suicide) "Well, we were living at
                   56 Fremont Place. **** I remember the secretary was there
-               that night, [Miss Whitney](Whitney)  *** She (Mary) rushed up the
+               that night, Miss Whitney *** She (Mary) rushed up the
                   stairs saying "I am going to end it, all. I am going to end it all.
-               ** Then [Charlotte](Charlotte)  (Miss ‚ÄúWhitney) said to me, "[Mrs.
-                  Shelby](Shelby) , oh, [Mrs. Shelby](Shelby) , there's a pistol in your closet." ***
+               ** Then Charlotte (Miss ‚ÄúWhitney) said to me, "Mrs.
+                  Shelby, oh, Mrs. Shelby, there's a pistol in your closet." ***
                But she ran up the stairs and ran in my room and closed the door.
 
             POLICE: Did she lock the door?
 
             SHELBY: Oh, locked the door, and the first thing we knew- bang. *** and a second more
-               and - bang ‚Äì the second shot. **** The chauffeur ([Chauncey Eaton](Chauncey) )
-               appeared, and [the night watchman](watchman)  (?), and I said "Break in the door" The two men
-               rushed against the door, the door fell in, and there lay [Mary](Mary)  on my bedroom floor ***
+               and - bang ‚Äì the second shot. **** The chauffeur (Chauncey Eaton)
+               appeared, and the night watchman (?), and I said "Break in the door" The two men
+               rushed against the door, the door fell in, and there lay Mary on my bedroom floor ***
                They picked her up so tenderly, and Chauncey turned her over and he said, "Why,
-                  [Mrs. Shelby](Shelby) , there is no blood on her." **** By that time the
-               secretary had faded out of the picture in a faint *** and she ([Mrs. Shelby's mother](Shelby) ,
+                  Mrs. Shelby, there is no blood on her." **** By that time the
+               secretary had faded out of the picture in a faint *** and she (Mrs. Shelby's mother,
                Mrs. Miles) said, "Why no, she is not shot; stand her up, Chauncey." *** Then she
                (Mary) looked at us and said, "I thought I would give you all a jolt."
 
@@ -179,11 +179,11 @@
             SHELBY: No, I am afraid of pistols. ***
 
             POLICE: What did your mother do with your pistol after
-                  [Mary](Mary)  pulled this stunt.
+                  Mary pulled this stunt.
 
-            SHELBY: That was all there was to it. Of course, we found [Charlotte
-                  Witney](Charlotte)  in a faint on the floor and we had to revive her. *** And
-               [Chauncey](Chauncey)  was trying to find out where the
+            SHELBY: That was all there was to it. Of course, we found Charlotte
+                  Witney in a faint on the floor and we had to revive her. *** And
+               Chauncey was trying to find out where the
                   bullets went, and we discovered one bullet
                had been shot into my closet, and we found that, and another one went up in the
                ceiling of the closet. I remember mother taking the pistol.
@@ -196,47 +196,47 @@
                a client of a friend of my daughter's, Mr. Albert Heiner. *** I also had
                been talking to a man about buying an Aeolian Organ, and he stopped in that morning
                *** And while these two men were in the room, the telephone rang. It was then a
-               little after 9, and [Mr. Carl Stocktdle](Stockdale)  called me up. He had gone to the
-               studio to work and had learned of the death of [William Desmond Taylor](Taylor) .
-               Naturally, knowing that he directed [Mary](Mary) , he called me up and told me
-               that [William Desmond Taylor](Taylor)  had been found dead that morning.
+               little after 9, and Mr. Carl Stocktdle called me up. He had gone to the
+               studio to work and had learned of the death of William Desmond Taylor.
+               Naturally, knowing that he directed Mary, he called me up and told me
+               that William Desmond Taylor had been found dead that morning.
 
             POLICE: Just what did he tell you?
 
-            SHELBY: He said, "[Mrs. Shelby](Shelby) , I just wanted to call you up and tell
-               you, I am at the studio. [William Desmond Taylor](Taylor)  was found dead this
+            SHELBY: He said, "Mrs. Shelby, I just wanted to call you up and tell
+               you, I am at the studio. William Desmond Taylor was found dead this
                morning." "Oh," I said, "that's terrible." That's all he knew. ** I turned to these
                gentlemen and said, "Oh, my, it's terrible. A man who directed my daughter, a very
                charming gentleman, was found dead this morning." **** Then the
                   telephone rang again and the inevitable Miss Berger again. *** I
-               said, "Oh, [Margery](Margery) , [Mr. Stockdale](Stockdale)  just telephoned me from
+               said, "Oh, Margery, Mr. Stockdale just telephoned me from
                the studio that Mr. Taylor was found dead this
                morning." **** In a few minutes the telephone rang again.
-               *** This time Miss Berger said, "[William Desmond Taylor](Taylor)  was
+               *** This time Miss Berger said, "William Desmond Taylor was
                murdered this morning. He was shot." I said, "Oh, my, this is terrible; the man was
                murdered," Was shot? So we discussed that and the organ man knew I was waiting to go
-               out with [Mr. Rice](Rice)  so ** [Mr. Rice](Rice)  and I got in his car *** and I said, ‚ÄúMr. Rice, do
+               out with Mr. Rice so ** Mr. Rice and I got in his car *** and I said, ‚ÄúMr. Rice, do
                you mind if I stop at my house and tell my people?" *** and it seems to me that on
                the way crossing Vermont met my mother coming over in a car with the chauffeur and I
                just waved to her to turn around and come on back with us. I remember that
-               distinctly. ***** I was in a great hurry because [Mr. Rice](Rice)  was waiting
+               distinctly. ***** I was in a great hurry because Mr. Rice was waiting
                for me in front, and I remember the chauffeur had parked my blue Packard in the
                driveway, and something was said about Mary wanted the car.
-               [Chauncey](Chauncey)  had gone to get Mary's car. However, I went
+               Chauncey had gone to get Mary's car. However, I went
                   upstairs in a great hurry, and I said, "Oh,
-               [ Julia](Julia) , dear, Mr. Taylor was murdered last night." She said, "Oh, it
+                Julia, dear, Mr. Taylor was murdered last night." She said, "Oh, it
                isn't possible. I can't believe it. It isn't true." I said, "Oh, yes, it is.
-                 [Miss Berger](Berger)  told me so." *****
+                 Miss Berger told me so." *****
 
-            POLICE: Did [Mr. Woolwine](Woolwine)  ever try to take your statement?
+            POLICE: Did Mr. Woolwine ever try to take your statement?
 
-            SHELBY: No, he never asked me a thing, [Mr. Keyes](Keyes) . Nobody ever questioned
+            SHELBY: No, he never asked me a thing, Mr. Keyes. Nobody ever questioned
                me.
 
-            MR. MOTT: Tell [Mr. Keyes](Keyes)  exactly now, that part of the conversation with
-               [ Chauncey](Chauncey) ?
+            MR. MOTT: Tell Mr. Keyes exactly now, that part of the conversation with
+                Chauncey?
 
-            SHELBY: I said "[Chauncey](Chauncey) , what did you tell them?" He said, "I told them
+            SHELBY: I said "Chauncey, what did you tell them?" He said, "I told them
                that you called me up very early that morning, about half past seven, and my wife
                said you went ever there without breakfast; that you wanted to go over to
                   the Hobart house." I said, "The morning of the Taylor
@@ -246,12 +246,12 @@
                that morning." "No," he said, "that's what they told me down at the
                   office, that there wasn‚Äôt any papers that early." I said, "Well,
                that's nothing, it is just a laps of memory, it is of no consequence." And finally he
-               saw he was in the wrong. I explained to him that [Mr. Rice](Rice)  had driven me
+               saw he was in the wrong. I explained to him that Mr. Rice had driven me
                over."
 
             MR. MOTT: Now explain that Monte Blue proposition.
 
-            SHELBY: ([Mrs. Shelby](Shelby)  tells about some night when Mary had failed to come
+            SHELBY: (Mrs. Shelby tells about some night when Mary had failed to come
                home, and they had looked for her until about 2:30 a.m. and finally located
                her car in front of Charlotte Whitney's house) So Margaret and I rushed in and went up the steps
                hurriedly and opened the door and came upon Mary & Monte (Blue) on the couch. The
@@ -265,7 +265,7 @@
                   room. I have something very forceful to say to you. Come back
                here!"
 
-            MR. DAVIS: That time she went out with [Marshall Neilan](Marshall) , after the
+            MR. DAVIS: That time she went out with Marshall Neilan, after the
                murder; wasn't that about two nights afterwards?
 
             SHELBY: Yes.
@@ -277,7 +277,7 @@
             MR. KEYES: She tried to kill you, you say?
 
             SHELBY: Yes. *** Oh, "Mary said around the house freely. "Oh, 4 killed
-               [Taylor](Taylor) ". Not only once but many times. The was always saying that.
+               Taylor". Not only once but many times. The was always saying that.
 
 
 
