@@ -1,157 +1,165 @@
 Byline,Type,Value,Attribute
-Henry Gibbons,persName,"EARL TIFFANY",TIFFANY
-Henry Gibbons,persName,"W.D. Taylor",TAYLOR
+Henry Gibbons,persName,"EARL TIFFANY",tiffany
+Henry Gibbons,persName,"W.D. Taylor",taylor
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,objectName,"money",power
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,objectName,"money",money
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,objectName,"money",power
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,objectName,"book",paper
-Henry Gibbons,objectName,"book",paper
-Henry Gibbons,objectName,"checks",power
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,objectName,"checks",power
-Henry Gibbons,objectName,"money",power
+Henry Gibbons,objectName,"money",money
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"book",book
+Henry Gibbons,objectName,"book",book
+Henry Gibbons,objectName,"checks",money
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"checks",money
+Henry Gibbons,objectName,"money",money
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Mr. Taylor",Mr. Taylor
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"Mr. Taylor",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,persName,"Mary Miles Minter",Minter
-Henry Gibbons,persName,"Mabel Normand",Mabel
-Henry Gibbons,persName,"Edna Purviance",Edna
-Henry Gibbons,persName,"Mr. Dustin Farnum",Dustin
+Henry Gibbons,persName,"Mabel Normand",mabel
+Henry Gibbons,persName,"Edna Purviance",purviance
+Henry Gibbons,persName,"Mr. Dustin Farnum",farnum
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Miss Gerber",Miss Gerber
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Taylor's",Taylor
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,objectName,"door",wood
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,objectName,"front door",wood
-Henry Gibbons,placeName,"house",place
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"Miss Gerber",gerber
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Taylor's",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"door",door
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"front door",door
+Henry Gibbons,placeName,"house",residence
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,placeName,"house?",place
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,placeName,"house?",residence
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Harry Fellow",HARRY FELLOW
-Henry Gibbons,persName,"Howard Fellows",HOWARD FELLOWS
-Henry Gibbons,persName,"Bill Davis",BILL DAVIS
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Harry Fellow",harry fellow
+Henry Gibbons,persName,"Howard Fellows",howard fellows
+Henry Gibbons,persName,"Bill Davis",bill davis
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"MR. WINN",MR. WINN
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"Mr. Taylor's",Mr. TAYLOR
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"MR. WINN",winn
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"Mr. Taylor's",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"Taylor's",TAYLOR
-Henry Gibbons,persName,"Taylor",TAYLOR
-Henry Gibbons,persName,"Deane-Tanner",DEANE-TANNER
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Deane-Tanner",DEANE-TANNER
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"Taylor's",taylor
+Henry Gibbons,persName,"Taylor",taylor
+Henry Gibbons,persName,"Deane-Tanner",deane tanner
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Deane-Tanner",deane tanner
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Taylor's",TAYLOR
-Henry Gibbons,persName,"Taylor",TAYLOR
-Henry Gibbons,persName,"Sands",SANDS
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Taylor's",taylor
+Henry Gibbons,persName,"Taylor",taylor
+Henry Gibbons,persName,"Sands",sands
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Taylor",TAYLOR
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Taylor",TAYLOR
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Sands",SANDS
+Henry Gibbons,persName,"Taylor",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Taylor",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Sands",sands
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"Taylor",TAYLOR
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Sands",SANDS
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"Taylor",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Sands",sands
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Mr. Taylor",Mr. TAYLOR
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Mr. Taylor",taylor
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"Mr. Taylor's",Mr. TAYLOR
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Mary Miles Minter",MINTER
-Henry Gibbons,persName,"Mabel Normand",MABEL NORMAND
-Henry Gibbons,persName,"Miss Neva Gerber",NEVA GERBER
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Taylor's",TAYLOR
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Mary",MARY
-Henry Gibbons,persName,"Taylor",TAYLOR
-Henry Gibbons,persName,"Mary",MARY
-Henry Gibbons,persName,"Mr. Taylor",Mr. TAYLOR
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"Mr. Taylor's",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Mary Miles Minter",minter
+Henry Gibbons,persName,"Mabel Normand",mabel
+Henry Gibbons,persName,"Miss Neva Gerber",gerber
+Henry Gibbons,persName,"POLICE",law
+Henry Gibbons,placeName,"bed",place
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"paper",paper
+Henry Gibbons,persName,"Taylor's",taylor
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Mary",minter
+Henry Gibbons,persName,"Taylor",taylor
+Henry Gibbons,persName,"Mary",minter
+Henry Gibbons,persName,"Mr. Taylor",taylor
 Henry Gibbons,objectName,"car",vechile
-Henry Gibbons,placeName,"house",pllace
-Henry Gibbons,persName,"M.M. Minter",MINTER
+Henry Gibbons,placeName,"house",residence
+Henry Gibbons,persName,"M.M. Minter",minter
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,placeName,"house",place
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"Sands",SANDS
+Henry Gibbons,placeName,"house",residence
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"Sands",sands
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,placeName,"16th street",street
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,objectName,"street car",vechile
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,objectName,"cap",clothing
 Henry Gibbons,objectName,"grey cap",clothing
 Henry Gibbons,objectName,"grey overcoat",clothing
 Henry Gibbons,objectName,"coat",clothing
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,persName,"my wife",spouse
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"5 ft. 6 1/2 or 7 inches",sands
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"About 187 pounds",sands
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,persName,"was blonde but his beard was dark",sands
 Henry Gibbons,orgName,"POLICE",law
 Henry Gibbons,objectName,"glasses",accessory
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"shoe",accessory
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands'",SANDS
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"Sands'",sands
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
+Henry Gibbons,persName,"Sands",sands
 Henry Gibbons,objectName,"carried a gun or not",murder
 Henry Gibbons,objectName,"gun",murder
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
-Henry Gibbons,objectName,"Colt's",murder
-Henry Gibbons,persName,"Mr. Taylor's",Mr. TAYLOR
+Henry Gibbons,persName,"TIFFANY",tiffany
+Henry Gibbons,objectName,"Colt's",gun
+Henry Gibbons,persName,"Mr. Taylor's",taylor
 Henry Gibbons,objectName,"car",vechile
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"Sands",SANDS
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"Sands",sands
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany
 Henry Gibbons,orgName,"POLICE",law
-Henry Gibbons,persName,"TIFFANY",TIFFANY
+Henry Gibbons,persName,"TIFFANY",tiffany

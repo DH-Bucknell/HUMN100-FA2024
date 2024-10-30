@@ -1,26 +1,25 @@
 Byline,Type,Value,Attribute
-Waina A,persName,"Mr. W.C. Doran,",Doran
-Waina A,persName,"Miss Mary Miles Minter,",MaryMilesMinter
-Waina A,persName,"John G. Mott,",Mott
-Waina A,persName,"G. H. Boone,",Boone
-Waina A,persName,"Mr. Doran",Doran
-Waina A,persName,"Mr Taylor",Taylor
+Waina A,persName,"Mr. W.C. Doran,",doran
+Waina A,persName,"Miss Mary Miles Minter,",minter
+Waina A,persName,"John G. Mott,",mott
+Waina A,persName,"G. H. Boone,",boone
+Waina A,persName,"Mr. Doran",doran
+Waina A,persName,"Mr taylor",taylor
 Waina A,orgName,"company",company
-Waina A,placeName,"his residence",Taylorshouse
-Waina A,placeName,"his residence",Taylorshouse
+Waina A,placeName,"his residence",residence
+Waina A,placeName,"his residence",taylorshouse
 Waina A,persName,"his valet",Sands
-Waina A,objectName,"bed",bed
-Waina A,persName,"Mr Taylor",Taylor
-Waina A,placeName,"grandmother's room",grandmother'sroom
-Waina A,persName,""Mama,",CharlotteShelby
+Waina A,objectName,"bed",furniture
+Waina A,persName,"Mr taylor",taylor
+Waina A,placeName,"grandmother's room",house
+Waina A,persName,""Mama,",cshelby
 Waina A,objectName,"letter",letter
 Waina A,eventName,"my trips",Mary'strips
 Waina A,persName,"grandmother",grandmother
 Waina A,persName,"chauffeur",chaffeur
 Waina A,objectName,"car",car
-Waina A,placeName,"Lasky Studio",LaskyStudio
-Waina A,objectName,"his car",Taylor'scar
-Waina A,placeName,"Western Avenue,",WesternAvenue
+Waina A,placeName,"Lasky Studio",studio
+Waina A,objectName,"his car",vehicle
+Waina A,placeName,"Western Avenue,",street
 Waina A,eventName,"At the time of his death",timeofdeath
-Waina A,objectName,"a beautiful white flame",whiteflame
-Waina A,persName,"him",Taylor
+Waina A,persName,"him",taylor
