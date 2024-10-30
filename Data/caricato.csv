@@ -1,5 +1,5 @@
 Byline,Type,Value,Attribute
-Colin Caricato,orgName,"LOS ANGELES EXAMINER",newsletter
+Colin Caricato,orgName,"LOS ANGELES EXAMINER",publishing
 Colin Caricato,eventName,"Death",tragedy
 Colin Caricato,persName,"Antonio Moreno",moreno
 Colin Caricato,eventName,"assassination",tragedy
@@ -31,7 +31,7 @@ Colin Caricato,eventName,"informal meeting",meeting
 Colin Caricato,persName,"Moreno",moreno
 Colin Caricato,persName,"Taylor",taylor
 Colin Caricato,persName,"Arthur Hoyt",hoyt
-Colin Caricato,persName,"a Captain Robinson",Robinson
+Colin Caricato,persName,"a Captain Robinson",robinson
 Colin Caricato,persName,"Moreno's",moreno
 Colin Caricato,placeName,"room at the Los Angeles Athletic Club",club
 Colin Caricato,persName,"Moreno",moreno
@@ -49,7 +49,7 @@ Colin Caricato,persName,"Taylor's",taylor
 Colin Caricato,placeName,"home",residence
 Colin Caricato,persName,"Moreno",moreno
 Colin Caricato,persName,"Taylor",taylor
-Colin Caricato,placeName,"the Vitagraph studio",film
+Colin Caricato,placeName,"the Vitagraph studio",studio
 Colin Caricato,persName,"Moreno",moreno
 Colin Caricato,eventName,"appointment",meeting
 Colin Caricato,persName,"Moreno",moreno
@@ -61,25 +61,25 @@ Colin Caricato,objectName,"the phone",communication
 Colin Caricato,persName,"Mr. Taylor",taylor
 Colin Caricato,placeName,"at home",residence
 Colin Caricato,persName,"Mr. Taylor",taylor
-Colin Caricato,placeName,"Lasky studio",film
+Colin Caricato,placeName,"Lasky studio",studio
 Colin Caricato,persName,"Mr. Hoyt",hoyt
-Colin Caricato,placeName,"my room",residence
+Colin Caricato,placeName,"my room",house
 Colin Caricato,persName,"Mr. Taylor",taylor
-Colin Caricato,placeName,"Vitagraph studio",film
+Colin Caricato,placeName,"Vitagraph studio",studio
 Colin Caricato,persName,"Moreno",moreno
 Colin Caricato,eventName,"appointment",meeting
 Colin Caricato,persName,"Mr. Taylor's",taylor
 Colin Caricato,eventName,"death",morality
 Colin Caricato,persName,"the man who killed him",perpatrator
-Colin Caricato,orgName,"LOS ANGELES TIMES",newsletter
-Colin Caricato,persName,"Police",enforcement
+Colin Caricato,orgName,"LOS ANGELES TIMES",publishing
+Colin Caricato,persName,"Police",law
 Colin Caricato,persName,"Tony Moreno",moreno
 Colin Caricato,persName,"Taylor",taylor
 Colin Caricato,persName,"Officers",enforcement
 Colin Caricato,persName,"William D. Taylor",taylor
 Colin Caricato,placeName,"apartment",residence
-Colin Caricato,placeName,"404-B South Alvarado Street",street
-Colin Caricato,persName,"police",enforcement
+Colin Caricato,placeName,"404-B South Alvarado Street",address
+Colin Caricato,persName,"police",law
 Colin Caricato,persName,"murderer",perpatrator
 Colin Caricato,persName,"Mr. Taylor",taylor
 Colin Caricato,persName,"Tony Moreno",moreno
@@ -90,7 +90,7 @@ Colin Caricato,eventName,"golf",leisure
 Colin Caricato,persName,"Mr. Taylor",taylor
 Colin Caricato,eventName,"death",morality
 Colin Caricato,placeName,"San Gabriel Country Club",club
-Colin Caricato,persName,"Asa Keyes, the Deputy District Attorney",enforcement
+Colin Caricato,persName,"Asa Keyes, the Deputy District Attorney",keyes
 Colin Caricato,persName,"Mr. Moreno",moreno
 Colin Caricato,placeName,"apartment",residence
 Colin Caricato,placeName,"Los Angeles Athletic Club",club
@@ -112,19 +112,19 @@ Colin Caricato,placeName,"Cedar Grove, near Pasadena,",town
 Colin Caricato,placeName,"Pasadena",city
 Colin Caricato,placeName,"Annandale Country Club",club
 Colin Caricato,persName,"Mr. Taylor",taylor
-Colin Caricato,placeName,"Lasky studios",film
+Colin Caricato,placeName,"Lasky studios",studio
 Colin Caricato,eventName,"appointment",meeting
 Colin Caricato,placeName,"Vitagraph studios",film
 Colin Caricato,persName,"Chester Bennett",bennett
-Colin Caricato,placeName,"Brunton studios",film
+Colin Caricato,placeName,"Brunton studios",studio
 Colin Caricato,eventName,"The appointment",meeting
 Colin Caricato,persName,"Mr. Taylor",taylor
-Colin Caricato,placeName,"Lasky lot",film
+Colin Caricato,placeName,"Lasky lot",lot
 Colin Caricato,placeName,"Mt. Lowe",mountain
 Colin Caricato,persName,"Mr. Taylor",taylor
 Colin Caricato,placeName,"at the club",club
 Colin Caricato,persName,"Mr. Hoyt's",hoyt
-Colin Caricato,placeName,"room",residence
+Colin Caricato,placeName,"room",house
 Colin Caricato,eventName,"business appointment",meeting
 Colin Caricato,persName,"Mr. Taylor",taylor
 Colin Caricato,persName,"Mr. Taylor",taylor
