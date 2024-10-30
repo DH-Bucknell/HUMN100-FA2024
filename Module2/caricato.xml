@@ -125,7 +125,7 @@
             <byline>Colin Caricato</byline>
 
             <p><date>February 5, 1922</date>
-               <orgName type="newsletter">LOS ANGELES EXAMINER</orgName>
+               <orgName type="publishing">LOS ANGELES EXAMINER</orgName>
                <persName type="victim">Victim</persName> Happy Before <eventName type="tragedy">Death</eventName>
                <persName ref="moreno">Antonio Moreno</persName> Tells of Phone Conversation With Him
                      <date><time>at 7 o'clock Night of Tragedy</time></date></p>
@@ -160,7 +160,7 @@
                   <persName ref="moreno">Moreno</persName>, as well as an <eventName type="meeting">informal meeting</eventName>
                held between <persName ref="moreno">Moreno</persName>, <persName ref="taylor"
                   >Taylor</persName>, <persName ref="hoyt">Arthur Hoyt</persName> and <persName
-                  ref="Robinson">a Captain Robinson</persName> [sic], <date>January 28</date>, at
+                  ref="robinson">a Captain Robinson</persName> [sic], <date>January 28</date>, at
                   <persName ref="moreno">Moreno's</persName>
                <placeName type="club">room at the Los Angeles Athletic Club</placeName>.</p>
             <p>"I left them there <time>about 7 o'clock</time>," <persName ref="moreno"
@@ -176,7 +176,7 @@
                <placeName type="residence">home</placeName>."</p>
             <p><persName ref="moreno">Moreno</persName> declared he had spent <time><date>about two
                      hours last Monday</date></time> with <persName ref="taylor">Taylor</persName>
-               at <placeName type="film">the Vitagraph studio</placeName>, where <persName ref="moreno"
+               at <placeName type="studio">the Vitagraph studio</placeName>, where <persName ref="moreno"
                   >Moreno</persName> is working. He had an <eventName type="meeting">appointment</eventName> with
                him for <date>Tuesday</date>, also, but the director, according to <persName
                   ref="moreno">Moreno</persName>, did not fill it because of a
@@ -187,10 +187,10 @@
                   phone</objectName>. <persName ref="taylor">Mr. Taylor</persName> was not
                   <placeName type="residence">at home</placeName>. However, he called me later, <time>about 7</time>,
                and we arranged that I should call for <persName ref="taylor">Mr. Taylor</persName>,
-               at the <placeName type="film">Lasky studio</placeName>, <date><time>about 10 o'clock
+               at the <placeName type="studio">Lasky studio</placeName>, <date><time>about 10 o'clock
                      Thursday morning</time></date>. <persName ref="hoyt">Mr. Hoyt</persName> was with me in
-                  <placeName type="residence">my room</placeName> at the time. <persName
-                  ref="taylor">Mr. Taylor</persName> was to go with me to the <placeName type="film"
+                  <placeName type="house">my room</placeName> at the time. <persName
+                  ref="taylor">Mr. Taylor</persName> was to go with me to the <placeName type="studio"
                   >Vitagraph studio</placeName>, on a matter of personal business."</p>
             <p>"But--" and here <persName ref="moreno">Moreno</persName> gave a sorrowful shake of
                his head--"But you know the rest. The <eventName type="meeting"
@@ -203,7 +203,7 @@
             <p>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</p>
 
             <p><date>February 5, 1922</date>
-               <orgName type="newsletter">LOS ANGELES TIMES</orgName> Film Star Aids <persName ref="enforcement">Police</persName> Search
+               <orgName type="publishing">LOS ANGELES TIMES</orgName> Film Star Aids <persName ref="law">Police</persName> Search
                   <persName ref="moreno">Tony Moreno</persName> With <persName ref="taylor"
                   >Taylor</persName>
                <time>Before Shooting</time>
@@ -212,10 +212,10 @@
 
             <p><persName ref="taylor">William D. Taylor</persName> appeared to be in the best of
                health and spirits <time>about one hour before</time> he was shot down in his own
-                  <placeName type="residence">apartment</placeName> at <placeName type="street"
+                  <placeName type="residence">apartment</placeName> at <placeName type="address"
                   >404-B South Alvarado Street</placeName>. He did not appear to have any
                premonition of what lay in store for him, although, according to the <persName
-                  ref="enforcement">police</persName> theory of the slaying of the film director,
+                  ref="law">police</persName> theory of the slaying of the film director,
                the <persName ref="perpatrator">murderer</persName> was then lurking in the shadows a few feet away
                from <persName ref="taylor">Mr. Taylor</persName>.</p>
             <p>This was disclosed yesterday by <persName ref="moreno">Tony Moreno</persName>,
@@ -227,7 +227,7 @@
                   type="leisure">golf</eventName> with <persName ref="taylor">Mr. Taylor</persName>
                <date>exactly a week before his <eventName type="morality">death</eventName></date>. We drove to the <placeName type="club"
                   >San Gabriel Country Club</placeName> and remained there <time>from about noon
-                  till dark</time>. While there I introduced him to <persName ref="enforcement">Asa
+                  till dark</time>. While there I introduced him to <persName ref="keyes">Asa
                   Keyes, the Deputy District Attorney</persName>." <persName ref="moreno">Mr.
                   Moreno</persName> said yesterday at his <placeName type="residence"
                   >apartment</placeName>, in the <placeName type="club">Los Angeles Athletic
@@ -248,22 +248,22 @@
                   near <placeName type="city">Pasadena</placeName>,</placeName> and had something to eat there. From there they drove
                to the <placeName type="club">Annandale Country Club</placeName>.</p>
             <p>"I saw <persName ref="taylor">Mr. Taylor</persName> next at the <placeName
-                  type="film">Lasky studios</placeName>, <date>Monday morning</date>
+                  type="studio">Lasky studios</placeName>, <date>Monday morning</date>
                <time>at 10 o'clock</time>. I had an <eventName type="meeting"
                   >appointment</eventName> with him to go to the <placeName type="film">Vitagraph
                   studios</placeName>, on a matter of business importance to me. <persName
-                  ref="bennett">Chester Bennett</persName> of the <placeName type="film">Brunton
+                  ref="bennett">Chester Bennett</persName> of the <placeName type="studio">Brunton
                   studios</placeName>, was with us. We were together <time>until 12:30 p.m. that
                   day</time>. "We were unable to see the people we wanted that day. <eventName type="meeting">The
                   appointment</eventName> had to be made over again. I called <persName ref="taylor"
-                  >Mr. Taylor</persName> again, <date>Tuesday</date> at the <placeName type="film">Lasky
+                  >Mr. Taylor</persName> again, <date>Tuesday</date> at the <placeName type="lot">Lasky
                   lot</placeName>, but I did not get to talk to him. I was informed that he was out
                on location on <placeName type="mountain">Mt. Lowe</placeName>. <date>Tuesday, which was the day
                   before the murder</date>, I could not get in touch with him.</p>
             <p>"<date><time>Wednesday night</time></date>
                <persName ref="taylor">Mr. Taylor</persName> called me <placeName type="club">at the
                   club</placeName>. I was in <persName ref="hoyt">Mr. Hoyt's</persName>
-               <placeName type="residence">room</placeName>, when the call came. We discussed the <eventName
+               <placeName type="house">room</placeName>, when the call came. We discussed the <eventName
                   type="meeting">business appointment</eventName> I wanted <persName ref="taylor"
                   >Mr. Taylor</persName> to participate in. As near as I can now recall it, it was
                   <time>about 7 o'clock</time> when <persName ref="taylor">Mr. Taylor</persName>

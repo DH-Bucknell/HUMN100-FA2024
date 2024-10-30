@@ -163,7 +163,8 @@
 
             <p>MINTER: Just thirty.</p>
 
-            <p>DORAN: Has <persName ref="neilan">he</persName> ever been married?</p>
+            <p>DORAN: Has <persName ref="neilan">he</persName> ever been <eventName type="marriage"
+                  >married</eventName>?</p>
 
             <p>MINTER: Yes, <persName ref="neilan">he</persName> has been married once for <time>a
                   few days</time>. <persName ref="neilan">He</persName> remained married to
