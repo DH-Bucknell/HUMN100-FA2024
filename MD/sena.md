@@ -3,31 +3,31 @@
    
       
          
-            # Interview with [Mabel Normand](normand)  and [Henry peavy](peavy) 
+            # Interview with Mabel Normand and Henry peavy
             *Blythe Sena*
 
-            [Coroner](corner) 's Inquest Transcript
+            Coroner's Inquest Transcript
 
             The following is the transcript of the shorthand notes
                   taken at the Coroner's inquest held on the body
-               of [William Desmond Taylor](taylor)  at Ivy H. Overholtzer [Mortuary] at  Los Angeles, California on the 4th
+               of William Desmond Taylor at Ivy H. Overholtzer [Mortuary] at  Los Angeles, California on the 4th
                   day of February, 1922 at 10:00 a.m.
             Mabel Normand, being first duly sworn, testified as follows:
 
             NANCE: Please state your name.
 
-            NORMAND: [Mabel Normand](normand) .
+            NORMAND: Mabel Normand.
 
             NANCE: Where do you reside?
 
             NORMAND: 3089 West Seventh.
 
-            NANCE: What is your [occupation](occupation) ?
+            NANCE: What is your occupation?
 
             NORMAND: Motion pictures.
 
-            NANCE: [Miss Normand](normand) , were you acquainted with
-                  [Mr. Taylor](taylor) , the deceased in
+            NANCE: Miss Normand, were you acquainted with
+                  Mr. Taylor, the deceased in
                this case?
 
             NORMAND: Yes.
@@ -77,20 +77,20 @@
 
             NANCE: At the time you were in the house, was anybody also in the house?
 
-            NORMAND:Yes, [Henry](peavy) , his man.
+            NORMAND:Yes, Henry, his man.
 
-            NANCE: [Henry Peavey?](peavy) 
+            NANCE: Henry Peavey?
 
             NORMAND:Yes.
 
-            NANCE: Do you know whether [Mr. Peavey](peavy)  left the
+            NANCE: Do you know whether Mr. Peavey left the
                   house before you did or not?
 
             NORMAND:Yes, he did; he left about, I should say about 15 or 20
-                  minutes before I left, but stopped [outside](outside)  and spoke to [my chauffeur;](staff) 
+                  minutes before I left, but stopped outside and spoke to my chauffeur;
                we came out later.
 
-            NANCE: No one else except [Henry Peavey](peavy)  was
+            NANCE: No one else except Henry Peavey was
                there?
 
             NORMAND:That was all.
@@ -111,7 +111,7 @@
             NANCE: Did he call you?
 
             NORMAND:No, I went to bed; if he called me I was
-               asleep; when I am asleep he tells [my maid](maid)  not to
+               asleep; when I am asleep he tells my maid not to
                disturb me.
 
             NANCE: Was that the last time you saw him when you left
@@ -119,29 +119,29 @@
 
             NORMAND:That was the last time.
 
-            NANCE: Have you any questions, [Gentlemen](jury) ? That is
+            NANCE: Have you any questions, Gentlemen? That is
                all, you may be excused.
 
-            I hereby certify that I, as [shorthand reporter](reporter) ,
+            I hereby certify that I, as shorthand reporter,
                correctly took down in shorthand the testimony and proceedings had at the within
-               named [Coroner](coroner) 's inquest; that the foregoing is a
+               named Coroner's inquest; that the foregoing is a
                full, true and correct copy of my shorthand notes and a full, true and correct
-               statement of the testimony and pro- ceedings had at said inquest. [E.M. Allen, Shorthand Reporter](reporter) 
+               statement of the testimony and pro- ceedings had at said inquest. E.M. Allen, Shorthand Reporter
 
 
             MABEL NORMAND Statement taken 4-10-22, 9:50 PM (Speaking of her visit to Taylor's home the night before the murder).
 
             NORMAND: ** I arrived at his house about 7 o‚Äôclock.
 
-            [POLICE](enforcement) : When you went in did you see anybody
-               besides Taylor and his [n] [Peavey](peavy) ?
+            POLICE: When you went in did you see anybody
+               besides Taylor and his [n] Peavey?
 
-            [NORMAND](normand) : No. *** and the room had been changed around. *** I noticed one thing in particular,
+            NORMAND: No. *** and the room had been changed around. *** I noticed one thing in particular,
                that his desk was open and rather scattered full
                of checks and things.
 
             POLICE: How long did you remain in the house with
-                  [Taylor](taylor) ?
+                  Taylor?
 
             NORMAND: Well, until about, I guess, a quarter to 8.
 
@@ -153,18 +153,18 @@
             POLICE: In other words, he didn‚Äôt have a smoking
                   jacket or house jacket on?
 
-            [NORMAND](normand) : No, he was dressed just like you are. In
+            NORMAND: No, he was dressed just like you are. In
                his street clothes. *** and he said he would
                call me at 9 o'clock, but he never called.
 
 
 
-            [ HENRY peavy ](peavy)  (now deceased) [Valet](staff) 
-               [house servant](staff)  to Mr. Taylor.
+             HENRY peavy  (now deceased) Valet
+               house servant to Mr. Taylor.
                Statement taken on 2-9-22 at ten a.m.
 
-            [POLICE](enforcement) : On the
-                  morning you found [Mr. Taylor's body](taylor) , in
+            POLICE: On the
+                  morning you found Mr. Taylor's body, in
                what position was the davenport in the
                   room with respect to the body.
 
@@ -180,10 +180,10 @@
 
             PEAVEY: About a week later, right by the side of the
                   mail box where you go in onto the
-                  front porch" ** as I reached in the box to get the mail I seen this gold tipped cigarette. I said "[Mr. Taylor](taylor) , did you buy any more of those gold tipped cigarettes?" He said "No." ***
+                  front porch" ** as I reached in the box to get the mail I seen this gold tipped cigarette. I said "Mr. Taylor, did you buy any more of those gold tipped cigarettes?" He said "No." ***
 
             POLICE: Was the front door locked the morning
-               you arrived there and found [Mr. Taylor's body](taylor) .
+               you arrived there and found Mr. Taylor's body.
 
             PEAVEY: Yes.
 
@@ -195,17 +195,17 @@
             POLICE: The screen door hooked?
 
             PEAVEY: All the windows locked down on the
-                  first floor. (witness quoting [Mabel Normand](normand) ) "[Henry](peavy) ,
-                  [Mr. Taylor](taylor)  and I are going to get married. Will
-               you work for me when we get married *** "You work for [Mr.
-                  Taylor](taylor) " she said "we are going to get married and have a little
-                  [baby](baby) " *** This was all said in the presence
-                  of[ Mr. Taylor](taylor) 
+                  first floor. (witness quoting Mabel Normand) "Henry,
+                  Mr. Taylor and I are going to get married. Will
+               you work for me when we get married *** "You work for Mr.
+                  Taylor" she said "we are going to get married and have a little
+                  baby" *** This was all said in the presence
+                  of Mr. Taylor
 
-            PEAVEY: Well, I don't know anything about the love that [Miss
-                  Normand ](normand) had for [Mr. Taylor](taylor)  but from
-               Mr. Taylor's actions I knew he was crazy in love with[ Miss
-                  Normand.](normand) 
+            PEAVEY: Well, I don't know anything about the love that Miss
+                  Normand had for Mr. Taylor but from
+               Mr. Taylor's actions I knew he was crazy in love with Miss
+                  Normand.
          
       
    

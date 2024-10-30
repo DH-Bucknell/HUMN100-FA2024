@@ -10,51 +10,51 @@
              Sister of Mary Miles Minter
             Statement taken 3-10-26, at 10 AM.
 
-            POLICE: You do have a recollection then that she was [ (Mary)](minter) home
+            POLICE: You do have a recollection then that she was  (Mary)home
                at dinner that evening?
 
-            FILLMORE: Oh, absolutely, because [mama](shelby)  had cooked this dinner
-               [she](minter)  particularly liked and hoped [she](shelby)  would come home to it.
+            FILLMORE: Oh, absolutely, because mama had cooked this dinner
+               she particularly liked and hoped she would come home to it.
 
-            POLICE: How long did [she](minter)  remain there?
+            POLICE: How long did she remain there?
              FILLMORE: After dinner we went into the living
-                  room and [Mary](minter)  laid on the couch and read a book called
+                  room and Mary laid on the couch and read a book called
                   "The Cruise of the South Sea Islands". It was rather a
-               dry book, but the way [she](minter)  read it was interesting and we simply sat around home and
-               enjoyed our evening at home, the three of us. Now I know [mother](shelby) 
-               was not at home, because if [she](shelby)  was, [she](shelby)  would have been
-               there, [Mr. Fitts](fitts) .
+               dry book, but the way she read it was interesting and we simply sat around home and
+               enjoyed our evening at home, the three of us. Now I know mother
+               was not at home, because if she was, she would have been
+               there, Mr. Fitts.
 
             POLICE: What time did you folks retire that evening?
 
-            FILLMORE: We stayed up quite late, I guess [mama](shelby)  retired about
-                  10 or 11 o'clock. [Mary](minter)  and [I](mshelby)  stayed up and
+            FILLMORE: We stayed up quite late, I guess mama retired about
+                  10 or 11 o'clock. Mary and I stayed up and
                didn't do much of anything until about 12.
 
-            POLICE: Well, you are quite positive that, after [Mary](minter)  came home that afternoon, she
+            POLICE: Well, you are quite positive that, after Mary came home that afternoon, she
                didn't go out again at all during the evening?
 
             FILLMORE: I am positive in this way; that we stayed up unti1 about 12
-                  o'clock, until after [mama](shelby)  went to bed and Mary's room is right next to mine
-               and [I](mshelby)  didn't hear [her](minter)  go out. [I](mshelby)  am quite sure [she](minter)  didn't.
+                  o'clock, until after mama went to bed and Mary's room is right next to mine
+               and I didn't hear her go out. I am quite sure she didn't.
 
             POLICE: But you just said a few moments ago that she could come in without your
                knowing it.
 
-            A Yes, [she](minter)  could have. ***
+            A Yes, she could have. ***
 
              POLICE: Then what time of the morning of the second of
-                  February did your [mother](shelby)  come back to the
+                  February did your mother come back to the
                Hobart house?
 
             FILLMORE: Well, I should say around 9 or 10 o'clock.
 
-            POLICE: When [she](shelby)  came home to the Hobart house, [she](shelby)  was acquainted with the fact that
+            POLICE: When she came home to the Hobart house, she was acquainted with the fact that
                   Taylor had been killed?
 
             FILLMORE: She said that Margery Berger told her **
 
-            FILLMORE: ** [She](shelby)  (Mrs. Shelby) said, "[Margery Berger](berger)  tells me that [Mr. Taylor](taylor)  has
+            FILLMORE: ** She (Mrs. Shelby) said, "Margery Berger tells me that Mr. Taylor has
                just been murdered."
 
             POLICE: You are, then, positive that your mother was not at the Hobart house that
@@ -63,17 +63,17 @@
             FILLMORE: Yes, I am positive that she was at the New Hampshire
                   house.
 
-            POLICE: And that [she](shelby)  came in the next morning, early in the
+            POLICE: And that she came in the next morning, early in the
                   morning?
 
-            FILLMORE: Yes, [she](shelby)  came after the call from Miss Berger.
+            FILLMORE: Yes, she came after the call from Miss Berger.
 
-            POLICE: Could it have been after 9 o'clock when [she](shelby)  came in?
+            POLICE: Could it have been after 9 o'clock when she came in?
 
-            FILLMORE: It could have been. As [I](mshelby)  say, it was early in the morning. I know it wasn't
+            FILLMORE: It could have been. As I say, it was early in the morning. I know it wasn't
                as late as 11.
 
-             Q ** You knew nothing of Taylor's death until your [mother](shelby) 
+             Q ** You knew nothing of Taylor's death until your mother
                told you about it?
 
             FILLMORE: No.
@@ -89,7 +89,7 @@
                her of being intimate with Taylor and then made other remarks. ** She locked herself
                in her mother's room ** and she got the gun and
                   tried to kill herself, but there was a safety catch on it
-               and it wouldn't go off. ** [Mary](minter)  was monkeying with this thing and finally the catch
+               and it wouldn't go off. ** Mary was monkeying with this thing and finally the catch
                released itself and the darn gun went off. **
 
             POLICE: What kind of a gun was that?

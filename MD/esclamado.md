@@ -9,20 +9,20 @@
             Coroner's Inquest Transcript
 
             The following is the transcript of the shorthand
-                  notes taken at [the Coroner's](coroner)  inquest
-               held on the body of [William Desmond
-                  Taylor](taylor)  at Ivy H. Overholtzer [Mortuary] at
+                  notes taken at the Coroner's inquest
+               held on the body of William Desmond
+                  Taylor at Ivy H. Overholtzer [Mortuary] at
                   Los Angeles, California on the 4th day of February,
                   1922 at 10:00 a.m.
 
-            CHARLES EYTON: NANCE, [Coroner Charles Eyton](eyton) ,
+            CHARLES EYTON: NANCE, Coroner Charles Eyton,
                being first duly sworn, testified as follows:
 
             BY THE CORONER:
 
             NANCE: Please state your name.
 
-            EYTON: [Charles Eyton](eyton) .
+            EYTON: Charles Eyton.
 
             NANCE: Where do you reside?
 
@@ -33,7 +33,7 @@
             EYTON: General Manager, Famous Players-Lasky
                   Corporation.
 
-            NANCE: [Mr. Eyton](eyton) , have you seen the
+            NANCE: Mr. Eyton, have you seen the
                   remains of the deceased in the
                adjoining room?
 
@@ -45,7 +45,7 @@
 
             NANCE: Who was it.
 
-            EYTON: [William Desmond Taylor](taylor) .
+            EYTON: William Desmond Taylor.
 
             NANCE: Where was he born?
 
@@ -84,29 +84,29 @@
 
             NANCE: What was the cause of his death, if you know?
 
-            EYTON: Well, [Mr. Taylor's](taylor)  assistant [[Harry
-                  Fellows]](harryFellows)  rang me up at my residence about, I should
-               judge, eight o'clock, and told me [Mr. Taylor](taylor)  had died
+            EYTON: Well, Mr. Taylor's assistant [Harry
+                  Fellows] rang me up at my residence about, I should
+               judge, eight o'clock, and told me Mr. Taylor had died
                suddenly; so I immediately went over to his residence, and he
                was lying on the floor on his back.
-                  [Detective Ziegler](ziegler)  was there and he had called the doctor, he told me,
-               previous to my arrival; and the doctor told me [Mr. Taylor](taylor)  had died from
-               hemorrhage of the stomach. [Mr. Maclean - Douglas
-                  Maclean](dougMaclean)  - had told me that he had thought he had heard a
+                  Detective Ziegler was there and he had called the doctor, he told me,
+               previous to my arrival; and the doctor told me Mr. Taylor had died from
+               hemorrhage of the stomach. Mr. Maclean - Douglas
+                  Maclean - had told me that he had thought he had heard a
                   shot
                the night before, and his wife also thought she had heard a
                   shot - and he wanted the body turned over;
-               they didn't want to turn it over until the coroner came. The [deputy coroner](coroner)  came
+               they didn't want to turn it over until the coroner came. The deputy coroner came
                after a while, and he told us he had died of hemorrhage of the
                   stomach, and I told him he had better turn the
                   body over to make sure, and he put his
-               hand under [Mr. Taylor's](taylor) 
+               hand under Mr. Taylor's
                body, and found a little - when he pulled his
                   hand out, it had a little blood
-               on his hand. [Douglas](dougMaclean)  asked him what that was,
-               and he said it evidently had run down from his [[Taylor's]](taylor) 
+               on his hand. Douglas asked him what that was,
+               and he said it evidently had run down from his [Taylor's]
                mouth, but I noticed that there was no trail of
-                  blood-[Mr. Taylor's](taylor) 
+                  blood-Mr. Taylor's
                head was in a pool of blood - there
                was no trail of blood running down. 
             
@@ -114,20 +114,20 @@
                   head?
 
             EYTON: Under his head, yes, a little
-               pool of blood. I immediately opened up [Mr.
-                  Taylor's](taylor) 
+               pool of blood. I immediately opened up Mr.
+                  Taylor's
                vest, and looked, and looked on the right-hand side, and
                there was no mark. I looked on the left-hand side and saw some
-                  blood, and then I told the [Deputy Coroner](coroner) 
+                  blood, and then I told the Deputy Coroner
                that I thought that evidence enough to turn his body over to
                see what would happen. I sent for a pillow to put under
-               [Mr. Taylor's](taylor) 
-               head, and we turned him over - the [Deputy
-                  Coroner](coroner)  and myself - and we pulled his shirt and
+               Mr. Taylor's
+               head, and we turned him over - the Deputy
+                  Coroner and myself - and we pulled his shirt and
                his vest up, and we found the bullet
                   wound. 
             
-            NANCE: [Mr. Eyton](eyton) , was his body
+            NANCE: Mr. Eyton, was his body
                stone cold at that time?
 
             EYTON: Stone cold and very stiff and rigid.
@@ -148,19 +148,19 @@
 
             NANCE: Who were present when you was there?
 
-            EYTON: When I came in, the first man I noticed was [Detective
-                  Ziegler](ziegler) , whom I have known for a number of years, and [Douglas
-                  Maclean](dougMaclean) ; [Charles Maigne](maigne) ; the landlord [[E. C.
-                     Jessurun]](jessurun) ; and [Harry Fellows](harryFellows) , [Mr. Taylor's](taylor) 
+            EYTON: When I came in, the first man I noticed was Detective
+                  Ziegler, whom I have known for a number of years, and Douglas
+                  Maclean; Charles Maigne; the landlord [E. C.
+                     Jessurun]; and Harry Fellows, Mr. Taylor's
                assistant director.
 
             NANCE: Did all of these persons live there in this
                   neighborhood?
 
-            EYTON: That I could not tell you. [Mr. MacLean](dougMaclean)  did, I know,
+            EYTON: That I could not tell you. Mr. MacLean did, I know,
                because he showed me where his apartment was.
 
-            NANCE: The place [Mr. Taylor](taylor)  lived was in a
+            NANCE: The place Mr. Taylor lived was in a
                   court?
 
             EYTON: In a court, yes.
@@ -174,8 +174,8 @@
                you about the hour that they heard the
                gunshot?
 
-            EYTON: Yes, [Mr. Maclean](dougMaclean)  told me it was about
-                  eight or a quarter after eight, and [Mrs. Maclean](faithMaclean) 
+            EYTON: Yes, Mr. Maclean told me it was about
+                  eight or a quarter after eight, and Mrs. Maclean
                thought it was a little later. [This is not correct.]
 
             NANCE: That night?
@@ -192,7 +192,7 @@
 
             EYTON: Yes.
 
-            NANCE: Now, how long has [Mr. Taylor](taylor)  lived in this
+            NANCE: Now, how long has Mr. Taylor lived in this
                place?
 
             EYTON: That I could not tell you. He lived in it before he went to
@@ -208,8 +208,8 @@
             EYTON: I believe he had a revolver; I believe
                the revolver was in the upper
                   drawer
-               upstairs; in fact, I know there was, because [Detective
-                  Ziegler](ziegler)  and myself went up there and saw it.
+               upstairs; in fact, I know there was, because Detective
+                  Ziegler and myself went up there and saw it.
 
             NANCE: When you were called to this place, did you see any
                   fire-arms in this room where he
@@ -219,12 +219,12 @@
 
             NANCE: What is the name of his valet, or attendant there?
 
-            EYTON: [Harry Peavey](peavey) , the colored cook. I never knew him or
+            EYTON: Harry Peavey, the colored cook. I never knew him or
                saw him.
 
             NANCE: Was he the one who called you?
 
-            EYTON: [Harry Fellows](harryFellows) , his assistant director, was the one
+            EYTON: Harry Fellows, his assistant director, was the one
                who called me.
 
             NANCE: You have no independent knowledge of the manner in which he met
@@ -232,9 +232,9 @@
 
             EYTON: No, sire.
 
-            [THE CORONER](coroner) : Have you any questions, gentlemen?
+            THE CORONER: Have you any questions, gentlemen?
 
-            NANCE: (By [a Juror](juror) ) Was his
+            NANCE: (By a Juror) Was his
                   clothing ruffled in any way, showing any violence?
 
             EYTON: No, absolutely none; it looked like he just walked in the
@@ -245,7 +245,7 @@
                same suit as when I seen him the day before
                when he talked to me.
 
-            [THE CORONER](coroner) : Is there any other questions? That is all, you may be
+            THE CORONER: Is there any other questions? That is all, you may be
                excused.
 
          
