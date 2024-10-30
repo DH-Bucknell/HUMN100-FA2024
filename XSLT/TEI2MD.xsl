@@ -205,7 +205,7 @@
     <!-- == PEOPLE, PLACES, THINGS == -->
 
    <!-- Trying to figure out how to create weblink in Markdown using the TEI structure --> 
-   <xsl:template match="tei:persName['@ref'] | tei:placeName['@ref'] | tei:orgName['@ref'] | tei:title['@ref']">
+<!--   <xsl:template match="tei:persName['@ref'] | tei:placeName['@ref'] | tei:orgName['@ref'] | tei:title['@ref']">
 
         <xsl:choose>
             <xsl:when test="@ref">
@@ -221,12 +221,12 @@
             </xsl:otherwise>
         </xsl:choose>
 
-    </xsl:template>
+    </xsl:template>-->
 
-    <xsl:template match="tei:ref[@target]">
+<!--    <xsl:template match="tei:ref[@target]">
         <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
         <xsl:value-of select="concat( '(', @target,  ')' )"/>
-    </xsl:template>
+    </xsl:template>-->
     
     <!-- match tei:graphic with a url, grab a description, create markdown -->
     <xsl:template match="tei:graphic[starts-with(@url, 'http')]">

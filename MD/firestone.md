@@ -13,7 +13,7 @@
 
             NANCE: Please state your name.
 
-            PEAVEY: [Henry Peavey](peavey) .
+            PEAVEY: Henry Peavey.
 
             NANCE: Where do you live?
 
@@ -23,20 +23,20 @@
 
             PEAVEY: Cook and valet.
 
-            NANCE: [Mr. Peavey](peavey) , were you employed by [Mr.
-                  Taylor](taylor) , [the deceased](taylor)  in this case? 
+            NANCE: Mr. Peavey, were you employed by Mr.
+                  Taylor, the deceased in this case? 
 
             PEAVEY: Sir?
 
-            NANCE: Were you employed by [the dead man](taylor)  in the case?
+            NANCE: Were you employed by the dead man in the case?
 
             PEAVEY: Yes,sir.
 
-            NANCE: How long have you been working for [him](taylor) ?
+            NANCE: How long have you been working for him?
 
             PEAVEY: About six months.
 
-            NANCE: Were you in the house on the evening when [he](taylor) 
+            NANCE: Were you in the house on the evening when he
                   was found dead there?
 
             PEAVEY: Yes, sir.
@@ -93,7 +93,7 @@
             PEAVEY: No, sir. I always turn it in the door and leave it
                just as it is.
 
-            NANCE: Now, when did you next see [Mr. Taylor](taylor) ?
+            NANCE: Now, when did you next see Mr. Taylor?
 
             PEAVEY: The next morning, when I went to work.
 
@@ -114,10 +114,10 @@
             PEAVEY. I picked up the paper first; I stopped in a
                   drug store at the corner of 5th and Los Angeles
                to get a bottle of medicine - milk of
-                  magnesia, [he](taylor)  usually takes that every morning; I bought
+                  magnesia, he usually takes that every morning; I bought
                   that on my way out. I picked up the paper and unlocked the
                   door. The first thing I saw was his feet. I looked at his
-                  feet a few minutes and said, "[Mr. Taylor](taylor) ." [He](taylor)  never moved. I
+                  feet a few minutes and said, "Mr. Taylor." He never moved. I
                   stepped a little further in the door, and seen his
                      face, and turned and ran out and
                hollered.
@@ -132,29 +132,29 @@
 
             NANCE: Several people came, did they?
 
-            PEAVEY: Yes, sir. I think [Mr. Desmond [sic]](taylor) , and the
-                  [gentleman](jessurun)  who owns the court was the
+            PEAVEY: Yes, sir. I think Mr. Desmond [sic], and the
+                  gentleman who owns the court was the
                first.
 
-            NANCE: You mean [Mr. Jessurun](jessurun) ?
+            NANCE: You mean Mr. Jessurun?
 
             PEAVEY: Yes, sir.
 
             NANCE: Who else came?
 
             PEAVEY: And Mr. - you see, I don't know their names - I just seen them - the two
-               gentlemens next door, [Mr. MacLean](dougMaclean)  and Mr. - I can't
-                  think of the other gentleman's name - right next door to us [[Charles
-               Maigne]](maigne) .
+               gentlemens next door, Mr. MacLean and Mr. - I can't
+                  think of the other gentleman's name - right next door to us [Charles
+               Maigne].
 
-            NANCE: You didn't come back there after you had gone away, when [Miss Normand](normand)  was
-               there with [Mr. Taylor](taylor) ?
+            NANCE: You didn't come back there after you had gone away, when Miss Normand was
+               there with Mr. Taylor?
 
             PEAVEY: No, sir.
 
             NANCE: When you went out, was anybody around the place? 
 
-            PEAVEY: Only [Miss Normand's chauffeur](normand) ; he had his lights all on inside the limousine,
+            PEAVEY: Only Miss Normand's chauffeur; he had his lights all on inside the limousine,
                cleaning it. I hit him on the back and stopped and talked to him a few minutes.
 
             NANCE: When you first opened the door, did you see any furniture overturned, or any

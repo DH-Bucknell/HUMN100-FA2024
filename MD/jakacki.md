@@ -7,28 +7,28 @@
             *Diane Jakacki*
 
 
-            Testimony of [Leslie Henry](henry)  (July
+            Testimony of Leslie Henry (July
                1933)
 
             HENRY: The only thing is that at that time it was just a perfect uproar. I never went
                through hell and high water higher than that was. 
             LAWYER: Will you enlarge upon that? 
             HENRY: I suddenly discovered a new picture so far as feelings were concerned. There
-               was extreme bitterness between her [[Mary's] mother](cshelby) 
-               and [herself](minter)  that seemed to go beyond business.
-                  [The mother](cshelby) , on the other hand, was critical of
-               the [daughter](minter)  as being wayward and things of that
+               was extreme bitterness between her [Mary's] mother
+               and herself that seemed to go beyond business.
+                  The mother, on the other hand, was critical of
+               the daughter as being wayward and things of that
                character, and absolutely unwilling to have any advice from her or discussion with
                her. Mrs. Shelby then told me that her daughter was then
-               charging, that Mary was then passing the word that she had killed [Taylor](taylor) . 
+               charging, that Mary was then passing the word that she had killed Taylor. 
 
             LAWYER: That who had killed Taylor? 
-            HENRY: [Mrs. Shelby](cshelby) . That Mary was doing that
+            HENRY: Mrs. Shelby. That Mary was doing that
                because her mother was jealous of Taylor and her associations -- I hope I cannot be
                sued for libel, because I am trying to tell you the truth. 
             LAWYER: You need not have any apprehension on that score. 
             HENRY: I am trusting you and trying to tell you what I know of this thing. Then came
-               very clearly into line the intense bitterness between [Margaret](mshelby)  and her sister. I saw little of it in Mary because I saw
+               very clearly into line the intense bitterness between Margaret and her sister. I saw little of it in Mary because I saw
                little of her. ... 
             HENRY: Whatever I have been discussing here -- all purchases of securities under new
                names, all of the rest of this I have been discussing here in relation to the
@@ -122,9 +122,9 @@
             HENRY: I made good in the winter of 1922, or early in 1923. 
 
 
-            LAWYER: What did you state to [Mrs. Shelby](shelby)  on those
+            LAWYER: What did you state to Mrs. Shelby on those
                occasions as to her request to pay that back? 
-            HENRY: I told [Mrs. Shelby](shelby)  I could not pay the
+            HENRY: I told Mrs. Shelby I could not pay the
                interest on the Portland Flouring Mills; that I did not think in the first place it
                would be necessary and that is she would wait until the adjustment was made between
                dividends and interest on those defaulted bonds, through an exchange for the Sperry
