@@ -128,19 +128,19 @@
 
             <p>The following is the <objectName type="document">transcript</objectName> of the shorthand
                   <objectName type="document">notes</objectName> taken at <persName ref="coroner">the Coroner's</persName> inquest
-               held on the <objectName type="body">body</objectName> of <persName ref="taylor">William Desmond
+               held on the <objectName type="body">body</objectName> of<persName ref="taylor" role="director">William Desmond
                   Taylor</persName> at <placeName type="mortuary">Ivy H. Overholtzer [Mortuary]</placeName> at
                   <placeName type="city">Los Angeles, California</placeName> on the <date>4th day of February,
                   1922</date> at <time>10:00 a.m.</time></p>
 
-            <p>CHARLES EYTON: NANCE, <persName ref="eyton">Coroner Charles Eyton</persName>,
+            <p>CHARLES EYTON: NANCE,<persName ref="eyton" role="manager">Coroner Charles Eyton</persName>,
                being first duly sworn, testified as follows:</p>
 
             <p>BY THE CORONER:</p>
 
             <p>NANCE: Please state your name.</p>
 
-            <p>EYTON: <persName ref="eyton">Charles Eyton</persName>.</p>
+            <p>EYTON:<persName ref="eyton" role="manager">Charles Eyton</persName>.</p>
 
             <p>NANCE: Where do you reside?</p>
 
@@ -151,7 +151,7 @@
             <p>EYTON: General Manager, <orgName type="production">Famous Players-Lasky
                   Corporation</orgName>.</p>
 
-            <p>NANCE: <persName ref="eyton">Mr. Eyton</persName>, have you seen the
+            <p>NANCE:<persName ref="eyton" role="manager">Mr. Eyton</persName>, have you seen the
                   <objectName type="body">remains</objectName> of the <objectName type="body">deceased</objectName> in the
                adjoining <placeName type="house">room</placeName>?</p>
 
@@ -163,7 +163,7 @@
 
             <p>NANCE: Who was it.</p>
 
-            <p>EYTON: <persName ref="taylor">William Desmond Taylor</persName>.</p>
+            <p>EYTON:<persName ref="taylor" role="director">William Desmond Taylor</persName>.</p>
 
             <p>NANCE: Where was he born?</p>
 
@@ -202,13 +202,13 @@
 
             <p>NANCE: What was the cause of his death, if you know?</p>
 
-            <p>EYTON: Well, <persName ref="taylor">Mr. Taylor's</persName> assistant <persName ref="harryFellows">[Harry
+            <p>EYTON: Well,<persName ref="taylor" role="director">Mr. Taylor's</persName> assistant <persName ref="harryFellows" role="assistantDirector">[Harry
                   Fellows]</persName> rang me up at my residence about, I should
-               judge, <time>eight o'clock</time>, and told me <persName ref="taylor">Mr. Taylor</persName> had died
+               judge, <time>eight o'clock</time>, and told me<persName ref="taylor" role="director">Mr. Taylor</persName> had died
                suddenly; so I immediately went over to his residence, and he
                was lying on the <objectName type="floor">floor</objectName> on his <objectName type="bodyPart">back</objectName>.
-                  <persName ref="ziegler">Detective Ziegler</persName> was there and he had called the doctor, he told me,
-               previous to my arrival; and the doctor told me <persName ref="taylor">Mr. Taylor</persName> had died from
+                 <persName ref="ziegler" role="detective">Detective Ziegler</persName> was there and he had called the doctor, he told me,
+               previous to my arrival; and the doctor told me<persName ref="taylor" role="director">Mr. Taylor</persName> had died from
                hemorrhage of the <objectName type="bodyPart">stomach</objectName>. <persName ref="dougMaclean">Mr. Maclean - Douglas
                   Maclean</persName> - had told me that he had thought he had heard <objectName type="gun">a
                   shot</objectName>
@@ -218,11 +218,11 @@
                after a while, and he told us he had died of hemorrhage of the
                   <objectName type="bodyPart">stomach</objectName>, and I told him he had better turn the
                   <objectName type="body">body</objectName> over to make sure, and he put his
-               <objectName type="bodyPart">hand</objectName> under <persName ref="taylor">Mr. Taylor's</persName>
+               <objectName type="bodyPart">hand</objectName> under<persName ref="taylor" role="director">Mr. Taylor's</persName>
                <objectName type="body">body</objectName>, and found a little - when he pulled his
                   <objectName type="bodyPart">hand</objectName> out, it had a little <objectName type="bodyPart">blood</objectName>
                on his <objectName type="bodyPart">hand</objectName>. <persName ref="dougMaclean">Douglas</persName> asked him what that was,
-               and he said it evidently had run down from his <persName ref="taylor">[Taylor's]</persName>
+               and he said it evidently had run down from his<persName ref="taylor" role="director">[Taylor's]</persName>
                <objectName type="bodyPart">mouth</objectName>, but I noticed that there was no <objectName type="bodyPart">trail of
                   blood</objectName>-<persName ref="taylor">Mr. Taylor's</persName>
                <objectName type="bodyPart">head</objectName> was in a <objectName type="bodyPart">pool of blood</objectName> - there
@@ -232,20 +232,20 @@
                   <objectName type="bodyPart">head</objectName>?</p>
 
             <p>EYTON: Under his <objectName type="bodyPart">head</objectName>, yes, a little
-               <objectName type="bodyPart">pool of blood</objectName>. I immediately opened up <persName ref="taylor">Mr.
+               <objectName type="bodyPart">pool of blood</objectName>. I immediately opened up<persName ref="taylor" role="director">Mr.
                   Taylor's</persName>
                <objectName type="clothing">vest</objectName>, and looked, and looked on the right-hand side, and
                there was no mark. I looked on the left-hand side and saw some
                   <objectName type="bodyPart">blood</objectName>, and then I told the <persName ref="coroner">Deputy Coroner</persName>
                that I thought that evidence enough to turn his <objectName type="body">body</objectName> over to
                see what would happen. I sent for a <objectName type="furniture">pillow</objectName> to put under
-               <persName ref="taylor">Mr. Taylor's</persName>
+              <persName ref="taylor" role="director">Mr. Taylor's</persName>
                <objectName type="bodyPart">head</objectName>, and we turned him over - the <persName ref="coroner">Deputy
                   Coroner</persName> and myself - and we pulled his <objectName type="clothing">shirt</objectName> and
                his <objectName type="clothing">vest</objectName> up, and we found the <objectName type="body">bullet
                   wound</objectName>. </p>
             
-            <p>NANCE: <persName ref="eyton">Mr. Eyton</persName>, was his <objectName type="body">body</objectName>
+            <p>NANCE:<persName ref="eyton" role="manager">Mr. Eyton</persName>, was his <objectName type="body">body</objectName>
                stone cold at that time?</p>
 
             <p>EYTON: Stone cold and very stiff and rigid.</p>
@@ -266,10 +266,10 @@
 
             <p>NANCE: Who were present when you was there?</p>
 
-            <p>EYTON: When I came in, the first man I noticed was <persName ref="ziegler">Detective
+            <p>EYTON: When I came in, the first man I noticed was<persName ref="ziegler" role="detective">Detective
                   Ziegler</persName>, whom I have known for a number of years, and <persName ref="dougMaclean">Douglas
-                  Maclean</persName>; <persName ref="maigne">Charles Maigne</persName>; the landlord <persName ref="jessurun">[E. C.
-                     Jessurun]</persName>; and <persName ref="harryFellows">Harry Fellows</persName>, <persName ref="taylor">Mr. Taylor's</persName>
+                  Maclean</persName>; <persName ref="maigne">Charles Maigne</persName>; the landlord <persName ref="jessurun" role="landlord"> [E. C.
+                     Jessurun]</persName>; and <persName ref="harryFellows" role="assistantDirector">Harry Fellows</persName>,<persName ref="taylor" role="director">Mr. Taylor's</persName>
                assistant director.</p>
 
             <p>NANCE: Did all of these persons live there in this
@@ -278,7 +278,7 @@
             <p>EYTON: That I could not tell you. <persName ref="dougMaclean">Mr. MacLean</persName> did, I know,
                because he showed me where his <placeName type="residence">apartment</placeName> was.</p>
 
-            <p>NANCE: The place <persName ref="taylor">Mr. Taylor</persName> lived was in a
+            <p>NANCE: The place<persName ref="taylor" role="director">Mr. Taylor</persName> lived was in a
                   <placeName type="residence">court</placeName>?</p>
 
             <p>EYTON: In a <placeName type="residence">court</placeName>, yes.</p>
@@ -288,7 +288,7 @@
             <p>EYTON: There are several <placeName type="residence">apartments</placeName> in this
                   <placeName type="residence">court</placeName>, all the way around.</p>
 
-            <p>NANCE: Did <persName type="dougMaclean">Mr. and Mrs. MacLean</persName>, or either of them, tell
+            <p>NANCE: Did <persName ref="dougMaclean">Mr. and Mrs. MacLean</persName>, or either of them, tell
                you about the <time>hour</time> that they heard the
                <objectName type="gun">gunshot</objectName>?</p>
 
@@ -310,7 +310,7 @@
 
             <p>EYTON: Yes.</p>
 
-            <p>NANCE: Now, how long has <persName ref="taylor">Mr. Taylor</persName> lived in this
+            <p>NANCE: Now, how long has<persName ref="taylor" role="director">Mr. Taylor</persName> lived in this
                place?</p>
 
             <p>EYTON: That I could not tell you. He lived in it before he went to
@@ -326,7 +326,7 @@
             <p>EYTON: I believe he had a <objectName type="gun">revolver</objectName>; I believe
                the <objectName type="gun">revolver</objectName> was in the <objectName type="furniture">upper
                   drawer</objectName>
-               <placeName type="location">upstairs</placeName>; in fact, I know there was, because <persName ref="ziegler">Detective
+               <placeName type="location">upstairs</placeName>; in fact, I know there was, because<persName ref="ziegler" role="detective">Detective
                   Ziegler</persName> and myself went up there and saw it.</p>
 
             <p>NANCE: When you were called to this place, did you see any
@@ -337,12 +337,12 @@
 
             <p>NANCE: What is the name of his valet, or attendant there?</p>
 
-            <p>EYTON: <persName ref="peavey">Harry Peavey</persName>, the colored cook. I never knew him or
+            <p>EYTON: <persName ref="peavey" role="houseAssistant">Harry Peavey</persName>, the colored cook. I never knew him or
                saw him.</p>
 
             <p>NANCE: Was he the one who called you?</p>
 
-            <p>EYTON: <persName ref="harryFellows">Harry Fellows</persName>, his assistant director, was the one
+            <p>EYTON: <persName ref="harryFellows" role="assistantDirector">Harry Fellows</persName>, his assistant director, was the one
                who called me.</p>
 
             <p>NANCE: You have no independent knowledge of the manner in which he met
@@ -350,7 +350,7 @@
 
             <p>EYTON: No, sire.</p>
 
-            <p><persName ref="coroner">THE CORONER</persName>: Have you any questions, gentlemen?</p>
+            <p>THE CORONER: Have you any questions, gentlemen?</p>
 
             <p>NANCE: (By <persName ref="juror">a Juror</persName>) Was his
                   <objectName type="clothing">clothing</objectName> ruffled in any way, showing any violence?</p>
@@ -363,7 +363,7 @@
                same <objectName type="clothing">suit</objectName> as when I seen him <date>the day before</date>
                when he talked to me.</p>
 
-            <p><persName ref="coroner">THE CORONER</persName>: Is there any other questions? That is all, you may be
+            <p>THE CORONER: Is there any other questions? That is all, you may be
                excused.</p>
 
          </div>
