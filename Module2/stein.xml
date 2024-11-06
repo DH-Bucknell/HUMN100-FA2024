@@ -145,13 +145,13 @@
 
             <p> BERGER: I did? Well, I should say not.</p>
 
-            <p> POLICE: And that she replied over the phone that she wasn't alone, that she had
+            <p> POLICE: And that she replied over the <objectName type="communication">phone</objectName> that she wasn't alone, that she had
                   <persName ref="smith">Mr. Smith</persName> there?</p>
 
             <p> BERGER: I say that? How could I ever make such a remark? The first time I heard or
                saw you was after this murder, wasn't it?</p>
 
-            <p>POLICE: Do you remember of ever calling<persName ref="cshelby"> Mrs. S helby</persName> on the
+            <p>POLICE: Do you remember of ever calling<persName ref="cshelby"> Mrs. Shelby</persName> on the
                telephone and telling her <persName ref="taylor">Taylor</persName> was killed or murdered?</p>
 
             <p>BERGER: NO - capital letters - NO.</p>
@@ -161,25 +161,24 @@
                the morning of <date type="febuary2">February 2, 1922</date>, following the death of<persName ref="taylor"> Mr.
                   Taylor</persName>? </p>
             <p> BERGER: I did. </p>
-            <p> POLICE: At what time?</p>
 
             <p>BERGER: At <time type="morning">half past seven in the morning</time><persName ref="cshelby"> Mrs.
                   Shelby</persName> called me.</p>
 
             <p>POLICE: Wou1d you care to relate to me what the conversation was?</p>
 
-            <p>BERGER: Absolutely. Gladly. I arrived at my <placeName ref="work">office</placeName>
+            <p>BERGER: Absolutely. Gladly. I arrived at my <placeName type="work">office</placeName>
                <time>between 7 and 7:30 on the morning</time> of<date type="febuary2"> February 2nd, 1922</date>. My
-               telephone was ringing. I answered the phone. <persName ref="cshelby">Mrs. Charlotte
+               <objectName type="communication">telephone</objectName> was ringing. I answered the phone. <persName ref="cshelby">Mrs. Charlotte
                   Shelby</persName> said, "<persName ref="berger">Margery</persName>, I have something terrible
                to tell you. The man that was in your <placeName type="work">office</placeName>
                <time>yesterday afternoon</time> is no more. He is dead." I said, "What do you mean?"
-               She said, "He was found dead <time ref="morning">this morning</time>." "Who told you? What do you
+               She said, "He was found dead <time type="morning">this morning</time>." "Who told you? What do you
                know about it?" I said. "<persName ref="lasky">Lasky's</persName> just called me up and told me."
                I said, "Where are you now?" She said, "I am at the <placeName type="residence">New Hampshire
                   home</placeName>". I said, "Is the whole family there?" She said, "No, I am
-               alone." She did state that  ><orgName ref="company">Lasky's Studio</orgName>  had called her up
-               and informed her about <time ref="estimation">half an hour previous</time> to her calling me. It was
+               alone." She did state that <orgName type="company">Lasky's Studio</orgName> had called her up
+               and informed her about <time type="estimation">half an hour previous</time> to her calling me. It was
                between <time type="morning">7 and 7:30 that morning</time> at my <placeName type="work">office</placeName> that
                she called. </p>
 
@@ -225,13 +224,13 @@
                   Cameraman</persName> and<persName ref="ivers"> Mrs. Ivers (Jimmie's mother)</persName> and ask
                them to keep the letters for me. Why <persName ref="jimmie">Jimmie</persName> must have given them
                to <persName ref="ivers">Mrs. Ivers</persName> and then then I went right over and got them from
-               her and took them out to the<placeName ref="studio"> studio</placeName>.</p>
+               her and took them out to the<placeName type="studio"> studio</placeName>.</p>
 
             <p>POLICE: What did you do with them?</p>
 
-            <p> FELLOWS: Gave them to<persName ref="eyton"> Mr. Eyton</persName>. *** I don‚Äôt think any body
+            <p> FELLOWS: Gave them to<persName ref="eyton"> Mr. Eyton</persName>. *** I dont think any body
                made an examination until <persName ref="eyton">Mr. Eyton</persName> insisted on an examination
-               being made and that must have been <time type="estimation">two hours or 2¬Ω hours after</time> the time
+               being made and that must have been <time type="estimation">two hours or 2 hours after</time> the time
                we got there anyway.</p>
 
  
@@ -240,14 +239,14 @@
             <p>POLICE: Where did you take<persName ref="taylor"> Mr. Taylor</persName> the day he was <eventName type="killed">killed</eventName>
                begin in the morning?</p>
 
-            <p> FELLOWS: It was the studio. ...called for him I think at <time type="estimation">one o'clock.</time> I took him
+            <p> FELLOWS: It was the <placeName ref="studio">studio</placeName>. ...called for him I think at <time type="estimation">one o'clock.</time> I took him
                down town to the <placeName type="bank">bank</placeName>, which I drove <persName ref="harryFellows">Harry</persName> up to see you, I
                think it was, which I went home and called for him at <time type="afternoon">quarter of four</time> at
                <placeName type="store">Robinson's</placeName>.</p>
 
             <p> POLICE: <placeName type="store">Robinson's Store</placeName>? </p>
 
-            <p>FELLOWS: Yes. He came along ‚Äî <persName ref="harryFellows">Harry</persName> was waiting to see him.
+            <p>FELLOWS: Yes. He came along ‚<persName ref="harryFellows">Harry</persName> was waiting to see him.
                They talked there until it was pretty near time for me to move or get a ticket for
                standing after hours. (After relating taking <persName ref="taylor">Mr. Taylor</persName> home,
                he, <persName ref="taylor">Taylor</persName> said) "I will call you between <time type="nighttime">7 and 7:30
@@ -261,22 +260,22 @@
             <p>POLICE: Just describe your movements when you went there giving the time?</p>
 
             <p> FELLOWS: I called up at the <placeName>house </placeName>at <time>5 minutes after
-                  8</time> which I looked at my watch * * I called up and got no answer. About
-                  <time ref="morning">5 minutes after 8</time> I tried to call and I went out and got into the
-               car, drove up 6th to <placeName type="alvarado">Alvarado</placeName>, up
+                  8</time> which I looked at my <objectName type="jewelry">watch</objectName> * * I called up and got no answer. About
+                  <time type="morning">5 minutes after 8</time> I tried to call and I went out and got into the
+               <objectName type="vehicle">car</objectName>, drove up 6th to <placeName type="alvarado">Alvarado</placeName>, up
                   <placeName>Alvarado</placeName> to <placeName type="street">Maryland</placeName> and right
-               around in back there where his garage is, right behind the <placeName type="residence">landlord's
-                  house</placeName> * * * I didn't put the car away then, I left the engine running
+               around in back there where his <objectName type="passage">garage</objectName> is, right behind the <placeName type="residence">landlord's
+                  house</placeName> * * * I didn't put the <objectName type="vehicle">car</objectName> away then, I left the <objectName type="vehicle">engine</objectName> running
                and lights on.** I rang the <objectName type="doorbell">door bell</objectName>, the lights were all lit which I thought he
                might be <placeName type="residence">home</placeName> on account of all the lights being lit. I rang
-               the door bell and the second time I rang the door bell I looked at my <objectName ref="jewelry">watch</objectName> ***,
-               which my watch says <time>quarter after 8</time>. I rung the <objectName ref="doorbell">door bell</objectName> 4 or 5 times
+               the <objectName type="doorbell">door bell </objectName>and the second time I rang the <objectName type="doorbell">door bell</objectName> I looked at my <objectName type="jewelry">watch</objectName> ***,
+               which my watch says <time>quarter after 8</time>. I rung the <objectName type="doorbell">door bell</objectName> 4 or 5 times
                because I kind of thought he was in there on account of thoughts being lit.</p>
 
-            <p>POLICE: Could you hear the<objectName ref="doorbell"> door bell</objectName> ringing?</p>
+            <p>POLICE: Could you hear the<objectName type="doorbell"> door bell</objectName> ringing?</p>
 
             <p> FELLOWS: Yes. I started away and I got about to the steps and I hesitated to see if
-               I could hear him coming. As I hesitated there was no sound and I went and put the <objectName>car</objectName>
+               I could hear him coming. As I hesitated there was no sound and I went and put the <objectName type="vehicle">car</objectName>
                away, opened the <objectName type="passage">garage doors</objectName> and put the <objectName type="vehicle">car</objectName> away, closed the <objectName type="house">door</objectName> and walked right
                straight through the court down <placeName type="alvarado">Alvarado</placeName>.</p>
 
@@ -319,7 +318,7 @@
             <p>EATON: If I am not mistaken, when I went to the <placeName type="residence">New Hampshire house</placeName> <time type="morning">the next morning
                about 8 o'clock</time>.</p>
 
-            <p> POLICE: Who told you about <persName ref="taylor">Taylor</persName> being <eventName ref="murdered">murdered</eventName>?</p>
+            <p> POLICE: Who told you about <persName ref="taylor">Taylor</persName> being <eventName type="murdered">murdered</eventName>?</p>
 
             <p> EATON: I think <persName ref="cshelby">Mrs. Shelby</persName> called to me from an <placeName type="location">upstairs</placeName> <objectName type="passage">window</objectName>
                and said, "Did you know that <persName ref="taylor">Taylor</persName> had been <eventName type="murdered">murdered</eventName>?</p>
