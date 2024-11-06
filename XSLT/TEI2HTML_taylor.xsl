@@ -72,4 +72,10 @@
             <xsl:apply-templates select="node()|@*"/>
         </xsl:copy>
     </xsl:template>
+    
+    <xsl:template match="tei:persName[@ref] | tei:placeName[@type] | tei:orgName[@type] | tei:objectName[@type]">
+        <span class="hovertext" data-hover="{@type}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
