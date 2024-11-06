@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Interview with Margaret Shelby Filmore</head>
+            <byline>Hunter Sloan</byline>
+
+            <p>MRS. MARGARET SHELBY FILLMORE</p>
+            <p> Sister of Mary Miles Minter</p>
+            <p>Statement taken 3-10-26, at 10 AM.</p>
+
+            <p>POLICE: You do have a recollection then that she was <persName key="minter"> (Mary)</persName>home
+               at <eventName type="eating">dinner</eventName> that <time type="time">evening</time>?</p>
+
+            <p>FILLMORE: Oh, absolutely, because <persName key="shelby">mama</persName> had cooked this dinner
+               <persName key="minter">she</persName> particularly liked and hoped <persName key="shelby">she</persName> would come home to it.</p>
+
+            <p>POLICE: How long did <persName key="minter">she</persName> remain there?</p>
+            <p> FILLMORE: <time type="evening">After dinner</time> we went into the <placeName type="house">living
+                  room</placeName> and <persName key="minter">Mary</persName> laid on the <objectName type="furniture">couch</objectName> and read a <objectName type="lesiure">book</objectName> called
+                  <objectName type="posession">"The Cruise of the South Sea Islands"</objectName>. It was rather a
+               dry book, but the way <persName key="minter">she</persName> read it was interesting and we simply sat around <placeName type="residence">home</placeName> and
+               enjoyed our evening at <placeName type="redsidence">home</placeName>, the three of us. Now I know <persName key="shelby">mother</persName>
+               was not at <placeName type="redsidence">home</placeName>, because if <persName key="shelby">she</persName> was, <persName key="shelby">she</persName> would have been
+               there, <persName key="fitts">Mr. Fitts</persName>.</p>
+
+            <p>POLICE: What time did you folks retire that evening?</p>
+
+            <p>FILLMORE: We stayed up quite late, I guess <persName key="shelby">mama</persName> retired about
+                  <time type="evening">10 or 11 o'clock</time>. <persName key="minter">Mary</persName> and <persName key="mshelby">I</persName> stayed up and
+               didn't do much of anything until about <time type="evening">12</time>.</p>
+
+            <p>POLICE: Well, you are quite positive that, after <persName key="minter">Mary</persName> came <placeName type="redsidence">home</placeName> that afternoon, she
+               didn't go out again at all during the evening?</p>
+
+            <p>FILLMORE: I am positive in this way; that we stayed up unti1 about <time type="evening">12
+                  o'clock</time>, until after <persName key="shelby">mama</persName> went to bed and <placeName type="house">Mary's room</placeName> is right next to mine
+               and <persName key="mshelby">I</persName> didn't hear <persName key="minter">her</persName> go out. <persName key="mshelby">I</persName> am quite sure <persName key="minter">she</persName> didn't.</p>
+
+            <p>POLICE: But you just said a few moments ago that she could come in without your
+               knowing it.</p>
+
+            <p>A Yes, <persName key="minter">she</persName> could have. ***</p>
+
+            <p> POLICE: Then what time of the <time type="day">morning</time> of the <date type="date">second of
+                  February</date> did your <persName key="shelby">mother</persName> come back to the
+               <placeName type="redsidence">Hobart house</placeName>?</p>
+
+            <p>FILLMORE: Well, I should say around <time type="morning">9 or 10 o'clock</time>.</p>
+
+            <p>POLICE: When <persName key="shelby">she</persName> came home to the <placeName type="redsidence">Hobart house</placeName>, <persName key="shelby">she</persName> was acquainted with the fact that
+                  <eventName type="death">Taylor had been killed</eventName>?</p>
+
+            <p>FILLMORE: <persName type="shelby">She</persName> said that <persName type="berger">Margery Berger</persName> told her **</p>
+
+            <p>FILLMORE: ** <persName key="shelby">She</persName> (Mrs. Shelby) said, "<persName key="berger">Margery Berger</persName> tells me that <persName key="taylor">Mr. Taylor</persName> has
+               just been murdered."</p>
+
+            <p>POLICE: You are, then, positive that your mother was not at the <placeName type="redsidence">Hobart house</placeName> that
+                  <time key="time">night</time> (night of murder)?</p>
+
+            <p>FILLMORE: Yes, I am positive that she was at the <placeName type="redsidence">New Hampshire
+                  house</placeName>.</p>
+
+            <p>POLICE: And that <persName key="shelby">she</persName> came in the <time key="day">next morning</time>, <time key="day">early in the
+                  morning</time>?</p>
+
+            <p>FILLMORE: Yes, <persName key="shelby">she</persName> came after the call from <persName type="berger">Miss Berger</persName>.</p>
+
+            <p>POLICE: Could it have been after <time key="time">9 o'clock</time> when <persName key="shelby">she</persName> came in?</p>
+
+            <p>FILLMORE: It could have been. As <persName key="mshelby">I</persName> say, it was early in the morning. I know it wasn't
+               as late as <time key="time">11</time>.</p>
+
+            <p> Q ** You knew nothing of <eventName key="death">Taylor's death</eventName> until your <persName key="shelby">mother</persName>
+               told you about it?</p>
+
+            <p>FILLMORE: No.</p>
+
+            <p>~~~~~</p>
+
+            <p>CHARLOTTE WHITNEY</p>
+            <p>Secretary to Mrs. Shelby</p>
+            <p> Statement taken ll-28-25</p>
+
+            <p> WHITNEY: ** and <persName type="minter">Mary</persName> stood up and looked at her <persName type="shelby">mother</persName> and
+               said, "Do you really mean that?"" and <persName type="shelby">Mrs. Shelby</persName> said, "I certainly do." She accused
+               her of being intimate with <persName type="taylor">Taylor</persName> and then made other remarks. ** <persName type="minter">She</persName> locked herself
+               in her <placeName type="house">mother's room</placeName> ** and she got the <objectName key="gun">gun</objectName> and
+                  <eventName key="suicide">tried to kill herself</eventName>, but there was a safety catch on it
+               and it wouldn't go off. ** <persName key="minter">Mary</persName> was monkeying with this thing and finally the catch
+               released itself and the darn <eventName key="suicide">gun went off</eventName>. **</p>
+
+            <p>POLICE: What kind of a <objectName key="gun">gun</objectName> was that?</p>
+
+            <p>WHITNEY: <objectName key="gun">Revolver</objectName>. A little snub-nosed thing.</p>
+
+            <p>POLICE: Was it a black one?</p>
+
+            <p>WHITNEY: Yes.</p>
+
+            <p>POLICE: Who did the <objectName key="gun">gun</objectName> belong to?</p>
+
+            <p>WHITNEY: <persName type="shelby">Mrs. Shelby</persName>.</p>
+
+            <p>POLICE: Do you know how long <persName type="shelby">she</persName> had it?</p>
+
+            <p>WHITNEY: Oh, <persName type="shelby">she</persName> always carried a <objectName key="gun">gun</objectName>. I mean we always kept one in the
+               <placeName type="redsidence">house</placeName>.</p>
+
+            <p>POLICE: <persName type="shelby">She</persName> knew how to handle a <objectName key="gun">gun</objectName>?</p>
+
+            <p>A Oh, <persName type="whitney">I</persName> should say so.</p>
+
+            <p>A ** <time key="date">one night</time> when we (witness and Mrs. Shelby) went down to <persName type="taylor">Taylor's</persName>
+               after <persName type="minter">Mary</persName>,<persName type="shelby"> Mrs. Shelby</persName> took the <objectName key="gun">gun</objectName>, but I don't think she had any intention of
+               using it on Mary.</p>
+
+            <p>POLICE: Did <persName type="shelby">she (Shelby)</persName>
+               <eventName key="threat">threaten to kill</eventName>
+               <persName type="taylor">him (Taylor)</persName>?</p>
+
+            <p>WHITNEY: Yes. Several people heard that. It was in my
+               <placeName type="office">office</placeName>.</p>
+
+            <p>POLICE: When was it in your <placeName type="office">office</placeName>?</p>
+
+            <p>WHITNEY: That was in <date key="date">1920, in the summer</date>. <persName type="taylor">He</persName>
+               (Taylor) had finished directing with <persName type="minter">Mary</persName>. <persName type="maigne">Charley
+                  Maigne</persName> was directing <persName type="minter">her</persName> and <persName type="maigne">Charley</persName> was in the <placeName type="office">office</placeName>, and <persName type="Taylor">Taylor</persName> was
+               in the <placeName type="office">office</placeName>. **</p>
+
+            <p>WHITNEY: ** <persName type="shelby">She</persName> said, "If <persName type="shelby">I</persName> ever catch you hanging around
+                  <persName type="minter">Mary</persName> again, <persName type="shelby">I</persName> will blow your god damned
+                  <objectName key="bodyPart">brains</objectName> out." She walked right up to him. She was just
+               livid with rage and shook her <objectName key="bodyPart">fist</objectName> in his
+                  <objectName key="bodyPart">face</objectName> and swore dozens of times.</p>
+
+
+            <p>POLICE: Do you know of an incident that occurred in which <persName type="blue">Monte
+                  Blue</persName> was supposed to have been run out of the <placeName type="studio">dressing
+                  room</placeName> with a <objectName key="gun">gun</objectName> by <persName type="shelby">Mrs.
+                  Shelby</persName>?</p>
+
+            <p>WHITNEY: Well, <persName type="whitney">I</persName> don't know that she had a <objectName key="gun">gun</objectName>, but I know
+               that he was run out of the <placeName type="studio">dressing room</placeName>, because he ran into
+                  <placeName type="office">my office</placeName> from the <placeName type="studio">dressing
+               room</placeName>.</p>
+
+            <p>(keyerring to incidents surrounding visit of<persName type="shelby"> Mrs. Shelby</persName> to Taylor's residence in
+               search of Mary) ** <persName type="shelby">She (Mrs. Shelby)</persName> said, "I will take my
+                  <objectName key="gun">gun</objectName>, and if I find her there <eventName key="threat">I am going to kill her.</eventName>" I
+               begged her not to take it ** She wouldn't do it, so she went with the
+                  <objectName key="gun">gun</objectName>. **</p>
+
+            <p>POLICE: She had the <objectName key="gun">gun</objectName> with her at that time?</p>
+
+            <p>WHITNEY: <persName type="shelby">She</persName> had it in her hand and her <objectName key="clothing">coat
+                  sleeve</objectName>; she had <objectName key="clothing">big coat sleeves</objectName> and the
+                  <objectName key="clothing">gun</objectName> was in her hand hid by her coat sleeve.</p>
+
+            <p>POLICE: Do you know of any other trouble with <persName type="taylor">Taylor</persName> that
+                  <persName type="shelby">Mrs. Shelby</persName> had?</p>
+
+            <p>WHITNEY: They fought all the time. Always on the <placeName type="studio">set</placeName> when <persName type="taylor">he</persName>
+               was directing.</p>
+
+            <p>POLICE: Was the situation getting <time key="mad">worse a11 the time</time>?</p>
+
+            <p>WHITNEY: <time key="mad">A11 the time</time>. It was terrible.</p>
+
+            <p>POLICE: Was there anyone else present at any of these <eventName key="fights">battles</eventName>,
+               that you recall, over <persName type="taylor">Mr. Taylor</persName>?</p>
+
+            <p>WHITNEY: Well, <persName type="stockdale">Earl Stockdale</persName>. <persName type="whitney">I</persName> am sure <persName type="stockdale">he</persName> was present.</p>
+
+            <p>POLICE: Do you know any of <persName type="shelby">her</persName> servants (Shelby's) at the time of the murder?</p>
+
+            <p>WHITNEY: I knew them only by their first names. ** We had a butler named
+                  <persName type="frederick">Frederick</persName>, a butler named ¬≠<persName type="ernest">Ernest</persName>, and
+               a cook named <persName type="pauline">Pauline</persName>. <persName type="stewart">Edith Stewart</persName> was
+               Mary's personal maid at that time</p>
+
+            <p>POLICE: Can <persName type="whitney">you</persName> think of any friends of yours, or any acquaintances of <persName type="shelby">Shelby</persName>, in any
+               way at all, that were associating with or closely associated with them immediately
+               prior to, or immediately after, Taylor's murder?</p>
+
+            <p>WHITNEY: <persName type="periolet">M. George Periolet</persName>. is at <placeName type="redsidence">Engstrom
+                  Apartments, Los Angeles</placeName>.</p>
+
+            <p>POLICE: ** Have you talked to <persName type="mcpherson">Jeanne McPherson</persName> at all?</p>
+
+            <p> WHITNEY: <persName type="mcpherson">Jeanne</persName> knows a great, big, large lot. Jeanne came over
+               to see <persName type="minter">Mary</persName> <time key="date">a day or so after the murder</time>. She would be a good person for
+               you to talk to. And her mother, <persName type="o'neil">Mrs. O'Neil</persName>.</p>
+
+            <p>POLICE: Well, going back to that old subject of the gun, I just wanted to be sure
+               that <persName type="shelby">Mrs. Shelby</persName> had it in the <placeName type="redsidence">house</placeName> for a <time key="duration">long
+                  time</time>.</p>
+
+            <p>WHITNEY: Oh yes, there was always a <objectName key="gun">gun</objectName>.</p>
+
+            <p>POLICE: If anybody said that <persName type="shelby">Mrs. She1by</persName> did not know anything about a <objectName key="gun">pistol</objectName> or
+               revolver, and was afraid of one, that would not be true?</p>
+
+            <p>WHITNEY: That's ridiculous. <persName type="shelby">Mrs. Shelby</persName> was not afraid of anything.</p>
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

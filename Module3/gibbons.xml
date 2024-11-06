@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>INTERVIEW WITH <persName key="tiffany">EARL TIFFANY</persName></head>
+            <byline>Henry Gibbons</byline>
+            <p> Chauffeur for <persName key="taylor">W.D. Taylor</persName> Statement taken 2-17-22 11:30 AM </p>
+            <p>POLICE: Do you know of <persName key="sands">Sands</persName> securing a
+               considerable amount of <objectName type="money">money</objectName> that was not his? ** </p>
+
+            <p>POLICE: Did he say how he got the
+               <objectName type="money">money</objectName>?</p>
+
+            <p>TIFFANY: Yes; I saw the
+                  <objectName type="book">book</objectName>, when he discovered the
+                  <objectName type="book">book</objectName>. </p>
+            <p>
+               POLICE: Through <objectName type="money">checks</objectName>? </p>
+            <p>
+               TIFFANY: Through <objectName type="money">checks</objectName>
+               and <objectName type="money">money</objectName> that he had left with him. </p>
+            <p>
+               POLICE: Do you know of any women, frequent callers on <persName
+                  key="taylor">Mr. Taylor</persName>? </p>
+            <p>
+               TIFFANY: Yes; <persName key="Minter">Mary Miles
+                  Minter</persName>, <persName key="mabel">Mabel Normand</persName>, <persName
+                  key="purviance">Edna Purviance</persName> ** I think it was <persName key="farnum">Mr.
+                  Dustin Farnum</persName>. ** </p>
+            <p>
+               POLICE: Did you know <persName key="gerber">Miss
+                  Gerber</persName>? </p>
+            <p>
+               TIFFANY: Yes, she has been there. </p>
+            <p>
+               <orgName> POLICE</orgName>: Do you know if it was his (<persName key="taylor"
+                  >Taylor's</persName>) custom always to accompany a lady or escort her to the
+               <objectName key="vechile">car</objectName>? </p>
+            <p>
+               TIFFANY: Yes, it was, he was very polite that way. </p>
+            <p>
+               POLICE: Was it his habit to leave the <objectName type="door">door</objectName> open when he would go
+               out? </p>
+            <p>
+              TIFFANY: If he stepped out the <objectName type="door">front door</objectName>, it
+               would generally be ajar. </p>
+            <p>
+               POLICE: Do you believe that person (murdered) was familiar with
+               the <placeName type="residence">house</placeName>, you know, the ground? </p>
+            <p>
+               TIFFANY: They had been there; there seems to be no
+               doubt about that. </p>
+            <p> POLICE: Somebody that knew the <placeName type="residence">house?</placeName> </p>
+            <p>
+               TIFFANY: Yes. </p>
+            <p> POLICE: Did you ever know of any of those chauffeurs, say Fellows, or what is the
+               other fellow's name? </p>
+            <p> TIFFANY: <persName key="harry fellow">Harry Fellow</persName>and <persName key="howard fellows">Howard Fellows</persName> or <persName key="bill davis">Bill Davis</persName>? </p>
+            <p> POLICE: Davis, yes. Did they ever handle any hop? </p>
+            <p> TIFFANY: No. </p>
+            <p> MR. WINN: This man <persName key="sands">Sands</persName> pried into <persName key="taylor">Mr. Taylor's</persName> business more or less, did he not? </p>
+            <p> TIFFANY: Yes, he did in every way possible. </p>
+            <p> POLICE: He knew considerable about his affairs and <persName key="sands">Sands</persName> told you that <persName key="taylor">Taylor's</persName> name
+               was not <persName key="taylor">Taylor</persName>, that his name was <persName key="deane tanner">Deane-Tanner</persName>? </p>
+            <p> TIFFANY: <persName key="deane tanner">Deane-Tanner</persName>. </p>
+            <p> POLICE: Did he tell you how he found that out? </p>
+            <p> TIFFANY: Well, through <persName key="taylor">Taylor's</persName> correspondence, I presume. ** <persName key="taylor">Taylor</persName> told me that
+               <persName key="sands">Sands</persName> read every letter that came into the house for him. </p>
+            <p> POLICE: Did <persName key="taylor">Taylor</persName> also tell you he didn't know how he found out so much, but he was
+               trying to catch him? </p>
+            <p> TIFFANY: Yes. </p>
+            <p> POLICE: Did Sands ever tell you he had it on <persName key="taylor">Taylor</persName>? </p>
+            <p> TIFFANY: For instance, <persName key="sands">Sands</persName> would say, "If the old man ever gets hard, or something
+               of that sort, with me, I will let him know where I get off at, you see, and where he
+               gets off," ** </p>
+            <p> POLICE: Do you know whether <persName key="sands">Sands</persName> had any means of finding out whether or not <persName key="taylor">Taylor</persName>
+               had slept with a woman in his home there or not? </p>
+            <p> TIFFANY: That <persName key="sands">Sands</persName> had any means? </p>
+            <p> POLICE: Yes. </p>
+            <p> TIFFANY: Absolutely. </p>
+            <p> POLICE: Tell us what it is. </p>
+            <p> TIFFANY: In finding the hair pins in the bed and these pink combinations had been
+               used, and the douche bag had been used and <persName key="taylor">Mr. Taylor</persName> had suppositories there at one
+               time. </p>
+            <p> POLICE: Did <persName key="sands">Sands</persName> ever tell you what women he suspected of spending the night out at
+               <persName key="taylor">Mr. Taylor's</persName> home? </p>
+            <p> TIFFANY: <persName key="minter">Mary Miles Minter</persName>, <persName key="mabel">Mabel Normand</persName>, and <persName key="gerber">Miss Neva Gerber</persName>. </p>
+            <p> <persName key="law">POLICE</persName>: Did he ever find any hair in the <placeName type="place">bed</placeName>? </p>
+            <p> TIFFANY: Yes, and like this thing published in the <objectName type="paper">paper</objectName>, where it says "I love you,
+               I love you," I seen that note at <persName key="taylor">Taylor's</persName> house myself. </p>
+            <p> TIFFANY: (After telling how <persName key="minter">Mary</persName> had been told over the phone that <persName key="taylor">Taylor</persName> wasn't
+               home, that <persName key="minter">Mary</persName> would drive over to the house and catch <persName key="taylor">Mr. Taylor</persName> there) She would
+               be given to understand he wasn't there, and she would get in her <objectName type="vechile">car</objectName> and come over,
+               and find him there. I have seen her coming out of the <placeName type="residence">house</placeName> as if she were about
+               ready to cry her eyes out. (<persName key="minter">M.M. Minter</persName>) </p>
+            <p> POLICE: On those occasions, how long had she remained in the<placeName type="residence"> house</placeName>? </p>
+            <p> TIFFANY: Well, sometimes, well, he would be waiting there and I would go on home and
+               he would come out and say he wouldn't need me anymore, to go on home ** The next
+               morning I would take him to the studio and Jazz (<persName key="sands">Sands</persName>) would say "Let's go up and
+               see who slept with the old man last night." </p>
+            <p> POLICE: Is it your <placeName key="spouse">wife</placeName> that saw <persName key="sands">Sands</persName> on the street? </p>
+            <p> TIFFANY: Yes, that was 16th amp; Flower ** she told me about that the day before
+               the <name type="murder">murder</name>. </p>
+            <p> POLICE: Did she tell you before she heard of the murder? </p>
+            <p> TIFFANY: Yes. </p>
+            <p> POLICE: That she saw <persName key="sands">Sands</persName> on the street? </p>
+            <p> TIFFANY: Yes, walking down <placeName type="street">16th street</placeName>. ** There was no question about it. </p>
+            <p> POLICE: She knew him? </p>
+            <p> TIFFANY: She knew him as well as she knew me. </p>
+            <p> POLICE: Just a moment. Did she have any conversation with him? </p>
+            <p> TIFFANY: No, not at that time. </p>
+            <p> POLICE: Did she speak to him? </p>
+            <p> TIFFANY: No; she said he turned and looked right at the <objectName type="vechile">street car</objectName>, and looked right
+               at her as if he didn't recognize her, and she said she had a notion to get off the
+               car ** ** it just started, you know ** </p>
+            <p> POLICE: Did she say anything about his clothing being the same as it used to be, or
+               different? </p>
+            <p> TIFFANY: She said he had on a <objectName type="clothing">cap</objectName>, a <objectName type="clothing">grey cap</objectName> and <objectName type="clothing">grey overcoat</objectName>, one of these what
+               you call them, a certain kind of <objectName type="clothing">coat</objectName>. </p>
+            <p> POLICE: Gaberdine? </p> 
+            <p> TIFFANY: Yes, that is it. </p>
+            <p> TIFFANY: She said he looked just as fat as he always did. He was an inch shorter
+               than <persName key="spouse">my wife</persName>. </p>
+            <p> POLICE: How tall? </p>
+            <p> TIFFANY: About <persName key="sands">5 ft. 6 1/2 or 7 inches</persName> </p>
+            <p> POLICE: And his weight? </p>
+            <p> TIFFANY: <persName key="sands">About 187 pounds</persName>. </p>
+            <p> POLICE: Smooth shaven? </p>
+            <p> TIFFANY: Yes. </p>
+            <p> POLICE: Light complexion? </p>
+            <p> TIFFANY: Very ruddy complexion, healthy looking, very healthy. </p>
+            <p> POLICE: His hair? </p>
+            <p> TIFFANY: Well, his hair *** <persName key="sands">was blonde but his beard was dark</persName>. </p>
+            <p> POLICE: Did he wear <objectName type="accessory">glasses</objectName>? </p>
+            <p> TIFFANY: No, not to my knowledge. **** Jazz wore about a 7 <objectName type="accessory">shoe</objectName>. </p>
+            <p> POLICE: How about <persName key="sands">Sands'</persName> eyebrows coming together over his nose. Did they do that?
+               ** </p>
+            <p> TIFFANY: Not quite. I remember one thing, they were a perfectly straight line, </p>
+            <p> POLICE: Not arched? </p>
+            <p> TIFFANY: No; they sort of came up favoring the upward turn more than any other way. </p>
+            <p> POLICE: What was his nationality? </p>
+            <p> TIFFANY: I think English, with a little Scotch. **** Without a doubt he had a
+               wonderful education. </p>
+            <p> POLICE: Do you know whether <persName key="sands">Sands</persName> <objectName type="murder">carried a <objectName type="murder">gun </objectName>or not</objectName>? </p>
+            <p> TIFFANY: Yes, he did. </p>
+            <p> POLICE: What kind? </p>
+            <p> TIFFANY: He had a <objectName type="gun">Colt's</objectName>, whether that was his or <persName key="taylor">Mr. Taylor's</persName> I don't know. **** I
+               was down town with him several times, and he carried it with him once or twice to my
+               knowledge, and he would stick it alongside the <objectName type="vechile">car</objectName> and I would ask him what was the
+               idea, and he just laughed about it, was all, but the man was a coward. ** </p>
+            <p> POLICE: Is he (<persName key="sands">Sands</persName>) hairy, is his breast hairy? </p>
+            <p> TIFFANY: Well yes to an extent, that is where it is long. </p>
+            <p> POLICE: He had long hair on his chest? </p>
+            <p> TIFFANY: Yes. </p>
+            <p> POLICE: And on his legs? </p>
+            <p> TIFFANY: Yes, extremely long, and he was ungodly.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>
