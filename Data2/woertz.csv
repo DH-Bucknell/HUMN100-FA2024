@@ -1,0 +1,152 @@
+Byline,Type,Value,Attribute
+Amanda Woertz,persName,"Coroner's",allen
+Amanda Woertz,objectName,"Transcript",document
+Amanda Woertz,objectName,"shorthand notes",document
+Amanda Woertz,persName,"Coroner's",allen
+Amanda Woertz,eventName,"inquest",case
+Amanda Woertz,persName,"William Desmond Taylor",taylor
+Amanda Woertz,persName,"T.H. Ziegler",ziegler
+Amanda Woertz,eventName,"testified",case
+Amanda Woertz,persName,"T.H. Ziegler",ziegler
+Amanda Woertz,placeName,"425 North Hill",address
+Amanda Woertz,orgName,"occupation",job
+Amanda Woertz,orgName,"Police officer",job
+Amanda Woertz,persName,"Mr. Ziegler",ziegler
+Amanda Woertz,placeName,"premises",house
+Amanda Woertz,eventName,"found dead",evidence
+Amanda Woertz,placeName,"there",house
+Amanda Woertz,placeName,"there",house
+Amanda Woertz,persName,"Mr. Taylor",taylor
+Amanda Woertz,placeName,"inside",house
+Amanda Woertz,objectName,"door",passage
+Amanda Woertz,persName,"his",taylor
+Amanda Woertz,objectName,"back",bodyPart
+Amanda Woertz,persName,"His",taylor
+Amanda Woertz,objectName,"hands",bodyPart
+Amanda Woertz,persName,"his",taylor
+Amanda Woertz,persName,"body",taylor
+Amanda Woertz,objectName,"blood",bodyPart
+Amanda Woertz,persName,"his",taylor
+Amanda Woertz,objectName,"mouth",bodyPart
+Amanda Woertz,persName,"He",taylor
+Amanda Woertz,persName,"his",taylor
+Amanda Woertz,objectName,"head",bodyPart
+Amanda Woertz,placeName,"east",direction
+Amanda Woertz,persName,"his",taylor
+Amanda Woertz,objectName,"back",bodyPart
+Amanda Woertz,persName,"his",taylor
+Amanda Woertz,persName,"he",taylor
+Amanda Woertz,persName,"sir",nance
+Amanda Woertz,objectName,"evidence",evidence
+Amanda Woertz,placeName,"house",house
+Amanda Woertz,placeName,"there",house
+Amanda Woertz,placeName,"there",house
+Amanda Woertz,persName,"owner",jessurun
+Amanda Woertz,objectName,"building",building
+Amanda Woertz,persName,"Mr. MacLean",dougMacLean
+Amanda Woertz,persName,"movie actor",maigne
+Amanda Woertz,persName,"Charles Maigne",maigne
+Amanda Woertz,persName,"Peavey",peavey
+Amanda Woertz,persName,"owner",jessurun
+Amanda Woertz,objectName,"building",building
+Amanda Woertz,persName,"Mr. Jessurun",jessurun
+Amanda Woertz,persName,"sir",nance
+Amanda Woertz,persName,"Mr. MacLean",dougMacLean
+Amanda Woertz,placeName,"adjacent",location
+Amanda Woertz,persName,"tenants",tenants
+Amanda Woertz,objectName,"building",building
+Amanda Woertz,persName,"sir",nance
+Amanda Woertz,placeName,"next door",location
+Amanda Woertz,objectName,"door",passage
+Amanda Woertz,placeName,"east",direction
+Amanda Woertz,persName,"Mr. Taylor",taylor
+Amanda Woertz,eventName,"question",case
+Amanda Woertz,persName,"persons",tenants
+Amanda Woertz,persName,"Mrs. MacLean",faithMacLean
+Amanda Woertz,persName,"she",faithMaclean
+Amanda Woertz,objectName,"a shot",gun
+Amanda Woertz,persName,"She",faithMacLean
+Amanda Woertz,persName,"She",faithMacLean
+Amanda Woertz,persName,"her",faithMacLean
+Amanda Woertz,placeName,"front door",passage
+Amanda Woertz,objectName,"door",passage
+Amanda Woertz,persName,"man",murderer
+Amanda Woertz,persName,"Mr. Taylor's",taylor
+Amanda Woertz,objectName,"door",passage
+Amanda Woertz,persName,"She",faithMacLean
+Amanda Woertz,persName,"him",murderer
+Amanda Woertz,persName,"he",murderer
+Amanda Woertz,persName,"her",faithMacLean
+Amanda Woertz,persName,"he",murderer
+Amanda Woertz,objectName,"steps",passage
+Amanda Woertz,placeName,"end of the building",building
+Amanda Woertz,placeName,"east",location
+Amanda Woertz,objectName,"street",passage
+Amanda Woertz,objectName,"street",passage
+Amanda Woertz,placeName,"Maryland",street
+Amanda Woertz,persName,"Mr. Jessurun",jessurun
+Amanda Woertz,persName,"he",jessurun
+Amanda Woertz,objectName,"a shot",gun
+Amanda Woertz,persName,"he",jessurun
+Amanda Woertz,persName,"he",jessurun
+Amanda Woertz,persName,"he",jessurun
+Amanda Woertz,persName,"He",jessurun
+Amanda Woertz,persName,"He",jessurun
+Amanda Woertz,objectName,"automobile",vehicle
+Amanda Woertz,persName,"Mr. MacLean",dougMacLean
+Amanda Woertz,persName,"Mrs. MacLean's maid",maid
+Amanda Woertz,objectName,"a shot",gun
+Amanda Woertz,objectName,"shot",gun
+Amanda Woertz,objectName,"weapon",gun
+Amanda Woertz,placeName,"room",house
+Amanda Woertz,objectName,"weapon",gun
+Amanda Woertz,placeName,"room",house
+Amanda Woertz,placeName,"front bedroom",house
+Amanda Woertz,objectName,"dresser drawer",furniture
+Amanda Woertz,objectName,"box",furniture
+Amanda Woertz,eventName,"investigate",case
+Amanda Woertz,objectName,"clothing",clothing
+Amanda Woertz,eventName,"investigated",investigaton
+Amanda Woertz,persName,"Henry Peavey, the valet",peavy
+Amanda Woertz,objectName,"weapon",gun
+Amanda Woertz,placeName,"room",house
+Amanda Woertz,persName,"sir",nance
+Amanda Woertz,eventName,"conclusion",case
+Amanda Woertz,objectName,"shot",gun
+Amanda Woertz,persName,"himself",taylor
+Amanda Woertz,persName,"juror",juror
+Amanda Woertz,objectName,"revolver",gun
+Amanda Woertz,placeName,"upstairs",location
+Amanda Woertz,objectName,"loaded",gun
+Amanda Woertz,objectName,"shells",gun
+Amanda Woertz,objectName,"bullet",gun
+Amanda Woertz,persName,"deceased",taylor
+Amanda Woertz,objectName,".32 automatic Savage",gun
+Amanda Woertz,objectName,"drawer",furniture
+Amanda Woertz,placeName,"upstairs",location
+Amanda Woertz,objectName,"bullet",gun
+Amanda Woertz,objectName,".38",gun
+Amanda Woertz,objectName,"evidence",evidence
+Amanda Woertz,eventName,"case",case
+Amanda Woertz,persName,"Jury",jury
+Amanda Woertz,persName,"shorthand reporter",allen
+Amanda Woertz,objectName,"shorthand",evidence
+Amanda Woertz,eventName,"testimony and proceedings",case
+Amanda Woertz,persName,"Coroner's",callen
+Amanda Woertz,eventName,"inquest",case
+Amanda Woertz,objectName,"shorthand",evidence
+Amanda Woertz,objectName,"notes",document
+Amanda Woertz,eventName,"the testimony and proceedings",case
+Amanda Woertz,eventName,"inquest",case
+Amanda Woertz,persName,"E.M. Allen",allen
+Amanda Woertz,objectName,"Shorthand",evidence
+Amanda Woertz,eventName,"tested",case
+Amanda Woertz,objectName,"bullet",gun
+Amanda Woertz,objectName,"gun",gun
+Amanda Woertz,persName,"his body",taylor
+Amanda Woertz,objectName,"test",evidence
+Amanda Woertz,objectName,"shot",gun
+Amanda Woertz,objectName,"pants",clothing
+Amanda Woertz,eventName,"demonstration",case
+Amanda Woertz,objectName,"shot",gun
+Amanda Woertz,objectName,"coat",clothing

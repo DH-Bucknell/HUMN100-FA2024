@@ -1,0 +1,199 @@
+Byline,Type,Value,Attribute
+Daniel Hou,persName,"JAMES KIRKWOOD",kirkwood
+Daniel Hou,persName,"MARY MILES MINTER",minter
+Daniel Hou,persName,"James Kirkwood",kirkwood
+Daniel Hou,persName,"actor and motion-picture director",kirkwood
+Daniel Hou,persName,"Mary Miles Minter's",minter
+Daniel Hou,persName,"first director",kirkwood
+Daniel Hou,objectName,"pictures",document
+Daniel Hou,orgName,"the American Film Company",production
+Daniel Hou,placeName,"Santa Barbara",Santa_Barbara
+Daniel Hou,persName,"She",minter
+Daniel Hou,eventName,"Kirkwood then consummated the marriage in a much more mundane way as a result of which Mary became pregnant",love
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"Intercourse went on for a number of months",love
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,placeName,"New York",city
+Daniel Hou,eventName,"Kirkwood wrote a series of letters to Mary",contaction
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,objectName,"letters",document
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,orgName,"the motion-picture company",production
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,objectName,"letters",document
+Daniel Hou,objectName,"plain white envelopes",document
+Daniel Hou,persName,"“Juliet”",minter
+Daniel Hou,persName,"Mary's",minter
+Daniel Hou,persName,"her mother",cshelby
+Daniel Hou,persName,"Mrs. Charlotte Shelby",cshelby
+Daniel Hou,eventName,"always a suspect in the Taylor murder",murder
+Daniel Hou,persName,"suspect",cshelby
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"girl's",minter
+Daniel Hou,persName,"the mother",cshelby
+Daniel Hou,objectName,"all kinds of diets",food
+Daniel Hou,eventName,"The correspondence between Kirkwood and Mary continued",conatction
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"but the mother at last intercepted one of the letters",contaction
+Daniel Hou,persName,"the mother",cshelby
+Daniel Hou,objectName,"one of the letters",document
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,placeName,"the Lamb's Club",lambs_club
+Daniel Hou,placeName,"New York",city
+Daniel Hou,persName,"Mrs. Shelby",cshelby
+Daniel Hou,persName,"she",cshelby
+Daniel Hou,eventName,"Mary was forced to write a letter to Kirkwood saying that they had been found out and that her mother insisted that their romance end at once",contaction
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,objectName,"letter",doument
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,eventName,"romance",love
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,objectName,"letters",document
+Daniel Hou,persName,"him",kirkwood
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,persName,"The mother",cshelby
+Daniel Hou,objectName,"collection of letters",document
+Daniel Hou,objectName,"a safe-deposit box",box
+Daniel Hou,eventName,"They were given to Mary recently",contaction
+Daniel Hou,objectName,"They",document
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"Mary's sister, Margaret Fillmore, had a falling out with her mother",relationship
+Daniel Hou,persName,"Mary's sister",mshelby
+Daniel Hou,persName,"Margaret Fillmore",mshelby
+Daniel Hou,persName,"her mother",cshelby
+Daniel Hou,persName,"The mother",cshelby
+Daniel Hou,objectName,"letters",document
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,persName,"her",minter
+Daniel Hou,persName,"her mother",cshelby
+Daniel Hou,objectName,"missives",document
+Daniel Hou,persName,"Margaret",mshelby
+Daniel Hou,objectName,"letters",document
+Daniel Hou,eventName,"accused her of murdering Taylor that she could prove that if she was ever going to murder anyone she would have murdered Kirkwood at the time",murder
+Daniel Hou,persName,"her",cshelby
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"she",cshelby
+Daniel Hou,persName,"she",cshelby
+Daniel Hou,persName,"she",cshelby
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"man",kirkwood
+Daniel Hou,persName,"the young screen star",minter
+Daniel Hou,eventName,"writing two and three letters a day and all the missives were ended in a long series of “X’s” or kisses",contaction
+Daniel Hou,objectName,"letters",document
+Daniel Hou,objectName,"all the missives",document
+Daniel Hou,objectName,"letters",document
+Daniel Hou,persName,"My sweetheart",minter
+Daniel Hou,persName,"my wife",minter
+Daniel Hou,persName,"the mother of my children",minter
+Daniel Hou,objectName,"the letter",document
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"she",minter
+Daniel Hou,persName,"Dr. Hutchison",Hutchison
+Daniel Hou,eventName,"It seems that Kirkwood or Mrs. Shelby arranged for this abortion",love
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Mrs. Shelby",cshelby
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"this romance",love
+Daniel Hou,persName,"her mother,",cshelby
+Daniel Hou,persName,"her grandmother",miles
+Daniel Hou,persName,"her sister",mshelby
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"her romance with Kirkwood",love
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"William Desmond Taylor",taylor
+Daniel Hou,persName,"she",minter
+Daniel Hou,eventName,"her affair with Kirkwood",love
+Daniel Hou,persName,"her",minter
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,eventName,"she really was in love with Taylor",love
+Daniel Hou,persName,"she",minter
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,eventName,"Taylor's murder",murder
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"her",minter
+Daniel Hou,eventName,"wanted to marry her",marry
+Daniel Hou,eventName,"She says she keyused him",marry
+Daniel Hou,eventName,"having obtained a divorce from his first wife he married Lila Lee",marry
+Daniel Hou,persName,"his first wife",Lila
+Daniel Hou,persName,"he",taylor
+Daniel Hou,persName,"Lila Lee",Lila
+Daniel Hou,objectName,"Investigation",document
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,placeName,"Los Angeles",city
+Daniel Hou,eventName,"Taylor murder",murder
+Daniel Hou,eventName,"He may even have been working on the same lot with Mary",love
+Daniel Hou,persName,"He",kirkwood
+Daniel Hou,placeName,"the same lot",residence
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,objectName,"Old directories",literature
+Daniel Hou,orgName,"Los Angeles Athletic C1ub",club
+Daniel Hou,persName,"Mickey Neilan",Neilan
+Daniel Hou,eventName,"a story was widely circu1lated that Mary one night went to Taylor's bungalow and taking off all her clothes begging him to have intercourse with her.",love
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,placeName,"Taylor's bungalow",residence
+Daniel Hou,persName,"her",mary
+Daniel Hou,objectName,"clothes",clothes
+Daniel Hou,persName,"him",taylor
+Daniel Hou,persName,"her",mary
+Daniel Hou,persName,"her daughter",mary
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"the girl",mary
+Daniel Hou,persName,"the mother",cshelby
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"her money-making daughter",minter
+Daniel Hou,persName,"him",taylor
+Daniel Hou,persName,"Attorney Harold Davis",Attorney
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,persName,"her mother",cshelby
+Daniel Hou,objectName,"the transcript",document
+Daniel Hou,objectName,"the statement",document
+Daniel Hou,placeName,"at a railroad station",transportation
+Daniel Hou,placeName,"Santa Barbara",Santa_Barbara
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"mother",cshelby
+Daniel Hou,eventName,"Mary, asserted that she would kill anyone that came between her and Mary",talk
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,persName,"she",cshelby
+Daniel Hou,persName,"her",cshelby
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"Mrs. Shelby",cshelby
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"murder",murder
+Daniel Hou,persName,"Mrs.Shelby",cshelby
+Daniel Hou,eventName,"he had committed statutory rape when he had intercourse with Mary at the age or 15",love
+Daniel Hou,persName,"he",kirkwood
+Daniel Hou,persName,"Mary",minter
+Daniel Hou,eventName,"he was still married to his first wife in 1922 and seeking a divorce",marry
+Daniel Hou,persName,"he",kirkwood
+Daniel Hou,persName,"his",kirkwood
+Daniel Hou,eventName,"The main witness in the Taylor murder at the time of its commission",murder
+Daniel Hou,persName,"The main witness",dougMaclean
+Daniel Hou,persName,"Taylor",taylor
+Daniel Hou,persName,"Mrs. Douglas MacLean",dougMaclean
+Daniel Hou,persName,"wife",dougMaclean
+Daniel Hou,persName,"comedian",dougMaclean
+Daniel Hou,placeName,"in a bungalow nearby",residence
+Daniel Hou,persName,"She",dougMaclean
+Daniel Hou,persName,"man",murderer
+Daniel Hou,placeName,"the Taylor house",residence
+Daniel Hou,persName,"murderer",murderer
+Daniel Hou,persName,"woman",murderer
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"Mrs. MacLean",dougMaclean
+Daniel Hou,eventName,"the person appeared to her to resemble someone in a motion-picture get-up or in makeup",murder
+Daniel Hou,persName,"her",dougMaclean
+Daniel Hou,persName,"witness",witness
+Daniel Hou,eventName,"two men at Taylor's door two nights before the murder at about 6:00 P.M.",murder
+Daniel Hou,persName,"two men",murderer
+Daniel Hou,placeName,"at Taylor's door",residence
+Daniel Hou,persName,"tall men",murderer
+Daniel Hou,persName,"Kirkwood",kirkwood
+Daniel Hou,persName,"a very small man",murderer

@@ -1,0 +1,118 @@
+Byline,Type,Value,Attribute
+William Le,persName,"Mr. Keyes",Keyes
+William Le,persName,"Mr. Mott",Mott
+William Le,placeName,"drawer",home
+William Le,persName,"Mr. Eyton",Eyton
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mary",Mary
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mr. Eyton",Eyton
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Jeannie McPherson",Jeannie
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mary",Mary
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,placeName,"Taylor's home",house
+William Le,persName,"Miss Whitney",Whitney
+William Le,placeName,"the house",house
+William Le,objectName,"a revolver",weapon
+William Le,persName,"Mr. Keyes",Keyes
+William Le,objectName,"a revolver",weapon
+William Le,objectName,"a revolver",weapon
+William Le,placeName,"Mr. Taylor's home",home
+William Le,persName,"Mr. Keyes",Keyes
+William Le,objectName,"a certain little book",book
+William Le,objectName,"Mary's diary",diary
+William Le,objectName,"diary",diary
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mr. Keyes",Keyes
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mr. Taylor",Taylor
+William Le,persName,"Mr. Taylor",Taylor
+William Le,objectName,"a gun",weapon
+William Le,objectName,"a gun",weapon
+William Le,objectName,"the gun",weapon
+William Le,objectName,"The gun",weapon
+William Le,persName,"Harry Eaves",Harry Eaves
+William Le,placeName,"a jewelry shop",jewelry_shop
+William Le,objectName,"a very short little pistoi",weapon
+William Le,placeName,"Santa Barbara",Santa_Barbara
+William Le,objectName,"a shot gun",weapon
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,persName,"Mary",Mary
+William Le,objectName,"pistol",weapon
+William Le,placeName,"56 Fremont Place",home
+William Le,persName,"Miss Whitney",Whitney
+William Le,objectName,"the stairs",home
+William Le,persName,"Charlotte",Charlotte
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,placeName,"closet",home
+William Le,placeName,"the door",home
+William Le,placeName,"the door",home
+William Le,persName,"Chauncey Eaton",Chauncey
+William Le,persName,"the night watchman",watchman
+William Le,persName,"Mary",Mary
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,persName,"Mrs. Shelby's mother",Shelby
+William Le,objectName,"pistol",weapon
+William Le,objectName,"pistols",weapon
+William Le,objectName,"your pistol",weapon
+William Le,persName,"Mary",Mary
+William Le,persName,"Charlotte Witney",Charlotte
+William Le,placeName,"floor",home
+William Le,persName,"Chauncey",Chauncey
+William Le,objectName,"the bullets",weapon
+William Le,objectName,"one bullet",weapon
+William Le,objectName,"the pistol",weapon
+William Le,objectName,"pistols",weapon
+William Le,objectName,"an Aeolian Organ",music
+William Le,persName,"Mr. Carl Stocktdle",Stockdale
+William Le,persName,"William Desmond Taylor",Taylor
+William Le,persName,"Mary",Mary
+William Le,persName,"William Desmond Taylor",Taylor
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,placeName,"the studio",studio
+William Le,persName,"William Desmond Taylor",Taylor
+William Le,objectName,"the telephone",telephone
+William Le,persName,"Margery",Margery
+William Le,persName,"Mr. Stockdale",Stockdale
+William Le,placeName,"the studio",studio
+William Le,objectName,"the telephone",telephone
+William Le,persName,"William Desmond Taylor",Taylor
+William Le,persName,"Mr. Rice",Rice
+William Le,persName,"Mr. Rice",Rice
+William Le,placeName,"my house",house
+William Le,placeName,"Vermont",Vermont
+William Le,persName,"Mr. Rice",Rice
+William Le,objectName,"my blue Packard",car
+William Le,placeName,"driveway",house
+William Le,objectName,"the car",vehicle
+William Le,persName,"Chauncey",Chauncey
+William Le,objectName,"Mary's car",vehicle
+William Le,placeName,"upstairs",house
+William Le,persName,"Julia",Julia
+William Le,persName,"Miss Berger",Berger
+William Le,persName,"Mr. Woolwine",Woolwine
+William Le,persName,"Mr. Keyes",Keyes
+William Le,persName,"Mr. Keyes",Keyes
+William Le,persName,"Chauncey",Chauncey
+William Le,persName,"Chauncey",Chauncey
+William Le,placeName,"the Hobart house",Horbart_house
+William Le,objectName,"the papers",papers
+William Le,placeName,"the office",office
+William Le,persName,"Mr. Rice",Rice
+William Le,persName,"Mrs. Shelby",Shelby
+William Le,placeName,"home",house
+William Le,objectName,"her car",vehicle
+William Le,placeName,"Charlotte Whitney's house",house
+William Le,placeName,"the door",house
+William Le,placeName,"the kitchen",house
+William Le,placeName,"the back door",house
+William Le,placeName,"this room",house
+William Le,persName,"Marshall Neilan",Marshall
+William Le,persName,"Taylor",Taylor

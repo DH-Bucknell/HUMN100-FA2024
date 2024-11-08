@@ -1,0 +1,115 @@
+Byline,Type,Value,Attribute
+Ethan Esclamado,objectName,"transcript",document
+Ethan Esclamado,objectName,"notes",document
+Ethan Esclamado,persName,"the Coroner's",coroner
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,persName,"William Desmond Taylor",taylor
+Ethan Esclamado,placeName,"Ivy H. Overholtzer [Mortuary]",mortuary
+Ethan Esclamado,placeName,"Los Angeles, California",city
+Ethan Esclamado,persName,"Coroner Charles Eyton",eyton
+Ethan Esclamado,persName,"Charles Eyton",eyton
+Ethan Esclamado,placeName,"1920 Vine Street, Hollywood",address
+Ethan Esclamado,orgName,"Famous Players-Lasky Corporation",production
+Ethan Esclamado,persName,"Mr. Eyton",eyton
+Ethan Esclamado,objectName,"remains",body
+Ethan Esclamado,objectName,"deceased",body
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,persName,"William Desmond Taylor",taylor
+Ethan Esclamado,placeName,"Ireland",country
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,placeName,"Apartment "B," South Alvarado Street, 404",address
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,persName,"[Harry Fellows]",harryFellows
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,objectName,"floor",floor
+Ethan Esclamado,objectName,"back",bodyPart
+Ethan Esclamado,persName,"Detective Ziegler",ziegler
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,objectName,"stomach",bodyPart
+Ethan Esclamado,persName,"Mr. Maclean - Douglas Maclean",dougMaclean
+Ethan Esclamado,objectName,"a shot",gun
+Ethan Esclamado,objectName,"a shot",gun
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,persName,"deputy coroner",coroner
+Ethan Esclamado,objectName,"stomach",bodyPart
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,objectName,"hand",bodyPart
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,objectName,"hand",bodyPart
+Ethan Esclamado,objectName,"blood",bodyPart
+Ethan Esclamado,objectName,"hand",bodyPart
+Ethan Esclamado,persName,"Douglas",dougMaclean
+Ethan Esclamado,persName,"[Taylor's]",taylor
+Ethan Esclamado,objectName,"mouth",bodyPart
+Ethan Esclamado,objectName,"trail of blood",bodyPart
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"pool of blood",bodyPart
+Ethan Esclamado,objectName,"trail of blood",bodyPart
+Ethan Esclamado,objectName,"pool of blood",bodyPart
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"pool of blood",bodyPart
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"vest",clothing
+Ethan Esclamado,objectName,"blood",bodyPart
+Ethan Esclamado,persName,"Deputy Coroner",coroner
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,objectName,"pillow",furniture
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,persName,"Deputy Coroner",coroner
+Ethan Esclamado,objectName,"shirt",clothing
+Ethan Esclamado,objectName,"vest",clothing
+Ethan Esclamado,objectName,"bullet wound",body
+Ethan Esclamado,persName,"Mr. Eyton",eyton
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,placeName,"front entrance",passage
+Ethan Esclamado,placeName,"home",residence
+Ethan Esclamado,objectName,"desk",furniture
+Ethan Esclamado,objectName,"head",bodyPart
+Ethan Esclamado,objectName,"feet",bodyPart
+Ethan Esclamado,placeName,"door",passage
+Ethan Esclamado,placeName,"front entrance",passage
+Ethan Esclamado,persName,"Detective Ziegler",ziegler
+Ethan Esclamado,persName,"Douglas Maclean",dougMaclean
+Ethan Esclamado,persName,"Charles Maigne",maigne
+Ethan Esclamado,persName,"[E. C. Jessurun]",jessurun
+Ethan Esclamado,persName,"Harry Fellows",harryFellows
+Ethan Esclamado,persName,"Mr. Taylor's",taylor
+Ethan Esclamado,placeName,"neighborhood",residence
+Ethan Esclamado,persName,"Mr. MacLean",dougMaclean
+Ethan Esclamado,placeName,"apartment",residence
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,placeName,"court",residence
+Ethan Esclamado,placeName,"court",residence
+Ethan Esclamado,objectName,"buildings",building
+Ethan Esclamado,placeName,"apartments",residence
+Ethan Esclamado,placeName,"court",residence
+Ethan Esclamado,persName,"Mr. and Mrs. MacLean",dougMaclean
+Ethan Esclamado,objectName,"gunshot",gun
+Ethan Esclamado,persName,"Mr. Maclean",dougMaclean
+Ethan Esclamado,persName,"Mrs. Maclean",faithMaclean
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,persName,"Mr. Taylor",taylor
+Ethan Esclamado,eventName,"the war",war
+Ethan Esclamado,objectName,"fire-arms",gun
+Ethan Esclamado,objectName,"revolver",gun
+Ethan Esclamado,objectName,"revolver",gun
+Ethan Esclamado,objectName,"upper drawer",furniture
+Ethan Esclamado,placeName,"upstairs",location
+Ethan Esclamado,persName,"Detective Ziegler",ziegler
+Ethan Esclamado,objectName,"fire-arms",gun
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,persName,"Harry Peavey",peavey
+Ethan Esclamado,persName,"Harry Fellows",harryFellows
+Ethan Esclamado,persName,"a Juror",juror
+Ethan Esclamado,objectName,"clothing",clothing
+Ethan Esclamado,placeName,"door",passage
+Ethan Esclamado,objectName,"back",bodyPart
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,placeName,"room",house
+Ethan Esclamado,objectName,"body",body
+Ethan Esclamado,objectName,"suit",clothing

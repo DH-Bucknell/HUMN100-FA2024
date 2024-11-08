@@ -1,0 +1,127 @@
+Byline,Type,Value,Attribute
+Firestone,persName,"Henry Peavey",peavey
+Firestone,placeName,"127 1/2 East 3rd Street",address
+Firestone,persName,"Mr. Peavey",peavey
+Firestone,persName,"Mr. Taylor",taylor
+Firestone,persName,"the deceased",taylor
+Firestone,persName,"the dead man",taylor
+Firestone,persName,"him",taylor
+Firestone,placeName,"house",residence
+Firestone,persName,"he",taylor
+Firestone,placeName,"house",residence
+Firestone,placeName,"house",residence
+Firestone,persName,"he",taylor
+Firestone,persName,"He",taylor
+Firestone,objectName,"chair",furniture
+Firestone,persName,"Miss Normand",normand
+Firestone,objectName,"chair",furniture
+Firestone,objectName,"a red-backed book",posession
+Firestone,placeName,"house",residence
+Firestone,placeName,"dining-room",house
+Firestone,placeName,"dining-room",house
+Firestone,placeName,"living-room",house
+Firestone,placeName,"two-story apartment",residence
+Firestone,placeName,"ground floor",house
+Firestone,placeName,"living-room",house
+Firestone,placeName,"dining-room",house
+Firestone,placeName,"kitchen",house
+Firestone,placeName,"the entrance",house
+Firestone,placeName,"apartment",residence
+Firestone,placeName,"front room",house
+Firestone,placeName,"front room",house
+Firestone,placeName,"dining-room",house
+Firestone,placeName,"living-room",house
+Firestone,placeName,"entrance to the dining-room",house
+Firestone,placeName,"the front",house
+Firestone,placeName,"the back",house
+Firestone,placeName,"the front way",house
+Firestone,objectName,"back door",house
+Firestone,objectName,"back door screen",house
+Firestone,objectName,"hook",decoration
+Firestone,objectName,"front door",house
+Firestone,objectName,"the back door key",posession
+Firestone,objectName,"door",passage
+Firestone,persName,"Mr. Taylor",taylor
+Firestone,eventName,"I picked up the paper",action
+Firestone,eventName,"I stopped in a drug store",action
+Firestone,placeName,"corner of 5th and Los Angeles",address
+Firestone,objectName,"bottle of medicine",medicine
+Firestone,objectName,"milk of magnesia",medicine
+Firestone,persName,"he",taylor
+Firestone,eventName,"I bought that",action
+Firestone,eventName,"I picked up the paper and unlocked the door",action
+Firestone,persName,"Mr. Taylor",taylor
+Firestone,persName,"He",taylor
+Firestone,objectName,"face",bodyPart
+Firestone,persName,"Mr. Desmond [sic]",taylor
+Firestone,persName,"gentleman",jessurun
+Firestone,placeName,"the court",neighborhood
+Firestone,persName,"Mr. Jessurun",jessurun
+Firestone,persName,"Mr. MacLean",dougMaclean
+Firestone,persName,"Charles Maigne]",maigne
+Firestone,persName,"Miss Normand",normand
+Firestone,persName,"Mr. Taylor",taylor
+Firestone,placeName,"the place",residence
+Firestone,persName,"Miss Normand's chauffeur",normand's chauffer
+Firestone,persName,"he",normand's chauffeur
+Firestone,persName,"his",normand's chauffer
+Firestone,objectName,"lights",lighting
+Firestone,objectName,"limousine",vehicle
+Firestone,eventName,"I hit him on the back and stopped and talked to him a few minutes",action
+Firestone,persName,"him",normand's chauffer
+Firestone,persName,"him",normand's chauffer
+Firestone,objectName,"chair",furniture
+Firestone,persName,"his",taylor
+Firestone,objectName,"feet",bodyPart
+Firestone,objectName,"chair",furniture
+Firestone,objectName,"furniture",furniture
+Firestone,placeName,"house",residence
+Firestone,placeName,"room upstairs",house
+Firestone,persName,"his",taylor
+Firestone,objectName,"body",bodyPart
+Firestone,objectName,"jewelry",posession
+Firestone,persName,"him",taylor
+Firestone,persName,"he",taylor
+Firestone,objectName,"jewelry",posession
+Firestone,persName,"he",taylor
+Firestone,objectName,"wrist watch",posession
+Firestone,objectName,"watch",posession
+Firestone,objectName,"thing",posession
+Firestone,objectName,"checks",money
+Firestone,objectName,"checks",money
+Firestone,objectName,"lead pencil",posession
+Firestone,persName,"he",taylor
+Firestone,objectName,"diamond ring",posession
+Firestone,persName,"he",taylor
+Firestone,objectName,"diamond ring",posession
+Firestone,persName,"he",taylor
+Firestone,persName,"he",taylor
+Firestone,persName,"he",taylor
+Firestone,persName,"him",taylor
+Firestone,objectName,"ring",posession
+Firestone,objectName,"finger",bodyPart
+Firestone,persName,"his",taylor
+Firestone,objectName,"jewelry",posession
+Firestone,objectName,"dresser drawer",furniture
+Firestone,placeName,"apartment",residence
+Firestone,objectName,"rug",furniture
+Firestone,placeName,"living-room",house
+Firestone,objectName,"table",furniture
+Firestone,objectName,"rocking chair",furniture
+Firestone,objectName,"table",furniture
+Firestone,objectName,"table",furniture
+Firestone,objectName,"rocking chair",furniture
+Firestone,objectName,"table",furniture
+Firestone,objectName,"windows",decoration
+Firestone,objectName,"pins",decoration
+Firestone,objectName,"windows",passage
+Firestone,objectName,"windows",passage
+Firestone,placeName,"upstairs",wing
+Firestone,persName,"his",taylor
+Firestone,placeName,"bedroom",house
+Firestone,objectName,"windows",passage
+Firestone,objectName,"window",passage
+Firestone,objectName,"lights",lighting
+Firestone,objectName,"two lights",lighting
+Firestone,placeName,"living-room",house
+Firestone,placeName,"dining-room",house
