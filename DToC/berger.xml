@@ -136,10 +136,11 @@
    </teiHeader>
    <text>
       <body>
-         <div type="interview">
+         <div>
+            <div type="interview">
             <head><title>Interview with Marjorie Berger (March 26, 1926)</title></head>            
             <!--<byline>Edited by Lily Stein</byline>-->
-            <div type="section">
+            
                <stage>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement
                   taken 3-11-26 at 1:30 PM</stage>
                
@@ -210,8 +211,7 @@
                      type="estimation">half an hour previous</time> to her calling me. It was
                   between <time type="morning">7 and 7:30 that morning</time> at my <placeName
                      type="work">office</placeName> that she called. </p></sp>
-            </div>
-         </div>
+         </div></div>
       </body>
    </text>
 </TEI>
