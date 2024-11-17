@@ -1,7 +1,7 @@
 {
     "inputs": [
-        "https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/refs/heads/main/henry8.xml"],
-    "documents": "//div[@type='act']",
+        "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/kirkwood.xml"],
+    "documents": "//div[@type='interview']",
     "ignoreNamespace": true,
     "documentTitle": "head",
     "documentAuthor": "",
