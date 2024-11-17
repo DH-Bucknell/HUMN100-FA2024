@@ -141,12 +141,12 @@
             <head>STATEMENT OF MISS MARY MILES MINTER. G.H BOONE OFFICIAL REPORTER IN THE DISTRICT
                ATTORNEY'S OFFICE, February 7, 1922, at five o'clock P.M. [Section 1] </head>
 
-            <head>PRESENT: <persName key="doran" ref="#law_enforcement" role="investigator">Mr. W.C.
+            <p>PRESENT: <persName key="doran" ref="#law_enforcement" role="investigator">Mr. W.C.
                   Doran,</persName> Deputy District Attorney, <persName key="minter" ref="#actor"
                   role="business romantic">Miss Mary Miles Minter,</persName>
                <persName key="mott" ref="#legal" role="investigator">John G. Mott,</persName>
                attorney for Miss Minter, and <persName key="boone" ref="#law_enforcement"
-                  role="business">G. H. Boone,</persName> shorthand reporter.</head>
+                  role="business">G. H. Boone,</persName> shorthand reporter.</p>
             <div type="section" n="1">
 
                <byline resp="editor">Section #1 edited by Waina A</byline>
