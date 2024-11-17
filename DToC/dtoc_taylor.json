@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/berger.xml"
          
     ],
-    "documents": "//div[@type='interview']",
+    "documents": "//div[@type='essay']",
     "ignoreNamespace": true,
     "documentTitle": "head",
     "documentAuthor": "",
