@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>NEIL HARRINGTON, Neighbor Statement taken 2-9-22</head>
+            <byline>Edited by Rylie Smith</byline>
+            
+            <p> POLICE: *** I understand you went over with <persName ref="#professional" role="unknown" key="dumas">Mr.
+               Dumas</persName>?</p>
+            
+            <p> HARRINGTON: I went in there first.</p>
+            
+            <p> POLICE: When you saw <persName ref="#director">Taylor</persName>
+               <eventName type="positioning">lying out</eventName>
+               <placeName type="location">on the floor</placeName>, why <objectName type="clothing">his clothing</objectName> was
+               perfectly arranged, was it not?</p>
+            
+            <p> HARRINGTON: Perfectly arranged. I made the remark at the time, "I don't believe the
+               man fell in that position." (Re man peeping in windows of <persName ref="#director" key="taylor"
+                  >Taylor's</persName>
+               <placeName type="residency">home</placeName> in <date>August, 1921</date>) Between <persName
+                  ref="#director" key="taylor">Taylor's</persName> house and the garage, there is the
+               two windows, and <persName ref="#director" key="taylor"
+                  >Taylor</persName>‚Äôs house the window to the living room and the window to the
+               kitchen - *** I saw <eventName type="suspisous">a man peeking in the curtain</eventName>, and as he
+               saw me‚Äî this man, I believe I would recognize-- as he heard me he started and
+               stopped naturally, rather frightened, and he didn't say a word, but whirled right
+               around and <eventName type="movement">walked out</eventName>.</p>
+            
+            <p> POLICE: Do you know whether <persName ref="#director" key="taylor">Mr. Taylor</persName> was there
+               or not?</p>
+            
+            <p> HARRINGTON: There was a light in there, *** I should say probably along about the
+               <date>20th of August</date>.</p>
+            
+            <p> POLICE: How would you describe the <objectName type="bodyPart">fellow's face</objectName>?</p>
+            
+            <p> HARRINGTON: Rather a good looking fellow, good features. Of course I couldn't tell
+               whether <objectName type="bodyPart">his face</objectName> was ruddy complexion --</p>
+            
+            <p> POLICE: Regular features?</p>
+            
+            <p>HARRINGTON: Yes, regular features. It wasn't <persName role="social" ref="#servant" key="peavey">Taylor's
+               chauffeur</persName> at that time.</p>
+            
+            <p> POLICE: About what time was it <time>in the evening</time>?</p>
+            
+            <p> HARRINGTON: Oh, somewhat around <time>9 o‚Äôclock</time>,<time> early in the
+               evening</time>.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

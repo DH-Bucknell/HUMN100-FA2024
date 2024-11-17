@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>CHARLES MAIGNE (Friend of Taylor) Statement taken 12-1-25</head>
+            <byline>Edited by Rylie Smith</byline>
+            
+            <p> MAIGNE: It must have been about half past <time>7 in the morning</time> of the day
+               that <persName ref="#director" key="taylor">Bill</persName>was killed that <persName ref="#servant" role="unknown" key="maid">Miss
+                  Normand's maid</persName> came over and wanted to see me right away. *** I hurried
+               over and <persName ref="#actor" role="romantic" key="normand">Mabel</persName> told me that <persName ref="#actor" role="buissness" key="purviance"
+                  >Edna Purviance</persName> had <eventName type="communication">telephoned to her</eventName> that
+               <persName ref="#director" key="taylor">Bill</persName> had been found dead. *** and
+               <persName ref="#actor" role="romantic" key="normand">Mabel</persName> ** asked me to go up there, and I think there were only
+               two or three people here when I got in. It must have been approximately <time>8
+                  o'clock</time>.</p>
+            
+            <p>POLICE: About what time was that that you got there?</p>
+            
+            <p> MAIGNE: About <time>8 or 8:30</time>, I should say.The man in the corner court, just
+               beyond <persName ref="#actor" role="buissness" key="purviance">Miss Purviance</persName>, on the same side
+               <persName ref="#director" key="taylor">Bill</persName>was on, he said he was reading an <objectName type="documents">Evening
+                  Herald</objectName> and heard the conversation between <persName ref="#actor" role="romantic" key="normand">Miss
+                     Normand</persName> and <persName ref="#director" key="taylor">Mr. Taylor</persName>, and heard them say, "Good
+               night", and then the footsteps going back, and then immediately the whirr of the
+               motor, and she had gone and the footsteps died out, and he <eventName type="murder">heard the
+                  shot</eventName>. </p>
+         </div>
+      </body>
+  </text>
+</TEI>

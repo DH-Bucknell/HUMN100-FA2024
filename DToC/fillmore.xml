@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>MRS. MARGARET SHELBY FILLMORE, Sister of Mary Miles Minter: Statement taken 3-10-26, at 10 AM.</head>
+            <byline>Edited by Hunter Sloan</byline>
+
+            <p>POLICE: You do have a recollection then that she was <persName key="minter" ref="#actor">(Mary)</persName>home
+               at <eventName type="eating">dinner</eventName> that <time type="time">evening</time>?</p>
+            
+            <p>FILLMORE: Oh, absolutely, because <persName key="shelby" ref="#family">mama</persName> had cooked this dinner
+               <persName key="minter">she</persName> particularly liked and hoped <persName key="shelby" ref="#family">she</persName> would come home to it.</p>
+            
+            <p>POLICE: How long did <persName key="minter" ref="#actor">she</persName> remain there?</p>
+            <p> FILLMORE: <time type="evening">After dinner</time> we went into the <placeName type="house">living
+               room</placeName> and <persName key="minter" ref="#actor">Mary</persName> laid on the <objectName type="furniture">couch</objectName> and read a <objectName type="lesiure">book</objectName> called
+               <objectName type="posession">"The Cruise of the South Sea Islands"</objectName>. It was rather a
+               dry book, but the way <persName key="minter" ref="#actor">she</persName> read it was interesting and we simply sat around <placeName type="residence">home</placeName> and
+               enjoyed our evening at <placeName type="redsidence">home</placeName>, the three of us. Now I know <persName key="shelby" ref="#family">mother</persName>
+               was not at <placeName type="redsidence">home</placeName>, because if <persName key="shelby" ref="#family">she</persName> was, <persName key="shelby" ref="#family">she</persName> would have been
+               there, <persName key="fitts" ref="#law_enforcement">Mr. Fitts</persName>.</p>
+            
+            <p>POLICE: What time did you folks retire that evening?</p>
+            
+            <p>FILLMORE: We stayed up quite late, I guess <persName key="shelby" ref="#family">mama</persName> retired about
+               <time type="evening">10 or 11 o'clock</time>. <persName key="minter" ref="#actor">Mary</persName> and <persName key="mshelby" ref="#family">I</persName> stayed up and
+               didn't do much of anything until about <time type="evening">12</time>.</p>
+            
+            <p>POLICE: Well, you are quite positive that, after <persName key="minter" ref="#actor">Mary</persName> came <placeName type="redsidence">home</placeName> that afternoon, she
+               didn't go out again at all during the evening?</p>
+            
+            <p>FILLMORE: I am positive in this way; that we stayed up unti1 about <time type="evening">12
+               o'clock</time>, until after <persName key="shelby" ref="#family">mama</persName> went to bed and <placeName type="house">Mary's room</placeName> is right next to mine
+               and <persName key="mshelby" ref="#family">I</persName> didn't hear <persName key="minter" ref="#actor">her</persName> go out. <persName key="mshelby" ref="#family">I</persName> am quite sure <persName key="minter" ref="#actor">she</persName> didn't.</p>
+            
+            <p>POLICE: But you just said a few moments ago that she could come in without your
+               knowing it.</p>
+            
+            <p>A Yes, <persName key="minter" ref="#actor">she</persName> could have. ***</p>
+            
+            <p> POLICE: Then what time of the <time type="day">morning</time> of the <date type="date">second of
+               February</date> did your <persName key="shelby" ref="#family">mother</persName> come back to the
+               <placeName type="redsidence">Hobart house</placeName>?</p>
+            
+            <p>FILLMORE: Well, I should say around <time type="morning">9 or 10 o'clock</time>.</p>
+            
+            <p>POLICE: When <persName key="shelby" ref="#family">she</persName> came home to the <placeName type="redsidence">Hobart house</placeName>, <persName key="shelby" ref="#family">she</persName> was acquainted with the fact that
+               <eventName type="death">Taylor had been killed</eventName>?</p>
+            
+            <p>FILLMORE: <persName type="shelby" ref="#family">She</persName> said that <persName type="berger" ref="#professional">Margery Berger</persName> told her **</p>
+            
+            <p>FILLMORE: ** <persName key="shelby" ref="#family">She</persName> (Mrs. Shelby) said, "<persName key="berger" ref="#professional">Margery Berger</persName> tells me that <persName key="taylor" ref="#director">Mr. Taylor</persName> has
+               just been murdered."</p>
+            
+            <p>POLICE: You are, then, positive that your mother was not at the <placeName type="redsidence">Hobart house</placeName> that
+               <time key="time">night</time> (night of murder)?</p>
+            
+            <p>FILLMORE: Yes, I am positive that she was at the <placeName type="redsidence">New Hampshire
+               house</placeName>.</p>
+            
+            <p>POLICE: And that <persName key="shelby" ref="#family">she</persName> came in the <time key="day">next morning</time>, <time key="day">early in the
+               morning</time>?</p>
+            
+            <p>FILLMORE: Yes, <persName key="shelby" ref="#family">she</persName> came after the call from <persName type="berger" ref="#professional">Miss Berger</persName>.</p>
+            
+            <p>POLICE: Could it have been after <time key="time">9 o'clock</time> when <persName key="shelby" ref="#family">she</persName> came in?</p>
+            
+            <p>FILLMORE: It could have been. As <persName key="mshelby" ref="#family">I</persName> say, it was early in the morning. I know it wasn't
+               as late as <time key="time">11</time>.</p>
+            
+            <p> Q ** You knew nothing of <eventName key="death">Taylor's death</eventName> until your <persName key="shelby" ref="#family">mother</persName>
+               told you about it?</p>
+            
+            <p>FILLMORE: No.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

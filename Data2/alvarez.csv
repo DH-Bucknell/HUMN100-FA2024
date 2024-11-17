@@ -1,69 +1,69 @@
 Byline,Type,Value,Attribute
-Jada Alvarez,persName,"Frank Urson",urson
-Jada Alvarez,persName,"Mr. Taylor",taylor
-Jada Alvarez,persName,"He",taylor
-Jada Alvarez,persName,"Mary",minter
-Jada Alvarez,persName,""Billie"",taylor
-Jada Alvarez,persName,"He",taylor
-Jada Alvarez,objectName,"paper",document
+Jada Alvarez,persName,"Frank Urson",Urson
+Jada Alvarez,persName,"Mr. Taylor",Taylor
+Jada Alvarez,persName,"He",Taylor
+Jada Alvarez,persName,"Mary",Mary
+Jada Alvarez,persName,""Billie"",Taylor
+Jada Alvarez,persName,"He",Taylor
+Jada Alvarez,objectName,"paper",newspaper
 Jada Alvarez,eventName,"engaged",major
-Jada Alvarez,persName,"Mr Dickson",dickson
-Jada Alvarez,persName,"Thomas Dickson",dickson
-Jada Alvarez,persName,"Marshall Neilan",neilan
+Jada Alvarez,persName,"Mr Dickson",Dickson
+Jada Alvarez,persName,"Thomas Dickson",Dickson
+Jada Alvarez,persName,"Marshall Neilan",Neilan
 Jada Alvarez,eventName,"engaged",major
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,objectName,"papers",document
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,objectName,"papers",newspaper
 Jada Alvarez,eventName,"engagement",major
-Jada Alvarez,persName,"Mr Dickson",dickson
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"Taylor's",taylor
-Jada Alvarez,persName,"him",taylor
-Jada Alvarez,persName,"him",taylor
-Jada Alvarez,persName,"him",taylor
-Jada Alvarez,persName,"Mr Neilan's",neilan
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"Taylor",taylor
-Jada Alvarez,persName,"him",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,objectName,"cocktails",consumable
-Jada Alvarez,persName,"he",taylor
+Jada Alvarez,persName,"Mr Dickson",Dickson
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Taylor's",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"Mr Neilan's",Neilan
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,objectName,"cocktails",drink
+Jada Alvarez,persName,"he",Taylor
 Jada Alvarez,placeName,"San Francisco",city
-Jada Alvarez,persName,"Marshall?",neilan
-Jada Alvarez,persName,"Taylor's",taylor
+Jada Alvarez,persName,"Marshall?",Neilan
+Jada Alvarez,persName,"Taylor's",Taylor
 Jada Alvarez,eventName,"death",major
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"him",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"Taylor",taylor
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"Mr Taylor",taylor
-Jada Alvarez,persName,"Taylor",taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Mr Taylor",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
 Jada Alvarez,eventName,"killing",major
 Jada Alvarez,eventName,"killing",major
 Jada Alvarez,eventName,"killing",major
-Jada Alvarez,persName,"Mr Taylor",taylor
-Jada Alvarez,persName,"Taylor",taylor
-Jada Alvarez,persName,"he",taylor
+Jada Alvarez,persName,"Mr Taylor",Taylor
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"he",Taylor
 Jada Alvarez,eventName,"quarrel",fight
-Jada Alvarez,persName,"Neilan",neilan
-Jada Alvarez,persName,"Taylor",taylor
-Jada Alvarez,persName,"Marshall",neilan
-Jada Alvarez,persName,"He",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"Mr Taylor",taylor
-Jada Alvarez,persName,"Marshall Neilan",neilan
-Jada Alvarez,persName,"him",taylor
-Jada Alvarez,persName,"Marshall",neilan
-Jada Alvarez,persName,"Marshall",neilan
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"he",taylor
-Jada Alvarez,persName,"Mr Neilan's",neilan
-Jada Alvarez,persName,"him",taylor
+Jada Alvarez,persName,"Neilan",Neilan
+Jada Alvarez,persName,"Taylor",Taylor
+Jada Alvarez,persName,"Marshall",Neilan
+Jada Alvarez,persName,"He",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"Mr Taylor",Taylor
+Jada Alvarez,persName,"Marshall Neilan",Neilan
+Jada Alvarez,persName,"him",Taylor
+Jada Alvarez,persName,"Marshall",Neilan
+Jada Alvarez,persName,"Marshall",Neilan
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"he",Taylor
+Jada Alvarez,persName,"Mr Neilan's",Neilan
+Jada Alvarez,persName,"him",Taylor

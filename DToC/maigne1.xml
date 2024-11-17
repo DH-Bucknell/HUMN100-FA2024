@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>CHARLES MAIGNE (Friend of Taylor) Statement taken 2-9-22</head>
+            <byline>Edited by Rylie Smith</byline>
+
+            
+            <p> MAIGNE: ** After I got over the shock of <eventName type="mortality">Bill's
+               death</eventName>, was wondering how on earth <persName ref="#director" key="taylor"
+                  >Bill</persName> could have fallen the way he did. The position that <persName
+                     ref="#director" key="taylor">Bill</persName> was in stumped me for two solid days *** If he had
+               been sitting in his chair and <eventName type="murder">had been shot</eventName>, or if he
+               <eventName type="murder">had been shot</eventName> in <objectName type="bodyPart">his back</objectName> with his
+               back to the door, he was lying stretched out with his <placeName type="positoning">feet towards the
+                  door</placeName>, <objectName type="bodyPart">hands</objectName> by his side. There was no
+               <objectName type="bodyPart">blood</objectName> anywhere except directly under <objectName type="bodyPart">his
+                  head</objectName> where <objectName type="bodyPart">the blood</objectName> had run out of
+               <objectName type="bodyPart">his mouth</objectName> from the hemorrhage and a little bit directly
+               under where the wound in the back was.</p>
+            
+            <p>POLICE: Was the <objectName type="clothing">clothing</objectName> all properly arranged?</p>
+            
+            <p>MAIGNE: <objectName type="clothing">Clothing</objectName> all <eventName type="positioning">properly
+               arranged</eventName>. (Speaking of the condition of the room when he first saw
+               it<date> the morning after the murder</date>)</p>
+            
+            <p>WINN: There were also papers on <objectName type="furniture">the
+               couch</objectName>? *** I know when you came up there about <time> 9:15 or
+                  9:30</time>.</p>
+            
+            <p>MAIGNE: <time>Around 9:30 or 10 o'clock</time>. **** Before we had been there a half
+               or three-quarters of an hour, I noticed <objectName type="money">three or four checks</objectName>
+               on the floor alongside of <persName ref="#director" key="taylor">Bill</persName>,
+               <objectName type="money">cancelled checks</objectName>. They were <placeName type="location">not on the
+                  floor</placeName> when I came in. This pile of <objectName type="money">cancelled
+                     checks</objectName> was almost smooth and level right on <objectName type="furniture">his
+                        desk</objectName>, just as though he had been interrupted in his work and nobody
+               had touched them. ** On <date>the night after</date>
+               <persName ref="#director" key="taylor">Taylor</persName> was <eventName type="murder">killed</eventName>
+               <eventName type="communication">I called up</eventName>
+               <persName ref="#servant" role="social" key="tiffany">Earl Tiffany</persName> and had him come up to <placeName type="house">the
+                  house</placeName>. *** His wife came up with him *** The first thing he told me
+               was that his wife had positively seen <persName role="social" ref="#servant" key="sands">Sands</persName> at the
+               corner of <placeName type="street">Fifth and Figueroa</placeName>, I think it was, at <time>1:15
+                  PM</time> on the day before <persName ref="#director" key="taylor">Taylor</persName> was murdered.
+               She had known <persName ref="#servant" key="sands">Sands</persName> and <persName ref="#servant" role="social" key="tiffany"
+                  >Tiffany</persName> before she married <persName ref="#servant" role="social" key="tiffany">
+                     Tiffany</persName>.</p>
+            
+            
+         </div>
+      </body>
+  </text>
+</TEI>

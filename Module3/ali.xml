@@ -136,22 +136,23 @@
    </teiHeader>
    <text>
       <body>
+         
          <div type="interview">
             <head>Statement by Mary Miles Minter</head>
             <byline resp="editor">Waina A</byline>
             <p> STATEMENT OF MISS MARY MILES MINTER. G.H BOONE OFFICIAL REPORTER IN THE DISTRICT
                ATTORNEY'S OFFICE, February 7, 1922, at five o'clock P.M. [Section 1] </p>
 
-            <p>PRESENT: <persName key="doran">Mr. W.C. Doran,</persName> Deputy District Attorney,
-                  <persName key="minter">Miss Mary Miles Minter,</persName>
-               <persName key="mott">John G. Mott,</persName> attorney for Miss Minter, and <persName
-                  key="boone">G. H. Boone,</persName> shorthand reporter.</p>
+            <p>PRESENT: <persName key="doran" ref= "#law_enforcement" role = "investigator" >Mr. W.C. Doran,</persName> Deputy District Attorney,
+                  <persName key="minter" ref= "#actor" role = "business romantic" >Miss Mary Miles Minter,</persName>
+               <persName key="mott" ref="#legal" role = "investigator" >John G. Mott,</persName> attorney for Miss Minter, and <persName
+                  key="boone" ref="#law_enforcement" role = "business" >G. H. Boone,</persName> shorthand reporter.</p>
 
             <p>STATEMENT OF MISS MARY MILES MINTER</p>
 
-            <p>Questions by <persName key="doran">Mr. Doran</persName>: </p>
+            <p>Questions by <persName key="doran" ref= "#law_enforcement" role = "investigator" >Mr. Doran</persName>: </p>
 
-            <p> DORAN: How long have you known <persName key="taylor">Mr taylor</persName>?</p>
+            <p> DORAN: How long have you known <persName key="taylor" >Mr taylor</persName>?</p>
 
             <p>MINTER: Since <date when="1919-07">July of 1919</date> -- yes, that is correct. </p>
 
@@ -179,7 +180,7 @@
 
             <p>MINTER: no, not a soul. </p>
 
-            <p>DORAN: Was <persName key="Sands">his valet</persName>, the colored man, there, do you
+            <p>DORAN: Was <persName key="Sands" ref= "#servant" role = "employee" >his valet</persName>, the colored man, there, do you
                know?</p>
 
             <p>MINTER: Not that I know of. </p>
@@ -226,12 +227,12 @@
                   one</time>, and-- Do you wish me to tell you all that transpired? </p>
             <p> DORAN: Never mind about that. </p>
 
-            <p> DORAN: Your <persName key="grandmother">grandmother</persName> didn't accompany
+            <p> DORAN: Your <persName key="grandmother" ref = "family" role = "family" >grandmother</persName> didn't accompany
                you?</p>
 
             <p> MINTER: No, she did not. </p>
 
-            <p>DORAN: Your <persName key="chaffeur">chauffeur</persName> drove you there? </p>
+            <p>DORAN: Your <persName key="chaffeur" ref="#servant" role = "business" >chauffeur</persName> drove you there? </p>
 
             <p>MINTER: No, I drove myself in my little <objectName type="car">car</objectName>,
                little run-about.</p>

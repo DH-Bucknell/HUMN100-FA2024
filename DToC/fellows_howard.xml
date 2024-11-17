@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>HOWARD FELLOWS, Chauffeur for Mr. Taylor Statement taken 2-9-22, 4:45 P.M.</head>
+            <byline>Edited by Lily Stein</byline>
+
+            
+            <p>POLICE: Where did you take<persName key="taylor" ref="#director"> Mr. Taylor</persName> the day he was <eventName type="killed">killed</eventName>
+               begin in the morning?</p>
+            
+            <p> FELLOWS: It was the <placeName key="studio">studio</placeName>. ...called for him I think at <time type="estimation">one o'clock.</time> I took him
+               down town to the <placeName type="bank">bank</placeName>, which I drove <persName key="harryFellows" ref="#director">Harry</persName> up to see you, I
+               think it was, which I went home and called for him at <time type="afternoon">quarter of four</time> at
+               <placeName type="store">Robinson's</placeName>.</p>
+            
+            <p> POLICE: <placeName type="store">Robinson's Store</placeName>? </p>
+            
+            <p>FELLOWS: Yes. He came along ‚<persName key="harryFellows" ref="director">Harry</persName> was waiting to see him.
+               They talked there until it was pretty near time for me to move or get a ticket for
+               standing after hours. (After relating taking <persName key="taylor" ref="#director">Mr. Taylor</persName> home,
+               he, <persName key="taylor" ref="#director">Taylor</persName> said) "I will call you between <time type="nighttime">7 and 7:30
+               </time>if I want you.</p>
+            
+            <p>POLICE: You went around to<persName key="taylor" ref="#director"> Mr. Taylor's</persName>
+               <placeName type="residence">house</placeName> the night he was <eventName type="killed">killed</eventName>.</p>
+            
+            <p>FELLOWS: Yes.</p>
+            
+            <p>POLICE: Just describe your movements when you went there giving the time?</p>
+            
+            <p> FELLOWS: I called up at the <placeName>house </placeName>at <time>5 minutes after
+               8</time> which I looked at my <objectName type="jewelry">watch</objectName> * * I called up and got no answer. About
+               <time type="morning">5 minutes after 8</time> I tried to call and I went out and got into the
+               <objectName type="vehicle">car</objectName>, drove up 6th to <placeName type="alvarado">Alvarado</placeName>, up
+               <placeName>Alvarado</placeName> to <placeName type="street">Maryland</placeName> and right
+               around in back there where his <objectName type="passage">garage</objectName> is, right behind the <placeName type="residence">landlord's
+                  house</placeName> * * * I didn't put the <objectName type="vehicle">car</objectName> away then, I left the <objectName type="vehicle">engine</objectName> running
+               and lights on.** I rang the <objectName type="doorbell">door bell</objectName>, the lights were all lit which I thought he
+               might be <placeName type="residence">home</placeName> on account of all the lights being lit. I rang
+               the <objectName type="doorbell">door bell </objectName>and the second time I rang the <objectName type="doorbell">door bell</objectName> I looked at my <objectName type="jewelry">watch</objectName> ***,
+               which my watch says <time>quarter after 8</time>. I rung the <objectName type="doorbell">door bell</objectName> 4 or 5 times
+               because I kind of thought he was in there on account of thoughts being lit.</p>
+            
+            <p>POLICE: Could you hear the<objectName type="doorbell"> door bell</objectName> ringing?</p>
+            
+            <p> FELLOWS: Yes. I started away and I got about to the steps and I hesitated to see if
+               I could hear him coming. As I hesitated there was no sound and I went and put the <objectName type="vehicle">car</objectName>
+               away, opened the <objectName type="passage">garage doors</objectName> and put the <objectName type="vehicle">car</objectName> away, closed the <objectName type="house">door</objectName> and walked right
+               straight through the court down <placeName type="alvarado">Alvarado</placeName>.</p>
+            
+            <p> POLICE: You did not open the <objectName type="passage">screen door</objectName>?</p>
+            
+            <p>FELLOWS: No, never do open any <objectName type="door">door</objectName>.</p>
+            
+            <p>POLICE: Did you ever have such occasion before, the lights would be on and he would
+               not answer the <objectName type="doorbell">door bell</objectName>?</p>
+            
+            <p> FELLOWS: I never had any occasions like that. *** as I go around I notice there is a
+               light lit in his <placeName type="residence">bedroom</placeName> and a light lit in his
+               <placeName type="residence">den</placeName>. There is always them lights but it was a dim light.
+               This time all the lights were lit, <placeName type="house">dining room</placeName> lights were lit and they lit up the
+               certains that much more.</p>
+            
+            <p>POLICE: His <placeName type="location">upstairs</placeName> lights were lit?</p>
+            
+            <p>FELLOWS: One of them, just a glance I took at them.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

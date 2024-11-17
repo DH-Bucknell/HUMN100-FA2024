@@ -10,12 +10,12 @@
     
     <xsl:template match="tei:div[@type='interview']">
         <xsl:variable name="byline" select="normalize-space(tei:byline)"/>
-        <xsl:apply-templates select=".//tei:persName[@key]|.//tei:objectName[@type]|.//tei:placeName[@type]|.//tei:eventName[@type]|.//tei:orgName[@type]">
+        <xsl:apply-templates select=".//tei:persName[@ref]|.//tei:objectName[@type]|.//tei:placeName[@type]|.//tei:eventName[@type]|.//tei:orgName[@type]">
             <xsl:with-param name="byline" select="$byline"/>
         </xsl:apply-templates>
     </xsl:template>
     
-    <xsl:template match="tei:persName[@key]|tei:objectName[@type]|tei:placeName[@type]|tei:eventName[@type]|tei:orgName[@type]">
+    <xsl:template match="tei:persName[@ref]|tei:objectName[@type]|tei:placeName[@type]|tei:eventName[@type]|tei:orgName[@type]">
         <xsl:param name="byline"/>
         <xsl:value-of select="$byline"/>
         <xsl:text>,</xsl:text>
@@ -23,7 +23,7 @@
         <xsl:text>,"</xsl:text>
         <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>",</xsl:text>
-        <xsl:value-of select="@*[local-name()='key' or local-name()='type']"/>
+        <xsl:value-of select="@*[local-name()='ref' or local-name()='type']"/>
         <xsl:text>&#xA;</xsl:text>
     </xsl:template>
 </xsl:stylesheet>

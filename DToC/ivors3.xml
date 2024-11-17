@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>Newspaper Interview with Julia Crawford Ivors</head>
+            <byline>Edited by Olivia King</byline>
+            <p> April 29, 1922 HONOLULU ADVERTISER Scenario Writer is Seeking Material from Old
+               Hawaiian Legends <placeName type="state">Hawaii</placeName> may really find favor in
+               the big <placeName type="studio">motion picture studios</placeName> and its wealth of
+               legendary lore form the subject of a play or two to be presented to millions of movie
+               fans under the name of <persName key="lasky" ref="#writer"> Jesse Lasky</persName>, providing
+               <persName key="ivers" ref="#writer">Miss Julia Crawford Ivers</persName>, his foremost scenario
+               writer, find the legends and myths appropriate for filming.</p>
+            <p><persName key="ivers" ref="#writer">Miss Ivers</persName> arrived on the Matsonia from <placeName
+               type="city">Los Angeles</placeName>, accompanied by her secretary, Miss
+               Aldrich<persName/>, and although here but three days, she is already delving deep
+               into legends and also the history of <placeName type="state">Hawaii</placeName>,
+               particularly that relating to old feudal <placeName type="state"
+                  >Hawaii</placeName>.</p>
+            <p>Whether her readings, her conversations <placeName type="set">with Island</placeName>
+               folk acquainted with legends, and her observations, will lead her into the path that
+               will eventually open out into the appropriate theme, she does not know, but she has
+               hopes.</p>
+            <p>To further acquaint herself with <placeName type="set">the Islands</placeName> and to
+               absorb the atmosphere of old and new <placeName type="state">Hawaii</placeName>, she
+               will visit <placeName type="set">Kauai</placeName> next week, leaving here Monday or
+               Tuesday night and remaining a few days on the <placeName type="set">Garden
+                  Island</placeName>.</p>
+            <p>The following week she will go to <placeName type="set">Hilo</placeName>, taking her
+               car, and will motor over to <placeName type="set">Kalapana</placeName>, all through
+               <placeName type="set">Puna</placeName>, thence to <placeName type="set">the
+                  Volcano</placeName>, and then around to <placeName type="set">Kona</placeName>,
+               where she will learn all she can of <placeName type="set">Kealakekua Bay</placeName>,
+               the scene of Captain Cook's<persName/> discovery and tragedy; the city of keyuge at
+               <placeName type="set">Honaunau</placeName> and may possibly go into <placeName
+                  type="set">Kohala</placeName>, which abounds in historic wealth.</p>
+            <p><persName key="ivers" ref="#writer">Miss Ivers</persName> says she has been a scenario writer with
+               the <persName key="lasky" ref="#writer">Lasky</persName> interest for about eight years and during
+               seven years of that time was closely associated in motion <objectName
+                  type="possession">picture</objectName> production with <persName key="taylor" ref="#director"
+                     >William D. Taylor</persName>, whose tragic death caused a temporary suspension of
+               much work planned.</p>
+            <p>"<persName key="taylor" ref="#director">Mr. Taylor</persName> was a splendid <objectName
+               type="possession">picture</objectName> director," said <persName key="ivers" ref="#writer">Miss
+                  Ivers</persName>. "He was a man of fine attainments. He was sympathetic and those
+               who worked with and under his direction regarded him as one with whom it was a
+               pleasure to be associated.</p>
+            <p>"My own work as a scenario writer was pleasurable from the fact that there was
+               co-operation. He wanted the best and we desired to give him only the best. He was a
+               credit to the motion <objectName type="possession">picture</objectName> service and
+               will be a loss to it, for he was of a constructive type, doing the best with the
+               highest class of material."</p>
+            <p>It was partly because of his death that <persName key="ivers" ref="#writer">Miss Ivers</persName>
+               dropped her own activities for a time, superinduced by a cold, resulting in the end
+               in a determination to visit <placeName type="state">Hawaii</placeName>, with
+               <persName key="lasky" ref="#writer">Mr. Lasky's</persName> injunction that she delve into
+               Hawaiian legends and find whether any of them can be filmed.</p>
+            <p><persName key="ivers" ref="#writer">Miss Ivers</persName> is at the <placeName type="state">Seaside
+               hotel</placeName>. She makes no promises, but is reading much about Hawaii. She is
+               dictating morning and afternoon. She is going here and there where details of
+               Hawaiian life may be learned.</p>
+            <p>If such a motion <objectName type="possession">picture</objectName>play is to be
+               written it may not deal entirely with legends, but legends may be woven into a modern
+               type of play. The story of the Goddess Pele<persName/>, who dwells in <placeName
+                  type="set">Kilauea volcano</placeName>, has attracted much of her attention and
+               her own visit to the volcano in a week or so will have that much more interest for
+               her. There is a dramatic, tragic, firey element in Pele<persName/> which may be
+               converted to the screen, in her opinion.</p>
+            <p> Much of <persName key="ivers" ref="#writer">Miss Ivers'</persName> work at the studio in Los
+               Angeles is associated directly with literary folk, writers of <objectName
+                  type="possession">books</objectName> whose names are known throughout the reading
+               world--<persName key="parker" ref="#professional">Sir Gilbert Parker</persName>, <persName
+                  key="maugham" ref="#professional">Sydney [sic] Maugham</persName>, <persName key="glyn" ref="#professional">Elinor
+                     Glyn</persName> and many others. It is <persName key="ivers" ref="#writer">Miss Ivers</persName>
+               who takes their <objectName type="possession">books</objectName> and prepares or
+               directs the preparation of scenarios for the director.</p>
+            <p>It is this contact between the scenario writer and the authors that counts for
+               success or failure in the motion <objectName type="possession">picture</objectName>
+               product. If the scenario writer is sympathetic and endeavors to get the soul of the
+               author's intent, there are exceptional possibilities. If not, there is more likely to
+               be a failure in the interpretation.</p>
+            <p> Many <objectName type="possession">books</objectName> to be screened must be ripped
+               to pieces. As the story is written it can seldom be filmed. The change is the task of
+               the scenario writer.</p>
+            <p>Life must have been lived by scenario writers to really interpret a story for the
+               screen for the eyes of the millions of theater patrons. Phases of life that are near
+               the raw edge of actuality and realism may not be interpreted by the old maid who has
+               not seen life and whose first impulse, and probably her last, is to eliminate that
+               particular phase. A man of sensual thought may regard that particular phase as one to
+               work into a maudlin interpretation which would be offensive.</p>
+            <p> Between these two extremes there is the middle course and that path must be taken by
+               the writer who understands life and understands the multiplicity of types and
+               characters that patronize the theaters.</p>
+            <p>
+               <persName key="ivers" ref="#writer">Miss Ivers</persName> is a hard worker. She maintains high
+               ideals as to <objectName type="possession">picture</objectName> production. Hers is a
+               constant study of human nature. Philosophy and psychology are tangible factors with
+               her, for both play important parts in decisions as to the worth of stories and the
+               filmed product.</p>
+            <p>"I must necessarily write in dashes where authors employ sentences and paragraphs,"
+               said <persName key="ivers" ref="#writer">Miss Ivers</persName> discussing her method of writing. "I
+               cull and cut, where book writers must enlarge and pad."</p>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -140,11 +140,11 @@
             <head>Interview with Christina Jewett</head>
             <byline>Kate Reyen</byline>
 
-            <p><persName key="jewett">CHRISTINA JEWETT</persName>, maid for <persName key="faithMaclean">Mrs. MacLean</persName>
+            <p><persName key="jewett" ref="#servant" role="social">CHRISTINA JEWETT</persName>, maid for <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName>
                Statement taken 2-9-22 </p>
 
             <p>(Witness after explaining that she was waiting between the service of courses to the
-                  <persName key="macleans">MacLeans</persName>, states as follows) </p>
+                  <persName key="macleans" ref="#family" role="social">MacLeans</persName>, states as follows) </p>
 
             <p>JEWETT: While I was waiting there I heard <persName key="murderer">a man</persName> come from the
                   <placeName type= "street">corner</placeName> and go down in the <placeName type="passage">alley</placeName> and
@@ -168,37 +168,37 @@
                   <objectName type="furniture">table</objectName> and was going to take out the
                   <objectName type="decoration">tablecloth</objectName> was then I heard the shot. Yes, <time>in the
                morning</time>, the <time>next morning</time> * * * around the back in <placeName type="passage">the alley</placeName> *
-               * * I heard somebody coming behind me. I turned my head, I saw <persName key="howardFellows">Mr.
+               * * I heard somebody coming behind me. I turned my head, I saw <persName key="howardFellows" ref="#servant" role="business">Mr.
                   Taylor's man</persName> who drives <objectName type="vehicle">the machine</objectName> and he said "Good morning." He was
                in a great hurry and I thought well, he is late * * * because he is supposed to have
-               <objectName type="vehicle">the machine</objectName> out I guess before <time>8 o'clock</time> in front for <persName key="taylor">Mr.
+               <objectName type="vehicle">the machine</objectName> out I guess before <time>8 o'clock</time> in front for <persName key="taylor" ref="#director">Mr.
                   Taylor</persName> ** I guess just about <time>8 o'clock</time>. (Witness quoting
-                  <persName key="faithMaclean">Mrs. MacLean</persName>) She says "Come up stairs". I says "All right."
-               I come up stairs. She says "<persName key="taylor">Mr. Taylor</persName> was shot last night."
+                  <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName>) She says "Come up stairs". I says "All right."
+               I come up stairs. She says "<persName key="taylor" ref="#director">Mr. Taylor</persName> was shot last night."
                "Oh' I said "Was he, that is what I heard," and she said "Yes." I think I said to
-                  <persName key="faithMaclean">Mrs. MacLean</persName> "That is <persName key="murderer">the man</persName> I heard in <placeName type="passage">the
-                  alley</placeName>. POLICE: Are you sure <persName key="faithMaclean">Mrs. MacLean</persName> told you
+                  <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName> "That is <persName key="murderer">the man</persName> I heard in <placeName type="passage">the
+                  alley</placeName>. POLICE: Are you sure <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName> told you
                when you went up-there ‚Äì ‚Äì ‚Äî you say at <time>8 o'clock</time></p>
 
             <p>JEWETT: <time>In the morning</time>.</p>
 
-            <p>POLICE: Are you sure <persName key="faithMaclean">Mrs. MacLean</persName>told you at that time
-                  <persName key="taylor">Mr. Taylor</persName> had been shot? JEWETT: Yes.</p>
+            <p>POLICE: Are you sure <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName>told you at that time
+                  <persName key="taylor" ref="#director">Mr. Taylor</persName> had been shot? JEWETT: Yes.</p>
 
             <p>POLICE: What time of the day was that?</p>
 
             <p>JEWETT: <time>8 o'clock in the morning</time>.POLICE: Can you think of that remark
-                  <persName key="faithMaclean">Mrs. MacLean</persName> said "<persName key="taylor">Mr. Taylor</persName> is shot."
-               Didn't she say, "<persName key="taylor">Mr. Taylor</persName> is dead."</p>
+                  <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName> said "<persName key="taylor" ref="#director">Mr. Taylor</persName> is shot."
+               Didn't she say, "<persName key="taylor" ref="#director">Mr. Taylor</persName> is dead."</p>
 
-            <p>JEWETT: No, she said "<persName key="taylor">Mr. Taylor</persName> has been shot."</p>
+            <p>JEWETT: No, she said "<persName key="taylor" ref="#director">Mr. Taylor</persName> has been shot."</p>
 
 
 
-            <p><persName key="charlesMaclean">CHARLES DOUGLAS MacLEAN</persName>, Neighbor Statement taken
+            <p><persName key="charlesMaclean" ref="#actor" role="social">CHARLES DOUGLAS MacLEAN</persName>, Neighbor Statement taken
                   <date>2-9-22</date> at ten MACLEAN: M.</p>
 
-            <p>MACLEAN: I told the <persName key="law">officers</persName> what occurred the <eventName type="death">night
+            <p>MACLEAN: I told the <persName key="law" ref="#law_enforcement">officers</persName> what occurred the <eventName type="death">night
                   of the murder</eventName> * * I was late for <eventName type="meal">dinner</eventName>. I 'was
                5 minutes late. We had <eventName type="meal">dinner</eventName> at <time>7 o'clock</time>. I must have taken another 5
                minutes to get ready. We sat down I should judge <time>10 minutes after 7</time>. We
@@ -212,7 +212,7 @@
                and I went in the <placeName type="house">front room</placeName> and got my house
                   <objectName type="clothing">coat</objectName> and put it on and went into the <placeName type="house">bath
                   room</placeName> and detached the <objectName type="appliance">heater</objectName>, when I heard
-               the noise or explosion, it sounded like a shot. (Speaking of <persName key="taylor">Mr.
+               the noise or explosion, it sounded like a shot. (Speaking of <persName key="taylor" ref="#director">Mr.
                   Taylor's</persName> body on the morning of its discovery.)</p>
 
             <p>POLICE: What was the condition of the <objectName type="clothing">clothing</objectName>, if you know.
@@ -245,23 +245,23 @@
 
 
 
-            <p><persName key="faithMaclean">MRS. FAITH MACLEAN</persName>: neighbor Statement taken on <date>2-9-22</date> POLICE:
-               When did you first learn that <persName key="taylor">Mr. Taylor</persName> was dead? </p>
+            <p><persName key="faithMaclean" ref="#actor" role="social">MRS. FAITH MACLEAN</persName>: neighbor Statement taken on <date>2-9-22</date> POLICE:
+               When did you first learn that <persName key="taylor" ref="#director">Mr. Taylor</persName> was dead? </p>
 
             <p>MACLEAN: At <time>7:30</time>
                <date>Thursday morning</date>.</p>
 
             <p>POLICE: Who was it that brought it to your attention?</p>
 
-            <p>MACLEAN: <persName key="peavey">His colored servant</persName> came screaming out of
+            <p>MACLEAN: <persName key="peavey" ref="#servant" role="business">His colored servant</persName> came screaming out of
                   <placeName type="residence">the house</placeName>.</p>
 
             <p>POLICE: What did he say?</p>
 
-            <p>MACLEAN: "Help, <orgName type="law">Police</orgName>, <persName key="taylor">Mr. Taylor</persName> is
+            <p>MACLEAN: "Help, <orgName type="law" ref="#law_enforcement">Police</orgName>, <persName key="taylor" ref="#director">Mr. Taylor</persName> is
                dead."</p>
 
-            <p>POLICE: Did the fact that <persName key="taylor">Mr. Taylor</persName> was dead remind you of
+            <p>POLICE: Did the fact that <persName key="taylor" ref="#director">Mr. Taylor</persName> was dead remind you of
                anything that occurred <eventName type="murder">the night before</eventName> * did you hear a
                shot.</p>
 
@@ -311,11 +311,11 @@
             <p>POLICE: Did <persName key="murderer">he</persName> seem in a hurry?</p>
 
             <p>MACLEAN: No, <persName key="murderer">he</persName> was the coolest thing I have ever seen * * *. <persName key="murderer">He</persName> turned around and
-               looked at me and hesitated. Then it seems as if * * * that <persName key="taylor">Mr.
+               looked at me and hesitated. Then it seems as if * * * that <persName key="taylor" ref="#director">Mr.
                   Taylor</persName> must have spoken to <persName key="murderer">him</persName> from inside <placeName type="scene">the house</placeName> 
                *** <persName key="murderer">he</persName> thought he had spoken and he didn't. Seemed like <persName key="murderer">he</persName>
                pulled the <objectName type="passage">door</objectName> shut, then turned around and looking at me
-               all the time, walked down a couple of <objectName type="house">steps</objectName> that go up to <placeName key="taylor">Mr. Taylor's
+               all the time, walked down a couple of <objectName type="house">steps</objectName> that go up to <placeName key="taylor" ref="#director">Mr. Taylor's
                   house</placeName> there.</p>
             <p>POLICE: Do you know whether <persName key="murderer">the man</persName> that you saw went to <placeName type="location">Alvarado
                   St</placeName>. through the open court there?</p>
@@ -325,16 +325,16 @@
                because <persName key="murderer">he</persName> was facing that way ready to go when I closed the
                   <objectName type="passage">door</objectName>.</p>
 
-            <p>POLICE: You knew it wasn't <persName key="taylor">Taylor</persName>.</p>
+            <p>POLICE: You knew it wasn't <persName key="taylor" ref="#director">Taylor</persName>.</p>
 
-            <p>MACLEAN: Oh, I knew it wasn't <persName key="taylor">Taylor</persName>.</p>
+            <p>MACLEAN: Oh, I knew it wasn't <persName key="taylor" ref="#director">Taylor</persName>.</p>
 
-            <p>POLICE: Could you have recognized <persName key="murderer">the man</persName> 1f it had been <persName key="taylor">Mr.
+            <p>POLICE: Could you have recognized <persName key="murderer">the man</persName> 1f it had been <persName key="taylor" ref="#director">Mr.
                   Taylor</persName>.</p>
 
             <p>MACLEAN: Oh, yes, positively. </p>
 
-            <p>POLICE: Now, is it possible that it might have been this young man <persName key="howardFellows">Howard
+            <p>POLICE: Now, is it possible that it might have been this young man <persName key="howardFellows" ref="#servant" role="business">Howard
                   Fellows</persName>, the chauffeur, that you saw there. Could that be possible.</p>
 
             <p>MACLEAN: I suppose it could be possible but it doesn't seem to me that he was <persName key="murderer">the boy
@@ -365,13 +365,13 @@
 
             <p>MACLEAN: No, except it was a dark <objectName type="clothing">suit</objectName>.</p>
 
-            <p>POLICE: Now didn't compare in size with <persName key="smith">Mr. Smith</persName>,the
-                  reporter here, who is taking this statement? (<persName key="smith">Mr.
+            <p>POLICE: Now didn't compare in size with <persName key="smith" ref="#professional" role="unknown">Mr. Smith</persName>,the
+                  reporter here, who is taking this statement? (<persName key="smith" ref="#professional">Mr.
                   Smith</persName> was about <height>5' 7 1/2"</height>)</p>
 
-            <p>MACLEAN: No, <persName key="smith">Mr. Smith</persName> is shorter. (The witness names the
-               following men: <persName key="king">Mr. Henry King</persName>, <persName key="hamilton">Mr. Mahlon Hamilton</persName>, <persName key="hoyt">Mr. Arthur Hoyt</persName>, <persName key="berris">Mr. Berris</persName> (first
-               name Nigle?), <persName key="ince">Mr. Ince</persName>, <persName key="neilan">Mr. Marshal Neilan</persName>. Witness was then asked the following
+            <p>MACLEAN: No, <persName key="smith" ref="#professional" role="unknown">Mr. Smith</persName> is shorter. (The witness names the
+               following men: <persName key="king" ref="#professional" role="unknown">Mr. Henry King</persName>, <persName key="hamilton" ref="#professional" role="unknown">Mr. Mahlon Hamilton</persName>, <persName key="hoyt" ref="#professional" role="unknown">Mr. Arthur Hoyt</persName>, <persName key="berris" ref="#professional" role="unknown">Mr. Berris</persName> (first
+               name Nigle?), <persName key="ince" ref="#professional" role="unknown">Mr. Ince</persName>, <persName key="neilan" ref="#professional" role="unknown">Mr. Marshal Neilan</persName>. Witness was then asked the following
                questions)</p>
 
             <p>POLICE: Now then, tell me whether there is any possibility that <persName key="murderer">this man</persName> you saw
@@ -381,7 +381,7 @@
 
             <p>** when <persName key="murderer">he</persName> came out <persName key="murderer">he</persName> was dressed as my idea of a <objectName type="description">moving picture
                   burglar</objectName>**? ** because I remember thinking perhaps <persName key="murderer">he</persName> might have been
-               one of the boys in <persName key="taylor">Mr. Taylor's</persName> company when they go out on
+               one of the boys in <persName key="taylor" ref="#director">Mr. Taylor's</persName> company when they go out on
                location. MACLEAN: Not well dressed. I don't know as I would say slovenly but I don't
                think <persName key="murderer">he</persName> was well dressed.</p>
 

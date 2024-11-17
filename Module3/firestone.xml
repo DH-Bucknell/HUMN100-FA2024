@@ -138,7 +138,7 @@
       <body>
          <div type="interview">
             <head>Interview with Henry Peavey</head>
-            <byline>Firestone</byline>
+            <byline>Spencer Firestone</byline>
             <p> Coroner's Inquest Transcript The following is the transcript of the shorthand notes
                taken at the Coroner's inquest held on the body of William Desmond Taylor at Ivy H.
                Overholtzer [Mortuary] at Los Angeles, California on the 4th day of February, 1922 at
@@ -147,7 +147,7 @@
 
             <p>NANCE: Please state your name.</p>
 
-            <p>PEAVEY: <persName key="peavey">Henry Peavey</persName>.</p>
+            <p>PEAVEY: <persName key="peavey" ref="#servant">Henry Peavey</persName>.</p>
 
             <p>NANCE: Where do you live?</p>
 
@@ -157,20 +157,20 @@
 
             <p>PEAVEY: Cook and valet.</p>
 
-            <p>NANCE: <persName key="peavey">Mr. Peavey</persName>, were you employed by <persName key="taylor">Mr.
-                  Taylor</persName>, <persName key="taylor">the deceased</persName> in this case? </p>
+            <p>NANCE: <persName key="peavey" ref="#servant">Mr. Peavey</persName>, were you employed by <persName key="taylor" ref="#director">Mr.
+               Taylor</persName>, <persName key="taylor" ref="#director">the deceased</persName> in this case? </p>
 
             <p>PEAVEY: Sir?</p>
 
-            <p>NANCE: Were you employed by <persName key="taylor">the dead man</persName> in the case?</p>
+            <p>NANCE: Were you employed by <persName key="taylor" ref="#director">the dead man</persName> in the case?</p>
 
             <p>PEAVEY: Yes,sir.</p>
 
-            <p>NANCE: How long have you been working for <persName key="taylor">him</persName>?</p>
+            <p>NANCE: How long have you been working for <persName key="taylor" ref="#director">him</persName>?</p>
 
             <p>PEAVEY: <time>About six months</time>.</p>
 
-            <p>NANCE: Were you in the <placeName type="residence">house</placeName> on <time>the evening when <persName key="taylor">he</persName>
+            <p>NANCE: Were you in the <placeName type="residence">house</placeName> on <time>the evening when <persName key="taylor" ref="#director">he</persName>
                   was found dead</time> there?</p>
 
             <p>PEAVEY: Yes, sir.</p>
@@ -180,10 +180,10 @@
             <p>PEAVEY: I figured it was about <time>a quarter past [seven]</time> that I left the
                   <placeName type="residence">house</placeName>.</p>
 
-            <p>NANCE: Where was <persName key="taylor">he</persName> when you left?</p>
+            <p>NANCE: Where was <persName key="taylor" ref="#director">he</persName> when you left?</p>
 
-            <p>PEAVEY: <persName key="taylor">He</persName> was sitting in a <objectName type="furniture">chair</objectName> facing ust to the
-               [illegible] now, and <persName key="normand">Miss Normand</persName> was sitting in a <objectName type="furniture">chair</objectName>
+            <p>PEAVEY: <persName key="taylor" ref="#director">He</persName> was sitting in a <objectName type="furniture">chair</objectName> facing ust to the
+               [illegible] now, and <persName key="normand" ref="#actor">Miss Normand</persName> was sitting in a <objectName type="furniture">chair</objectName>
                just the same. They were discussing <objectName type="posession">a red-backed book</objectName>.</p>
 
             <p>NANCE: In what part of the <placeName type="residence">house</placeName> were they?</p>
@@ -227,7 +227,7 @@
             <p>PEAVEY: No, sir. I always turn it in the <objectName type="passage">door</objectName> and leave it
                just as it is.</p>
 
-            <p>NANCE: Now, when did you next see <persName key="taylor">Mr. Taylor</persName>?</p>
+            <p>NANCE: Now, when did you next see <persName key="taylor" ref="#director">Mr. Taylor</persName>?</p>
 
             <p>PEAVEY: The <time>next morning</time>, when I went to work.</p>
 
@@ -248,10 +248,10 @@
             <p>PEAVEY. <eventName type="action">I picked up the paper</eventName> first; <eventName type="action">I stopped in a
                   drug store</eventName> at the <placeName type="address">corner of 5th and Los Angeles</placeName>
                to get a <objectName type="medicine">bottle of medicine</objectName> - <objectName type="medicine">milk of
-                  magnesia</objectName>, <persName key="taylor">he</persName> usually takes that every morning; <eventName type="action">I bought
+                  magnesia</objectName>, <persName key="taylor" ref="#director">he</persName> usually takes that every morning; <eventName type="action">I bought
                   that</eventName> on my way out. <eventName type="action">I picked up the paper and unlocked the
                   door</eventName>. The first thing I saw was his feet. <eventName>I looked at his
-                  feet a few minutes and said, "<persName key="taylor">Mr. Taylor</persName>." <persName key="taylor">He</persName> never moved. I
+                     feet a few minutes and said, "<persName key="taylor" ref="#director">Mr. Taylor</persName>." <persName key="taylor" ref="#director">He</persName> never moved. I
                   stepped a little further in the <objectName>door</objectName>, and seen his
                      <objectName type="bodyPart">face</objectName>, and turned and ran out and
                hollered</eventName>.</p>
@@ -266,62 +266,62 @@
 
             <p>NANCE: Several people came, did they?</p>
 
-            <p>PEAVEY: Yes, sir. I think <persName key="taylor">Mr. Desmond [sic]</persName>, and the
-                  <persName key="jessurun">gentleman</persName> who owns <placeName type="neighborhood">the court</placeName> was the
+            <p>PEAVEY: Yes, sir. I think <persName key="taylor" ref="#director">Mr. Desmond [sic]</persName>, and the
+                  <persName key="jessurun" ref='#professional'>gentleman</persName> who owns <placeName type="neighborhood">the court</placeName> was the
                first.</p>
 
-            <p>NANCE: You mean <persName key="jessurun">Mr. Jessurun</persName>?</p>
+            <p>NANCE: You mean <persName key="jessurun" ref="#professional">Mr. Jessurun</persName>?</p>
 
             <p>PEAVEY: Yes, sir.</p>
 
             <p>NANCE: Who else came?</p>
 
             <p>PEAVEY: And Mr. - you see, I don't know their names - I just seen them - the two
-               gentlemens next door, <persName key="dougMaclean">Mr. MacLean</persName> and Mr. - I can't
-                  think of the other gentleman's name - right next door to us [<persName key="maigne">Charles
+               gentlemens next door, <persName key="dougMaclean" ref="#actor">Mr. MacLean</persName> and Mr. - I can't
+                  think of the other gentleman's name - right next door to us [<persName key="maigne" ref="#director">Charles
                Maigne]</persName>.</p>
 
-            <p>NANCE: You didn't come back there after you had gone away, when <persName key="normand">Miss Normand</persName> was
-               there with <persName key="taylor">Mr. Taylor</persName>?</p>
+            <p>NANCE: You didn't come back there after you had gone away, when <persName key="normand" ref="#actor">Miss Normand</persName> was
+               there with <persName key="taylor" ref="#director">Mr. Taylor</persName>?</p>
 
             <p>PEAVEY: No, sir.</p>
 
             <p>NANCE: When you went out, was anybody around <placeName type="residence">the place</placeName>? </p>
 
-            <p>PEAVEY: Only <persName key="normand's chauffer">Miss Normand's chauffeur</persName>; <persName key="normand's chauffeur">he</persName> had <persName key="normand's chauffer">his</persName> <objectName type="lighting">lights</objectName> all on inside the <objectName type="vehicle">limousine</objectName>,
-               cleaning it. <eventName type="action">I hit <persName key="normand's chauffer">him</persName> on the back and stopped and talked to <persName key="normand's chauffer">him</persName> <time>a few minutes</time></eventName>.</p>
+            <p>PEAVEY: Only <persName key="normand's chauffer" ref="#servant">Miss Normand's chauffeur</persName>; <persName key="normand's chauffeur" ref="#servant">he</persName> had <persName key="normand's chauffer" ref="#servant">his</persName> <objectName type="lighting">lights</objectName> all on inside the <objectName type="vehicle">limousine</objectName>,
+               cleaning it. <eventName type="action">I hit <persName key="normand's chauffer" ref="#servant">him</persName> on the back and stopped and talked to <persName key="normand's chauffer" ref="#servant">him</persName> <time>a few minutes</time></eventName>.</p>
 
             <p>NANCE: When you <time>first opened the door</time>, did you see any furniture overturned, or any
                sign of a disturbance in the house?</p>
 
             <p>PEAVEY: Nothing more than a <objectName type="furniture">chair</objectName> that was sitting next to the wall had been pushed
-               out a little bit and <persName key="taylor">his</persName> <objectName type="bodyPart">feet</objectName> was under this <objectName type="furniture">chair</objectName>. The rest of the <objectName type="furniture">furniture</objectName> around
+               out a little bit and <persName key="taylor" ref="#director">his</persName> <objectName type="bodyPart">feet</objectName> was under this <objectName type="furniture">chair</objectName>. The rest of the <objectName type="furniture">furniture</objectName> around
                the <placeName type="residence">house</placeName> and <placeName type="house">room upstairs</placeName> was just as I left them when I went away that
                evening.</p>
 
-            <p>NANCE: And did you notice whether anything had been taken off of <persName key="taylor">his</persName> <objectName type="bodyPart">body</objectName>, or not -
+            <p>NANCE: And did you notice whether anything had been taken off of <persName key="taylor" ref="#director">his</persName> <objectName type="bodyPart">body</objectName>, or not -
                any <objectName type="posession">jewelry</objectName>?</p>
 
-            <p>PEAVEY: I didn't notice that; I didn't touch <persName key="taylor">him</persName> at all.</p>
+            <p>PEAVEY: I didn't notice that; I didn't touch <persName key="taylor" ref="#director">him</persName> at all.</p>
 
-            <p> NANCE: Do you know whether <persName key="taylor">he</persName> wore any valuable <objectName type="posession">jewelry</objectName>?</p>
+            <p> NANCE: Do you know whether <persName key="taylor" ref="#director">he</persName> wore any valuable <objectName type="posession">jewelry</objectName>?</p>
 
-            <p>PEAVEY: Yes sir, <persName key="taylor">he</persName> had a <objectName type="posession">wrist watch</objectName> and another<objectName type="posession"> watch</objectName> with a lot of little trinkets
+            <p>PEAVEY: Yes sir, <persName key="taylor" ref="#director">he</persName> had a <objectName type="posession">wrist watch</objectName> and another<objectName type="posession"> watch</objectName> with a lot of little trinkets
                on; and a <objectName type="posession">thing</objectName> you stamp <objectName type="money">checks</objectName> with to keep anybody from making the <objectName type="money">checks</objectName> any big-
                ger, and a <objectName type="posession">lead pencil</objectName>.</p>
 
-            <p>NANCE: Did <persName key="taylor">he</persName> have a <objectName type="posession">diamond ring</objectName>?</p>
+            <p>NANCE: Did <persName key="taylor" ref="#director">he</persName> have a <objectName type="posession">diamond ring</objectName>?</p>
 
-            <p>PEAVEY: Yes sir, <persName key="taylor">he</persName> had a large <objectName type="posession">diamond ring</objectName> that <persName key="taylor">he</persName> wore.</p>
+            <p>PEAVEY: Yes sir, <persName key="taylor" ref="#director">he</persName> had a large <objectName type="posession">diamond ring</objectName> that <persName key="taylor" ref="#director">he</persName> wore.</p>
 
-            <p>NANCE: Do you know whether <persName key="taylor">he</persName> had it on that <time>evening</time>?,</p>
+            <p>NANCE: Do you know whether <persName key="taylor" ref="#director">he</persName> had it on that <time>evening</time>?,</p>
 
-            <p>PEAVEY: Yes sir, <persName key="taylor">he</persName> was dressed just as when I went <time>that evening</time>, as I found <persName key="taylor">him</persName> the
+            <p>PEAVEY: Yes sir, <persName key="taylor" ref="#director">he</persName> was dressed just as when I went <time>that evening</time>, as I found <persName key="taylor" ref="#director">him</persName> the
                next morning.</p>
 
             <p>NANCE: Was the <objectName type="posession">ring</objectName> on his <objectName type="bodyPart">finger</objectName> the <time>next morning</time>?</p>
 
-            <p>PEAVEY: Yes sir, <persName key="taylor">his</persName> other <objectName type="posession">jewelry</objectName> that I had put away <time>the night before</time> was just as I
+            <p>PEAVEY: Yes sir, <persName key="taylor" ref="#director">his</persName> other <objectName type="posession">jewelry</objectName> that I had put away <time>the night before</time> was just as I
                had put it away up in the <objectName type="furniture">dresser drawer</objectName>.</p>
 
             <p>NANCE: You didn't find anything taken from the <placeName type="residence">apartment</placeName>?</p>
@@ -338,7 +338,7 @@
             <p>NANCE: By a juror: Were any of the <objectName type="decoration">windows</objectName> up at night?</p>
 
             <p>PEAVEY: No sir, we had those little long <objectName type="decoration">pins</objectName> that runs in the <objectName type="passage">windows</objectName>. The <objectName type="passage">windows</objectName>
-               <placeName type="wing">upstairs</placeName> in <persName key="taylor">his</persName> <placeName type="house">bedroom</placeName> were up. The <objectName type="passage">windows</objectName> downstairs I always locked with this peg
+               <placeName type="wing">upstairs</placeName> in <persName key="taylor" ref="#director">his</persName> <placeName type="house">bedroom</placeName> were up. The <objectName type="passage">windows</objectName> downstairs I always locked with this peg
                that slipped in the <objectName type="passage">window</objectName>.</p>
 
             <p>NANCE: Were they still that way in the <time>morning</time>?</p>

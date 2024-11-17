@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+
+            <head>STATEMENT OF MISS MARY MILES MINTER. G.H BOONE OFFICIAL REPORTER IN THE DISTRICT
+               ATTORNEY'S OFFICE, February 7, 1922, at five o'clock P.M. [Section 1] </head>
+
+            <head>PRESENT: <persName key="doran" ref="#law_enforcement" role="investigator">Mr. W.C.
+                  Doran,</persName> Deputy District Attorney, <persName key="minter" ref="#actor"
+                  role="business romantic">Miss Mary Miles Minter,</persName>
+               <persName key="mott" ref="#legal" role="investigator">John G. Mott,</persName>
+               attorney for Miss Minter, and <persName key="boone" ref="#law_enforcement"
+                  role="business">G. H. Boone,</persName> shorthand reporter.</head>
+            <div type="section" n="1">
+
+               <byline resp="editor">Section #1 edited by Waina A</byline>
+
+               <p>Questions by <persName key="doran" ref="#law_enforcement" role="investigator">Mr.
+                     Doran</persName>: </p>
+
+               <p> DORAN: How long have you known <persName key="taylor">Mr taylor</persName>?</p>
+
+               <p>MINTER: Since <date when="1919-07">July of 1919</date> -- yes, that is correct. </p>
+
+               <p> DORAN: He has been your director in pictures, has he? </p>
+
+               <p> MINTER: Yes we commenced this <orgName type="company">company</orgName> together. </p>
+
+               <p> DORAN: Did you have occasion to call on him at <placeName type="residence">his
+                     residence</placeName> within <date type="month"> the last thirty days</date>
+                  prior to his death? -- approximately <date type="month"> thirty days?</date>
+               </p>
+
+               <p> MINTER: Just a moment, will you --</p>
+
+               <p> DORAN: Let me change the question. When was the last time you called on him at
+                     <placeName type="taylorshouse">his residence</placeName>? </p>
+
+               <p> MINTER: On the <date type="murderday">23rd of December.</date>
+               </p>
+               <p>DORAN: Were you alone at that time or did others accompany you to see him? </p>
+
+               <p> MINTER: I was alone. </p>
+
+               <p> DORAN: Was any one else there?</p>
+
+               <p>MINTER: no, not a soul. </p>
+
+               <p>DORAN: Was <persName key="Sands" ref="#servant" role="employee">his
+                     valet</persName>, the colored man, there, do you know?</p>
+
+               <p>MINTER: Not that I know of. </p>
+
+               <p> DORAN: Prior to that time, was it your habit to call on him at his residence or
+                  had it been your habit?</p>
+
+               <p>MINTER: I couldn't call it a habit, but <date type="severaloccasions">on several
+                     occasions</date> I did call upon him, though never as·1ate as upon this
+                  occasion.</p>
+
+               <p>DORAN: Now, on this last occasion, whet time of the day or night was it that you
+                  called? </p>
+
+               <p>MINTER: May l tell this in my own way? </p>
+
+               <p>DORAN: Yes, I would rather have you tell it in your own way, if you will.</p>
+
+               <p> MINTER: I am glad to. I am trying to answer as I would in court and 1 don't like
+                  to do so. </p>
+
+               <p> DORAN: Just proceed, go ahead and tell it in your own way.</p>
+
+               <p>MINTER: I had gone to <objectName type="furniture">bed</objectName>; I hadn't seen
+                     <persName key="taylor">Mr taylor</persName> in <date type="fivemonthsago">five
+                     months</date> at the time -- <date>three months,</date> I know; three months,
+                  and I just got to thinking about it and I decided I couldn't stand it any longer.
+                  I was going to go up and tell him "goodbye. I got up and dressed, went down to my
+                     <placeName type="house">grandmother's room</placeName> and I said, <persName
+                     key="cshelby">"Mama,</persName> I am going over to say 'goodbye' to Mr taylor,"
+                  and she advised me not to do it. She said it was too late: "Do you know it is
+                  nearly <time type="12oclock">twelve o'clock?</time>" she said. I said, "Yes, sure,
+                  but I just must do so," I said, "I realize that this is not the usual thing and I
+                  have never been there so late, but I must do so, Mama. I am going to give him a
+                     <objectName type="letter">letter</objectName> in whioh I have told him
+                  'goodbye,"' She said, "All right, then, if you must. I would get up and go with
+                  you, but I don't feel well enough," Mama often accompanied me on <eventName
+                     type="Mary'strips">my trips</eventName>, which were not very many during the
+                  entire time that i knew him. So I went over there and arrived at <time
+                     type="11:55">five minutes to twelve</time>, I am strange about that, I am
+                  rather queer about that, I think of the time; every time I was with him I would
+                  say, "Well, this time yesterday I didn't see him and today I am with him," and
+                  things like that. So I <time>arrived at five minutes to twelve</time> and left at
+                     t<time type="12:40">twenty minutes to one</time>, and-- Do you wish me to tell
+                  you all that transpired? </p>
+               <p> DORAN: Never mind about that. </p>
+
+               <p> DORAN: Your <persName key="grandmother" ref="family" role="family"
+                     >grandmother</persName> didn't accompany you?</p>
+
+               <p> MINTER: No, she did not. </p>
+
+               <p>DORAN: Your <persName key="chaffeur" ref="#servant" role="business"
+                     >chauffeur</persName> drove you there? </p>
+
+               <p>MINTER: No, I drove myself in my little <objectName type="car">car</objectName>,
+                  little run-about.</p>
+
+               <p> DORAN: That was <date type="Dec23rd">December 23d</date>? </p>
+
+               <p> MINTER: Yes,<date> December 23rd.</date></p>
+
+               <p> DORAN: When was the last time you saw him prior to that? </p>
+
+               <p> MINTER: I couldn't give you the exact date, but I know it was at <date>least
+                     three months and a little over; it was over three months.</date></p>
+
+               <p>DORAN: During the three months prior to December 23d, did you ever meet him
+                  anywhere.</p>
+
+               <p> MINTER: No. You mean casually or see him really to talk to? I saw him, yes. </p>
+
+               <p>DORAN: See him and meet him, to be with him? </p>
+               <p>MINTER: No; no, indeed. I passed him at <placeName type="studio"> Lasky Studio
+                  </placeName> when I go over there. Sometimes I have seen <objectName
+                     type="vehicle">his car</objectName> go down <placeName type="street"> Western
+                     Avenue,</placeName> but I hadn't seen him to speak to in <date
+                     type="threemonthsago">three months</date>.</p>
+
+               <p> DORAN: As I understand it, you were sincerely in love with him?</p>
+
+               <p> MINTER: That is true.</p>
+
+               <p> DORAN: Did you convey that feeling to him?</p>
+
+               <p>MINTER: Absolutely.</p>
+
+               <p> DORAN: You told him, did you?</p>
+
+               <p>MINTER: Absolutely. He loved me; he told me so.</p>
+
+               <p>DORAN: Were you engaged to be married?</p>
+
+               <p>MINTER: No, we were not.</p>
+
+               <p> DORAN: <eventName type="timeofdeath">At the time of his death</eventName>, it was
+                  --</p>
+
+               <p> MR. MOTT: Right there at that point you might explain about the rising sun, with
+                  reference to your engagement. I think that explains the attitude between both of
+                  you. </p>
+
+               <p>MINTER: I don't know just which to do, whether to tell you this whole thing, go
+                  right along and talk. I can easily do that. </p>
+
+               <p>MR. MOTT: He asked if you were engaged to him. Tell him about the "rising sun"
+                  explanation. </p>
+
+               <p> MINTER: I can tell you the whole thing better without being asked.</p>
+
+               <p> MR. DORAN: Yes. Go ahead. and tell us in your own way all about it.</p>
+
+               <p> MINTER: I had always known that this was just<eventName> an exquisite chapter in
+                     my life</eventName> that must necessarily be a brief one: I couldn't bear to
+                  part with it; it was just a beautiful thing that seldom occurs in the. world today
+                  as I see it, as it is forced upon me. It as simply a beautiful white flame; I met
+                     <persName key="taylor">him</persName>; I had always been a <persName>reserved,
+                     very retiring young girl</persName>, and he was the first man and the only man
+                  who ever embodied all the glories of manhood in one private body. He represented
+                  that to me. He never by look, by word or by deed gave me any reason to doubt any
+                  of my ideals that were placed in him absolutely. At the time our love first
+                  formulated he said to me, "Mary, this is not right. You are May and I am December,
+                  and this is not right. I know it is best that we must part." This was at the very
+                  beginning of it, and I said, "Of course, I don't want to do any immodest or bold
+                  thing; I couldn't try to withhold a person's love for me who didn't care for me.""
+                  I said, "I know that you are many years older than I, but I couldn't love anybody
+                  as I love you. I simply love you. And we did try to part, We tried it again and
+                  again, and then he would beoome ill. At one time I had almost resolved to see him
+                  no more, and he was taken ill and nobody else cared, [page 6] really cared whether
+                  he ate his <objectName>dinner</objectName> or whether he dressed warm1y enough,
+                  whether he took care of himself, and I couldn't bear for him to suffer. It was not
+                  only a love of sweetheart, but I wanted to be his nurse. I wanted to hold his head
+                  when it was aching. I wanted him to tell me his mental troubles, his heart
+                  troubles, and let me soothe them away for him as I would for a little child. I
+                  forgot the man's age; it meant nothing to me. The only thing I wanted was to serve
+                  him as I would have served the Lord or a little child, and then it just passed
+                  away; for months at a time I wouldn't see him and I didn't know why. Finally, I
+                  decided there was no use; it must come to an end and I went there on the night of
+                  the 23d to give him this letter telling him "goodbye." I had reason to believe, in
+                  the awful vernacular of the day, that it was over anyway, but I went there to say
+                  "goodbye" myself. He said, "It is rather late, isn't it, Mary?" when he opened the
+                  door. I said, "Yes, but don't you realize that I had to come to see you? You know
+                  Mama has been sick for three months and you have been ill and I have been
+                  frightfully worried and you haven't even had the kindness to call me to tell me
+                  that you were i11 and that I must not expect to see you to tell mo that things are
+                  all right." </p>
+
+               <p> I said, "I don't care if you don't wish to see me, because it hurts me, but it
+                  wouldn't have hurt one-millionth as much if you had just explained to me and not
+                  leave me in the dark." He said, "Mary, I couldn't help it; I couldn't help it and
+                  I can't explain it to you." Oh, I don't know! I have told this thing so many
+                  times, Mr Doran, that the words just - I can't tell it even as it is; I can't even
+                  express it to you as it really is. There is so much more to it.</p>
+               <p> </p>
+               <p>MR DORAN: At that time, on <date type="Dec23rd">December 23d,</date> let's see, he
+                  was killed on <date ref="Feb1st">February 1st</date>. Who was directing you then? </p>
+               <p>MINTER: Why, no one was. I had finished a picture.</p>
+
+               <p> DORAN: Who directed the last one?</p>
+            </div>
+
+            <div type="section" n="2">
+               <byline resp="editor">Section #2 edited by Jada Alvarez</byline>
+               <p>MINTER: My last director was <persName key="urson" ref="#director" role="business"
+                     >Frank Urson</persName>. <persName key="taylor" ref="#director">Mr.
+                     Taylor</persName> so often, often made the remark to me that he wished tbat he
+                  were younger; he wanted to be younger. We undoubtedly would have been married
+                  today bnd he been younger. <persName key="taylor" ref="#director">He</persName>
+                  explained our not. being engaged in that way. I knew we never could be married; I
+                  also knew I never would love for another human being in the way I cared for him.
+                  So he would say, "You know, <persName key="minter" ref="#actor" role="romantic"
+                     >Mary</persName>, to me you are the morning sun, bright, beaut1ful, and with
+                  the world and a futune before you, and I am the setting sun, and don't you see, my
+                  dear, it simply cannot be. I hope tbat doesn't give you the impression that I
+                  begged him to marry me. I never did in my life. I couldn't do that. I never even
+                  called him <persName key="taylor" ref="#director">"Billie"</persName> in my life.
+                  The man was too wonderful for that. He was wonderful. I don't care what anybody
+                  says or what they prove against him. I knew him as the finest thing in the world. </p>
+
+               <p> MR MOTT: <persName key="taylor" ref="#director">He</persName> as the embodyment
+                  of your ideal? </p>
+
+               <p>MINTER: Yes, and I can aay now that I can't truthfully -- I don't know any of
+                  those ugly things which have been aaid about him. I never found him so. He was
+                  glorious to me. </p>
+
+               <p> MR DORAN: I read in the <objectName type="document">paper</objectName> where you
+                  had been <eventName type="major">engaged</eventName> to some other man.</p>
+
+               <p>MINTER: To <persName key="dickson" ref="#professional" role="uknown">Mr
+                     Dickson</persName>. That is not entirely true.</p>
+
+               <p>DORAN: What is his first name?</p>
+
+               <p> MINTER: <persName key="dickson" ref="#professional" role="uknown">Thomas
+                     Dickson</persName>.</p>
+
+               <p>DORAN: Someone besides him, a director in the movies.</p>
+
+               <p>MINTER: <persName key="neilan" ref="#director" role="business">Marshall
+                     Neilan</persName>, <eventName type="major">engaged</eventName> to him?</p>
+
+               <p>DORAN: Yes, <persName key="neilan" ref="#director" role="business">Marshall
+                     Neilan</persName>. Didn't I read in the <objectName type="document"
+                     >papers</objectName> that you had been engaged to him and the <eventName
+                     type="major">engagement</eventName> had been broken off? </p>
+
+               <p>MINTER: That is not true. <persName key="dickson" ref="#professional"
+                     role="uknown">Mr Dickson</persName> is the only one to whom I have been even
+                  remotely engaged, and that was a freak of despondency.</p>
+
+               <p>DORAN: What about <persName key="neilan" ref="#director" role="business">Marshall
+                     Neilan</persName>? Were you engaged to him?</p>
+
+               <p>MINTER: No.</p>
+
+               <p>DORAN: Had you been going with <persName key="neilan" ref="#director"
+                     role="business">Marshall Neilan</persName> during, say the last <date>thirty or
+                     sixty days prior</date> to <persName key="taylor">Taylor's</persName>
+                  death?</p>
+
+               <p>MINTER: Going with <persName key="taylor" ref="#director">him</persName>?</p>
+
+               <p>DORAN: Had you been out anywhere with <persName key="taylor" ref="#director"
+                     >him</persName>? </p>
+
+               <p>MINTER: Yes; he had been to see me; I had been out with <persName key="taylor"
+                     ref="#director">him</persName>; I am not sure whether it was within the
+                     <date>thirty days</date> or not, but in the <date>last two months</date>, yes
+                  sir; but going with him no more than I had for years off and on. <persName
+                     key="neilan" ref="#director" role="business">Mr Neilan's</persName> traits
+                  [page 9] are well known; he comes to see you, and we are always glad to receive
+                  him, but we never know how long he is going to stay with us or how long he was
+                  going to stay with this one or that one. He flits here and there like a swallow.
+                  We are all charmed with his personality, but don't take him seriously. </p>
+               <p>DORAN: Has <persName key="taylor" ref="#director">he</persName> proposed to
+                  you?</p>
+
+               <p>MINTER: Must I answer that? Yes, he did.</p>
+
+               <p>DORAN: Do you recall approximately when it was?</p>
+
+               <p>MINTER: About <date>two months ago</date>.</p>
+
+               <p>DORAN: That would take it to <date>December 1st</date>, approximately or in the
+                  middle of December?</p>
+
+               <p>MINTER: Well, I think it was after that, Yes -- No, let me see, <date>December
+                     1st</date> -- I wish I could tell you.</p>
+
+               <p>DORAN: With keyerence to this <date>December 23d</date> that you called on
+                     <persName key="taylor" ref="#director">Taylor</persName>, when was it?</p>
+
+               <p>MINTER: It as before the <date>1st of December</date>, I think.</p>
+
+               <p>DORAN: Q. Before the <date>1st of December</date>?</p>
+
+               <p>MINTER: Yes; about the <date>last of November</date>. </p>
+
+               <p>DORAN: And you, of course, rejected im, I suppose?</p>
+
+               <p>MINTER: Yes; that is, I didn't exactly say, "No, I will not marry you." I didn't
+                  take him seriously. I joked with <persName key="taylor" ref="#director"
+                     >him</persName> at the time.</p>
+
+               <p>DORAN: Did <persName key="taylor" ref="#director">he</persName> seem to be
+                  serious?</p>
+
+               <p>MINTER: You never know. I couldn't say whether ee was serious or not. I thought
+                  possibly he was joking, or had a few <objectName type="consumable"
+                     >cocktails</objectName>.</p>
+
+               <p>DORAN: How many times after that did <persName key="taylor" ref="#director"
+                     >he</persName> mention the subject to you?</p>
+
+               <p>MINTER: He didn't mention the subject. "May I marry you" again; he didn't say
+                  that, but he has been on very friendly terms with me and then suddenly go away to
+                     <placeName type="city">San Francisco</placeName>. and I wouldn't hear from him
+                  and I would remark, "Isn't that just like <persName key="neilan" ref="#director"
+                     role="business">Marshall?</persName>" and thought no more of it. </p>
+               <p>DORAN: Well, but along toward the last <date>thirty days</date> prior to <persName
+                     key="taylor" ref="#director">Taylor's</persName>
+                  <eventName type="major">death</eventName>, he seemed to be quite devoted to you,
+                  did <persName key="taylor" ref="#director">he</persName> not?</p>
+
+               <p>MINTER: No; I can't really say that he did. As for being with him, wasn't with
+                     <persName key="taylor" ref="#director">him</persName> very much.</p>
+
+               <p>DORAN: Didn't you observe in him some jealousy?</p>
+
+               <p>MINTER: Oh, no; No, I can't say that. He was not jealous of me. He is the least
+                  jealous man I ever met. He takes life too much -- </p>
+               <p>DORAN: Did <persName key="taylor" ref="#director">he</persName> ever say anything
+                  to you about <persName key="taylor" ref="#director">Taylor</persName>?</p>
+
+               <p>MINTER: Yes, we have discussed him many times; he loved him. <persName
+                     key="neilan" ref="#director" role="business">Marshall Neilan</persName> loved
+                     <persName key="taylor" ref="#director">Mr Taylor</persName>.</p>
+
+               <p>DORAN: Did he ever bring any tales to you for which <persName key="taylor"
+                     ref="#director">Taylor</persName> was supposed to have been responsible!</p>
+
+               <p>MINTER: Not until recently.</p>
+
+               <p>DORAN: When was that?</p>
+
+               <p>MINTER: <date>Last Friday night</date>; whereupon we had a severe quarrel. I
+                  didn't believe him.</p>
+
+               <p>DORAN: <date>Friday night</date>
+                  <time>after</time> the <eventName type="major">killing</eventName>?</p>
+
+               <p>MINTER: Yes.</p>
+
+               <p>DORAN: Or <time>before</time> the <eventName type="major">killing</eventName>?</p>
+
+               <p>MINTER: No; after.</p>
+
+               <p>DORAN: Did he ever say anything like that to you <time>before</time> the
+                     <eventName type="major">killing</eventName>?</p>
+
+               <p>MINTER: No, indeed he did not; he knew that I loved <persName key="taylor"
+                     ref="#director">Mr Taylor</persName> and he had known it.</p>
+
+               <p>DORAN: Did he ever comment on that relation between you and <persName key="taylor"
+                     ref="#director">Taylor</persName>?</p>
+
+               <p>MINTER: No, <persName key="taylor" ref="#director">he</persName> did not; I
+                  wouldn't have permitted him to; and I didn't comment on his.</p>
+
+               <p>DORAN: I will use the word "quarrel," but that may be exaggerated; did you ever
+                     <eventName type="fight">quarrel</eventName> with <persName key="neilan"
+                     ref="#director" role="business">Neilan</persName> over <persName key="taylor"
+                     ref="#director">Taylor</persName>? </p>
+               <p>MINTER: Absolutely not; absolutely not. <persName key="neilan" ref="#director"
+                     role="business">Marshall</persName> is the typification of the happy-go-lucky
+                  Irish spirit and tempera­ment. <persName key="taylor" ref="#director"
+                     >He</persName> does perfectly terrible things to everybody, but everybody loves
+                  him. They are always glad to see him again. As to harboring any deep-seated
+                  malice, I don't believe <persName key="taylor" ref="#director">he</persName> is
+                  capable of it. </p>
+               <p>DORAN: Could he have assumed at any time you and <persName key="taylor"
+                     ref="#director">he</persName>, you and <persName key="neilan" ref="#director"
+                     >Marshall Neilan</persName> -- I am speaking of <persName key="neilan"
+                     ref="#director" role="business">Marshall Neilan</persName> now -- Could he have
+                  assumed at any time that <persName key="taylor" ref="#director">he</persName>
+                  might be or was engaged to you by reason of your relations wtth him? </p>
+               <p>MINTER: Could <persName key="neilan" ref="#director" role="business">Marshall
+                     Neilan</persName> have assumed that <persName key="taylor" ref="#director">Mr
+                     Taylor</persName> and I were engaged?</p>
+
+               <p>DORAN: No, no; that you and <persName key="neilan" ref="#director" role="business"
+                     >Marshall Neilan</persName> were enqaged?</p>
+
+               <p>MINTER: No.</p>
+
+               <p>DORAN: Did you ever give <persName key="taylor" ref="#director">him</persName> the
+                  impression that he might some day be successful in his effort to marry you?</p>
+
+               <p>MINTER: Not in my own knowledge. If I have, it was more or less of a joking way. I
+                  think I have at times said, "Well, <persName key="neilan" ref="#director"
+                     role="business">Marshall</persName>, when are we going all around the world on
+                  our honey-moon?" exactly in the same manner as I took him to say, "Now, when you
+                  are my wedded bride we will do" so-and­-so. <persName key="neilan" ref="#director"
+                     role="business">Marshall</persName> has done that time after time. </p>
+               <p>DORAN: Might he not have taken you seriously? </p>
+
+               <p>MINTER: I don't think so.</p>
+
+               <p>DORAN: Do you know <persName key="taylor" ref="#director">he</persName> did
+                  not?</p>
+
+               <p>MINTER: No, I don't know that <persName key="taylor" ref="#director">he</persName>
+                  did not.</p>
+
+               <p>DORAN: Don't you know that <persName key="taylor" ref="#director">he</persName>
+                  was really -- Don't you feel that <persName key="taylor" ref="#director"
+                     >he</persName> was really in love with you?</p>
+
+               <p>MINTER: I can't truthfully answer "Yes" or "no" to that, beoause I don't know; I
+                  am not sure enough of <persName key="neilan" ref="#director" role="business">Mr
+                     Neilan's</persName> nature. While I have known him a great many years, well, I
+                  will say I have known him <date>several years</date>, he is the type who flits
+                  back and forth, you know. - When you really think you know him he turns to
+                  something else, and I don't know, so I have never permitted myself to form any
+                  conclusions on his character; I don't know whether he has ever taken me seriously
+                  or not. I always treated <persName key="taylor" ref="#director">him</persName>
+                  more or less in a joking manner. </p>
+
+            </div>
+
+            <div type="section" n="3">
+               <byline>Section #3 edited by Johnny Cochran</byline>
+               <p> DORAN: I understand the <date type="dark">night of the murder</date> you were
+                  with <persName key="neilan" ref="#professional" role="social">Mr
+                  Neilan</persName>. </p>
+
+               <p>MINTER: No, I was not. I was at <placeName type="residence">home</placeName> with
+                  my <persName key="miles" ref="#family" role="unknown">grandmother</persName> and
+                     <persName key="sister" ref="#family" role="unknown">sister</persName>. </p>
+
+               <p> DORAN: I mean after the <eventName type="death">murder</eventName>, after you
+                  learned of the <eventName type="death">murder</eventName>.</p>
+
+               <p> MINTER: Yes, <date type="end">Friday</date>. </p>
+
+               <p> DORAN: The next <date type="dark">night</date>, was it?</p>
+
+               <p> MINTER: No, it was the <date type="friday">night after Thursday</date>. <persName
+                     key="neilan" ref="#professional" role="business">Mr Neilan</persName> -- I mean
+                     <persName key="taylor" ref="#director">Mr Taylor</persName> was found dead
+                     <date type="early">Thursday morning</date>, was he not? </p>
+
+               <p> DORAN: Yes.</p>
+
+               <p> MINTER: <date>Thursday</date> was such a long day. <time>Friday night</time> I
+                  saw <persName key="neilan" ref="#professional" role="business">Mr.
+                     Neilan</persName>.</p>
+
+               <p> DORAN: Did he. communicate w1 th you or you with him? </p>
+
+               <p> MINTER: Why, he communicated with me; he tried to, but it was because of me he
+                  did that. On <time>Thuraday night</time> I was worried about <persName
+                     key="taylor" ref="#director">Mr Taylor</persName>; I was worried about
+                     <persName key="neilan" ref="#professional" role="business">Mr Neilan</persName>
+                  and called <persName key="mother" ref="#family" role="unknown">Marshall's
+                     mother</persName>.</p>
+
+               <p> DORAN: This was after the <eventName type="death">murder</eventName>?</p>
+
+               <p> A Yes, this vas <time>Thursday night</time> after the <eventName type="murder"
+                     >murder</eventName>. I said, "Please tell <persName key="mickey" ref="#family"
+                     role="uknown">Mickey</persName> not to drive that <objectName type="vehicle"
+                     >green car</objectName> so reckless; I am so afraid that he, too, will fall
+                  into trouble. And she thanked me and said, "I will tell him. That is just exactly
+                  what I havebeen thinking lately myself, and I want to see you soon, <persName
+                     key="minter" ref="#actor" role="business">Mary</persName>." With that I thought
+                  no more about it. In fact, I didn't even think [page 14] <persName key="neilan"
+                     ref="#professional" role="business">Marshall</persName> would call me. He had
+                  not caled me in three week or more. 1 thought no more about it and I was surprised
+                  the <date>next day</date> to learn -- yes, <date>Friday</date> -- that he had
+                  tried to get me at <time>five-thirty</time>. My <persName key="sister"
+                     ref="#family" role="uknown">sister</persName> was at our old <placeName
+                     type="residence">home</placeName> where there is a <objectName
+                     type="communication">telephone</objectName>. The present <placeName
+                     type="residence">home</placeName> has no <objectName type="communication"
+                     >telephone</objectName>, and when he happened to call there she was there.</p>
+
+               <p> DORAN: At <time>five-thirty</time> of what day? </p>
+
+               <p> MINTER: <date>Friday</date>; and he ea1d he ms very anxious to see me. She knew I
+                  had left and wass driving with <persName key="scarborough" ref="#law_enforcement"
+                     role="social">George Scarborough</persName>, and she said she didn't know what
+                  time 1 would be back. He said well, he wanted me to come to see him before
+                     <time>ten o'clock</time>, but after <time>ten o'clock</time> he would be on
+                  location. He didn't say the <placeName type="station">Salt Lake
+                     Station</placeName>, but he was very anxious to get hold of me before <time>ten
+                     o'clock</time>. I came in after <time>ten</time> and they all told me l had
+                  better call <persName key="neilan" ref="#professional" role="business"
+                     >Marshall</persName>; he seemed very anxious to get hold of me. I didn't· know
+                  where to call him; I thought possibly he would come to the <placeName
+                     type="residence">house</placeName>. I I were you I would call him up or at
+                  1east call <persName key="mother" ref="#family" role="unknown">his
+                     mother</persName> and find out where he is." I called the <placeName
+                     type="studio">studio</placeName> and the <persName key="watchman">night
+                     watchman</persName> immediately said, "<persName key="neilan"
+                     ref="#professional" role="business">Mr Neilan</persName> is not here; is this
+                     <persName key="minter" ref="#actor">Miss Minter</persName>?" I said, "Yes."</p>
+
+               <p> And he said, "<persName key="neilan" ref="#professional"> Mr Neilan</persName> ia
+                  at the <placeName type="station">Salt Lake Station</placeName>." <persName
+                     key="scarborough" ref="#law_enforcement">Mr Scarborough</persName> and l drove
+                  down there in my runabout. He was very hard at work and had been all
+                     <time>night</time>, it seemed he had [page 15] been working all night for four
+                  nights past. They were all just dead tired. <time>Night and day</time> they had
+                  been working. He finished about <time>two-thirty</time>, and then there were
+                  several in the party, <persName key="swanson" ref="#professional" role="social"
+                     >Gloria Swanson</persName>, <persName key="jpickford" ref="#professional"
+                     role="social">Jack Pickford</persName>, <persName key="urson"
+                     ref="#professional">Frank Urson</persName> -- <persName key="urson">Mr Frank
+                     Urson</persName> is now associated with <persName key="neilan">Mr
+                     Neilan</persName> as <persName key="director">director</persName> -- and
+                     <persName key="neilan" ref="#professional" role="business">Marshall</persName>
+                  and myself. We went to his <placeName type="residence">mother's home</placeName>
+                  where he lives with <persName key="mother">his mother</persName> and we tried to
+                  make <objectName type="eggs">eggs</objectName> and things. It was very amusing; we
+                  only had four <objectName type="eggs">eggs</objectName>, and I tried to fry two of
+                  them and ruined the <objectName type="things">things</objectName>, adn we didn't
+                  have enough to go around and we made so much noise <persName key="mother"
+                     ref="#family" role="unknown">his mother</persName>, who was ill <placeName
+                     type="location">upstairs</placeName>, told us we must behave ourselves.
+                     <persName key="neilan" ref="#professional">Marshall</persName> said, "There is
+                  only one thing to do; I have got to talk to you. We have had all of this
+                  foolishness, and I have got something very important to say to you, <persName
+                     key="minter" ref="#actor" role="romantic business">Mary</persName>. Let's drive
+                  to the <placeName type="studio">studio</placeName> where we can talk." We drove
+                  down to the <placeName type="studio">Hollywood studio</placeName> and we sat there
+                  in the <placeName type="office">office</placeName>, the <objectName type="lights"
+                     >lights</objectName> burning and the <persName key="watchman" ref="#military"
+                     role="unknown">watchman</persName> was there and the <persName
+                     key="property man" ref="#military" role="unknown">property man</persName> was
+                  not around. He was outside. We talked until <time>dawn</time>; it was
+                     <time>dawn</time> when we came out of the <placeName type="office"
+                     >place</placeName>.</p>
+
+               <p> DORAN: What were you talking about?</p>
+
+               <p> MINTER: About <persName key="taylor" ref="#director">Mr taylor</persName> and
+                  letters <persName key="neilan" ref="#professional" role="business">Marshall
+                     Neilan</persName> had tried to get for me.</p>
+
+               <p> DORAN: Who had tried to get for you?</p>
+
+               <p> MINTER: <persName key="neilan" ref="#professional">Marshall</persName> had tried
+                  to get for me, which was the first inkling I knew of his knowledge of my
+                     <objectName type="document">letters</objectName>, that I had written any to
+                     <persName key="taylor" ref="#director">Mr taylor</persName>. He told me certain
+                  very, very [page 16]ghastly things have since been proven absolutely true. He told
+                  them to me in my interest, but they made me very furious at the time, and we left
+                  more or less in a quarrel.</p>
+
+               <p> DORAN: Will you please tell us everything that he told you there?</p>
+
+               <p> MINTER: Yes, indeed. He first said, "<persName key="minter" ref="#actor"
+                     >Mary</persName>, sit down. I have something very importnat to tell you." I sat
+                  down, and he said, "You know this <eventName type="death">murder</eventName> of
+                     <persName key="taylor" ref="#director">Bill</persName> is going to be the
+                  greatest nine-days wonder" or "nineteen-days wonder that we have ever had,
+                  certainly that <placeName type="city">Los Angeles</placeName> ever had. You don't
+                  know what a terrible thing it is going to be." I said, "Yes, I do. It is awful!"
+                  He said, "Now, <persName key="minter" ref="#actor" role="romantic business"
+                     >Mary</persName>, I tried to get your <objectName type="document"
+                     >letters</objectName>" --</p>
+
+               <p> DORAN: May I interrupt you a moment? What time did you arrive at his <placeName
+                     type="studio">studio</placeName>?</p>
+
+               <p> MINTER: We left location, he worked down at the <placeName type="station">Salt
+                     Lake Station</placeName>, about <time>two-thirty to a quarter to three</time>,
+                  we left there and went to his <placeName type="residence">house</placeName>. How
+                  long we were there I couldn't say; I didn't have a <objectName type="watch"
+                     >watch</objectName>; I imagine we were there about an hour or maybe more, and
+                  then we went on down to the <placeName type="studio">studio</placeName> and we
+                  stayed until <time>dawn</time>, whatever time that is. We then came on back to my
+                     <objectName type="residence">house</objectName>. <persName key="mother"
+                     ref="#family" role="unknown">Mother</persName> was waiting for us and we got
+                  out and explained to her. <persName key="mother" ref="#family">Mother</persName>
+                  knew he had had a verious talk and she felt sure <persName key="neilan"
+                     ref="#professional" role="business">Marhsall</persName> would try to come to
+                  our aid. My <persName key="mother">mother</persName> is very fond of <persName
+                     key="neilan" ref="#professional" role="business">Mr Neilan</persName> and the
+                  whole family. He said he was just dead tired. The man took his hours when hee
+                  needed sleep to tell me these things. He was going to be up at <time>eight
+                     o'clock</time> that morning and he didn't even go to bed that night. He just
+                  sat up in his clothes and went out to work again at <time>eight o'clock</time>.
+                  Anyway, he said, "I tried to get your <objectName type="document"
+                     >letters</objectName> for you. You know they are a very important factor in the
+                     <eventName type="case">case</eventName>, if they get hold of them." I was
+                  shocked to find that he knew of my <objectName type="document"
+                     >letters</objectName>. I said that I wrote some, and he said something about
+                  going to a newspaper or getting hold of <persName key="person">some
+                     body</persName> in <placeName type="city">Pasadena</placeName> to get me the
+                     <objectName type="letters">letters</objectName>. That part is not clear in my
+                  mind. I think I was so tired at the time I couldn't understand him. I haven't seen
+                  him since or I would have questioned him again about the <objectName
+                     type="document">letters</objectName> just what he did. He told me I should have
+                  received them that <date>day</date>. He asked me if I had gotten them and I said,
+                  "No, I haven't received the <objectName type="document">letters</objectName>
+                  <date>today</date>." He said, "Well, I sent them to the <placeName type="studio"
+                     >studio</placeName>, and I believe the studio," the <placeName type="studio"
+                     >Realart Studio</placeName> where I had last worked. He said, "They are in
+                     <persName key="eyton" ref="#studio_employee">Charley Eyton's</persName> hands
+                  now." He either said <persName key="eyton" ref="#studio_employee" role="business"
+                     >Charley Eyton</persName> or <persName key="carbut" ref="#studio_employee"
+                     role="business">Mr Carbut</persName>, but I can't state this acutally because I
+                  was so tired at the time I could hardly hear him and I was desperately interested
+                  to hear what he said about the <objectName type="document">letter</objectName>,
+                  and I strained all my nerves to hear, but instead it came back and forth; it was
+                  hazy. I don't know the exact words he spoke. Anyway, I remember saying, "Well,
+                  there is nothing in the <objectName type="document">letters</objectName> that the
+                  world can't read except that it is horribly painful to me to have them read my
+                     <objectName>letters</objectName> to him." He said, "You loved
+                     <persName>Billie</persName>, didn't you?" I said, "Yes, <persName key="neilan"
+                     ref="#professional" role="business">Marshall</persName>, I loved him deeply and
+                  sincerely." And he said, "Did you ever want to marry him?" Whereupon I replied, I
+                  said, "No, no; I know it couldn't have been. It was not meant to be." Then we
+                  talked about -- Oh, yes. Then he said, "Now, <persName key="minter" ref="#actor"
+                     role="romantic business">Mary</persName>, I am going to tell you some very
+                  important thing; they are going to hurt you, going to shock you, but before I say
+                  a word I want you to consider <persName key="taylor" ref="#director"
+                     >Billie</persName> was just as crazy as a March hare months before his death."
+                  He said, "I am going to recite a few instances that <persName key="taylor"
+                     ref="#director">Bill</persName> told me about, things irrelevant to you, to
+                  show he didn't do this only to you but to others of his very <persName
+                     key="person">best friends</persName>." </p>
+
+               <p>
+                  <persName key="neilan" ref="#professional" role="business">Marshall</persName> and
+                     <persName key="taylor" ref="#director">Mr taylor</persName> were extremely good
+                  friends. I don't think they saw each other often, but they were most
+                  affectionately fond of each other. He said, "On several occasions <persName
+                     key="taylor" ref="#director">Bill</persName>" -- he spoke of him as '<persName
+                     key="taylor" ref="#director">Bill</persName>' -- "has confessed to me that --
+                  Oh, I am so tired I can't think how I am trying­ to say it. He came up to my
+                     <placeName type="house">room in the club</placeName> one day and he said, "Oh,
+                  I know something about you, <persName key="neilan" ref="#professional"
+                     role="business">Marshall</persName>, and those <objectName type="cigarettes"
+                     >gold-tipped cigarettes</objectName> I found of yours." Whereupon <persName
+                     key="neilan" ref="#professional" role="business">Marshall</persName> said he
+                  replied, "Well, you needn't say anything, <persName key="taylor" ref="#director"
+                     >Bill</persName>" -- l don't know what it was, a <objectName type="cigar"
+                     >cigar</objectName> or something of some personal nature that he recognized of
+                     <persName key="taylor" ref="#director">Mr taylor's</persName> at somebody's
+                     <placeName type="residence">house</placeName>. I don't know whose <placeName
+                     type="residence">house</placeName>. He said, "That makes us Elks. Don't you say
+                  anything about me, what I have been doing in a joking, friendly manner." <persName
+                     key="taylor" ref="#director">Mr taylor</persName>, he said, suddenly stood up
+                  and looked at him very seriously, soberly, and said, "<persName key="taylor"
+                     ref="#director">Marshall</persName>, I am surprised at the things you are doing
+                  now-a-days." <persName key="neilan" ref="#professional" role="business"
+                     >Marshall</persName> said, "Just what do you mean by that?" and he said, "Why,
+                  what you said to your <persName key="wife" ref="#family" role="unknown"
+                     >wife</persName> the other night at <placeName type="hotel">Sunset
+                     Inn</placeName> about poor little <placeName key="swanson" ref="#professional"
+                     role="social">Gloria Swanson</placeName>."</p>
+
+               <p> I may be getting some of those words mixed; maybe he didn't say "poor little
+                     <persName key="swanson" ref="#professional" role="social">Gloria
+                     Swanson</persName>." Maybe <persName key="neilan" ref="#professional"
+                     role="business">Marshall</persName> didn't tell me that. This is my impression.
+                     <persName key="neilan" ref="#professional" role="business">Marshall</persName>
+                  said, "What do you mean?" And he said, "Don't you remember the night we were at
+                     <placeName type="hotel">Sunset Inn</placeName> and you were sitting here and
+                     <persName key="swanson" ref="#professional" role="social">Miss
+                     Swanson</persName> was sitting there and your former wife, <persName
+                     key="bambrick" ref="#professional" role="unknown">Gertrude Banbrick</persName>,
+                  came in and said, 'Hello, <persName key="gloria" ref="#professional" role="social"
+                     >Gloria</persName>, how are you?' and <persName key="swanson"
+                     ref="#professional" role="social">Gloria</persName> replied pleasantly, and you
+                  turned to <persName key="bambrick" ref="#professional" role="unknown">Gertrude
+                     Bambrick</persName> and said, 'How dare you speak to this girl?' pointing to
+                     <persName key="swanson" ref="#professional">Gloria</persName>, the <persName
+                     key="person">lady</persName> he was with, 'How dare you speak to her? Don't you
+                  ever dare to speak to her again,'" And <persName key="taylor" ref="#director">Mr
+                     taylor</persName> was telling <persName key="neilan" ref="#professional"
+                     role="business">Marshall Neilan</persName>. <persName key="neilan"
+                     ref="#professional" role="business">Marshall</persName> said he looked at him
+                  and said, "What's the matter with you, <persName key="taylor" ref="#director"
+                     >Bill</persName>? Are you drunk?" He said, I haven't had a <objectName
+                     type="consumable">drink</objectName>," <persName key="taylor" ref="#director"
+                     >Mr taylor</persName> said, and he said, "The funny part of it was he wasn't
+                  drunk." He couldn't detect it on his breath. "But he looked quite as serious and
+                  sober as I do this minute." He said, "Why, tell me what day you think this was."
+                  He said it was on a <date>certain day</date> -- I don't know if <persName
+                     key="neilan" ref="#professional" role="business">Marshall</persName> told me
+                  the day or not. He said, on a <date>certain day</date> at <placeName type="hotel"
+                     >Sunset Inn</placeName> recently. <persName key="neilan" ref="#professional"
+                     role="business">Marshall</persName> said, "Why, <persName key="taylor"
+                     ref="#director">Bill</persName>, at that time l I was in <placeName type="city"
+                     >New York City</placeName> and was not in <placeName type="city">Los
+                     Angeles</placeName> nor <placeName type="state">California</placeName>."</p>
+
+               <p>
+                  <persName key="taylor" ref="#director">Mr taylor</persName> and he had quite a
+                  friendly argument over it, and he said, "I know it is so; I was there myself and
+                  heard what you said upon this greeting between those two <persName key="girls"
+                     >girls</persName>." <persName key="neilan" ref="#professional" role="business"
+                     >Marshall</persName> said he thought perhaps he had lost his mind. The next day
+                  he called up, haVing that in mind, <persName key="swanson">Miss Swanson</persName>
+                  and he said, "<persName key="swanson" ref="#professional" role="social"
+                     >Gloria</persName>, am I going crazy? Have I lost my mind? Do you remember of
+                  ever being at <placeName type="hotel">Sunset Inn</placeName> with me when
+                     <persName key="bambrick" ref="#professional" role="unknown">Gertrude
+                     Bambrick</persName> passed our <placeName type="table">table</placeName> and
+                  spoke to us pleasantly and railed at my <persName key="ex" ref="#family"
+                     role="unknown">former wife</persName> for having spoken to you pleasantly and
+                  told her not to speak to you again?" And she said, "What on earth are you talking
+                  about? What is this? I don't understand you," And he said, "Do you ever remember
+                  seeing <persName key="taylor" ref="#director">Bill taylor</persName> there near us
+                  at any time on any such occasion?" And she said, "Certainly not, !the oniy time I
+                  ever saw <persName key="taylor" ref="#director">William taylor</persName> at
+                     <placeName type="hotel">Sunset Inn</placeName> was the <date>night</date> I was
+                  with" -- I don't know his name, some <persName key="person">friend of
+                     hers</persName> -- "and <persName>Bill taylor</persName> was sitting away over
+                  on the other side by the <placeName>wall</placeName> and we were by the <placeName
+                     type="musical">orchestra</placeName> on this side." He said, "Was I there?" And
+                  she said, "No. Don't you remember you were in <placeName type="city">New
+                     York</placeName> at the time?" He said, "That is one instance, <persName
+                     key="minter" ref="#actor" role="business romantic">Mary</persName>, of
+                     <persName key="taylor" ref="#director">Bill</persName>'s failing mind, I have
+                  never cleared that up. <persName key="taylor" ref="#director">Bill</persName> and
+                  I have discussed it many times since, and I have always gone away puzzled, amazed,
+                  that he still stuck to his version of my having spoken to my <persName key="ex"
+                     ref="#family">former wife</persName> as I did. I didn't see her neither
+                     <persName key="swanson" ref="#professional" role="social">Miss
+                     Swanson</persName> saw her on that occasion." Then he said, "On another
+                     <eventName type="occasion">occasion</eventName>
+                  <persName key="taylor" ref="#director">Bill</persName> told me he had received a
+                     <objectName type="letter">letter</objectName> from <persName key="sweet"
+                     ref="#professional" role="social">Blanche Sweet</persName>; that she told
+                     <persName key="taylor" ref="#director">Mr taylor</persName> that she was
+                  grieved he was sick;" that <persName key="neilan">Marshell Neilan</persName> was
+                  calling on me and she intended to sue him. <persName key="neilan"
+                     ref="#professional" role="business">Marshall</persName> said that sounded so
+                  unlike <persName key="sweet" ref="#professional" role="social">Miss
+                     Sweet</persName> that he went to her and questioned her, and he said,
+                     "<persName key="sweet" ref="#professional" role="social">Blanche</persName>,
+                  have you writtn to <persName key="taylor" ref="#professional">Bill</persName>
+                  lately?" She said, "Why, yes, I wrote him a little <objectName>note</objectName>
+                  not so long ago thanking him for some <objectName type="flowers"
+                     >poinsettias</objectName> he sent me <date>Christmas</date>." He aa1d, "Did you
+                  say anything else?" She said, "No, not that I can remember." He said, "Did you
+                  ever say that you regretted my going about with <persName key="minter"
+                     ref="#actor" role="business romantic">Miss Minter</persName> and that you
+                  intended to sue me?" She said, "Perfectly ridiculous. What do you mean? I
+                  certainly did not say any such thing."</p>
+
+               <p>
+                  <persName key="neilan" ref="#professional" role="business">Marshall</persName> at
+                  that time said to me, "And you know <persName key="sweet" ref="#professional"
+                     role="social">Blanche</persName> doesn't lie. She certainly doesn't lie; tbat
+                  is her reputation all over the world, over the picture game. I have heard that
+                  hundreds of times myself; I am pretty sure it is so." He said, "Now, that is
+                  another instance of poor <persName key="taylor" ref="#director">Bill</persName>'s
+                  insanity. Now, <persName key="minter" ref="#actor" role="business romantic"
+                     >Mary</persName>, here is the ghastly thing I have to tell you." He said, "One
+                  time" -- I don't know whether he said in his <placeName>room</placeName> or the
+                     <placeName type="club">club</placeName>, he was somewhere, I think in one of
+                  his own <placeName type="house">rooms</placeName>, he, <persName key="neilan"
+                     ref="#professional" role="business">Marshall Nieilan</persName>, and <persName
+                     key="hoyt" ref="#professional" role="social">Arthur Hoyt</persName>, <persName
+                     key="robinson" ref="#professional">Cap Robinson</persName> -- He said
+                     "<persName key="robinson" ref="#professional" role="social">Cap
+                     Robinson</persName>"; maybe he meant "Captain"; I don't know; I don't know how
+                  he is; I know <persName key="hoyt" ref="#professional" role="social"
+                     >Arthur</persName> well. He said, "We were all standing around there talking
+                  pleasantly" -- I think he said <persName key="moreno" ref="#professional"
+                     role="social">Antonio Moreno</persName> was there. He said, "We were all
+                  talking pleasantly and <persName key="taylor" ref="#director">Mr taylor</persName>
+                  suddenly started talking about you, and the talk grew finally more and more
+                  personal and finally he said -- and this is terrible -- 'presently he said you had
+                  been over in the last two weeks" -- I should say this is within at least three
+                  weeks of <persName key="taylor" ref="#director">Mr taylor</persName>'s
+                     <eventName>death</eventName>; I think <persName key="neilan"
+                     ref="#professional" role="business">Marshall</persName> told me at the time,
+                  but I have forgotten the time. -- "within the last two weeks, that you were
+                  undressed in his <placeName type="residence">apartments</placeName>; that you
+                  beseeched him for his love; that he resisted you, and finally persuaded you to
+                  leave his <placeName type="residence">apartments</placeName>."</p>
+            </div>
+
+            <div type="section" n="4">
+               <byline>Edited by Lucy DiChristina</byline>
+               <p><persName key="neilan" ref="#director">Marshall</persName> said that to me, and
+                  looked right at me. I could feel myself grow red. I said, "Is that all you have to
+                  tell me about <persName key="taylor" ref="#director">Mr Taylor</persName>?" He
+                  said, "Well, I could recite some more instances about <persName key="taylor"
+                     ref="#director">Bill's</persName> seeming insanity." He said, "I am certain he
+                  was insane. He stood up and told those things as <eventName type="sober"
+                     >soberly</eventName> as I am talking to you now." </p>
+               <p> MR MOTT: Excuse me. Did he keyer to <persName key="taylor" ref="#director">Mr
+                     Taylor's</persName> physical condition? </p>
+               <p> MINTER: Yes, he said he was <eventName type="drunk">drunk</eventName> at the
+                  time. <persName key="neilan" ref="#director">Marshall</persName> has told ma on
+                  several occasions, sometimes long ago and sometimes recently that he always hated
+                  to see <persName key="taylor" ref="#director">Bill</persName> drink because he
+                  said, "You wouldn't know the man; he changes so; he gets maudlin and silly, smiles
+                  in a foolish manner and wobbles and talks, oh, just the silly, foolish things." He
+                  said, "None of his friends like to see him drink." At this time he was <eventName
+                     type="drunk">intoxicated</eventName> and he talked on and on and on about this
+                  thing." <persName key="neilan" ref="#director">Marshall</persName> said he got up
+                  and he told <persName key="taylor" ref="#director"> Bill</persName>, "You are
+                  insane; something 1s the matter with your mind. I would certainly take more
+                  vengeance on you if I didn't think you were crazy," and that was tbe opinion of
+                     <persName key="hoyt" ref="#director">Arthur Hoyt</persName> and <persName
+                     key="robinson" ref="#law_enforcement">Cap Robinson</persName> and everybody.
+                  They were perfectly amazed that a man of <persName key="taylor" ref="#director">Mr
+                     Taylor's</persName> lovable, sweet, considerate, gentlemanly disposition all
+                  through life should suddenly turn around and say this about not only a woman, but
+                  about me, whom they all knew he admired and respected. </p>
+               <p> When I heard of this thing, l just looked to <persName key="neilan"
+                     ref="#director">Marshall</persName> and said, "Is that all you have to tell me
+                  about <persName key="taylor" ref="#director">Mr Taylor</persName>?" And he said,
+                  "Yes, that is all. That 1s the ghastly thing. I know you are going to hear this
+                  from somebody and I wanted you to hear it from me, and want to find out what you
+                  knew about the <eventName type="murder">murder</eventName> of this man." </p>
+               <p> By this time I was getting -- Oh, how can I can I express it? -- just exhausted
+                  with shock, one shock after another and of all the shocks I had received, this
+                  coming from hlm who I had no reason to doubt his word, I couldn't believe it; not
+                  as I knew <persName key="taylor" ref="#director">Mr Taylor</persName>, I couldn't
+                  believe for an instant he had ever said these things to anybody, yet there
+                     <persName key="neilan" ref="#director">Marshall</persName> giving me names,
+                  dates and places. The thing was too much for me. I got furious; and I said, "I
+                  don't believe you! I think you are lying! How dare you say this about him to me! I
+                  never want to see you again?" He got up and walked around the room for a minute
+                  and I was just broiling; I was just furious; and he turned around and he said,
+                  "Well, <persName key="minter" ref="#actor">Mary</persName>, some day you will
+                  realize that I certainly am not saying this for any personal reason. It hurts me
+                  as it must hurt you. I am simply telling you because you are bound to know it; it
+                  is the truth and I wanted to be the one to tell you. </p>
+               <p> Well, I didn't have any more to say to him. I was just furious; I was furious
+                  with him; and finally he talked and he said, more, more, more personal things
+                  about, "You know <persName key="minter" ref="#actor">Mary</persName> that I care
+                  for you." </p>
+               <p> DORAN: He told you he loved you, did he? </p>
+               <p>MINTER: Yes; he did on <date type="friday">Friday</date> night. He said, "You know
+                  I care for you deeply." </p>
+               <p> I said, "I don't care; I don't want you to care for me; I don't want <persName
+                     key="jones">John Jones</persName> to care for me or anybody; I don't want ever
+                  to be in <eventName type="love">love</eventName> again as long as I <eventName
+                     type="life">live</eventName>; I don't want to see any man; I hate men." I
+                  probably raved on. </p>
+               <p> I dont know what more I can tell you. I was so tired, exhausted; I had been
+                  sitting up all <time type="night">night</time>. This conversation didn't come as
+                  quickly as I am te11ing it to you. It came with long pauses; he would get up and
+                  walk around with his <objectName type="posession">cigarette</objectName> smoking
+                  and come back again and go out and talk to the property man, go out of the
+                     <placeName>office</placeName>, and I would sit there alone and I tore a piece
+                  of paper, I was so tired, and suggested that we go <placeName type="residence"
+                     >home</placeName>. I said, "Why keep sitting up? </p>
+               <p> You have got to get up at <time type="morning">eight o'clock</time> in the <time
+                     type="morning">morning</time> and it is nearly <time type="morning"
+                  >dawn</time>." He aaid, "I am worried about this thing; I want to find out what
+                  you know about this <eventName type="murder">murder</eventName>." Then it
+                  developed that <persName key="neilan" ref="#director">Marshall</persName> thought
+                  I knew something about it, and he looked at me and he said, "Now, <persName
+                     key="minter" ref="#actor">Mary</persName>" -- he got a little profane, he said,
+                  "Now, <persName key="minter" ref="#actor">Mary</persName>, for God's sake, if you
+                  know anything about the <eventName type="murder">murder</eventName> of <persName
+                     key="taylor" ref="#director">Bill</persName> tell it to me now." He said,
+                  "Don't withhold anything." This was too much; not only had he been telling me
+                  these things about <persName key="taylor" ref="#director">Mr Taylor</persName>,
+                  but there he sat evidently believing that I knew someth1ng. I said, "Do you think
+                  that I <eventName type="murder">killed</eventName>
+                  <persName key="taylor" ref="#director">Mr Taylor</persName>?" He said, "Oh, no;
+                  don't be silly. Now is no time to talk things like that. " He said, "I am just
+                  trying to find something out about this. This is going to be an awful <eventName
+                     type="affair">affair</eventName>." I said, "I didn't <eventName type="murder"
+                     >kill</eventName>
+                  <persName key="taylor" ref="#director">William Desmond Taylor</persName> and I
+                  don't know who <eventName type="murder">murdered</eventName> him." He said, "You
+                  don't? You don't know anything?" He said, "Of course, you didn't <eventName
+                     type="murder">kill</eventName> him; of course, you didn't put anybody on to do
+                  it, But" he said, "don't you know somebody, don't you know some inti­mate details
+                  that other people might not know? Can't you rack your brain and think who would
+                  have a motive for <eventName type="murder">killing</eventName> him?" </p>
+               <p> Then he sat there and we said words about pro and con, trying to think, and I
+                  thought over everyrody I knew and I said this, more or less in a humourous way, I
+                  said, "The only person I know who could have had a possible motive for <eventName
+                     type="murder">killing</eventName> him would be <persName key="ivers">Mrs. Julia
+                     Crawford Ivers</persName>." I was not serious when I said that. I was more or
+                  less humorous. She is a lady I feel I ought to explain about, who has never done
+                  me a wrong thing in her life and I have never done her a wrong thing, either, but
+                  she is a <persName key="ivers">Christian Science lady</persName> who has been
+                  associated with him as a <orgName type="writer">scenario writer</orgName> for
+                     <time type="years">many years</time>; she is quite a trusted, lovely woman, I
+                  am sure; a very honorable respectable woman, but we don't like eaeh other. There
+                  is no reason, but we don't like each other. Every time I wanted to see him,
+                  somehow she would be there and she had a strange way of treating me. She would
+                  say, Oh yes, there is little <persName key="minter">Mary</persName>. Here she
+                  comes." She would go on in this manner, "Oh, there is little <persName
+                     key="minter">Mary</persName> again, Oh, there she is; wbat can she be want1ng
+                  this time? Oh, yes, uh huh." Quite a strange attitude, She just riled me. </p>
+               <p> DORAN: Bow old a woman was she? </p>
+               <p> MINTER: She must have been 50. Her son was <persName key="taylor">Mr
+                     Taylor's</persName>
+                  <orgName type="job">camera man</orgName>. <persName key="Jimmy">Jimmy</persName>
+                  was my <orgName type="job">camera man</orgName>, <persName key="Jim">Jim
+                     Vantrees</persName>. I don't hate the woman, but she annoys me. She is one of
+                  the few people in the world I dislike to see. In fact, the irony of fate it was
+                  when I was in <placeName type="country">France</placeName> after looking at the
+                  beautifUl Venus de Milo in <placeName type="city">Paris</placeName> at the
+                     <placeName type="meusam">Louvre</placeName>, and after I had walked a few steps
+                  done a long hall, thinking of this excellent statue, who should I see but
+                     <persName key="ivers">Julia Crawford Ivers</persName>, a very, fat, large
+                  woman. She did some more of these Christian Science things, and she had a very
+                  unpleasant habit of whenever she would be with me and <persName key="taylor">Mr
+                     Taylor</persName>, she would always come and twit my chin. So I said, in really
+                  a joking manner -- I don't want to accuse the woman, because I don't think she had
+                  anything to do with the matter -- I said "I don't know anyone who would kill him
+                  but <persName key="ivers" ref="#director">Ju1ia Crawford Ivers</persName>." "I
+                  always suspected the woman of being in love with him herself or she might have
+                     <eventName type="murder">killed</eventName> him tor that reason." He said, "My
+                  goodness! You mustn't say that out loud; somebody w111 believe you." I said, "I
+                  don't care if they do." I was in such a wild mood, Then, -- What else did we talk
+                  about? Oh! He talked about his <orgName type="production">productions</orgName>
+                  and said, "I certainly have a terrible time, working <time type="day">day</time>
+                  and <time type="night">night</time> and a great deal depended upon <date
+                     type="saturday">Saturday</date> and we must get certain work finished <date
+                     type="friday">Friday</date>." We talked of <date type="friday">Friday</date>
+                  <time type="night">night</time> and that he had to get up at <time type="morning"
+                     >eight o'clock</time>; he wasn't going to bed at all; that the boys were
+                  calling for him at <time type="morning">eight o'clock</time>, he said, and he knew
+                  if they didn't call he would never get up out of his <eventName type="sleep"
+                     >slumbers</eventName>. They were going somewhere <placeName type="set">on
+                     location</placeName>, I understood, possibly at the <placeName type="studio"
+                     >studio</placeName>. He was just going <placeName type="residence"
+                     >home</placeName> and take a <eventName type="bathe">shower</eventName>, get a
+                     <eventName type="bathe">shave</eventName> if he felt like it, and go on back
+                  and <eventName type="work">work</eventName> some more. He said, "I am dog tired. I
+                  was never so exhausted, just <eventName type="dead">dead</eventName>." Finally I
+                  said, "Do you rea1ize this looks awful, being here all this time?" And he said, "I
+                  can't help it if it does. I had to tell you these things and wanted to find out
+                  what you knew about this case. That I know you knew <persName key="taylor"
+                     ref="#director">Bill</persName> very well, probably better than any of us and"
+                  -- Oh, yes. He also asked me to tel1 him my feelings toward <persName key="taylor"
+                     ref="#director">Mr Taylor</persName>, exactly what everybody has been asking
+                  me, and I told him as I have been telling you, I loved him deeply, sincerely and
+                  absolutely; that I <eventName type="love">loved</eventName> him truly, <eventName
+                     type="love">loved</eventName> him in an all-around way, I cared for his health;
+                  his health came before my happiness and when he was ill -- and he didn't like to
+                  see anyone when he was <eventName type="sick">ill</eventName>-- my natural impulse
+                  was to go to him and be with him and sit up <time type="night">night</time> after
+                     <time type="night">night</time> with him, if necessary. l didn't do it; I didn
+                  t even attempt to, because he didn't want me to, and although I had sat in the
+                  dark, not knowing anything and worrying about it, I did that rather than intrude
+                  myself upon him when he didn't want me. </p>
+               <p> DORAN: What time of <time type="night">night</time> dld you first meet -- What is
+                  this man's name? </p>
+               <p> MINTER: <persName key="neilan" ref="#director">Mr Neilan</persName>? </p>
+               <p> DORAN: <persName key="neilan" ref="#director">Mr Neilan</persName>, this
+                  particular night. </p>
+               <p> MINTER: We went down to the <placeName type="station">Salt Lake
+                     station</placeName> after <time type="night">one</time>. </p>
+               <p> DORAN: And you arrived at your <placeName type="residence">home</placeName>, was
+                  it, or his <placeName type="residence">home</placeName> or whose <placeName
+                     type="residence">home</placeName> was it where you were frying the eggs? </p>
+               <p> MINTER: His <placeName type="residence">home</placeName>, <date type="friday"
+                     >Friday</date>
+                  <time type="night">night</time>; it was really <date type="saturday"
+                     >Saturday</date>
+                  <time type="morning">morning</time>, wasn't it? I call lt <date type="friday"
+                     >Friday</date>
+                  <time type="night">night</time>, because it was still <time type="night"
+                     >nighttime</time>. The five of us arrived there, oh, I don't know, he didn't
+                  finish <eventName type="work">work</eventName> until between <time type="morning"
+                     >two-thirty and three o'c1ock</time>, maybe after three; I didn't have a
+                     <objectName type="jewelry">watch</objectName> at that time. </p>
+               <p> DORAN: Row long approximatey do you suppose you spent talking in the <placeName
+                     type="studio">studio</placeName>? </p>
+               <p> MINTER: Now, let me see, we stayed at <persName key="neilan" ref="#director"
+                     >Marshall's</persName>
+                  <placeName type="residence">house</placeName> wtth the eggs and things at least an
+                     <time type="hours">hour</time>, maybe<time type="hours"> two hours</time>; I am
+                  not certain of that at all; I don't think much more than an <time type="hours"
+                     >hour</time>. Then we went right on to the <placeName type="studio"
+                     >studio</placeName>, </p>
+               <p> DORAN: Do you suppose you spent a <time type="hours">couple of hours</time> down
+                  there? </p>
+               <p> MINTER: I think maybe we spent a <time type="hours">couple of hours</time>; maybe
+                     <time type="hours">three hours</time>; it takes a good while to go from
+                     <placeName type="station">Salt Lake station</placeName> up to <persName
+                     key="neilan" ref="#director">Marshall's</persName>
+                  <placeName type="residence">home</placeName> on <placeName type="street">Sunset
+                     Boulevard</placeName>. It would take at least <time type="hours">forty-five
+                     minutes</time>, I think. Then it takes some time to go from his <placeName
+                     type="residence">home</placeName> to the <placeName type="studio"
+                     >studio</placeName>, way out on <placeName type="street">Santa Monica
+                     Boulevard</placeName>. </p>
+               <p> DORAN: Where was the <placeName type="studio">studio</placeName>? </p>
+               <p> MINTER: On <placeName type="street">Santa Monica Boulevard</placeName>, the
+                     <placeName type="studio">Hollyood Studios</placeName>. </p>
+               <p> DORAN: Did you suggest that you go down there with him? </p>
+               <p> MINTER: He said, "Let's go on down" -- No, the first thing he said was "Let's get
+                  out of here. I am burning up alive." It was very cold when we came in the
+                     <placeName type="residence">house</placeName> and we put on steam and then he
+                  got terribly hot. I don't know what was the matter with me, I wouldn't take off my
+                     <objectName type="clothing">coat</objectName>. He said, "If you are going to
+                  stay there and burn, let's go out and talk." We got in the <objectName
+                     type="vehicle">car</objectName> and drove around for a while. No, it is not a
+                  fact that he said in the <placeName type="residence">house</placeName>, "We must
+                  go to the <placeName type="studio">studio</placeName> and talk." I think I said
+                  that at first; it is not so. He said, "Let's go out and talk." Then it was very
+                  bitterly cold <placeName type="outside">outside</placeName>, freez1ng ocld. </p>
+               <p> DORAN: You left the rest of the party at the house? </p>
+               <p> MINTER: No; <persName key="swanson" ref="#actor">Miss Swanson</persName> and
+                     <persName key="jpickford" ref="#actor">Mr Pickford</persName> got in <persName
+                     key="jpickford" ref="#actor">Mr Pickford's</persName>
+                  <objectName type="vehicle">Locomobile</objectName> and he said he ms going to take
+                  her <placeName type="residence">home</placeName>. She was very anxious to get to
+                     <placeName type="bed">bed</placeName> as she had to get up early and <eventName
+                     type="work">work</eventName>. </p>
+               <p> DORAN: Then, you and <persName key="neilan" ref="#director">Marshall
+                     Neilan</persName>
+                  <eventName type="drive">drove</eventName> around <time type="hours">awhile</time>
+                  and finally wound up in the <placeName type="studio">studio</placeName>? </p>
+               <p> MINTER: Yes; we <eventName type="drive">drove</eventName> around, went out
+                     <placeName type="street">Sunset Boulevard</placeName> and went up -- We went
+                  along <placeName type="street">Hollywood Boulevard</placeName> for a while, </p>
+               <p> DORAN: What did you discuss while you were <eventName type="drive"
+                     >riding</eventName> around in the <placeName type="vehicle"
+                  >machine</placeName>? </p>
+               <p> MINTER: Why, about this thing about<persName key="taylor" ref="#director"> Mr
+                     Taylor</persName> and then also I was rather peeved na <persName key="neilan"
+                     ref="#director">Marshall</persName> at the time because I hadn't heard from him
+                  in weeks. "Peeved" is hardly the word. That sounds more as if I am interested in
+                     <persName key="neilan" ref="#director">Marshall</persName>, and I am; I like
+                  him, but l wasn't caring particularly; I simply said, "Well, <persName
+                     key="neilan" ref="#director">Marshall</persName>, it was not a very nice thing
+                  the way you ran off the last time. I understood they were going out to <eventName
+                     type="dinner">dinner</eventName> and you were coming to my <placeName
+                     type="residence">house</placeName> to <eventName type="dinner"
+                     >dinner</eventName> and suddenly you went to <placeName type="city">San
+                     Francisco</placeName> without so much as a fare-thee-well."' He said, "You know
+                  I do those things." I said, "Yes, you do those things, and it ts very annoying,
+                  but your friends love you and love you yet in spite of those funny little tricks
+                  you do, darting here and there. I don't know, I am in no mood to take thia
+                  foolishness; I want good wholesome friendship, but I want to know when you are
+                  going to appear." Many times a whole <eventName type="dinner">dinner</eventName>
+                  has gotten cold waiting for him. When we had a <eventName type="dinner">dinner
+                     party</eventName> at our <placeName type="residence">house</placeName>, or
+                  other people have given <eventName type="party">parties</eventName>, they have
+                  waited on <persName key="neilan" ref="#director">Marshall</persName> for <time
+                     type="hours">two or three hours</time> and he finally would come along smiling
+                  sweetly at everybody and they couldn't scold him. I was more or less taking him to
+                  task for his 1ife in general, saying he should not do those things; it was very
+                  annoying and I was not going to put up with it. He was sweet and Irish and said,
+                  "You wouldn't be angry with me?" And I said, "No, I wouldn't be." That is the way
+                  we got out of that. There was nothing serious in the talk, Just the way we always
+                  talked. </p>
+               <p> DORAN: Then you finally went to the <placeName type="studio">studio</placeName>? </p>
+               <p> MINTER: Finally he said, "Now, I have got something very important to tell you,
+                  something that is going to hurt your feelings terribly, but I must tell you; we
+                  wi11 go in the <placeName type="studio">studio</placeName> and talk." Our teeth
+                  were chatter1ng with cold and we went in there and he turned on the steam and I
+                  sat in this <objectName type="clothing">fur coat</objectName> in a <objectName
+                     type="furniture">wicker chair</objectName>, and he said, "This is going to b, a
+                  nine or "nineteen-days talk of the world" Then he told me all the things I have
+                  been telling you. There may have been some more, and some thlngs I have said may
+                  not be exactly accurate, but the gist of the thing is entirely accurate. </p>
+               <p> DORAN: Did he declare his <eventName type="love">love</eventName> for you, whi1e
+                  rid1ng around in the <objectName type="vehicle">machine</objectName>? </p>
+               <p> MINTER: No, he did not. </p>
+               <p> DORAN: Not until you reached the <placeName type="studio">studio</placeName> did
+                  he do tha that? </p>
+               <p> MINTER: Not until after we had been there a long time at the <placeName
+                     type="studio">studio</placeName>. </p>
+               <p> DORAN: Was it before or after he told you about this instance in connection with
+                     <persName key="taylor" ref="#director">Taylor</persName> -- </p>
+               <p> MINTER: It was afterwards. I don't know yet whether he really meant it; maybe he
+                  was as sincere as he could be, and he can be very sincere, I am sure. I am sure he
+                  can. </p>
+            </div>
+
+            <div>
+               <byline>Edited by Nick Eisele</byline>
+               <p>DORAN: This was the second time that <persName key="neilan" ref="#director"
+                     role="business">he</persName> had declared love for you. On one occasion
+                     <persName key="neilan" ref="#director" role="business">he</persName> proposed
+                  to <persName key="minter" ref="#actor" role="romantic business"
+                  >you</persName>?</p>
+
+               <p>MINTER: Yes.</p>
+
+               <p>DORAN: <persName key="neilan" ref="#director" role="business">He</persName> asked
+                     <persName key="minter" ref="#actor" role="romantic business">you</persName> to
+                  marry <persName key="neilan" ref="#director" role="business">him</persName>?</p>
+
+               <p>MINTER: Yes, and then <persName key="neilan" ref="#director" role="business"
+                     >he</persName> would dart away again. I mean <persName key="neilan"
+                     ref="#director" role="business">he</persName> would call me up -- <persName
+                     key="neilan" ref="#director" role="business">He</persName> can't call me up,
+                  because I have no telephone; <persName key="neilan" ref="#director"
+                     role="business">he</persName> would send me <objectName type="decoration"
+                     >flowers</objectName>, too, and suddenly I would not hear from <persName
+                     key="neilan" ref="#director" role="business">him</persName> for <time>two or
+                     three weeks</time>. As I said to <persName key="neilan" ref="#director"
+                     role="business">him</persName> in the <objectName type="vehicle"
+                     >car</objectName>, not particularly about that but about other things, about
+                     <eventName type="love">dinner engagements</eventName>, about appointments, I
+                  said, "You know, <persName key="neilan" ref="#director" role="business"
+                     >Marshall</persName>, I never know when l am going to see <persName
+                     key="neilan" ref="#director" role="business">you</persName> and when I am not
+                  going to see <persName key="neilan" ref="#director" role="business"
+                  >you</persName>, and just what <persName key="neilan" ref="#director"
+                     role="business">you</persName> are going to do, and I am in no mood to go on
+                  like that at all; I don't care much about it."</p>
+
+               <p>DORAN: When did <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> tell <persName key="neilan" ref="#director" role="business"
+                     >him</persName> that?</p>
+
+               <p>MINTER: I told <persName key="neilan" ref="#director" role="business"
+                     >him</persName> that when we were driving the <objectName type="vehicle"
+                     >car</objectName>.</p>
+
+               <p>DORAN: How old a <persName key="neilan" ref="#director" role="business"
+                     >man</persName> is <persName key="neilan" ref="#director" role="business"
+                     >Marshall Neilan</persName>?</p>
+
+               <p>MINTER: Just thirty.</p>
+
+               <p>DORAN: Has <persName key="neilan" ref="#director" role="business">he</persName>
+                  ever been <eventName type="marriage">married</eventName>?</p>
+
+               <p>MINTER: Yes, <persName key="neilan" ref="#director" role="business">he</persName>
+                  has been married once for <time>a few days</time>. <persName key="neilan"
+                     ref="#director" role="business">He</persName> remained married to <persName
+                     key="neilanWife">his wife</persName> for a long time, for <time>seven
+                     years</time>, I think, but <persName key="neilan" ref="#director"
+                     role="business">he</persName> was actually only married a few days. I think
+                     <persName key="neilan" ref="#director" role="business">he</persName> married
+                  when <persName key="neilan" ref="#director" role="business">he</persName> was
+                  twenty or nineteen.</p>
+
+               <p>DORAN: Have <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> seen <persName key="neilan" ref="#director" role="business"
+                     >him</persName> since <time>this Friday night</time>?</p>
+
+               <p>MINTER: No, I have not.</p>
+
+               <p>DORAN: Have you talked with <persName key="neilan" ref="#director" role="business"
+                     >him</persName> over the <objectName type="communication"
+                     >telephone</objectName>?</p>
+
+               <p>MINTER: It was really <time>Saturday morning</time>.</p>
+
+               <p>DORAN: Has <persName key="neilan" ref="#director" role="business">he</persName>
+                  called you up on the <objectName type="communication">telephone</objectName>?</p>
+
+               <p>MINTER: No; <persName key="neilan" ref="#director" role="business">he</persName>
+                  may have called me at the <placeName type="residence">New Hampshire
+                     house</placeName> and I wouldn't know.</p>
+
+               <p>DORAN: <persName key="minter" ref="#actor" role="romantic business">You</persName>
+                  haven't talked with <persName key="neilan" ref="#director" role="business"
+                     >him</persName> over the <objectName type="communication"
+                     >telephone</objectName>?</p>
+
+               <p>MINTER: I haven't seen <persName key="neilan" ref="#director" role="business"
+                     >him</persName> or talked to <persName key="neilan" ref="#director"
+                     role="business">him</persName> or come in touch with <persName key="neilan"
+                     ref="#director" role="business">him</persName> in any way</p>
+
+               <p>DORAN: You haven't received any <objectName type="document">letters</objectName>
+                  from <persName key="neilan" ref="#director" role="business">him</persName>?</p>
+
+               <p>MINTER: No.</p>
+
+               <p>DORAN: Did you part friendly or unfriendly?</p>
+
+               <p>MINTER: We did part more or less friendly, as I always did with <persName
+                     key="neilan" ref="#director" role="business">Marshall</persName>, no matter how
+                  angry I would become with <persName key="neilan" ref="#director" role="business"
+                     >him</persName>, somehow you can't bear malice against that <persName
+                     key="neilan" ref="#director" role="business">boy</persName>.</p>
+
+               <p>DORAN: <persName key="minter" ref="#actor" role="romantic business">You</persName>
+                  have become angry with <persName key="neilan" ref="#director" role="business"
+                     >him</persName> on <date>other occasions</date>?</p>
+
+               <p>MINTER: Yes. This night for the time being, I was furious [missing page] [...]
+                     <persName key="neilan" ref="#director" role="business">Mr Neilan</persName> --
+                     <persName key="taylor" ref="#director">Taylor's</persName>, and at the time of
+                     <persName key="taylor" ref="#director">Mr Taylor</persName>'s <eventName
+                     type="murder">death</eventName>, <persName key="harry" ref="#director"
+                     >Harry</persName> was the assistant director in <persName key="taylor"
+                     ref="#director">Mr Taylor's</persName>
+                  <orgName type="company">companies</orgName> there, and he had said <persName
+                     key="harry" ref="#director" role="business">Harry</persName> had been in
+                     <placeName type="room">the room</placeName> looking over the effects -- Just a
+                  minute. I wonder if <persName key="maigne" ref="#director">Charles
+                     Maigne</persName> told me this. I think <persName key="neilan">Mr
+                     Neilan</persName> told me this, too, that <persName key="harry" ref="#director"
+                     >Harry</persName> bad gotten the <objectName type="document"
+                     >letters</objectName> and taken <objectName type="document">them</objectName>
+                  to <persName key="vantrees" role="unknown">Jim Vantrees</persName>, <persName
+                     key="vantrees" ref="studio_employee" role="business">the camera man</persName>,
+                  whereupon I remarked, "I will bet <persName key="ivers" ref="writer"
+                     role="unknown">Mrs Ivers</persName> had them," and I think <persName
+                     key="vantrees" ref="#studio_employee" role="business">he</persName> said,
+                     "<persName key="vantrees" ref="#director" role="business">Jim</persName> gave
+                     <objectName type="document">them</objectName> to <persName key="eyton"
+                     ref="#director" role="business">Mr Eyton</persName>," and that <persName
+                     key="eyton" ref="#director" role="business">Mr Eyton</persName> turned some of
+                     <objectName type="document">them</objectName> over to the <persName
+                     key="examiner" ref="#professional" role="unknown">Examiner</persName>. I am so
+                  afraid l am telling things that are not so here, <persName key="doran"
+                     ref="#writer" role="unknown">Mr Doran</persName>; I don't mean to, but I
+                  couldn't get all of it. That is as clear as I can make it. Anyway, I do remember
+                  this part, <persName key="eyton" ref="#director" role="business">he</persName>
+                  said <persName key="eyton" ref="#director" role="business">he</persName> heard
+                  about <objectName type="document">them</objectName>, and I don't know how
+                     <persName key="eyton" ref="#director" role="business">he</persName> heard about
+                     <objectName type="document">them</objectName>, and that <persName key="eyton"
+                     ref="#director" role="business">he</persName> went down, I believe, to the
+                     <persName key="examiner" ref="#professional" role="unknown"
+                  >Examiner</persName>, to get ahold of <objectName type="document"
+                     >them</objectName> and <persName key="eyton" ref="#director" role="business"
+                     >he</persName> had something to do with <placeName type="city"
+                     >Pasadena</placeName>, a man, he did tell me the man's name. I don't remember
+                  his name, but I believe it be­gan with "S", and this <persName key="neilan"
+                     ref="#director" role="business">man</persName>, <persName key="neilan"
+                     ref="#director" role="business">Marshall</persName> said he was the <persName
+                     key="neilan" ref="#director" role="business">big man</persName> over the entire
+                     <orgName type="group">Examiner force</orgName>, told <persName key="neilan"
+                     ref="#director" role="business">him</persName> to go down and take the
+                     <objectName type="document">letters</objectName>. <persName key="neilan"
+                     ref="#director" role="business">He</persName> said, "Of course, if <persName
+                     key="minter" ref="#actor" role="romantic business">you</persName> breathe this
+                  it wi11 just about throw <persName key="neilan" ref="#director" role="business"
+                     >me</persName> in jail for the rest of <persName key="neilan" ref="#director"
+                     role="business">my</persName> life," but I don't believe it will. Then
+                     <persName key="neilan" ref="#director" role="business">he</persName> said,
+                  "Didn't <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> get <objectName type="document">them</objectName> today?" I
+                  said, "<persName key="minter" ref="#actor" role="romantic business">I</persName>
+                  did not." As well as I remember, <persName key="neilan" ref="#director"
+                     role="business">Marshall</persName> said, "I then sent <objectName
+                     type="document">them</objectName> to the <placeName type="studio">Realart
+                     Studio</placeName> and they ought to be in <persName key="charley"
+                     ref="#studio_employee" role="unknown">Charley</persName>'s hands now or
+                     <persName key="garbut" ref="#studio_employee" role="unknown">Mr
+                     Garbut</persName>." This whole <time>Friday night</time> is most hasy in my
+                  recollection.</p>
+
+               <p>DORAN: This <persName key="neilan" ref="#director" role="business">man</persName>
+                  knew before <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> were in love with <persName key="taylor" ref="#director">Mr
+                     Taylor</persName>?</p>
+
+               <p>MINTER: Oh, yes.</p>
+
+               <p>DORAN: <persName key="minter" ref="#actor" role="romantic business">You</persName>
+                  had told <persName key="neilan" ref="#director" role="business">him</persName>
+                  that, had <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> not?</p>
+
+               <p>MINTER: No; in fact, I had never said to <persName key="neilan" ref="#director"
+                     role="business">Marshall</persName> "<persName key="minter" ref="#director"
+                     >I</persName> am in love with <persName key="taylor" ref="#director">William
+                     Desmond Taylor</persName>." I never had.</p>
+
+               <p>DORAN: How did <persName key="neilan" ref="#director" role="business"
+                     >he</persName> find it out, then?</p>
+
+               <p>MINTER: <persName key="neilan" ref="#director" role="business">He</persName> knew
+                  about it, because we had been friends a long time. Before this <persName
+                     key="neilan" ref="#director" role="business">Marshall</persName> had come to
+                     <placeName type="residence">my house</placeName> very despondent and said, "I
+                  think <persName key="neilan" ref="#director" role="business">I</persName> will go
+                  out in <placeName type="landscape">the garden</placeName> and eat wooly worms." I
+                  said, "Don't feel that way; there are plenty of us who feel the same way." I am
+                  certain <persName key="neilan" ref="#director" role="business">he</persName> knew
+                  about <eventName type="love">this thing</eventName>. I made no secret of
+                     <eventName type="love">it</eventName>, but I didn't promenade it about.</p>
+
+               <p>DORAN: Don't <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> have a recollection of having told <persName key="neilan"
+                     ref="#director" role="business">him</persName>, <persName key="neilan"
+                     ref="#director" role="business">Marshall Neilan</persName>, that you were fond
+                  of <persName key="taylor" ref="#director">Taylor</persName>?</p>
+
+               <p>MINTER: No. Many times I said, "I admire <persName key="taylor" ref="#director">Mr
+                     Taylor</persName>; I respect <persName key="taylor" ref="#director"
+                     >him</persName>; <persName key="neilan" ref="#director" role="business"
+                     >you</persName> know I respect his opinion; what a <persName key="taylor"
+                     ref="#director">wonderful man</persName> I consider <persName key="taylor"
+                     ref="#director">him</persName> to be." <persName key="neilan" ref="#director"
+                     role="business">He</persName> knew I regarded <persName key="taylor"
+                     ref="#director">him</persName> most highly.</p>
+
+               <p>DORAN: Do you remember if <persName key="neilan" ref="#director" role="business"
+                     >he</persName> asked you at the time <persName key="neilan" ref="#director"
+                     role="business">he</persName>
+                  <eventName type="love">pro­posed</eventName> to you if you were in love with any
+                  one else?</p>
+
+               <p>MINTER: No, <persName key="neilan" ref="#director" role="business">he</persName>
+                  didn't ask me that at all.</p>
+
+               <p>DORAN: Did you have any admirers who might have been jealous of <persName
+                     key="neilan" ref="#director" role="business">him</persName>?</p>
+
+               <p>MINTER: There was only one possible <persName key="dickson" role="unknown"
+                     >admirer</persName>, and that was <persName key="dickson" role="unknown">Mr
+                     Dickson</persName>.</p>
+
+               <p>DORAN: Any besides <persName key="dickson" role="unknown">Mr
+                  Dickson</persName>?</p>
+
+               <p>MINTER: No; in fact, if I may say so, neither <persName key="dickson"
+                     role="unknown">Mr Dickson</persName> nor <persName key="neilan" ref="#director"
+                     role="business">Mr Neilan</persName> has been with me constantly enough, or I
+                  feel really care enough for me to do any such thing in my behalf, I mean such as
+                     <eventName type="murder">commit murder</eventName>. In my own mind I am
+                  absolutely convinced that I know they would not.</p>
+
+               <p>DORAN: <persName key="minter" ref="#actor" role="romantic business">You</persName>
+                  think they are incapable, in other words?</p>
+
+               <p>MINTER: I absolutely do.</p>
+
+               <p>DORAN: What kind of <objectName key="cigarette">cigarettes</objectName> was
+                     <persName key="neilan" ref="#director" role="business">Neilan</persName>
+                  smoking <time>the night</time> at the <placeName type="studio"
+                  >studio</placeName>?</p>
+
+               <p>MINTER: <persName key="neilan" ref="#director" role="business">He</persName>
+                  smokes two kinds of <objectName type="posession">cigarettes</objectName>.
+                     <persName key="neilan" ref="#director" role="business">He</persName> smokes a
+                  gold tipped called <objectName type="posession">"Dimi"</objectName> something from
+                     <placeName type="country">Egypt</placeName>, I forget the name, <objectName
+                     type="posession">"D" something</objectName>; I noticed <objectName
+                     type="posession">it</objectName> comes from <placeName type="city"
+                     >Cairo</placeName>; then <persName key="neilan" ref="#director" role="business"
+                     >he</persName> smokes <objectName type="posession">Chesterfield
+                     cigarettes</objectName>. At least, I have seen <persName key="neilan"
+                     ref="#director" role="business">him</persName> smoking <objectName
+                     type="posession">Chesterfield cigarettes</objectName>. I remember that much,
+                  because I have always admired the face of the <objectName type="advertisement"
+                     >Chesterfield boy</objectName> on that <objectName type="advertisement">red
+                     back sign</objectName>, you know, that <objectName type="advertisement"
+                     >laughing boy</objectName> in the light hair that says, "Gee"! <objectName
+                     type="posession">They</objectName> satisfy!"</p>
+
+               <p>DORAN: Did <persName key="neilan" ref="#director" role="business"
+                     >Neilan</persName> take <persName key="minter" ref="#actor"
+                     role="romantic business">you</persName> home then <time>that morning</time>
+                  from the <placeName type="studio">studio</placeName> or did <persName key="minter"
+                     ref="#actor" role="romantic business">you</persName> go back in <placeName
+                     type="vehicle">your own car</placeName>?</p>
+
+               <p>MINTER: No; my <objectName type="vehicle">car</objectName> had been driven back to
+                  its <placeName type="house">garage</placeName> by <persName key="chauffeur"
+                     role="unknown">Mr Neilan's chauffeur</persName> with my <persName
+                     key="scarborough" role="unknown">friend</persName>
+                  <persName key="scarborough" role="unknown">Mr Scarborough</persName> in it. Poor
+                     <persName key="scarborough" role="unknown">Mr Scarborough</persName> had been
+                  driving around with me <time>all evening</time>. I hadn't been able to sleep and
+                  that was why I ws_ out. <persName key="scarborough" role="unknown">He</persName>
+                  said if I didn't mind <persName key="scarborough" role="unknown">he</persName>
+                  would just go on back home, now that I was in safe hands, and get some sleep.
+                     <persName key="scarborough" role="unknown">He</persName> was pretty near dead
+                  tired. <persName key="scarborough" role="unknown">He</persName> isn't a very
+                  strong man.</p>
+
+               <p>DORAN: So <persName key="neilan" ref="#director" role="business">Neilan</persName>
+                  took <persName key="minter" ref="#actor" role="romantic business">you</persName>
+                  <placeName type="residence">home</placeName> then</p>
+
+               <p>MINTER: Yes; right straight <placeName type="residence">home</placeName>.</p>
+
+               <p>DORAN: Did <persName key="neilan" ref="#director" role="business">he</persName>
+                  ask you to keep in confidence the <eventName type="conversation"
+                     >conversation</eventName> you had had with <persName key="neilan"
+                     ref="#director" role="business">him</persName>? Did <persName key="neilan"
+                     ref="#director" role="business">he</persName> tell you not to say anything
+                  about <eventName type="conversation">it</eventName>?</p>
+
+               <p>MINTER: l don't remember <persName key="neilan" ref="#director" role="business"
+                     >him</persName> saying to me, "You must keep this all in secret oonfidenoe";
+                  no, I do not, because when we got <placeName type="residence">home</placeName> we
+                  discussed some of the things with <persName key="cshelby" ref="#family"
+                     role="social">mother</persName>, with the whole family, in fact; <persName
+                     key="neilan" ref="#director" role="business">he</persName> discussed the
+                  seriousness of the <eventName type="conversation">conversation</eventName> and
+                  told me not to do anything without my <persName key="legal" ref="#legal"
+                     role="unknown">at­torneys</persName>.</p>
+
+               <p>DORAN: <persName key="neilan" ref="#director" role="business">He</persName> told
+                  you <eventName type="conversation">that</eventName>?</p>
+
+               <p>MINTER: Yes; <persName key="neilan" ref="#director" role="business">he</persName>
+                  said, "<persName>You</persName> mustn't make any move without your <persName
+                     key="legal" ref="#legal" role="unknown">attorneys</persName>." <persName
+                     key="neilan" ref="#director" role="business">He</persName> spoke of <persName
+                     key="mott" role="unknown">Mr Mott</persName> and said <persName key="mott"
+                     role="unknown">Mr Mott</persName> was very able and that <persName key="mott"
+                     >he</persName> would tell me the right thing to do and not to <eventName
+                     type="legal">make a move</eventName> without <persName key="neilan"
+                     ref="#director" role="business">him</persName>.</p>
+
+               <p>DORAN: Did <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> comment on <persName key="neilan" ref="#director"
+                     role="business">his</persName> concern?</p>
+
+               <p>MINTER: No.</p>
+
+               <p>DORAN: Did <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> say anything to <persName key="neilan" ref="#director"
+                     role="business">him</persName>, for instance to this effect: "Why should
+                     <persName key="neilan" ref="#director" role="business">you</persName> be so
+                  concerned about <persName key="minter" ref="#actor" role="romantic business"
+                     >me</persName>? Why should <persName key="minter" ref="#actor"
+                     role="romantic business">I</persName> consult <persName key="legal"
+                     ref="#legal">attorneys</persName> in connection with <eventName type="legal"
+                     >this affair</eventName>?" or anything like that?</p>
+
+               <p>MINTER: No, I did not, because at the time, when I asked <persName key="neilan"
+                     ref="#director" role="business">him</persName> if <persName key="neilan"
+                     ref="#director" role="business">he</persName> suspected me of <eventName
+                     type="murder">killing</eventName>
+                  <persName key="taylor" ref="#director">Mr Taylor</persName>, we had that out;
+                     <persName key="neilan" ref="#director" role="business">he</persName> assured me
+                     <persName key="neilan" ref="#director" role="business">he</persName> didn't
+                  suspect any such thing, but <persName key="neilan" ref="#director" role="business"
+                     >he</persName> was very much impressed with the gravity of the situation. In
+                  fact, evidently <persName key="neilan" ref="#director" role="business"
+                     >he</persName> knew at that time exactly how these things were going to turn
+                  out. I mean that they would drag everybody's name into it; that the <orgName
+                     type="publishing">papers</orgName> could get hold of for the notoriety of it.
+                     <persName key="neilan" ref="#director" role="business">He</persName> said,
+                  "This involves <orgName type="job">picture people</orgName> and you know how
+                     <persName key="hearst" role="business">Hearst</persName> hates the <orgName
+                     type="job">picture people</orgName>. <persName key="hearst" role="business"
+                     >Hearst</persName> would do anything <persName key="hearst">he</persName> could
+                  if <persName key="hearst" role="business">he</persName> thought you did know
+                     <persName key="taylor" ref="#director">Mr Taylor</persName>," "There are lots
+                  of prominent people in the <orgName type="job">profession</orgName> who knew
+                     <persName key="taylor" ref="#director">him</persName> and loved <persName
+                     key="taylor" ref="#director">him</persName>. They are certainly going to drag
+                  your name into it."</p>
+
+               <p>DORAN: <persName key="minter" ref="#actor" role="romantic business">You</persName>
+                  didn't <eventName type="conversation">telephone</eventName>
+                  <persName key="taylor" ref="#director">Taylor</persName> on <eventName
+                     type="murder">the night he was murdered</eventName>?</p>
+
+               <p>MINTER: No.</p>
+
+               <p>DORAN: Where did <persName key="minter" ref="#actor" role="romantic business"
+                     >you</persName> happen to be <eventName type="murder">that
+                  night</eventName>?</p>
+
+               <p>MINTER: I was at home reading the <objectName type="posession">Cruise of the
+                     Kewa</objectName>. It is a <objectName type="posession">humorous
+                     book</objectName>; it is really a travesty of <objectName type="posession"
+                     >Frederick O'Brien's stories</objectName> of the South Seas. It is very funny,
+                  and I laid there laughing all the <time>evening</time>. I was very -- right while
+                  I was laying on the <objectName type="furniture">couch</objectName> reading aloud
+                  to <persName key="cshelby" ref="#family" role="social">mother</persName> and
+                  sister and we were all laughing heartily at that time, and at the same time
+                     <persName key="taylor" ref="#director">Mr Taylor</persName> was <eventName
+                     type="murder">being murdered</eventName>. It seems very horrible to me.</p>
+
+               <p>DORAN: <persName key="minter" ref="#actor" role="romantic business">You</persName>
+                  had no company at <placeName type="residence">home</placeName>
+                  <eventName type="murder">that night</eventName>?</p>
+
+               <p>MINTER: Let me see. I don't remember any. Possibly <persName key="stockdale"
+                     role="unknown">Mr Stockdale</persName>, he generally did, or maybe somebody
+                  dropped in. I don't just remember. Usually every evening somebody drops in. I know
+                  they were not there at the time I was reading <objectName type="lit">the
+                     book</objectName>.</p>
+
+               <p>DORAN: Your <objectName type="vehicle">automobiles</objectName> were all
+                     <placeName type="residence">home</placeName>?</p>
+
+               <p>MINTER: Yes, unless I put my <objectName type="vehicle">car</objectName> in the
+                     <placeName type="house">garage</placeName> called the <placeName
+                     type="business">Standard Garage</placeName>. I leave it there sometimes, the
+                     <placeName type="business">Standard Garage</placeName> on <placeName
+                     type="street">Hollywood Boulevard and Western Avenue</placeName>. Sometimes
+                  when my girl friends stop with me and have her <objectName type="vehicle"
+                     >car</objectName>, I would move out and put it in this <placeName type="house"
+                     >garage</placeName> and maybe wouldn't call for it for <time>several
+                     days</time>. I haven't been feeling well for some time; I have had bronchitis.
+                  I hadn't gotten well when this awful shock came to me, and I haven't used the
+                  little <objectName type="vehicle">car</objectName> very much.</p>
+
+               <p>DORAN: Do you have a <persName key="chaucy" ref="#servant" role="unknown"
+                     >chauffeur</persName>?</p>
+
+               <p>MINTER: Yes; faithful old <persName key="chaucy" ref="#servant" role="unknown"
+                     >Chauncy</persName>. <persName key="chaucy" ref="#professional" role="unknown"
+                     >Chauncy</persName> is just as concerned about this thing as <persName
+                     key="cshelby" role="social">my mother</persName> is.</p>
+
+               <p>DORAN: Well, I don't think of anything else I care to inquire about now.</p>
+
+               <p>MINTER: <persName key="doran" ref="#writer" role="unknown">Mr Doran</persName>, if
+                  I can be of any possible help in any way, it is true I don't know any more than I
+                  have told you; if I can, please call on me the first thing, won't you?</p>
+
+               <p>DORAN: Thank you, very much. You may think of little things of which you may not
+                  appreciate the imporance, <persName key="mott" role="unknown">Mr
+                  Mott</persName>.</p>
+
+               <p>MINTER: As I told <persName key="mott" role="unknown">Mr Mott</persName> today, I
+                  remember saying to <persName key="mott" role="unknown">Mr Mott</persName>, "I am
+                  so tired I am like a little child. I speak words mechanically. I sit, sleep, get
+                  up, walk and dress, and I don't see exactly what I am doing."</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

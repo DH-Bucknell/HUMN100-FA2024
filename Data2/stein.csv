@@ -1,69 +1,67 @@
 Byline,Type,Value,Attribute
-Lily Stein,persName,"Mrs. Shelby",cshelby
-Lily Stein,persName,"(Taylor)",taylor
+Lily Stein,persName,"Mrs. Shelby",#actor
+Lily Stein,persName,"(Taylor)",#director
 Lily Stein,eventName,"death",death
 Lily Stein,eventName,"murdered",murdered
-Lily Stein,persName,"Mrs. Shelby",cshelby
+Lily Stein,persName,"Mrs. Shelby",#actor
 Lily Stein,placeName,"office",office
-Lily Stein,persName,"Mrs. Shelby",cshelby
+Lily Stein,persName,"Mrs. Shelby",#actor
 Lily Stein,placeName,"house (N. Hampshire house)",residence
 Lily Stein,objectName,"phone",communication
-Lily Stein,persName,"Mr. Smith",smith
-Lily Stein,persName,"Mrs. Shelby",cshelby
-Lily Stein,persName,"Taylor",taylor
-Lily Stein,persName,"Miss Berger",berger
-Lily Stein,persName,"Mrs. Shelby",cshelby
-Lily Stein,persName,"Mr. Taylor",taylor
-Lily Stein,persName,"Mrs. Shelby",cshelby
+Lily Stein,persName,"Mr. Smith",#writer
+Lily Stein,persName,"Mrs. Shelby",#actor
+Lily Stein,persName,"Taylor",#director
+Lily Stein,persName,"Miss Berger",#professional
+Lily Stein,persName,"Mrs. Shelby",#actor
+Lily Stein,persName,"Mr. Taylor",director
+Lily Stein,persName,"Mrs. Shelby",#actor
 Lily Stein,placeName,"office",work
 Lily Stein,objectName,"telephone",communication
-Lily Stein,persName,"Mrs. Charlotte Shelby",cshelby
-Lily Stein,persName,"Margery",berger
+Lily Stein,persName,"Mrs. Charlotte Shelby",#actor
+Lily Stein,persName,"Margery",#professional
 Lily Stein,placeName,"office",work
-Lily Stein,persName,"Lasky's",lasky
+Lily Stein,persName,"Lasky's",#studio_employee
 Lily Stein,placeName,"New Hampshire home",residence
 Lily Stein,orgName,"Lasky's Studio",company
 Lily Stein,placeName,"office",work
-Lily Stein,persName,"Miss Minter",minter
-Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Miss Minter",#actor
+Lily Stein,persName,"Mr. Taylor",#director
 Lily Stein,placeName,"studio",studio
-Lily Stein,persName,"Mr. Taylor",taylor
-Lily Stein,persName,"Miss Minter",minter
-Lily Stein,persName,"Miss Normand",normand
-Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Mr. Taylor",#director
+Lily Stein,persName,"Miss Minter",#actor
+Lily Stein,persName,"Miss Normand",#actor
+Lily Stein,persName,"Mr. Taylor",#director
 Lily Stein,placeName,"house",residence
-Lily Stein,persName,"Mr. Taylor",taylor
-Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Mr. Taylor",#director
+Lily Stein,persName,"Mr. Taylor",#director
 Lily Stein,eventName,"dead",dead 
 Lily Stein,placeName,"bed",residence
-Lily Stein,persName,"Harry",harryFellows
-Lily Stein,persName,"Douglas MacLean",dougMaclean
-Lily Stein,persName,"Jesserun",jessurun
-Lily Stein,persName,"Howard",howardFellows
-Lily Stein,persName,"Henry Peavey",henrypeavey
-Lily Stein,persName,"doctor",doctor
-Lily Stein,persName,"Mr. Eyton",eyton
-Lily Stein,persName,"Arthur Hoyt",hoyt
-Lily Stein,persName,"Charlie Maigne",maigne
+Lily Stein,persName,"Harry",#director
+Lily Stein,persName,"Douglas MacLean",#actor
+Lily Stein,persName,"Howard",#servant
+Lily Stein,persName,"Henry Peavey",#servant
+Lily Stein,persName,"doctor",#professional
+Lily Stein,persName,"Mr. Eyton",#director
+Lily Stein,persName,"Arthur Hoyt",#actor
+Lily Stein,persName,"Charlie Maigne",director
 Lily Stein,objectName,"package",package
-Lily Stein,persName,"Jimmie Vantrees",jimmie
-Lily Stein,persName,"Mr. Taylor's Cameraman",cameraman
-Lily Stein,persName,"Mrs. Ivers (Jimmie's mother)",ivers
-Lily Stein,persName,"Jimmie",jimmie
-Lily Stein,persName,"Mrs. Ivers",ivers
+Lily Stein,persName,"Mr. Taylor's Cameraman",#professional
+Lily Stein,persName,"Mrs. Ivers (Jimmie's mother)",#director
+Lily Stein,persName,"Jimmie",#actor
+Lily Stein,persName,"Mrs. Ivers",#director
 Lily Stein,placeName,"studio",studio
-Lily Stein,persName,"Mr. Eyton",eyton
-Lily Stein,persName,"Mr. Eyton",eyton
-Lily Stein,persName,"Mr. Taylor",taylor
+Lily Stein,persName,"Mr. Eyton",#director
+Lily Stein,persName,"Mr. Eyton",director
+Lily Stein,persName,"Mr. Taylor",#director
 Lily Stein,eventName,"killed",killed
 Lily Stein,placeName,"bank",bank
-Lily Stein,persName,"Harry",harryFellows
+Lily Stein,persName,"Harry",#director
 Lily Stein,placeName,"Robinson's",store
 Lily Stein,placeName,"Robinson's Store",store
-Lily Stein,persName,"Harry",harryFellows
-Lily Stein,persName,"Mr. Taylor",taylor
-Lily Stein,persName,"Taylor",taylor
-Lily Stein,persName,"Mr. Taylor's",taylor
+Lily Stein,persName,"Harry",director
+Lily Stein,persName,"Mr. Taylor",#director
+Lily Stein,persName,"Taylor",#director
+Lily Stein,persName,"Mr. Taylor's",#director
 Lily Stein,placeName,"house",residence
 Lily Stein,eventName,"killed",killed
 Lily Stein,objectName,"watch",jewelry
@@ -95,16 +93,16 @@ Lily Stein,placeName,"dining room",house
 Lily Stein,placeName,"upstairs",location
 Lily Stein,objectName,"clock",decoration
 Lily Stein,placeName,"New Hampshire house",residence
-Lily Stein,persName,"Taylor",taylor
+Lily Stein,persName,"Taylor",#director
 Lily Stein,eventName,"murdered",murdered
-Lily Stein,persName,"Mrs. Shelby",cshelby
+Lily Stein,persName,"Mrs. Shelby",#actor
 Lily Stein,placeName,"upstairs",location
 Lily Stein,objectName,"window",passage
-Lily Stein,persName,"Taylor",taylor
+Lily Stein,persName,"Taylor",#director
 Lily Stein,eventName,"murdered",murdered
 Lily Stein,objectName,"gun",gun
-Lily Stein,persName,"M.M. Minter",minter
-Lily Stein,persName,"Mary",minter
+Lily Stein,persName,"M.M. Minter",#actor
+Lily Stein,persName,"Mary",#actor
 Lily Stein,objectName,"25 caliber blue automatic",gun
 Lily Stein,objectName,"shells",gun
 Lily Stein,objectName,"gun",gun

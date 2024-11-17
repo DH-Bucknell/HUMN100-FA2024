@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <?xml version="1.0" encoding="UTF-8"?>
+         <?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+         <?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+         <TEI xmlns="http://www.tei-c.org/ns/1.0">
+            <teiHeader>
+               <fileDesc>
+                  <titleStmt>
+                     <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+                     <respStmt>
+                        <persName>Diane Jakacki</persName>
+                        <resp>Instructor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Waina Ali</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Jada Alvarez</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Colin Caricato</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>John Cochran</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Lucy DiChristina</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Nick Eisele-Bockelkamp</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Ethan Esclamado</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Spencer Firestone</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Henry Gibbons</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Daniel Hou</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Campbell Killian</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Olivia King</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>William Le</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Charlie Meehleib</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Carter Morton</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Kate Reyen</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Blythe Sena</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Hunter Sloan</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Rylie Smith</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Lily Stein</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Riley Twiss</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Katrina von Behren</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Emma Walkowiak</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>Amanda Woertz</persName>
+                        <resp>Editor</resp>
+                     </respStmt>
+                  </titleStmt>
+                  <publicationStmt>
+                     <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+                        2025</p>
+                  </publicationStmt>
+                  <sourceDesc>
+                     <p>These interviews and statements are gathered from a number of sources, including
+                        "Taylorology" and Robert Giroux's Deed of Death</p>
+                  </sourceDesc>
+               </fileDesc>
+               <encodingDesc>
+                  <classDecl>
+                     <taxonomy>
+                        <category xml:id="actor"/>
+                        <category xml:id="director"/>
+                        <category xml:id="studio_employee"/>
+                        <category xml:id="military"/>
+                        <category xml:id="law_enforcement"/>
+                        <category xml:id="legal"/>
+                        <category xml:id="servant"/>
+                        <category xml:id="family"/>
+                        <category xml:id="professional"/>
+                        <category xml:id="writer"/>
+                     </taxonomy>
+                  </classDecl>
+               </encodingDesc>
+            </teiHeader>
+            <text>
+               <body>
+                  <div type="interview">
+                     <head>CHRISTINA JEWETT, maid for Mrs. MacLean: Statement taken 2-9-22 </head>
+                     <byline>Edited by Kate Reyen</byline>
+                     
+                     <p>(Witness after explaining that she was waiting between the service of courses to the
+                        <persName key="macleans" ref="#family" role="social">MacLeans</persName>, states as follows) </p>
+                     
+                     <p>JEWETT: While I was waiting there I heard <persName key="murderer">a man</persName> come from the
+                        <placeName type= "street">corner</placeName> and go down in the <placeName type="passage">alley</placeName> and
+                        <persName key="murderer">he</persName> stopped right near against a big
+                        <objectName type="yard">fence</objectName> there in the <placeName type="passage">alley</placeName>, and it
+                        seems to me <persName key="murderer">he</persName> stopped just between the
+                        <placeName type="house">garage</placeName> and <placeName type= "residence">Mr. Jesserun's house</placeName>.
+                        <persName key="murderer">He</persName> had <objectName type="clothing">flat shoes</objectName> on, I know
+                        that.</p>
+                     
+                     <p>POLICE: You think it was a man's steps?</p>
+                     
+                     <p> JEWETT: Yes. When I came in after she rang the <objectName type="bell">bell</objectName> I heard
+                        <persName key="murderer">him</persName> move around just as she rang the
+                        <objectName type="bell">bell</objectName> for me, and I went up and walked in and then I came
+                        out from the <placeName type="house">dining room</placeName>, then was I heard
+                        <persName key="murderer">him</persName> walking, I thought <persName key="murderer">he</persName> walked in
+                        between <placeName>the buildings</placeName> and between <placeName type="house">the
+                           garage</placeName> and <placeName type="residence">the house,Mr. Jesserun living in</placeName> * *
+                        and then I cleared out the <objectName type="furniture">table</objectName> and as I cleared out the
+                        <objectName type="furniture">table</objectName> and was going to take out the
+                        <objectName type="decoration">tablecloth</objectName> was then I heard the shot. Yes, <time>in the
+                           morning</time>, the <time>next morning</time> * * * around the back in <placeName type="passage">the alley</placeName> *
+                        * * I heard somebody coming behind me. I turned my head, I saw <persName key="howardFellows" ref="#servant" role="business">Mr.
+                           Taylor's man</persName> who drives <objectName type="vehicle">the machine</objectName> and he said "Good morning." He was
+                        in a great hurry and I thought well, he is late * * * because he is supposed to have
+                        <objectName type="vehicle">the machine</objectName> out I guess before <time>8 o'clock</time> in front for <persName key="taylor" ref="#director">Mr.
+                           Taylor</persName> ** I guess just about <time>8 o'clock</time>. (Witness quoting
+                        <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName>) She says "Come up stairs". I says "All right."
+                        I come up stairs. She says "<persName key="taylor" ref="#director">Mr. Taylor</persName> was shot last night."
+                        "Oh' I said "Was he, that is what I heard," and she said "Yes." I think I said to
+                        <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName> "That is <persName key="murderer">the man</persName> I heard in <placeName type="passage">the
+                           alley</placeName>. POLICE: Are you sure <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName> told you
+                        when you went up-there ‚Äì ‚Äì ‚Äî you say at <time>8 o'clock</time></p>
+                     
+                     <p>JEWETT: <time>In the morning</time>.</p>
+                     
+                     <p>POLICE: Are you sure <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName>told you at that time
+                        <persName key="taylor" ref="#director">Mr. Taylor</persName> had been shot? JEWETT: Yes.</p>
+                     
+                     <p>POLICE: What time of the day was that?</p>
+                     
+                     <p>JEWETT: <time>8 o'clock in the morning</time>.POLICE: Can you think of that remark
+                        <persName key="faithMaclean" ref="#actor" role="social">Mrs. MacLean</persName> said "<persName key="taylor" ref="#director">Mr. Taylor</persName> is shot."
+                        Didn't she say, "<persName key="taylor" ref="#director">Mr. Taylor</persName> is dead."</p>
+                     
+                     <p>JEWETT: No, she said "<persName key="taylor" ref="#director">Mr. Taylor</persName> has been shot."</p>
+                  </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>MRS. CHARLOTTE SHELBY mother of Mary M.Minter Statement taken 4-9-26</head>
+            <byline>Edited by William Le</byline>
+
+            <p> POLICE: During the time in the east there, when <persName key="taylor"
+                  ref="#director">he</persName> (Taylor) was directing her (<persName key="minter"
+                  ref="#actor" role="romantic business">Mary</persName>), did you observe any
+               awakening of a friendship or love between the two of them?</p>
+
+            <p>SHELBY: No.</p>
+
+            <p>POLICE: When did you first see that, or did you at all?</p>
+
+            <p>SHELBY: I never did know it, <persName key="mkeyes" ref="law_enforcement"
+                  role="unknown">Mr. Keyes</persName>, until <persName key="mott" ref="#legal"
+                  role="unknown">Mr. Mott</persName> told me of <objectName type="document">the
+                  letters</objectName> that had been found in <persName key="taylor"
+                  >Taylor</persName>'s <objectName type="furniture">drawer</objectName> that
+               absolutely is convincing that there had been something there.</p>
+
+            <p>POLICE: You mean after <persName key="taylor">he</persName> was killed</p>
+
+            <p>SHELBY: Yes, and <persName key="eyton" ref="#servant" role="business">Mr.
+                  Eyton</persName> told me also after <persName key="taylor">Mr. Taylor</persName>
+               was killed that <persName key="etyton" ref="#servant" role="business">he</persName>
+               knew that, that <persName key="etyton" ref="#servant" role="business">he</persName>
+               knew for a long time that <persName key="minter" ref="#actor"
+                  role="romantic business">Mary</persName> and <persName key="taylor">Mr.
+                  Taylor</persName> had been intimate, and I said then "<persName key="eyton"
+                  ref="#servant" role="business"> Mr. Eyton</persName> you should have told me."</p>
+
+            <p>POLICE: During that time. <persName key="cshelby" ref="#family" role="business">Mrs.
+                  Shelby</persName> (keyerring to latter part of <time>1919</time> and early part of
+                  <time>1920</time>), was <persName key="minter">Mary</persName> going around with
+                  <persName key="taylor">Taylor</persName> to your knowledge at all?</p>
+
+            <p>SHELBY: Why no, and <persName key="taylor">Mr. Taylor</persName> was the most
+               perfectly poised man, such a proper man. <persName ref="taylor">He</persName> would
+               take <persName key="minter" ref="#actor" role="romantic business">Mary</persName> out
+               to <name type="event">dinner</name> and <persName key="taylor">he</persName> would
+               invariably invite me and <persName key="miles" ref="#family" role="business">my
+                  mother</persName> to go to dinner with them.</p>
+
+            <p>POLICE: Did you make any objections?</p>
+
+            <p>SHELBY: Not the least in the world.</p>
+
+            <p>POLICE: Were you friendly with him?</p>
+
+            <p>SHELBY: Oh, yes. ***</p>
+
+            <p>POLICE: Do you remember anyone in particular with whom <persName key="minter"
+                  ref="#actor" role="romantic business">she</persName> was associating at that
+               time?</p>
+
+            <p>SHELBY: It wasn't men. Men hadn't begun to give me any trouble at that time. It was
+               women.</p>
+
+            <p>POLICE: Who was that?</p>
+
+            <p>SHELBY: <persName key="jeannie" ref="#actor" role="romantic business">Jeannie
+                  McPherson</persName>.</p>
+
+            <p>POLICE: <persName key="taylor">Taylor</persName>'s name never entered into <eventName
+                  type="conversation">the discussion</eventName> then?</p>
+
+            <p>SHELBY: No. I always felt that, when <persName key="minter" ref="#actor"
+                  role="romantic business">Mary</persName> was out with <persName key="taylor">Mr.
+                  Taylor</persName>
+               <persName key="minter" ref="#actor" role="romantic business">she</persName> was under
+               a good influence. ***</p>
+
+            <p>POLICE: Did you ever have any words with <persName key="taylor">Mr. Taylor</persName>
+               over <persName key="minter" ref="#actor" role="romantic business"
+               >Mary</persName>?</p>
+
+            <p>SHELBY: Never a word, never the slightest word. (Speaking of the time <persName
+                  key="cshelby" ref="#family" role="business">Mrs. Shelby</persName> went to
+                  <persName key="taylor">Taylor</persName>'s <placeName type="residence">
+                  home</placeName> at <time>2 a.m.</time> looking for <persName key="minter"
+                  ref="#actor" role="romantic business">Mary</persName>).</p>
+
+            <p>POLICE: Did this secretary of yours, <persName key="whitney" ref="#servant"
+                  role="unknown">Miss Whitney</persName>, go in <placeName type="residence">the
+                  house</placeName> with you?</p>
+
+            <p>SHELBY: No, I know <persName key="whitney" ref="#servant" role="unknown"
+                  >she</persName> didn‚Äôt because there was nobody in <placeName key="house">the
+                  room</placeName> but <persName key="taylor">Mr. Taylor</persName> and me.
+                  <persName key="whitney" ref="#servant" role="unknown">She</persName> stayed in the
+                  <objectName key="vehicle">car.</objectName></p>
+
+            <p>POLICE: Did you have any <objectName ref="gun">weapon</objectName> with you at that
+               time?</p>
+
+            <p> SHELBY: Good lord, no.</p>
+
+            <p>POLICE: You are sure you didn't have <objectName type="gun">a revolver</objectName>
+               with you?</p>
+
+            <p>SHELBY: No, <persName key="mkeyes" ref="law_enforcement" role="unknown">Mr.
+                  Keyes</persName>.</p>
+
+            <p>POLICE: Well, you owned <objectName type="gun">a revolver</objectName> at that
+               time?</p>
+
+            <p>SHELBY: No. If I owned <objectName type="gun">a revolver</objectName> at that time, I
+               don‚Äôt know where it was. It was thrown away.</p>
+
+            <p>POLICE: What date was it when you were at <persName key="taylor">Mr.
+                  Taylor</persName>'s <placeName type="residence">home</placeName> that you were
+               telling about?</p>
+
+            <p>SHELBY: I think I could almost fix that date,<persName key="mkeyes"
+                  ref="law_enforcement" role="unknown"> Mr. Keyes</persName>, keyerring to
+                  <objectName type="diary">a certain little book</objectName>, you know. Because I
+               was reading <persName ref="minter">Mary</persName>'s<objectName type="diary">
+                  diary</objectName> and <persName key="minter" ref="#actor"
+                  role="romantic business">she</persName> goes on to say in this <objectName
+                  type="diary">diary</objectName> that <persName key="minter" ref="#actor"
+                  role="romantic business">she</persName> and I had some little words that evening,
+               you see, and <persName key="minter" ref="#actor" role="romantic business"
+                  >she</persName> has written it very clearly, about the small girl going out in a
+               huff, etc., and <persName key="minter" ref="#actor" role="romantic business"
+                  >she</persName> adds that <persName key="cshelby" ref="#family" role="business"
+                  >mother</persName> was right. **** And I think the date of that happeningis right
+               in her <objectName type="diary">diary</objectName>.</p>
+
+            <p>POLICE: Did you ever make a threat to kill<persName key="taylor"> Mr.
+                  Taylor</persName></p>
+
+            <p>SHELBY: No, <persName key="mkeyes" ref="law_enforcement" role="unknown">Mr.
+                  Keyes</persName>. I never had any reason or desire to kill <persName key="taylor"
+                  >Mr. Taylor</persName>.</p>
+
+            <p>POLICE: And you are positive, are you, <persName key="cshelby" ref="#family"
+                  role="business">Mrs. Shelby</persName>, that you never at any time threatened
+                  <persName key="taylor">Mr. Taylor</persName>?</p>
+
+            <p>SHELBY: Certainly not, I had no reason. I never threatened to shot <persName
+                  key="taylor">Mr. Taylor</persName>. I don't think I ever threatened to shoot any
+               man. To shoot him? No, because I had no reason. I had no provocation. I never had a
+               quarrel with <persName key="taylor">Mr. Taylor</persName> in my life.</p>
+
+            <p>POLICE: You spoke of having thrown <objectName type="gun">a gun</objectName>
+               away?</p>
+
+            <p>SHELBY: No, <persName key="miles" ref="#family" role="business">my mother</persName>
+               did that.</p>
+
+            <p>POLICE: That was your <objectName ref="gun">gun</objectName>?</p>
+
+            <p>SHELBY: Yes. It was <objectName type="gun">a gun</objectName> I used once. I shot it
+               once and once was enough.</p>
+
+            <p>POLICE: How long had you had <objectName type="gun">the gun</objectName>?</p>
+
+            <p>SHELBY: <objectName type="gun">The gun</objectName> was given to me in <placeName
+                  type="city">Santa Barbara</placeName> by <persName key="eaves" ref="#professional"
+                  role="unknown">Harry Eaves</persName>, who has <placeName type="shop">a jewelry
+                  shop</placeName> up there ‚Äî <objectName type="gun">a very short little
+                  pistoi</objectName> - a little automatic - ***** and he said to me, "I have got
+               two and you ought to have one.</p>
+
+            <p>POLICE: Where did you say you shot it once?</p>
+
+            <p>SHELBY: I got a friend of mine to take me out in <placeName type="city">Santa
+                  Barbara</placeName>, just off the road, and we shot it into a bank and I shot it
+               once.</p>
+
+            <p>POLICE: Did you ever do any target practice with it?</p>
+
+            <p>SHELBY: Yes, that one time. It was enough for me. The thing was too short. I can
+               shoot <objectName type="gun">a long pistol</objectName>. I wouldn‚Äôt mind shooting
+                  <objectName type="gun">a shot gun</objectName>. ***</p>
+
+            <p>POLICE: Well, <persName key="cshelby" ref="#family"
+               role="business">Mrs. Shelby</persName>, <persName key="minter" ref="#actor" role="romantic business"
+                  >Mary</persName> shot that <objectName type="gun">pistol</objectName> off one
+               time, didn't <persName key="minter" ref="#actor" role="romantic business">she</persName>?</p>
+
+            <p>SHELBY: Yes, <persName key="minter" ref="#actor" role="romantic business">she</persName> shot it off twice.</p>
+
+            <p>POLICE: Was that the "suicide"?</p>
+
+            <p>SHELBY: That‚Äôs the ‚Äúsuicide‚Äù (Re: supposed suicide) "Well, we were living at 56
+               Fremont Place. **** I remember the secretary was there that night, <persName
+                  key="whitney" ref="#servant" role="unknown" >Miss Whitney</persName> *** <persName key="minter" ref="#actor" role="romantic business">She</persName>
+               (Mary) rushed up <objectName type="location">the stairs</objectName> saying "I am
+               going to end it, all. I am going to end it all. ** Then <persName key="whitney" ref="#servant" role="unknown"
+                  >Charlotte</persName> (Miss Whitney) said to me, "<persName key="cshelby" ref="#family"
+                     role="business">Mrs.
+                     Shelby</persName>, oh, <persName key="cshelby" ref="#family"
+                        role="business">Mrs. Shelby</persName>, there's a
+               pistol in your closet." *** But she ran up the <placeName type="location"
+                  >stairs</placeName> and ran in my room and closed the <placeName type="passage"
+                  >door</placeName>.</p>
+
+            <p>POLICE: Did <persName key="minter" ref="#actor" role="romantic business">she</persName> lock <placeName type="passage">the
+                  door</placeName>?</p>
+
+            <p>SHELBY: Oh, locked <placeName type="passage">the door</placeName>, and the first
+               thing we knew- bang. *** and a second more and - bang ‚Äì the second shot. **** The
+               chauffeur (<persName key="eaton" ref="#servant" role="business">Chauncey Eaton</persName>) appeared, and the night
+               watchman (?), and I said "Break in the door" The two men rushed against the door, the
+               door fell in, and there lay <persName key ="minter" ref="#actor" role="romantic business">Mary</persName> on my bedroom
+               floor *** They picked her up so tenderly, and <persName key="eyton" ref="#servant" role="business"
+                  >Chauncey</persName> turned her over and <persName key="eyton" ref="#servant" role="business">he</persName> said,
+               "Why, <persName key="cshelby" ref="#family"
+                  role="business">Mrs. Shelby</persName>, there is no blood on her." ****
+               By that time <persName key="whitney" ref="#servant" role="unknown">the secretary</persName> had faded out of the
+               picture in a faint *** and she (<persName key="miles" ref="#family" role="business">Mrs. Shelby's
+                  mother</persName>, Mrs. Miles) said, "Why no, <persName key="miles" ref="#family" role="business">she</persName> is
+               not shot; stand her up, Chauncey." *** Then <persName key="minter" ref="#actor" role="romantic business">she</persName>
+               (Mary) looked at us and said, "I thought I would give you all a jolt."</p>
+
+            <p>POLICE: ** was there anything said about <name key="taylor">Taylor</name> in that?
+               Did <persName key="taylor">he</persName> have anything to do with that quarrel?</p>
+
+            <p>SHELBY: No, I don't think <persName key="taylor">he</persName> had anything to do
+               with that *** I may have asked <persName key="minter" ref="#actor" role="romantic business">her</persName> if she had been
+               out with . But there was no quarrel about <name key="taylor">Mr. Taylor</name>? It
+               seems to me <persName key="minter" ref="#actor" role="romantic business">she</persName> mentioned Taylor's name. I don't
+               remember now, or what. Then the report that I got that you have been practicing some
+                  <objectName type="gun">rerevolver</objectName> shooting - is there anything to
+               that? I told you I shot it once. I know a man who will verify it - <name
+                  key="stockdale" ref="#professional" role="unknown">Mr. Stockdale</name>.</p>
+
+            <p>POLICE: No other <objectName type="gun">pistol</objectName> at any other time?</p>
+
+            <p>SHELBY: No, I am afraid of <objectName type="gun">pistols</objectName>. ***</p>
+
+            <p>POLICE: What did <persName key="miles" ref="#family" role="business">your mother</persName> do with<objectName
+               type="gun"> your pistol</objectName> after <persName key="minter" ref="#actor" role="romantic business">Mary</persName>
+               pulled this stunt.</p>
+
+            <p>SHELBY: That was all there was to it. Of course, we found <persName key="whitney" ref="#servant" role="unknown"
+                  >Charlotte Witney</persName> in a faint on the <placeName type="house"
+                     >floor</placeName> and we had to revive her. *** And <persName key="whitney" ref="#servant" role="unknown"
+                  >Chauncey</persName> was trying to find out where <objectName type="gun">the
+                  bullets</objectName> went, and we discovered <objectName type="gun">one
+                  bullet</objectName> had been shot into my closet, and we found that, and another
+               one went up in the ceiling of the closet. I remember <persName key="miles" ref="#family" role="business"
+                  >mother</persName> taking <objectName type="gun">the pistol</objectName>. he said,
+               "Here, give me that. That‚Äôs enough of <objectName type="gun">pistols</objectName>
+               lying around.</p>
+
+            <p>POLICE: What did <persName key="miles" ref="#family" role="business">she</persName> do with it. I never saw it
+               again. I think I asked her once or twice what she did with it, and <persName
+                  key="miles" ref="#family" role="business">she</persName> said, "It's out. It's put away."</p>
+
+            <p>SHELBY: I had <eventName type="meeting">an engagement</eventName> with a man the next
+               morning at 9 o'clock. ** This man was a client of a friend of my daughter's,
+                  <persName key="heiner" ref="#professional" role="unknown">Mr. Albert Heiner</persName>. *** I also had been talking
+               to a man about buying <objectName type="music">an Aeolian Organ</objectName>, and
+               <persName key="heiner" ref="#professional" role="unknown">he</persName> stopped in that morning *** And while these
+               two men were in the room, the telephone rang. It was then a little after 9, and
+               <persName key="stockdale" ref="#professional" role="unknown">Mr. Carl Stocktdle</persName> called me up. <persName
+                  key="heiner" ref="#professional" role="unknown">He</persName> had gone to the studio to work and had learned of the
+               death of <persName key="taylor">William Desmond Taylor</persName>. Naturally, knowing
+               that <persName key="taylor">he</persName> directed <persName key="minter" ref="#actor" role="romantic business"
+                  >Mary</persName>, <persName key="taylor">he </persName>called me up and told me
+               that <persName key="taylor">William Desmond Taylor</persName> had been found dead
+               that morning.</p>
+
+            <p>POLICE: Just what did <persName key="taylor">he</persName> tell you?</p>
+
+            <p>SHELBY: <persName key="heiner" ref="#professional" role="unknown">He</persName> said, "<persName key="cshelby" ref="#family"
+               role="business">Mrs.
+                  Shelby</persName>, I just wanted to call you up and tell you, I am at <placeName
+                  type="studio">the studio</placeName>. <persName key="taylor">William Desmond
+                  Taylor</persName> was found dead this morning." "Oh," I said, "that's terrible."
+               That's all <persName  key="heiner" ref="#professional" role="unknown">he</persName> knew. ** I turned to these gentlemen
+               and said, "Oh, my, it's terrible. A man who directed <persName key="minter" ref="#actor" role="romantic business">my
+                  daughter</persName>, a very charming gentleman, was found dead <time>this
+                  morning</time>." **** Then <objectName type="communication">the
+                     telephone</objectName> rang again and the inevitable <persName key="berger" ref="#professional" role="business">Miss
+                     Berger</persName> again. *** I said, "Oh, <persName key="berger" ref="#professional" role="business"
+                        >Margery</persName>, <persName key="stockdale" ref="#professional" role="unknown">Mr. Stockdale</persName> just
+               telephoned me from <placeName type="studio">the studio</placeName> that <name
+                  ref="taylor">Mr. Taylor</name> was found dead <time>this morning</time>." **** In
+               a few minutes <objectName type="communication">the telephone</objectName> rang again.
+               *** This time <persName key="berger" ref="#professional" role="business">Miss Berger</persName> said, "<persName
+                  key="taylor">William Desmond Taylor</persName> was murdered <time>this
+                  morning</time>. <persName key="taylor">He</persName> was shot." I said, "Oh, my,
+               this is terrible; the man was murdered," Was shot? So we discussed that and the organ
+               man knew I was waiting to go out with <persName key="rice" ref="#professional" role="business">Mr. Rice</persName> so **
+               <persName key="rice" ref="#professional" role="business">Mr. Rice</persName> and I got in his <objectName
+                  type="vehicle">car</objectName> *** and I said, ‚ÄúMr. Rice, do you mind if I stop
+               at <placeName type="residence">my house</placeName> and tell my people?" *** and it
+               seems to me that on the way crossing <placeName type="state">Vermont</placeName> met
+               <persName key="miles" ref="#family" role="business">my mother</persName> coming over in a car with the chauffeur
+               and I just waved to her to turn around and come on back with us. I remember that
+               distinctly. ***** I was in a great hurry because <persName key="rice" ref="#professional" role="business">Mr.
+                  Rice</persName> was waiting for me in front, and I remember the chauffeur had
+               parked <objectName type="vehicle">my blue Packard</objectName> in the <placeName
+                  type="house">driveway</placeName>, and something was said about Mary wanted
+               <objectName type="vehicle">the car</objectName>. <persName key="whitney" ref="#servant" role="unknown"
+                  >Chauncey</persName> had gone to get <persName key="minter" ref="#actor" role="romantic business" >Mary</persName>'s<objectName type="vehicle">
+                  car</objectName>. However, I went <placeName type="house">upstairs</placeName> in
+               a great hurry, and I said, "Oh, <persName key="ivers" ref="#writer" role="business"> Julia</persName>, dear,
+                  <persName key="taylor">Mr. Taylor</persName> was murdered last night." <persName
+                     key="ivers" ref="#writer" role="business">She </persName>said, "Oh, it isn't possible. I can't believe it. It
+               isn't true." I said, "Oh, yes, it is. <persName key="berger" ref="#professional" role="business">Miss Berger</persName>
+               told me so." *****</p>
+
+            <p>POLICE: Did <persName key="woolwine" ref="#professional" role="business">Mr. Woolwine</persName> ever try to take your
+               statement?</p>
+
+            <p>SHELBY: No, <persName key="woolwine" ref="#professional" role="business">he</persName> never asked me a thing, <persName
+                  key="mkeyes" ref="#law_enforcement" role="unknown">Mr. Keyes</persName>. Nobody ever questioned me.</p>
+
+            <p>MR. MOTT: Tell <persName key="mkeyes" ref="#law_enforcement" role="unknown">Mr. Keyes</persName> exactly now, that part of
+               the conversation with <persName key="whitney" ref="#servant" role="unknown"> Chauncey</persName>?</p>
+
+            <p>SHELBY: I said "<persName key="whitney" ref="#servant" role="unknown">Chauncey</persName>, what did you tell them?"
+               <persName key="eaton" ref="#servant" role="business">He</persName> said, "I told them that you called me up very
+               early that morning, about half past seven, and my wife said you went ever there
+               without breakfast; that you wanted to go over to the Hobart house." I said, "The
+               morning of the <persName key="taylor">Taylor</persName>
+               <eventName ref="murder">murder</eventName>." He said, "Yes." I said, "Why, I couldn't
+               have known until after <time>9 o‚Äôclock</time>.‚Äù <persName ref="eaton"
+                  >He</persName> said that <persName key="eaton" ref="#servant" role="business">he</persName> drove me over that
+               morning and said that I was at the wisdom with <objectName type="paper">the
+                  papers</objectName> I said, "How could that be; besides there wasn't any
+                  <objectName>papers</objectName> that morning." "No," he said, "that's what they
+               told me down at <placeName type="office">the office</placeName>, that there wasn‚Äôt
+               any papers that early." I said, "Well, that's nothing, it is just a laps of memory,
+               it is of no consequence." And finally he saw he was in the wrong. I explained to him
+               that <persName key="rice" ref="#professional" role="unknown">Mr. Rice</persName> had driven me over."</p>
+
+            <p>MR. MOTT: Now explain that Monte Blue proposition.</p>
+
+            <p>SHELBY: (<persName key="cshelby" ref="#family"
+               role="business">Mrs. Shelby</persName> tells about some night when
+               <persName key="minter" ref="#actor" role="romantic business">Mary</persName> had failed to come <placeName
+                  type="residence"> home</placeName>, and they had looked for her until about
+                  <time>2:30 a.m.</time> and finally located <objectName type="vehicle">her
+                  car</objectName> in front of Charlotte Whitney's house) So <persName key="mshelby" ref="#family" role="business"
+                  >Margaret</persName> and I rushed in and went up the steps hurriedly and opened
+               <placeName type="house">the door</placeName> and came upon <persName key="minter" ref="#actor" role="romantic business"
+                  >Mary</persName> &amp; Monte (Blue) on the couch. The door opened right into the
+               front room. This Monte Blue started to run out into <placeName type="house">the
+                  kitchen</placeName> and out <placeName type="passage">the back
+               door</placeName>.</p>
+
+            <p>POLICE: You mean that they were in a compromising position?</p>
+
+            <p>SHELBY: Yes. I was about the maddest woman that could ever be. I grabbed this
+               halfbreed Indian by his shirt tail and I said, "Come right back in <placeName
+                  type="house">this room</placeName>. I have something very forceful to say to you.
+               Come back here!"</p>
+
+            <p>MR. DAVIS: That time she went out with <persName key="neilan" ref="#director" role="unknown">Marshall
+                  Neilan</persName>, after the murder; wasn't that about two nights afterwards?</p>
+
+            <p>SHELBY: Yes.</p>
+
+            <p>POLICE: Immediately afterwards, wasn't it?</p>
+
+            <p>SHELBY: It was.</p>
+
+            <p>MR. KEYES: <persName key="cshelby" ref="#family"
+               role="business">She</persName> tried to kill you, you say?</p>
+
+            <p>SHELBY: Yes. *** Oh, "<persName key="minter" ref="#actor" role="romantic business">Mary</persName> said around <placeName
+                  type="residence">the house</placeName> freely. "Oh, <name>4</name> killed
+                  <persName key="taylor">Taylor</persName>". Not only once but many times. The was
+               always saying that.</p>
+
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

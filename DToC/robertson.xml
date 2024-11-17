@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>  W. A. ROBERTSON, friend of Mr. Taylor. Statement taken 2-9-22 at 8 P.M.</head>
+            <byline>Edited by Rylie Smith</byline>
+
+            <p>POLICE: Were you ever present when <persName ref="#director" key="taylor">Mr. Taylor</persName>
+               mentioned <persName role="social" ref="#actor" key="minter">Mary Miles Minter</persName>?</p>
+            
+            <p>ROBERTSON: Yes.</p>
+            
+            <p> POLICE: What was the occasion?</p>
+            
+            <p>ROBERTSON: That was <date>last Saturday night</date>.</p>
+            
+            <p> POLICE: Who, if anyone else was present?</p>
+            
+            <p>ROBERTSON: <persName ref="#actor" role="buissness" key="hoyt">Mr. Hoyt</persName>.</p>
+            
+            <p>POLICE: He said she had been pesticating around there and got to be a great deal of
+               annoyance.</p>
+            
+            <p> ROBERTSON: No, that was <date>last Saturday *** that was the 28th</date>.</p>
+            
+            <p>POLICE: <date>28th of January</date>?</p>
+            
+            <p> ROBERTSON: Yes. She would come to <placeName type="residency">his house</placeName> and kick up a
+               fuss.</p>
+            
+            <p> POLICE: What did he tell you about her kicking up a fuss?</p>
+            
+            <p>ROBERTSON: She <eventName type="disturbance">threatened to scream</eventName>. She was very obnoxious to
+               him and all of these attentions.</p>
+            
+            <p> POLICE (By Mr. Cato): were you ever with <persName ref="#actor" role="
+               buissness" key="windsor">Miss
+               Windsor</persName> and <persName ref="#director" key="taylor">Mr. Taylor</persName> and <persName
+                  ref="#actor" role="unknown" key="blanche">Miss Blanche Street</persName> and <persName ref="#director" role="buissness" key="neilan">Marshal
+                     Neilan</persName> and a couple of other girls at <placeName type="restaurant">a caf</placeName>√©
+               when <persName ref="#director" key="taylor">Mr. Taylor</persName> taunted <persName ref="#director" role="buissness" key="neilan"
+                  >Neilan</persName> regarding <persName ref="#actor" role="social" key="minter">Miss Minter</persName>?</p>
+         </div>
+      </body>
+  </text>
+</TEI>

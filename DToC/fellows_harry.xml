@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>HARRY FELLOWS, Assistant Director to Wm. Desmond Taylor Statement taken 2-9-22.</head>
+            <byline>Edited by Lily Stein</byline>
+
+            <p> POLICE: Did she appear to be fond of him?</p>
+            
+            <p>FELLOWS: <persName key="minter" ref="#actor">Miss Minter</persName>?</p>
+            
+            <p>POLICE: Yes.</p>
+            
+            <p>FELLOWS: Yes, she did seem to be very fond of <persName key="taylor" ref="#director">Mr. Taylor</persName>. - - -
+               and seemed to chase him around to the <placeName type="studio">studio</placeName> and things like that. As far as I
+               know<persName key="taylor" ref="#director"> Mr. Taylor</persName> never really thought an awful lot of
+               <persName key="minter" ref="#actor">Miss Minter</persName>. I mean more than just to like her for a nice
+               little girl. He thought more of <persName key="normand" ref="#actor">Miss Normand</persName> than he did of any
+               one I have ever known. I got there I must have got at <persName key="taylor" ref="#director">Mr.
+                  Taylor</persName>‚ <placeName type="residence">house</placeName> about <time type="morning">8 o'clock in the morning</time> when I
+               came there.</p>
+            
+            <p>POLICE: That is the day he was killed?</p>
+            
+            <p>FELLOWS: Yes, on <time key="morning">Thursday morning</time>.</p>
+            
+            <p> POLICE: Well, did you know that he was killed before you went there?</p>
+            
+            <p>FELLOWS: No, my brother called me up and told me<persName key="taylor" ref="#director"> Mr. Taylor</persName> was
+               found dead. I understood him to say <persName key="taylor" ref="#director">Mr. Taylor</persName> was found <eventName type="dead ">dead</eventName> in
+               <placeName type="residence">bed</placeName>.</p>
+            
+            <p>POLICE: Who was there, <persName key="harryFellows" ref="#director">Harry</persName>, when you came in?</p>
+            
+            <p> FELLOWS: There was <persName key="dougMaclean" ref="#actor">Douglas MacLean</persName> and the owner of the court I
+               think, his name is <persName key="jessurun">Jesserun</persName>. I think there was two men from
+               headquarters and my brother, <persName key="howardFellows" ref="#servant">Howard</persName> and<persName key="henrypeavey" ref="#servant"> Henry
+                  Peavey</persName>. I am not positive whether the <persName key="doctor" ref="#professional">doctor</persName> was
+               there when I first got there or whether he came when I was phoning <persName key="eyton" ref="#director">Mr.
+                  Eyton</persName>. <persName key="hoyt" ref="#actor">Arthur Hoyt</persName> and <persName key="maigne" ref="director">Charlie
+                     Maigne</persName> and myself went <placeName key="place">upstairs</placeName> and got all the
+               literature and things like that that we could get and put them in a <objectName type="package">package</objectName> *** and I
+               gave <persName key="jimmie">Jimmie Vantrees</persName> who was <persName key="cameraman" ref="#professional">Mr. Taylor's
+                  Cameraman</persName> and<persName key="ivers" ref="#director"> Mrs. Ivers (Jimmie's mother)</persName> and ask
+               them to keep the letters for me. Why <persName key="jimmie" ref="#actor">Jimmie</persName> must have given them
+               to <persName key="ivers" ref="#director">Mrs. Ivers</persName> and then then I went right over and got them from
+               her and took them out to the<placeName type="studio"> studio</placeName>.</p>
+            
+            <p>POLICE: What did you do with them?</p>
+            
+            <p> FELLOWS: Gave them to<persName key="eyton" ref="#director"> Mr. Eyton</persName>. *** I dont think any body
+               made an examination until <persName key="eyton" ref="director">Mr. Eyton</persName> insisted on an examination
+               being made and that must have been <time type="estimation">two hours or 2 hours after</time> the time
+               we got there anyway.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

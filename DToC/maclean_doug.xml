@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>CHARLES DOUGLAS MacLEAN, Neighbor Statement taken 2-9-22</head>
+            <byline>Edited by Kate Reyen</byline>
+            
+            <p>MACLEAN: I told the <persName key="law" ref="#law_enforcement">officers</persName> what occurred the <eventName type="death">night
+               of the murder</eventName> * * I was late for <eventName type="meal">dinner</eventName>. I 'was
+               5 minutes late. We had <eventName type="meal">dinner</eventName> at <time>7 o'clock</time>. I must have taken another 5
+               minutes to get ready. We sat down I should judge <time>10 minutes after 7</time>. We
+               sat there and I guess it took a half hour to eat dinner.</p>
+            
+            <p>MACLEAN: So I immediately after <eventName type="meal">dinner</eventName> got up from the
+               <objectName type="furniture">table</objectName>, went <placeName type="house">upstairs</placeName> to get the
+               <objectName type="appliance">heater</objectName>. I went in the <placeName type="house">front room</placeName>
+               and lighted the gas <objectName type="appliance">radiator</objectName>. Also lighted the gas
+               <objectName type="appliance">radiator</objectName> in the <placeName type="house">backroom upstairs</placeName>,
+               and I went in the <placeName type="house">front room</placeName> and got my house
+               <objectName type="clothing">coat</objectName> and put it on and went into the <placeName type="house">bath
+                  room</placeName> and detached the <objectName type="appliance">heater</objectName>, when I heard
+               the noise or explosion, it sounded like a shot. (Speaking of <persName key="taylor" ref="#director">Mr.
+                  Taylor's</persName> body on the morning of its discovery.)</p>
+            
+            <p>POLICE: What was the condition of the <objectName type="clothing">clothing</objectName>, if you know.
+               Was it disarranged at all?</p>
+            
+            <p>MACLEAN: No, not at a11. He looked immaculate.</p>
+            
+            <p>POLICE: How was he lying?</p>
+            
+            <p>MACLEAN: He was lying flat on his <objectName type="bodypart">back</objectName>, his <objectName type="bodypart">feet</objectName> separated a little, his <objectName type="bodypart">legs</objectName> apart
+               and his <objectName type="bodypart">hands</objectName> at his sides, lying perfectly on his <objectName type="bodypart">back</objectName>.</p>
+            
+            <p>POLICE: Why is <objectName type="clothing">coat</objectName> appeared to be arranged you may say,
+               just like he was laid out by friends.</p>
+            
+            <p>MACLEAN: Yes, he was perfect.</p>
+            
+            <p>MACLEAN: As I remember the <objectName type="clothing">coat</objectName> laid perfectly along his
+               <objectName type="body">body</objectName>. It wasn't thrown back over or anything.</p>
+            
+            <p>POLICE: Was his <objectName type="clothing">coat</objectName> buttoned?</p>
+            
+            <p>MACLEAN: I don't think so.</p>
+            
+            <p>MACLEAN: He looked just like a <objectName type="prop">dummy</objectName> in a
+               <placeName type="store">department store</placeName> or in a <objectName type="house">window</objectName> of
+               a <placeName type="store">store</placeName>, so perfect, so immaculate. I remember I was impressed
+               with the fact he looked like a <objectName type="prop">wax figure</objectName> dressed up.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

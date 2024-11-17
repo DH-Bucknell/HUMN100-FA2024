@@ -137,15 +137,15 @@
    <text>
       <body>
          <div type="interview">
-            <head>Interview with <persName key="normand">Mabel Normand</persName> and <persName
-                  key="peavy">Henry peavy</persName></head>
+            <head>Interview with <persName key="normand" ref="#actor">Mabel Normand</persName> and <persName
+                  key="peavy" ref="#professional">Henry peavy</persName></head>
             <byline>Blythe Sena</byline>
 
-            <p><persName key="corner">Coroner</persName>'s Inquest Transcript</p>
+            <p><persName key="corner" ref="#legal">Coroner</persName>'s Inquest Transcript</p>
 
             <p>The following is the transcript of the <objectName key="inquest">shorthand notes
                   taken</objectName> at the <persName>Coroner</persName>'s inquest held on the body
-               of <persName key="taylor">William Desmond Taylor</persName> at <placeName
+               of <persName key="taylor" ref="#director">William Desmond Taylor</persName> at <placeName
                   type="mortuary">Ivy H. Overholtzer</placeName> [Mortuary] at <placeName
                   type="city"> Los Angeles, California</placeName> on the <date key="murder">4th
                   day of February, 1922</date> at <time type="murder">10:00 a.m</time>.</p>
@@ -153,7 +153,7 @@
 
             <p>NANCE: Please state your name.</p>
 
-            <p>NORMAND: <persName key="normand">Mabel Normand</persName>.</p>
+            <p>NORMAND: <persName key="normand" ref="#actor">Mabel Normand</persName>.</p>
 
             <p>NANCE: Where do you <placeName type="residence">reside</placeName>?</p>
 
@@ -163,8 +163,8 @@
 
             <p>NORMAND:<orgName type="hollywood"> Motion pictures.</orgName></p>
 
-            <p>NANCE: <persName key="normand">Miss Normand</persName>, were you acquainted with
-                  <persName key="taylor">Mr. Taylor</persName>, <persName>the deceased</persName> in
+            <p>NANCE: <persName key="normand" ref="#actor">Miss Normand</persName>, were you acquainted with
+                  <persName key="taylor" ref="#director">Mr. Taylor</persName>, <persName>the deceased</persName> in
                this case?</p>
 
             <p>NORMAND: Yes.</p>
@@ -220,21 +220,21 @@
             <p>NANCE: At the <time key="timeline">time</time> you were in the <placeName type="home"
                   >house</placeName>, was anybody also in the <placeName>house</placeName>?</p>
 
-            <p>NORMAND:Yes, <persName key="peavy">Henry</persName>, his man.</p>
+            <p>NORMAND:Yes, <persName key="peavy" ref="#professional">Henry</persName>, his man.</p>
 
-            <p>NANCE: <persName key="peavy">Henry Peavey?</persName></p>
+            <p>NANCE: <persName key="peavy" ref="#professional">Henry Peavey?</persName></p>
 
             <p>NORMAND:Yes.</p>
 
-            <p>NANCE: Do you know whether <persName key="peavy">Mr. Peavey</persName> left the
+            <p>NANCE: Do you know whether <persName key="peavy" ref="#professional">Mr. Peavey</persName> left the
                   <placeName type="home">house</placeName> before you did or not?</p>
 
             <p>NORMAND:Yes, he did; he left about, I should say about <time type="alibi">15 or 20
                   minutes before</time> I left, but stopped <placeName key="outside"
-                  >outside</placeName> and spoke to <persName key="staff">my chauffeur;</persName>
+                  >outside</placeName> and spoke to <persName key="staff" ref="#professional">my chauffeur;</persName>
                we came out <time key="timeline">later</time>.</p>
 
-            <p>NANCE: No one else except <persName key="peavy">Henry Peavey</persName> was
+            <p>NANCE: No one else except <persName key="peavy" ref="#professional">Henry Peavey</persName> was
                there?</p>
 
             <p>NORMAND:That was all.</p>
@@ -256,7 +256,7 @@
             <p>NANCE: Did he call you?</p>
 
             <p>NORMAND:No, I went to <objectName type="furniture">bed</objectName>; if he called me I was
-               asleep; when I am asleep he tells <persName key="maid">my maid</persName> not to
+               asleep; when I am asleep he tells <persName key="maid" ref="#professional">my maid</persName> not to
                disturb me.</p>
 
             <p>NANCE: Was that the <time type="timeline">last time</time> you saw him when you left
@@ -267,12 +267,12 @@
             <p>NANCE: Have you any questions, <persName key="jury">Gentlemen</persName>? That is
                all, you may be excused.</p>
 
-            <p>I hereby certify that I, as <persName key="reporter">shorthand reporter</persName>,
+            <p>I hereby certify that I, as <persName key="reporter" ref="#professional">shorthand reporter</persName>,
                correctly took down in shorthand the testimony and proceedings had at the within
-               named <persName key="coroner">Coroner</persName>'s inquest; that the foregoing is a
+               named <persName key="coroner" ref="#professional">Coroner</persName>'s inquest; that the foregoing is a
                full, true and correct copy of my shorthand notes and a full, true and correct
                statement of the testimony and pro- ceedings had at said inquest. <persName
-                  key="reporter">E.M. Allen, Shorthand Reporter</persName></p>
+                  key="reporter" ref="#professional">E.M. Allen, Shorthand Reporter</persName></p>
 
 
             <p>MABEL NORMAND Statement taken <date type="document">4-10-22</date>, <time
@@ -283,7 +283,7 @@
                   type="timeline">7 o‚Äôclock</time>.</p>
 
             <p>POLICE: When you went in did you see anybody
-               besides <persName>Taylor</persName> and his [n] <persName key="peavy"
+               besides <persName>Taylor</persName> and his [n] <persName key="peavy" ref="#professional"
                   >Peavey</persName>?</p>
 
             <p>NORMAND: No. *** and the <placeName type="room"
@@ -292,7 +292,7 @@
                of <objectName>checks and things</objectName>.</p>
 
             <p>POLICE: How long did you remain in the <placeName type="home">house</placeName> with
-                  <persName key="taylor">Taylor</persName>?</p>
+                  <persName key="taylor" ref="#director">Taylor</persName>?</p>
 
             <p>NORMAND: Well, until about, I guess, a <time type="timeline">quarter to 8</time>.</p>
 
@@ -310,13 +310,13 @@
 
 
 
-            <p><persName key="peavy"> HENRY peavy </persName> (now deceased) <persName key="staff"
+            <p><persName key="peavy" ref="#professional"> HENRY peavy </persName> (now deceased) <persName key="staff" ref="#professional"
                   >Valet</persName>
-               <persName key="staff">house servant</persName> to <persName>Mr. Taylor</persName>.
+               <persName key="staff" ref="#professional">house servant</persName> to <persName>Mr. Taylor</persName>.
                Statement taken on 2-9-22 at ten a.m.</p>
 
-            <p><persName key="enforcement">POLICE</persName>: <date type="morning">On the
-                  morning</date> you found <persName key="taylor">Mr. Taylor's body</persName>, in
+            <p><persName key="enforcement" ref="#law_enforcement">POLICE</persName>: <date type="morning">On the
+                  morning</date> you found <persName key="taylor" ref="#director">Mr. Taylor's body</persName>, in
                what position was the <objectName type="evidence">davenport</objectName> in the
                   <placeName type="room">room</placeName> with respect to the body.</p>
 
@@ -334,12 +334,12 @@
                   <objectName type="furniture">mail box</objectName> where you go in onto the
                   <placeName type="home">front porch"</placeName> ** as I reached in the <objectName
                   type="furniture">box</objectName> to get the mail I seen this <objectName
-                  type="cigarette">gold tipped cigarette</objectName>. I said "<persName key="taylor"
+                  type="cigarette">gold tipped cigarette</objectName>. I said "<persName key="taylor" ref="#director"
                   >Mr. Taylor</persName>, did you buy any more of those <objectName type="cigarettes"
                   >gold tipped cigarettes</objectName>?" He said "No." ***</p>
 
             <p>POLICE: Was the <objectName type="home">front door</objectName> locked the morning
-               you arrived there and found <persName key="taylor">Mr. Taylor's body</persName>.</p>
+               you arrived there and found <persName key="taylor" ref="#director">Mr. Taylor's body</persName>.</p>
 
             <p>PEAVEY: Yes.</p>
 
@@ -352,16 +352,16 @@
 
             <p>PEAVEY: All <objectName type="furniture">the windows</objectName> locked down on the
                   <placeName type="home">first floor</placeName>. (witness quoting <persName
-                  key="normand">Mabel Normand</persName>) "<persName key="peavy">Henry</persName>,
-                  <persName key="taylor">Mr. Taylor</persName> and I are going to get married. Will
-               you work for me when we get married *** "You work for <persName key="taylor">Mr.
+                  key="normand" ref="#actor">Mabel Normand</persName>) "<persName key="peavy" ref="#professional">Henry</persName>,
+                  <persName key="taylor" ref="#director">Mr. Taylor</persName> and I are going to get married. Will
+               you work for me when we get married *** "You work for <persName key="taylor" ref="#director">Mr.
                   Taylor</persName>" she said "we are going to get married and have a little
-                  <persName key="baby">baby</persName>" *** This was all said in the presence
-                  of<persName key="taylor"> Mr. Taylor</persName></p>
+                  <persName key="baby" ref="#family">baby</persName>" *** This was all said in the presence
+                  of<persName key="taylor" ref="#director"> Mr. Taylor</persName></p>
 
-            <p>PEAVEY: Well, I don't know anything about the love that <persName key="normand">Miss
+            <p>PEAVEY: Well, I don't know anything about the love that <persName key="normand" ref="#actor">Miss
                   Normand </persName>had for <persName key="taylor">Mr. Taylor</persName> but from
-               Mr. Taylor's actions I knew he was crazy in love with<persName key="normand"> Miss
+               Mr. Taylor's actions I knew he was crazy in love with<persName key="normand" ref="#actor"> Miss
                   Normand.</persName></p>
          </div>
       </body>

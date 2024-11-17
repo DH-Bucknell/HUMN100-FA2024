@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Newspaper Interview With Julia C. Ivers</head>
+            <byline>Edited by Liv King</byline>
+            <p> February 7, 1922 LOS ANGELES EXAMINER <persName key="ivers" ref="#writer">Julia Crawford
+               Ivers</persName>, scenarist for the late <persName key="taylor" ref="#director">William D.
+                  Taylor</persName>, yesterday gave out the following statement:</p>
+            <p> "Today the friends of <persName key="taylor" ref="#director">William D. Taylor</persName>, and they
+               are legion, will gather to pay the last tribute to the man they love, to one who as
+               man, director and friend measured 100 per cent. </p>
+            <p> "I have worked side by side with this man for seven years. We have solved many
+               difficult problems together, sometimes pleasant, sometimes unpleasant: always hard,
+               trying nerve-wracking. And during all these years of close association I have never
+               known him to do one unkind, one ungenerous act, but I have known hundreds of
+               instances of open-handed generosity and in most cases the beneficiary never knew whom
+               to thank.</p>
+            <p>"This man whose loyalty and honor were without question, who takes with him the
+               undying gratitude of the thousands to whom he has lent a helping hand--this man who
+               stood for everything that was fine and clean in <objectName type="possession"
+                  >picture</objectName>, who is known to have declared that if it were necessary to
+               his success to produce unclean <objectName type="possession">picture</objectName> he
+               would go back to the white, clean snows of <placeName type="state">Alaska</placeName>
+               and dig his living out of the ground--this man was shot in the back by a cowardly
+               assassin. He was given no opportunity to defend himself and <persName key="taylor" ref="#director"
+                  >William D. Taylor</persName> would have defended himself, for he did not know the
+               meaning of the word fear. And more cowardly than the <objectName type="gun"
+                  >assassin's bullet</objectName>, lodged in<objectName type="bodyPart"> the
+                     heart</objectName> of this dear man, is the tongue of scandal, which safely
+               sheltered behind his <objectName type="body">dead body</objectName>, is striking at
+               his reputation--more cowardly for he is powerless to defend himself.</p>
+            <p>"His friends know that when it is all over the character of <persName key="taylor" ref="#director"
+               >Mr. Taylor</persName> will stand, as it always has stood, for everything that is
+               fine and worth while.</p>
+            <p>"<objectName type="possession">The good book</objectName> says, 'Let him who is
+               without sin cast the first stone.' And it is recorded that no stones were cast."</p>
+         </div>
+      </body>
+  </text>
+</TEI>

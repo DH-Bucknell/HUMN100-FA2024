@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>Coroner's Inquest Transcript: Interview with Mabel Normand</head>
+            <byline>Edited by Blythe Sena</byline>
+            
+            <p>The following is the transcript of the <objectName key="inquest">shorthand notes
+               taken</objectName> at the <persName>Coroner</persName>'s inquest held on the body
+               of <persName key="taylor" ref="#director">William Desmond Taylor</persName> at <placeName
+                  type="mortuary">Ivy H. Overholtzer</placeName> [Mortuary] at <placeName
+                     type="city"> Los Angeles, California</placeName> on the <date key="murder">4th
+                        day of February, 1922</date> at <time type="murder">10:00 a.m</time>.</p>
+            <p>Mabel Normand, being first duly sworn, testified as follows:</p>
+            
+            <p>NANCE: Please state your name.</p>
+            
+            <p>NORMAND: <persName key="normand" ref="#actor">Mabel Normand</persName>.</p>
+            
+            <p>NANCE: Where do you <placeName type="residence">reside</placeName>?</p>
+            
+            <p>NORMAND: <placeName type="address">3089 West Seventh</placeName>.</p>
+            
+            <p>NANCE: What is your <orgName key="occupation">occupation</orgName>?</p>
+            
+            <p>NORMAND:<orgName type="hollywood"> Motion pictures.</orgName></p>
+            
+            <p>NANCE: <persName key="normand" ref="#actor">Miss Normand</persName>, were you acquainted with
+               <persName key="taylor" ref="#director">Mr. Taylor</persName>, <persName>the deceased</persName> in
+               this case?</p>
+            
+            <p>NORMAND: Yes.</p>
+            
+            <p>NANCE: Did you see him on the <date>evening</date> before his <eventName
+               type="mortality">death</eventName> occurred?</p>
+            
+            <p>NORMAND: Yes, I did.</p>
+            
+            <p>NANCE: And where did you see him?</p>
+            
+            <p>NORMAND: Will I tell you when I <eventName type="entering">went in</eventName> there
+               and when I came out?</p>
+            
+            <p>NANCE: Did you see him at his <placeName type="home">home</placeName>?</p>
+            
+            <p>NORMAND: Oh, yes.</p>
+            
+            <p>NANCE: And you were with him about how long on that <eventName type="meeting"
+               >occasion</eventName>?</p>
+            
+            <p>NORMAND: I got there about <eventName type="alibi">7 o'clock and left at a quarter to
+               8</eventName>.</p>
+            
+            <p>NANCE: And when you left his <placeName type="home">place</placeName>, did you leave
+               him in the <placeName type="home">house</placeName>, or <placeName type="outside"
+                  >outside</placeName>?</p>
+            
+            <p>NORMAND: No, he came down to my <objectName type="transportation">car</objectName>
+               with me. </p>
+            
+            <p>NANCE: Where was your <objectName type="transportation">car</objectName>?</p>
+            
+            <p>NORMAND: Right in front of the <placeName type="law">court</placeName>.</p>
+            
+            <p>NANCE: On <placeName type="address">Alvarado street?</placeName>
+            </p>
+            
+            <p>NORMAND: Yes, on the <placeName type="hill">hill</placeName>.</p>
+            
+            <p>NANCE: He accompanied you to your <objectName type="transportation"
+               >car</objectName>?</p>
+            
+            <p>NORMAND: Yes.</p>
+            
+            <p>NANCE: Was he still there when you <eventName key="timeline">drove away?</eventName>
+            </p>
+            
+            <p>NORMAND: Yes, as my <objectName type="transportation">car</objectName> turned around,
+               I waved my hand at him; he was partly up a little <objectName type="stairs"
+                  >stairs</objectName> there.</p>
+            
+            <p>NANCE: At the <time key="timeline">time</time> you were in the <placeName type="home"
+               >house</placeName>, was anybody also in the <placeName>house</placeName>?</p>
+            
+            <p>NORMAND:Yes, <persName key="peavy" ref="#professional">Henry</persName>, his man.</p>
+            
+            <p>NANCE: <persName key="peavy" ref="#professional">Henry Peavey?</persName></p>
+            
+            <p>NORMAND:Yes.</p>
+            
+            <p>NANCE: Do you know whether <persName key="peavy" ref="#professional">Mr. Peavey</persName> left the
+               <placeName type="home">house</placeName> before you did or not?</p>
+            
+            <p>NORMAND:Yes, he did; he left about, I should say about <time type="alibi">15 or 20
+               minutes before</time> I left, but stopped <placeName key="outside"
+                  >outside</placeName> and spoke to <persName key="staff" ref="#professional">my chauffeur;</persName>
+               we came out <time key="timeline">later</time>.</p>
+            
+            <p>NANCE: No one else except <persName key="peavy" ref="#professional">Henry Peavey</persName> was
+               there?</p>
+            
+            <p>NORMAND:That was all.</p>
+            
+            <p>NANCE: What <time key="time">time</time> was it you say you left him--drove away from
+               <placeName type="home">his place?</placeName></p>
+            
+            <p>NORMAND:I left him on the <objectName type="road">sidewalk</objectName> about a <time
+               type="timeline">quarter to eight</time>.</p>
+            
+            <p>NANCE: Did you expect to see him or hear from him <time type="timeline">later that
+               evening</time>?</p>
+            
+            <p>NORMAND:Yes, he said--he had <time key="timeline">finished his dinner--he said would
+               I go out and take dinner with him and I said,</time> "no;" I was tired; I had to
+               go <placeName type="home">home</placeName> and get up very early; he said he would
+               <eventName key="murder">call me up</eventName> in about an hour.</p>
+            
+            <p>NANCE: Did he call you?</p>
+            
+            <p>NORMAND:No, I went to <objectName type="furniture">bed</objectName>; if he called me I was
+               asleep; when I am asleep he tells <persName key="maid" ref="#professional">my maid</persName> not to
+               disturb me.</p>
+            
+            <p>NANCE: Was that the <time type="timeline">last time</time> you saw him when you left
+               him about <time type="timeline">a quarter to eight?</time></p>
+            
+            <p>NORMAND:That was <time type="final">the last time</time>.</p>
+            
+            <p>NANCE: Have you any questions, <persName key="jury">Gentlemen</persName>? That is
+               all, you may be excused.</p>
+            
+            <closer>I hereby certify that I, as <persName key="reporter" ref="#professional">shorthand reporter</persName>,
+               correctly took down in shorthand the testimony and proceedings had at the within
+               named <persName key="coroner" ref="#professional">Coroner</persName>'s inquest; that the foregoing is a
+               full, true and correct copy of my shorthand notes and a full, true and correct
+               statement of the testimony and pro- ceedings had at said inquest. <persName
+                  key="reporter" ref="#professional">E.M. Allen, Shorthand Reporter</persName></closer>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -117,6 +117,22 @@
                "Taylorology" and Robert Giroux's Deed of Death</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
@@ -125,29 +141,29 @@
             <byline>Diane Jakacki</byline>
 
 
-            <p>Testimony of <persName ref="henry">Leslie Henry</persName> (<date>July
+            <p>Testimony of <persName key="henry" ref="#actor">Leslie Henry</persName> (<date>July
                1933</date>)</p>
 
             <p>HENRY: The only thing is that at that time it was just a perfect uproar. I never went
                through hell and high water higher than that was. </p>
             <p>LAWYER: Will you enlarge upon that? </p>
             <p>HENRY: I suddenly discovered a new picture so far as feelings were concerned. There
-               was extreme bitterness between her <persName ref="cshelby">[Mary's] mother</persName>
-               and <persName ref="minter">herself</persName> that seemed to go beyond business.
-                  <persName ref="cshelby">The mother</persName>, on the other hand, was critical of
-               the <persName ref="minter">daughter</persName> as being wayward and things of that
+               was extreme bitterness between her <persName key="cshelby">[Mary's] mother</persName>
+               and <persName key="minter">herself</persName> that seemed to go beyond business.
+                  <persName key="cshelby">The mother</persName>, on the other hand, was critical of
+               the <persName key="minter">daughter</persName> as being wayward and things of that
                character, and absolutely unwilling to have any advice from her or discussion with
                her. <persName>Mrs. Shelby</persName> then told me that her daughter was then
                charging, that <persName>Mary</persName> was then passing the word that <eventName
-                  type="murder">she had killed <persName ref="taylor">Taylor</persName></eventName>. </p>
+                  type="murder">she had killed <persName key="taylor">Taylor</persName></eventName>. </p>
 
             <p>LAWYER: That who had killed Taylor? </p>
-            <p>HENRY: <persName ref="cshelby">Mrs. Shelby</persName>. That Mary was doing that
+            <p>HENRY: <persName key="cshelby">Mrs. Shelby</persName>. That Mary was doing that
                because her mother was jealous of Taylor and her associations -- I hope I cannot be
                sued for libel, because I am trying to tell you the truth. </p>
             <p>LAWYER: You need not have any apprehension on that score. </p>
             <p>HENRY: I am trusting you and trying to tell you what I know of this thing. Then came
-               very clearly into line the intense bitterness between <persName ref="mshelby"
+               very clearly into line the intense bitterness between <persName key="mshelby"
                   >Margaret</persName> and her sister. I saw little of it in Mary because I saw
                little of her. ... </p>
             <p>HENRY: Whatever I have been discussing here -- all purchases of <objectName type="document">securities</objectName> under new
@@ -243,13 +259,13 @@
             <p>HENRY: I made good in the winter of <date>1922</date>, or early in <date>1923</date>. </p>
 
 
-            <p>LAWYER: What did you state to <persName ref="shelby">Mrs. Shelby</persName> on those
+            <p>LAWYER: What did you state to <persName key="shelby">Mrs. Shelby</persName> on those
                occasions as to her request to pay that back? </p>
-            <p>HENRY: I told <persName ref="shelby">Mrs. Shelby</persName> I could not pay the
+            <p>HENRY: I told <persName key="shelby">Mrs. Shelby</persName> I could not pay the
                interest on the <placeName type="business">Portland Flouring Mills</placeName>; that I did not think in the first place it
                would be necessary and that is she would wait until the adjustment was made between
                dividends and interest on those defaulted bonds, through an exchange for the Sperry
-               Flour Mills Company preferred stock, that she would probably be taken care of. Mrs.
+               Flour Mills Company pkeyerred stock, that she would probably be taken care of. Mrs.
                Shelby said, "I haven't anything to wait for, I have my money now," and I told her
                that the adjustment I was satisfied would take care of it. She said, "You understood
                very well when I first dealt with you the circumstances under which I dealt with Mr.
@@ -461,7 +477,7 @@
                years 1921, '22, and '23, was the possibility that if an investigation was held, the
                Government would show that income had not been allotted according to the purchases on
                the books of Blyth, Witter &amp; Company, and Mrs. Shelby and Mrs. Berger would deny
-               any possible knowledge, and would refer to me as her financial agent, and as the only
+               any possible knowledge, and would keyer to me as her financial agent, and as the only
                one who had prepared a statement of the income from her securities; but it wasn't
                until 1928 that I did know that she had not returned a penny of it. </p>
             <p>LAWYER: Did you have numerous discussions with Mrs. Shelby, at her request,

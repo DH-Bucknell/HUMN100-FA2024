@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>HENRY Peavy  (now deceased), Valet house servant to Mr. Taylor: Statement taken on 2-9-22 at ten a.m.</head>
+            <byline>Edited by Blythe Sena</byline>
+
+            <p><persName key="enforcement" ref="#law_enforcement">POLICE</persName>: <date type="morning">On the
+               morning</date> you found <persName key="taylor" ref="#director">Mr. Taylor's body</persName>, in
+               what position was the <objectName type="evidence">davenport</objectName> in the
+               <placeName type="room">room</placeName> with respect to the body.</p>
+            
+            <p>PEAVEY: Had not been a place in the <placeName type="room">rooms</placeName>
+               disturbed that I could tell you anything- about ...</p>
+            
+            <p>POLICE: In other words ... the <objectName type="furniture">chair</objectName> was where
+               it belonged and when this man <eventName type="mortality">died</eventName> his feet
+               were under the <objectName type="furniture">chair</objectName>.</p>
+            
+            <p>PEAVEY: Yes.(Re burglary of <date>Dec. 4, 1921</date> *** he said (Taylor) "They've
+               taken the <objectName key="cigarettes">gold tipped cigarettes</objectName> ***"</p>
+            
+            <p>PEAVEY: <date type="timeline">About a week later</date>, right by the side of the
+               <objectName type="furniture">mail box</objectName> where you go in onto the
+               <placeName type="home">front porch"</placeName> ** as I reached in the <objectName
+                  type="furniture">box</objectName> to get the mail I seen this <objectName
+                     type="cigarette">gold tipped cigarette</objectName>. I said "<persName key="taylor" ref="#director"
+                        >Mr. Taylor</persName>, did you buy any more of those <objectName type="cigarettes"
+                           >gold tipped cigarettes</objectName>?" He said "No." ***</p>
+            
+            <p>POLICE: Was the <objectName type="home">front door</objectName> locked the morning
+               you arrived there and found <persName key="taylor" ref="#director">Mr. Taylor's body</persName>.</p>
+            
+            <p>PEAVEY: Yes.</p>
+            
+            <p>POLICE: Was the back <objectName type="furniture">door</objectName> locked? </p>
+            
+            <p>PEAVEY: Yes, just as I left it that <time type="night">night</time>. I was sure or
+               that. </p>
+            
+            <p>POLICE: <objectName type="home">The screen door</objectName> hooked?</p>
+            
+            <p>PEAVEY: All <objectName type="furniture">the windows</objectName> locked down on the
+               <placeName type="home">first floor</placeName>. (witness quoting <persName
+                  key="normand" ref="#actor">Mabel Normand</persName>) "<persName key="peavy" ref="#professional">Henry</persName>,
+               <persName key="taylor" ref="#director">Mr. Taylor</persName> and I are going to get married. Will
+               you work for me when we get married *** "You work for <persName key="taylor" ref="#director">Mr.
+                  Taylor</persName>" she said "we are going to get married and have a little
+               <persName key="baby" ref="#family">baby</persName>" *** This was all said in the presence
+               of<persName key="taylor" ref="#director"> Mr. Taylor</persName></p>
+            
+            <p>PEAVEY: Well, I don't know anything about the love that <persName key="normand" ref="#actor">Miss
+               Normand </persName>had for <persName key="taylor">Mr. Taylor</persName> but from
+               Mr. Taylor's actions I knew he was crazy in love with<persName key="normand" ref="#actor"> Miss
+                  Normand.</persName></p>
+         </div>
+      </body>
+  </text>
+</TEI>

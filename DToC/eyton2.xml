@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="interview">
+            <head>MR. CHARLES EYTON Gen. Mgr. Famous Players-Lasky Statement taken 11-30-25 at 2:20
+               PM</head>
+            <byline>Edited by Rylie Smith</byline>
+            
+            <p> A. (Speaking of the morning following the murder) ** I was called on the
+               <objectName type="communication ">telephone</objectName>, I should judge at <time>8</time> by his
+               assistant <persName ref="#director" role="buissness" key="harryFellows">Harry Fellows</persName>, and he told me. He said,
+               "<persName ref="#actor" role="buissness" key="eyton">Mr. Eyton</persName>, when I came over to <persName
+                  key="taylor">Mr. Taylor's</persName> room <date>this morning</date>, I
+               <eventName type="mortality">found him dead</eventName>." And I says, "Dead? What is the matter?" He
+               says "Well, we have had a <persName role="unknown" ref="#professional" key="doctor">docto</persName> here and he tells
+               us it is a <eventName type="illness">hemorhhage of the stomach</eventName>. **</p>
+            
+            <p>A. That would make it about <time>8:30</time>, I should judge.</p>
+            <p> A. I didn't go through <placeName type="residency">the house</placeName>. <persName ref="#writer" role="buissness" key="maigne"
+               >Charley Maigne</persName> and <persName ref="#director" role="buissness" key="hoyt">Arthur Hoyt</persName> and
+               <persName key="dougMaclean">Douglas MacLean</persName> and <persName ref="#director" role="buissness" key="harryFellows">Harry
+                  Fellows</persName>.</p>
+            <p> A. ** <persName ref="#actor" role="buissness" key="dougMaclean">Douglas MacLean</persName> was the first man that put
+               it into my head that he (<persName ref="#director" key="taylor">Taylor</persName>) <eventName type="mortality">was
+                  murdered</eventName>. He said he was confident that he had <eventName type="murder">heard a
+                     shot</eventName>
+               <date>the night before</date>. He said to me, "<persName ref="#writer" role="buissness" key="maigne"
+                  >Charley</persName>, don't let them take his body away with out turning it over,
+               because I think we heard a <eventName type="murder">shot last night</eventName>."</p>
+            
+            <p> Q. Have you any idea who did the <eventName type="communication">telephoning</eventName> around about
+               <eventName>the murder</eventName>?</p>
+            <p> A. No. <persName ref="#director" role="buissness" key="harryFellows">Harry Fellows</persName>
+               <eventName type="communication">telephoned me</eventName>.</p>
+            <p> Q. Did you hear anybody call up <persName role="romantic" ref="#actor" key="normand">Mabel Normand</persName> or
+               <persName role="unknown" ref="#family" key="cshelby">Mrs. Shelby</persName>?</p>
+            <p>A. No. That all happened before I got there, if <persName role="unknown" ref="#family" key="cshelby">Mrs.
+               Shelby</persName> was called up. <persName role="unknown" ref="#actor" key="normand">Mabel Normand</persName>
+               was called up, I know. <persName ref="#writer" role="buissness" key="maigne">Charley Maigne</persName> told me.</p>
+            <p> Q. What was the position of the <objectName type="body">body</objectName> when you first saw
+               it?</p>
+            <p> A. <objectName type="body">The body</objectName> when I first saw it lay right <placeName type="location">in
+               front of the desk</placeName>, with the head back. <placeName type="location">The desk was near
+                  his feet</placeName>.</p>
+            
+            <p> A. ** Of course <persName role="social" ref="#actor" key="mary">Mary</persName> was <eventName type="betroth">engaged to
+               marry</eventName>
+               <persName ref="#actor" role="buissness" key="mickeyNeilan">Mickey Neilan</persName>, so she told me, but I don't think
+               there was very much to that.</p>
+            <p>Q. This trouble with <persName ref="#director" key="taylor">Taylor</persName>, when was that?</p>
+            <p> A. He and <persName ref="#actor" role="buissness" key="mickeyNeilan">Mickey</persName>? Oh, <persName ref="#actor" role="buissness" key="mickeyneilan"
+               >Mickey</persName> said something one night. They were drunk and
+               <persName ref="#actor" role="buissness" key="mickeyNeilan">Mickey</persName> apologized. It was nothing serious.</p>
+            
+            <p>Q. Do you know <persName ref="#actor" role="romantic" key="gerber">Neva Gerber</persName>?</p>
+            <p> A. Yes. That was one of <persName ref="#director" key="taylor">Taylor's</persName> former flames,
+               before any of this came up.</p>
+            <p> ** When he <eventName type="wartime">went to war</eventName> it was understood that when he came
+               back he was going to <eventName type="betroth">marry</eventName>
+               <persName  ref="#actor" role="romantic" key="gerber">Neva Gerber</persName>.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

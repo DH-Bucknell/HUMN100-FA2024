@@ -143,20 +143,20 @@
             <p>Coroner's Inquest Transcript</p>
 
             <p>The following is the <objectName type="document">transcript</objectName> of the shorthand
-                  <objectName type="document">notes</objectName> taken at <persName key="coroner">the Coroner's</persName> inquest
-               held on the <objectName type="body">body</objectName> of<persName key="taylor" role="director">William Desmond
+                  <objectName type="document">notes</objectName> taken at <persName key="coroner" ref="#law_enforcement" role="unknown">the Coroner's</persName> inquest
+               held on the <objectName type="body">body</objectName> of<persName key="taylor" ref="#director">William Desmond
                   Taylor</persName> at <placeName type="mortuary">Ivy H. Overholtzer [Mortuary]</placeName> at
                   <placeName type="city">Los Angeles, California</placeName> on the <date>4th day of February,
                   1922</date> at <time>10:00 a.m.</time></p>
 
-            <p>CHARLES EYTON: NANCE,<persName key="eyton" role="manager">Coroner Charles Eyton</persName>,
+            <p>CHARLES EYTON: NANCE,<persName key="eyton" ref="#studio_employee" role="business">Coroner Charles Eyton</persName>,
                being first duly sworn, testified as follows:</p>
 
             <p>BY THE CORONER:</p>
 
             <p>NANCE: Please state your name.</p>
 
-            <p>EYTON:<persName key="eyton" role="manager">Charles Eyton</persName>.</p>
+            <p>EYTON:<persName key="eyton" ref="#studio_employee" role="business">Charles Eyton</persName>.</p>
 
             <p>NANCE: Where do you reside?</p>
 
@@ -167,7 +167,7 @@
             <p>EYTON: General Manager, <orgName type="production">Famous Players-Lasky
                   Corporation</orgName>.</p>
 
-            <p>NANCE:<persName key="eyton" role="manager">Mr. Eyton</persName>, have you seen the
+            <p>NANCE:<persName key="eyton" ref="#studio_employee" role="business">Mr. Eyton</persName>, have you seen the
                   <objectName type="body">remains</objectName> of the <objectName type="body">deceased</objectName> in the
                adjoining <placeName type="house">room</placeName>?</p>
 
@@ -179,7 +179,7 @@
 
             <p>NANCE: Who was it.</p>
 
-            <p>EYTON:<persName key="taylor" role="director">William Desmond Taylor</persName>.</p>
+            <p>EYTON:<persName key="taylor" ref="#director">William Desmond Taylor</persName>.</p>
 
             <p>NANCE: Where was he born?</p>
 
@@ -218,29 +218,29 @@
 
             <p>NANCE: What was the cause of his death, if you know?</p>
 
-            <p>EYTON: Well,<persName key="taylor" role="director">Mr. Taylor's</persName> assistant <persName key="harryFellows" role="assistantDirector">[Harry
+            <p>EYTON: Well,<persName key="taylor" ref="#director">Mr. Taylor's</persName> assistant <persName key="harryFellows" ref="#director" role="business">[Harry
                   Fellows]</persName> rang me up at my residence about, I should
-               judge, <time>eight o'clock</time>, and told me<persName key="taylor" role="director">Mr. Taylor</persName> had died
+               judge, <time>eight o'clock</time>, and told me<persName key="taylor" ref="#director">Mr. Taylor</persName> had died
                suddenly; so I immediately went over to his residence, and he
                was lying on the <objectName type="floor">floor</objectName> on his <objectName type="bodyPart">back</objectName>.
-                 <persName key="ziegler" role="detective">Detective Ziegler</persName> was there and he had called the doctor, he told me,
-               previous to my arrival; and the doctor told me<persName key="taylor" role="director">Mr. Taylor</persName> had died from
-               hemorrhage of the <objectName type="bodyPart">stomach</objectName>. <persName key="dougMaclean">Mr. Maclean - Douglas
+                 <persName key="ziegler" ref="#law_enforcement" role="unknown">Detective Ziegler</persName> was there and he had called the doctor, he told me,
+               previous to my arrival; and the doctor told me<persName key="taylor" ref="#director">Mr. Taylor</persName> had died from
+               hemorrhage of the <objectName type="bodyPart">stomach</objectName>. <persName key="dougMaclean" ref="#actor" role="social">Mr. Maclean - Douglas
                   Maclean</persName> - had told me that he had thought he had heard <objectName type="gun">a
                   shot</objectName>
                <date>the night before</date>, and his wife also thought she had heard <objectName type="gun">a
                   shot</objectName> - and he wanted the <objectName type="body">body</objectName> turned over;
-               they didn't want to turn it over until the coroner came. The <persName key="coroner">deputy coroner</persName> came
+               they didn't want to turn it over until the coroner came. The <persName key="coroner" ref="#law_enforcement" role="unknown">deputy coroner</persName> came
                after a while, and he told us he had died of hemorrhage of the
                   <objectName type="bodyPart">stomach</objectName>, and I told him he had better turn the
                   <objectName type="body">body</objectName> over to make sure, and he put his
-               <objectName type="bodyPart">hand</objectName> under<persName key="taylor" role="director">Mr. Taylor's</persName>
+               <objectName type="bodyPart">hand</objectName> under<persName key="taylor" ref="#director">Mr. Taylor's</persName>
                <objectName type="body">body</objectName>, and found a little - when he pulled his
                   <objectName type="bodyPart">hand</objectName> out, it had a little <objectName type="bodyPart">blood</objectName>
-               on his <objectName type="bodyPart">hand</objectName>. <persName key="dougMaclean">Douglas</persName> asked him what that was,
-               and he said it evidently had run down from his<persName key="taylor" role="director">[Taylor's]</persName>
+               on his <objectName type="bodyPart">hand</objectName>. <persName key="dougMaclean" ref="#actor" role="social">Douglas</persName> asked him what that was,
+               and he said it evidently had run down from his<persName key="taylor" ref="#director">[Taylor's]</persName>
                <objectName type="bodyPart">mouth</objectName>, but I noticed that there was no <objectName type="bodyPart">trail of
-                  blood</objectName>-<persName key="taylor">Mr. Taylor's</persName>
+                  blood</objectName>-<persName key="taylor" ref="#director">Mr. Taylor's</persName>
                <objectName type="bodyPart">head</objectName> was in a <objectName type="bodyPart">pool of blood</objectName> - there
                was no <objectName type="bodyPart">trail of blood</objectName> running down. </p>
             
@@ -248,20 +248,20 @@
                   <objectName type="bodyPart">head</objectName>?</p>
 
             <p>EYTON: Under his <objectName type="bodyPart">head</objectName>, yes, a little
-               <objectName type="bodyPart">pool of blood</objectName>. I immediately opened up<persName key="taylor" role="director">Mr.
+               <objectName type="bodyPart">pool of blood</objectName>. I immediately opened up<persName key="taylor" ref="#director">Mr.
                   Taylor's</persName>
                <objectName type="clothing">vest</objectName>, and looked, and looked on the right-hand side, and
                there was no mark. I looked on the left-hand side and saw some
-                  <objectName type="bodyPart">blood</objectName>, and then I told the <persName key="coroner">Deputy Coroner</persName>
+                  <objectName type="bodyPart">blood</objectName>, and then I told the <persName key="coroner" ref="#law_enforcement" role="unknown">Deputy Coroner</persName>
                that I thought that evidence enough to turn his <objectName type="body">body</objectName> over to
                see what would happen. I sent for a <objectName type="furniture">pillow</objectName> to put under
-              <persName key="taylor" role="director">Mr. Taylor's</persName>
-               <objectName type="bodyPart">head</objectName>, and we turned him over - the <persName key="coroner">Deputy
+              <persName key="taylor" ref="#director">Mr. Taylor's</persName>
+               <objectName type="bodyPart">head</objectName>, and we turned him over - the <persName key="coroner" ref="#law_enforcement" role="unknown">Deputy
                   Coroner</persName> and myself - and we pulled his <objectName type="clothing">shirt</objectName> and
                his <objectName type="clothing">vest</objectName> up, and we found the <objectName type="body">bullet
                   wound</objectName>. </p>
             
-            <p>NANCE:<persName key="eyton" role="manager">Mr. Eyton</persName>, was his <objectName type="body">body</objectName>
+            <p>NANCE:<persName key="eyton" ref="#studio_employee" role="business">Mr. Eyton</persName>, was his <objectName type="body">body</objectName>
                stone cold at that time?</p>
 
             <p>EYTON: Stone cold and very stiff and rigid.</p>
@@ -282,19 +282,19 @@
 
             <p>NANCE: Who were present when you was there?</p>
 
-            <p>EYTON: When I came in, the first man I noticed was<persName key="ziegler" role="detective">Detective
-                  Ziegler</persName>, whom I have known for a number of years, and <persName key="dougMaclean">Douglas
-                  Maclean</persName>; <persName key="maigne">Charles Maigne</persName>; the landlord <persName key="jessurun" role="landlord"> [E. C.
-                     Jessurun]</persName>; and <persName key="harryFellows" role="assistantDirector">Harry Fellows</persName>,<persName key="taylor" role="director">Mr. Taylor's</persName>
+            <p>EYTON: When I came in, the first man I noticed was<persName key="ziegler" ref="#law_enforcement" role="unknown">Detective
+                  Ziegler</persName>, whom I have known for a number of years, and <persName key="dougMaclean" ref="#actor" role="social">Douglas
+                  Maclean</persName>; <persName key="maigne" ref="#director" role="business">Charles Maigne</persName>; the landlord <persName key="jessurun" ref="#professional" role="social business"> [E. C.
+                     Jessurun]</persName>; and <persName key="harryFellows" ref="#director" role="business">Harry Fellows</persName>,<persName key="taylor" ref="#director">Mr. Taylor's</persName>
                assistant director.</p>
 
             <p>NANCE: Did all of these persons live there in this
                   <placeName type="residence">neighborhood</placeName>?</p>
 
-            <p>EYTON: That I could not tell you. <persName key="dougMaclean">Mr. MacLean</persName> did, I know,
+            <p>EYTON: That I could not tell you. <persName key="dougMaclean" ref="#actor" role="social">Mr. MacLean</persName> did, I know,
                because he showed me where his <placeName type="residence">apartment</placeName> was.</p>
 
-            <p>NANCE: The place<persName key="taylor" role="director">Mr. Taylor</persName> lived was in a
+            <p>NANCE: The place<persName key="taylor" ref="#director">Mr. Taylor</persName> lived was in a
                   <placeName type="residence">court</placeName>?</p>
 
             <p>EYTON: In a <placeName type="residence">court</placeName>, yes.</p>
@@ -304,12 +304,12 @@
             <p>EYTON: There are several <placeName type="residence">apartments</placeName> in this
                   <placeName type="residence">court</placeName>, all the way around.</p>
 
-            <p>NANCE: Did <persName key="dougMaclean">Mr. and Mrs. MacLean</persName>, or either of them, tell
+            <p>NANCE: Did <persName key="dougMaclean" ref="#actor" role="social">Mr. and Mrs. MacLean</persName>, or either of them, tell
                you about the <time>hour</time> that they heard the
                <objectName type="gun">gunshot</objectName>?</p>
 
-            <p>EYTON: Yes, <persName key="dougMaclean">Mr. Maclean</persName> told me it was <time>about
-                  eight</time> or a <time>quarter after eight</time>, and <persName key="faithMaclean">Mrs. Maclean</persName>
+            <p>EYTON: Yes, <persName key="dougMaclean" ref="#actor" role="social">Mr. Maclean</persName> told me it was <time>about
+                  eight</time> or a <time>quarter after eight</time>, and <persName key="faithMaclean" ref="#actor" role="social">Mrs. Maclean</persName>
                thought it was <time>a little later</time>. [This is not correct.]</p>
 
             <p>NANCE: <date>That night?</date></p>
@@ -326,7 +326,7 @@
 
             <p>EYTON: Yes.</p>
 
-            <p>NANCE: Now, how long has<persName key="taylor" role="director">Mr. Taylor</persName> lived in this
+            <p>NANCE: Now, how long has<persName key="taylor" ref="#director">Mr. Taylor</persName> lived in this
                place?</p>
 
             <p>EYTON: That I could not tell you. He lived in it before he went to
@@ -342,7 +342,7 @@
             <p>EYTON: I believe he had a <objectName type="gun">revolver</objectName>; I believe
                the <objectName type="gun">revolver</objectName> was in the <objectName type="furniture">upper
                   drawer</objectName>
-               <placeName type="location">upstairs</placeName>; in fact, I know there was, because<persName key="ziegler" role="detective">Detective
+               <placeName type="location">upstairs</placeName>; in fact, I know there was, because<persName key="ziegler" ref="#law_enforcement" role="unknown">Detective
                   Ziegler</persName> and myself went up there and saw it.</p>
 
             <p>NANCE: When you were called to this place, did you see any
@@ -353,12 +353,12 @@
 
             <p>NANCE: What is the name of his valet, or attendant there?</p>
 
-            <p>EYTON: <persName key="peavey" role="houseAssistant">Harry Peavey</persName>, the colored cook. I never knew him or
+            <p>EYTON: <persName key="peavey" ref="#servant" role="business">Harry Peavey</persName>, the colored cook. I never knew him or
                saw him.</p>
 
             <p>NANCE: Was he the one who called you?</p>
 
-            <p>EYTON: <persName key="harryFellows" role="assistantDirector">Harry Fellows</persName>, his assistant director, was the one
+            <p>EYTON: <persName key="harryFellows" ref="#director" role="business">Harry Fellows</persName>, his assistant director, was the one
                who called me.</p>
 
             <p>NANCE: You have no independent knowledge of the manner in which he met
@@ -368,7 +368,7 @@
 
             <p>THE CORONER: Have you any questions, gentlemen?</p>
 
-            <p>NANCE: (By <persName key="juror">a Juror</persName>) Was his
+            <p>NANCE: (By <persName key="juror" ref="#legal" role="unknown">a Juror</persName>) Was his
                   <objectName type="clothing">clothing</objectName> ruffled in any way, showing any violence?</p>
 
             <p>EYTON: No, absolutely none; it looked like he just walked in the

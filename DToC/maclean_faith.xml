@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>HUMN100 FALL 2025: The Murder of William Desmond Taylor</title>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Instructor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Waina Ali</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Jada Alvarez</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Colin Caricato</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>John Cochran</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lucy DiChristina</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Nick Eisele-Bockelkamp</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Ethan Esclamado</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Spencer Firestone</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Henry Gibbons</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Hou</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Campbell Killian</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Olivia King</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>William Le</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Charlie Meehleib</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Carter Morton</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Kate Reyen</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Blythe Sena</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hunter Sloan</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Rylie Smith</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Lily Stein</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Riley Twiss</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Katrina von Behren</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Emma Walkowiak</persName>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Amanda Woertz</persName>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced by members of the HUMN100: Introduction to Text Analysis course, Fall
+               2025</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>These interviews and statements are gathered from a number of sources, including
+               "Taylorology" and Robert Giroux's Deed of Death</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <category xml:id="actor"/>
+               <category xml:id="director"/>
+               <category xml:id="studio_employee"/>
+               <category xml:id="military"/>
+               <category xml:id="law_enforcement"/>
+               <category xml:id="legal"/>
+               <category xml:id="servant"/>
+               <category xml:id="family"/>
+               <category xml:id="professional"/>
+               <category xml:id="writer"/>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="interview">
+            <head>MRS. FAITH MACLEAN: neighbor Statement taken on 2-9-22</head>
+            <byline>Edited by Kate Reyen</byline>
+               
+               <p>POLICE: When did you first learn that <persName key="taylor" ref="#director">Mr. Taylor</persName> was dead? </p>
+            
+            <p>MACLEAN: At <time>7:30</time>
+               <date>Thursday morning</date>.</p>
+            
+            <p>POLICE: Who was it that brought it to your attention?</p>
+            
+            <p>MACLEAN: <persName key="peavey" ref="#servant" role="business">His colored servant</persName> came screaming out of
+               <placeName type="residence">the house</placeName>.</p>
+            
+            <p>POLICE: What did he say?</p>
+            
+            <p>MACLEAN: "Help, <orgName type="law" ref="#law_enforcement">Police</orgName>, <persName key="taylor" ref="#director">Mr. Taylor</persName> is
+               dead."</p>
+            
+            <p>POLICE: Did the fact that <persName key="taylor" ref="#director">Mr. Taylor</persName> was dead remind you of
+               anything that occurred <eventName type="murder">the night before</eventName> * did you hear a
+               shot.</p>
+            
+            <p>MACLEAN: Yes, what we thought might be a shot or a <objectName type="vehicle">muffler</objectName>
+               explosion, I do not know which.</p>
+            
+            <p>POLICE: When did you hear that?</p>
+            
+            <p>MACLEAN: Sometime probably between <time>quarter of eight and eight o'clock</time> on
+               <date>Wednesday evening</date>.</p>
+            
+            <p>POLICE: Now, at the time you heard this shot did you go out on <placeName type="house">the
+               porch</placeName>?</p>
+            
+            <p>MACLEAN: Yes, shortly after *** oh, about, I suppose three or four seconds, maybe a
+               minute.</p>
+            
+            <p>MACLEAN: No I did not I just opened my <objectName type="house">front door</objectName>.</p>
+            
+            <p>POLICE: Well, what did you say?</p>
+            
+            <p>MACLEAN: I saw <persName key="murderer">a man</persName> had already opened the <objectName type="passage">door</objectName> of
+               <placeName type="residence">Mr. Taylor's house</placeName> and was looking towards
+               <placeName type="location">Alverado St</placeName>. *** I didn't see <persName key="murderer">him</persName> open the
+               <objectName type="passage">door</objectName>; it was already open I think.</p>
+            
+            <p>POLICE: Which way was the <objectName type="door">screen</objectName>?</p>
+            
+            <p>MACLEAN: The <objectName type="door">screen door</objectName> was open. I think the
+               <objectName type="door">screen door</objectName> was open then it must have been to have seen
+               <persName key="murderer">his</persName> figure as clearly as I did.</p>
+            
+            <p>POLICE: Did <persName key="murderer">he</persName> shut the <objectName type="passage">door</objectName>?</p>
+            
+            <p>MACLEAN: It seems like <persName key="murderer">he</persName> shut the <objectName type="passage">door</objectName>. It seems like <persName key="murderer">he</persName>
+               leaned in and pulled it closed.</p>
+            
+            <p>MACLEAN: So it must have been opened because I distinctly saw <persName key="murderer">his</persName>
+               <objectName type="clothing">cap</objectName>.</p>
+            
+            <p>POLICE: You are satisfied are you, that the light came from <placeName type="scene">Taylor's
+               apartment</placeName> out on <placeName type="passage">the street</placeName> through the
+               <objectName type="passage">open door</objectName>?</p>
+            
+            <p>MACLEAN: Yes.</p>
+            
+            <p>POLICE: Did <persName key="murderer">he</persName> seem in a hurry?</p>
+            
+            <p>MACLEAN: No, <persName key="murderer">he</persName> was the coolest thing I have ever seen * * *. <persName key="murderer">He</persName> turned around and
+               looked at me and hesitated. Then it seems as if * * * that <persName key="taylor" ref="#director">Mr.
+                  Taylor</persName> must have spoken to <persName key="murderer">him</persName> from inside <placeName type="scene">the house</placeName> 
+               *** <persName key="murderer">he</persName> thought he had spoken and he didn't. Seemed like <persName key="murderer">he</persName>
+               pulled the <objectName type="passage">door</objectName> shut, then turned around and looking at me
+               all the time, walked down a couple of <objectName type="house">steps</objectName> that go up to <placeName key="taylor" ref="#director">Mr. Taylor's
+                  house</placeName> there.</p>
+            <p>POLICE: Do you know whether <persName key="murderer">the man</persName> that you saw went to <placeName type="location">Alvarado
+               St</placeName>. through the open court there?</p>
+            
+            <p>MACLEAN: <persName key="murderer">He</persName> went towards <placeName type="location">Maryland St.</placeName> and towards
+               <placeName type="passage">the alley</placeName> in <placeName type="passage">between the two houses</placeName>
+               because <persName key="murderer">he</persName> was facing that way ready to go when I closed the
+               <objectName type="passage">door</objectName>.</p>
+            
+            <p>POLICE: You knew it wasn't <persName key="taylor" ref="#director">Taylor</persName>.</p>
+            
+            <p>MACLEAN: Oh, I knew it wasn't <persName key="taylor" ref="#director">Taylor</persName>.</p>
+            
+            <p>POLICE: Could you have recognized <persName key="murderer">the man</persName> 1f it had been <persName key="taylor" ref="#director">Mr.
+               Taylor</persName>.</p>
+            
+            <p>MACLEAN: Oh, yes, positively. </p>
+            
+            <p>POLICE: Now, is it possible that it might have been this young man <persName key="howardFellows" ref="#servant" role="business">Howard
+               Fellows</persName>, the chauffeur, that you saw there. Could that be possible.</p>
+            
+            <p>MACLEAN: I suppose it could be possible but it doesn't seem to me that he was <persName key="murderer">the boy
+               or was the man</persName>. He doesn't seem the built of <persName key="murderer">that man</persName>.</p>
+            
+            <p>POLICE: Did <persName key="murderer">the man</persName> you saw have a smooth face?</p>
+            
+            <p>MACLEAN: Yes, <persName key="murderer">he</persName> did have a smooth face.</p>
+            
+            <p>POLICE: Did <persName key="murderer">the man</persName> you saw have on anything like a <objectName type="clothing">chauffeur's
+               uniform</objectName>?</p>
+            
+            <p> MACLEAN: Well, the only thing I noticed was <persName key="murderer">his</persName> <objectName type="clothing">cap</objectName>,
+               something tied around <persName key="murderer">his</persName> throat. I don't know whether <persName key="murderer">the man</persName> had an
+               <objectName type="clothing">over-coat</objectName> or not.</p>
+            
+            <p>MACLEAN: <persName key="murderer">His</persName> age I don't know but I should judge <persName key="murderer">the man</persName> was probably between 30 and
+               35. <persName key="murderer">He</persName> was about <height>5 feet nine</height>, just about ***, and <persName key="murderer">he</persName> was stocky, not
+               fat, but stocky. <persName key="murderer">He</persName> had on a <objectName type="clothing">cap</objectName>. It seemed like a checked
+               <objectName type="clothing">cap</objectName> with a plaid in it, and <persName type="clothing">he</persName> wore something around <persName key="murderer">his</persName>
+               throat.</p>
+            
+            <p>POLICE: Smooth shaven?</p>
+            
+            <p>MACLEAN: Yes.</p>
+            
+            <p>POLICE: Color of <persName key= "murderer">his</persName> <objectName type="clothing">suit</objectName>?</p>
+            
+            <p>MACLEAN: No, except it was a dark <objectName type="clothing">suit</objectName>.</p>
+            
+            <p>POLICE: Now didn't compare in size with <persName key="smith" ref="#professional" role="unknown">Mr. Smith</persName>,the
+               reporter here, who is taking this statement? (<persName key="smith" ref="#professional">Mr.
+                  Smith</persName> was about <height>5' 7 1/2"</height>)</p>
+            
+            <p>MACLEAN: No, <persName key="smith" ref="#professional" role="unknown">Mr. Smith</persName> is shorter. (The witness names the
+               following men: <persName key="king" ref="#professional" role="unknown">Mr. Henry King</persName>, <persName key="hamilton" ref="#professional" role="unknown">Mr. Mahlon Hamilton</persName>, <persName key="hoyt" ref="#professional" role="unknown">Mr. Arthur Hoyt</persName>, <persName key="berris" ref="#professional" role="unknown">Mr. Berris</persName> (first
+               name Nigle?), <persName key="ince" ref="#professional" role="unknown">Mr. Ince</persName>, <persName key="neilan" ref="#professional" role="unknown">Mr. Marshal Neilan</persName>. Witness was then asked the following
+               questions)</p>
+            
+            <p>POLICE: Now then, tell me whether there is any possibility that <persName key="murderer">this man</persName> you saw
+               coming out of there was any of the persons that you have mentioned?</p>
+            
+            <p>MACLEAN: No, I think not. I think I would have recognized any of those people.</p>
+            
+            <p>** when <persName key="murderer">he</persName> came out <persName key="murderer">he</persName> was dressed as my idea of a <objectName type="description">moving picture
+               burglar</objectName>**? ** because I remember thinking perhaps <persName key="murderer">he</persName> might have been
+               one of the boys in <persName key="taylor" ref="#director">Mr. Taylor's</persName> company when they go out on
+               location. MACLEAN: Not well dressed. I don't know as I would say slovenly but I don't
+               think <persName key="murderer">he</persName> was well dressed.</p>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -142,55 +142,55 @@
 
             <p>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement taken
                3-11-26 at 1:30 PM </p>
-            <p>POLICE: We have been informed that you had a conversation with<persName key="cshelby"> Mrs.
-                  Shelby</persName> at the time he <persName key="taylor">(Taylor)</persName> was killed in which
+            <p>POLICE: We have been informed that you had a conversation with<persName key="cshelby" ref="#actor"> Mrs.
+                  Shelby</persName> at the time he <persName key="taylor" ref="#director">(Taylor)</persName> was killed in which
                you were the first that gave her the information as to his <eventName type="death">death</eventName>. </p>
 
             <p>BERGER: I did! My god, the next thing they will say I <eventName type="murdered">murdered</eventName> him. I should say not.
                I was the first one to give it to her? Absolutely not. I didn't know it until it was
-               given to me. I think <persName key="cshelby">Mrs. Shelby</persName> called me up right after I got
+               given to me. I think <persName key="cshelby" ref="#actor">Mrs. Shelby</persName> called me up right after I got
                to my <placeName type="office">office</placeName> in the morning.</p>
 
             <p> POLICE: What time was that?</p>
 
             <p> BERGER: I imagine about <time type="morning">7:30</time>. </p>
 
-            <p> POLICE: Do you recall that you warned <persName key="cshelby">Mrs. Shelby</persName> that she
+            <p> POLICE: Do you recall that you warned <persName key="cshelby" ref="#actor">Mrs. Shelby</persName> that she
                should not be in that <placeName type="residence">house (N. Hampshire house)</placeName> by
                herself?</p>
 
             <p> BERGER: I did? Well, I should say not.</p>
 
             <p> POLICE: And that she replied over the <objectName type="communication">phone</objectName> that she wasn't alone, that she had
-                  <persName key="smith">Mr. Smith</persName> there?</p>
+                  <persName key="smith" ref="#writer">Mr. Smith</persName> there?</p>
 
             <p> BERGER: I say that? How could I ever make such a remark? The first time I heard or
                saw you was after this murder, wasn't it?</p>
 
-            <p>POLICE: Do you remember of ever calling<persName key="cshelby"> Mrs. Shelby</persName> on the
-               telephone and telling her <persName key="taylor">Taylor</persName> was killed or murdered?</p>
+            <p>POLICE: Do you remember of ever calling<persName key="cshelby" ref="#actor"> Mrs. Shelby</persName> on the
+               telephone and telling her <persName key="taylor" ref="#director">Taylor</persName> was killed or murdered?</p>
 
             <p>BERGER: NO - capital letters - NO.</p>
 
-            <p> POLICE: Now, <persName key="berger">Miss Berger</persName>, I asked you <time>yesterday</time> a question,
-               whether or not you ever had a conversation with<persName key="cshelby"> Mrs. Shelby</persName> on
-               the morning of <date type="febuary2">February 2, 1922</date>, following the death of<persName key="taylor"> Mr.
+            <p> POLICE: Now, <persName key="berger" ref="#professional">Miss Berger</persName>, I asked you <time>yesterday</time> a question,
+               whether or not you ever had a conversation with<persName key="cshelby" ref="#actor"> Mrs. Shelby</persName> on
+               the morning of <date type="febuary2">February 2, 1922</date>, following the death of<persName key="taylor" ref="director"> Mr.
                   Taylor</persName>? </p>
             <p> BERGER: I did. </p>
 
-            <p>BERGER: At <time type="morning">half past seven in the morning</time><persName key="cshelby"> Mrs.
+            <p>BERGER: At <time type="morning">half past seven in the morning</time><persName key="cshelby" ref="#actor"> Mrs.
                   Shelby</persName> called me.</p>
 
             <p>POLICE: Wou1d you care to relate to me what the conversation was?</p>
 
             <p>BERGER: Absolutely. Gladly. I arrived at my <placeName type="work">office</placeName>
                <time>between 7 and 7:30 on the morning</time> of<date type="febuary2"> February 2nd, 1922</date>. My
-               <objectName type="communication">telephone</objectName> was ringing. I answered the phone. <persName key="cshelby">Mrs. Charlotte
-                  Shelby</persName> said, "<persName key="berger">Margery</persName>, I have something terrible
+               <objectName type="communication">telephone</objectName> was ringing. I answered the phone. <persName key="cshelby" ref="#actor">Mrs. Charlotte
+                  Shelby</persName> said, "<persName key="berger" ref="#professional">Margery</persName>, I have something terrible
                to tell you. The man that was in your <placeName type="work">office</placeName>
                <time>yesterday afternoon</time> is no more. He is dead." I said, "What do you mean?"
                She said, "He was found dead <time type="morning">this morning</time>." "Who told you? What do you
-               know about it?" I said. "<persName key="lasky">Lasky's</persName> just called me up and told me."
+               know about it?" I said. "<persName key="lasky" ref="#studio_employee">Lasky's</persName> just called me up and told me."
                I said, "Where are you now?" She said, "I am at the <placeName type="residence">New Hampshire
                   home</placeName>". I said, "Is the whole family there?" She said, "No, I am
                alone." She did state that <orgName type="company">Lasky's Studio</orgName> had called her up
@@ -203,16 +203,16 @@
 
             <p> POLICE: Did she appear to be fond of him?</p>
 
-            <p>FELLOWS: <persName key="minter">Miss Minter</persName>?</p>
+            <p>FELLOWS: <persName key="minter" ref="#actor">Miss Minter</persName>?</p>
 
             <p>POLICE: Yes.</p>
 
-            <p>FELLOWS: Yes, she did seem to be very fond of <persName key="taylor">Mr. Taylor</persName>. - - -
+            <p>FELLOWS: Yes, she did seem to be very fond of <persName key="taylor" ref="#director">Mr. Taylor</persName>. - - -
                and seemed to chase him around to the <placeName type="studio">studio</placeName> and things like that. As far as I
-                  know<persName key="taylor"> Mr. Taylor</persName> never really thought an awful lot of
-                  <persName key="minter">Miss Minter</persName>. I mean more than just to like her for a nice
-               little girl. He thought more of <persName key="normand">Miss Normand</persName> than he did of any
-               one I have ever known. I got there I must have got at <persName key="taylor">Mr.
+                  know<persName key="taylor" ref="#director"> Mr. Taylor</persName> never really thought an awful lot of
+                  <persName key="minter" ref="#actor">Miss Minter</persName>. I mean more than just to like her for a nice
+               little girl. He thought more of <persName key="normand" ref="#actor">Miss Normand</persName> than he did of any
+               one I have ever known. I got there I must have got at <persName key="taylor" ref="#director">Mr.
                   Taylor</persName>‚ <placeName type="residence">house</placeName> about <time type="morning">8 o'clock in the morning</time> when I
                came there.</p>
 
@@ -222,53 +222,53 @@
 
             <p> POLICE: Well, did you know that he was killed before you went there?</p>
 
-            <p>FELLOWS: No, my brother called me up and told me<persName key="taylor"> Mr. Taylor</persName> was
-               found dead. I understood him to say <persName key="taylor">Mr. Taylor</persName> was found <eventName type="dead ">dead</eventName> in
+            <p>FELLOWS: No, my brother called me up and told me<persName key="taylor" ref="#director"> Mr. Taylor</persName> was
+               found dead. I understood him to say <persName key="taylor" ref="#director">Mr. Taylor</persName> was found <eventName type="dead ">dead</eventName> in
                <placeName type="residence">bed</placeName>.</p>
 
-            <p>POLICE: Who was there, <persName key="harryFellows">Harry</persName>, when you came in?</p>
+            <p>POLICE: Who was there, <persName key="harryFellows" ref="#director">Harry</persName>, when you came in?</p>
 
-            <p> FELLOWS: There was <persName key="dougMaclean">Douglas MacLean</persName> and the owner of the court I
+            <p> FELLOWS: There was <persName key="dougMaclean" ref="#actor">Douglas MacLean</persName> and the owner of the court I
                think, his name is <persName key="jessurun">Jesserun</persName>. I think there was two men from
-               headquarters and my brother, <persName key="howardFellows">Howard</persName> and<persName key="henrypeavey"> Henry
-                  Peavey</persName>. I am not positive whether the <persName key="doctor">doctor</persName> was
-               there when I first got there or whether he came when I was phoning <persName key="eyton">Mr.
-                  Eyton</persName>. <persName key="hoyt">Arthur Hoyt</persName> and <persName key="maigne">Charlie
+               headquarters and my brother, <persName key="howardFellows" ref="#servant">Howard</persName> and<persName key="henrypeavey" ref="#servant"> Henry
+                  Peavey</persName>. I am not positive whether the <persName key="doctor" ref="#professional">doctor</persName> was
+               there when I first got there or whether he came when I was phoning <persName key="eyton" ref="#director">Mr.
+                  Eyton</persName>. <persName key="hoyt" ref="#actor">Arthur Hoyt</persName> and <persName key="maigne" ref="director">Charlie
                   Maigne</persName> and myself went <placeName key="place">upstairs</placeName> and got all the
                literature and things like that that we could get and put them in a <objectName type="package">package</objectName> *** and I
-               gave <persName key="jimmie">Jimmie Vantrees</persName> who was <persName key="cameraman">Mr. Taylor's
-                  Cameraman</persName> and<persName key="ivers"> Mrs. Ivers (Jimmie's mother)</persName> and ask
-               them to keep the letters for me. Why <persName key="jimmie">Jimmie</persName> must have given them
-               to <persName key="ivers">Mrs. Ivers</persName> and then then I went right over and got them from
+               gave <persName key="jimmie">Jimmie Vantrees</persName> who was <persName key="cameraman" ref="#professional">Mr. Taylor's
+                  Cameraman</persName> and<persName key="ivers" ref="#director"> Mrs. Ivers (Jimmie's mother)</persName> and ask
+               them to keep the letters for me. Why <persName key="jimmie" ref="#actor">Jimmie</persName> must have given them
+               to <persName key="ivers" ref="#director">Mrs. Ivers</persName> and then then I went right over and got them from
                her and took them out to the<placeName type="studio"> studio</placeName>.</p>
 
             <p>POLICE: What did you do with them?</p>
 
-            <p> FELLOWS: Gave them to<persName key="eyton"> Mr. Eyton</persName>. *** I dont think any body
-               made an examination until <persName key="eyton">Mr. Eyton</persName> insisted on an examination
+            <p> FELLOWS: Gave them to<persName key="eyton" ref="#director"> Mr. Eyton</persName>. *** I dont think any body
+               made an examination until <persName key="eyton" ref="director">Mr. Eyton</persName> insisted on an examination
                being made and that must have been <time type="estimation">two hours or 2 hours after</time> the time
                we got there anyway.</p>
 
  
             <p> HOWARD FELLOWS, Chauffeur for Mr. Taylor Statement taken 2-9-22, 4:45 P.M.</p>
 
-            <p>POLICE: Where did you take<persName key="taylor"> Mr. Taylor</persName> the day he was <eventName type="killed">killed</eventName>
+            <p>POLICE: Where did you take<persName key="taylor" ref="#director"> Mr. Taylor</persName> the day he was <eventName type="killed">killed</eventName>
                begin in the morning?</p>
 
             <p> FELLOWS: It was the <placeName key="studio">studio</placeName>. ...called for him I think at <time type="estimation">one o'clock.</time> I took him
-               down town to the <placeName type="bank">bank</placeName>, which I drove <persName key="harryFellows">Harry</persName> up to see you, I
+               down town to the <placeName type="bank">bank</placeName>, which I drove <persName key="harryFellows" ref="#director">Harry</persName> up to see you, I
                think it was, which I went home and called for him at <time type="afternoon">quarter of four</time> at
                <placeName type="store">Robinson's</placeName>.</p>
 
             <p> POLICE: <placeName type="store">Robinson's Store</placeName>? </p>
 
-            <p>FELLOWS: Yes. He came along ‚<persName key="harryFellows">Harry</persName> was waiting to see him.
+            <p>FELLOWS: Yes. He came along ‚<persName key="harryFellows" ref="director">Harry</persName> was waiting to see him.
                They talked there until it was pretty near time for me to move or get a ticket for
-               standing after hours. (After relating taking <persName key="taylor">Mr. Taylor</persName> home,
-               he, <persName key="taylor">Taylor</persName> said) "I will call you between <time type="nighttime">7 and 7:30
+               standing after hours. (After relating taking <persName key="taylor" ref="#director">Mr. Taylor</persName> home,
+               he, <persName key="taylor" ref="#director">Taylor</persName> said) "I will call you between <time type="nighttime">7 and 7:30
                </time>if I want you.</p>
 
-            <p>POLICE: You went around to<persName key="taylor"> Mr. Taylor's</persName>
+            <p>POLICE: You went around to<persName key="taylor" ref="#director"> Mr. Taylor's</persName>
                <placeName type="residence">house</placeName> the night he was <eventName type="killed">killed</eventName>.</p>
 
             <p>FELLOWS: Yes.</p>
@@ -334,18 +334,18 @@
             <p>EATON: If I am not mistaken, when I went to the <placeName type="residence">New Hampshire house</placeName> <time type="morning">the next morning
                about 8 o'clock</time>.</p>
 
-            <p> POLICE: Who told you about <persName key="taylor">Taylor</persName> being <eventName type="murdered">murdered</eventName>?</p>
+            <p> POLICE: Who told you about <persName key="taylor" ref="#director">Taylor</persName> being <eventName type="murdered">murdered</eventName>?</p>
 
-            <p> EATON: I think <persName key="cshelby">Mrs. Shelby</persName> called to me from an <placeName type="location">upstairs</placeName> <objectName type="passage">window</objectName>
-               and said, "Did you know that <persName key="taylor">Taylor</persName> had been <eventName type="murdered">murdered</eventName>?</p>
+            <p> EATON: I think <persName key="cshelby" ref="#actor">Mrs. Shelby</persName> called to me from an <placeName type="location">upstairs</placeName> <objectName type="passage">window</objectName>
+               and said, "Did you know that <persName key="taylor" ref="#director">Taylor</persName> had been <eventName type="murdered">murdered</eventName>?</p>
 
             <p> POLICE: Can you fix the exact time of the <time type="morning">morning</time>?</p>
 
             <p> EATON: Not otherwise, about <time type="morning">8 o'clock.</time> (Witness is speaking about taking the <objectName type="gun">gun</objectName>
-                from <persName key="minter">M.M. Minter</persName> at the time of her attempted suicide)</p>
+                from <persName key="minter" ref="#actor">M.M. Minter</persName> at the time of her attempted suicide)</p>
 
             <p> POLICE: Can you describe the gun which you unloaded which belonged to
-                  <persName key="minter">Mary</persName>?</p>
+                  <persName key="minter" ref="#actor">Mary</persName>?</p>
 
             <p> EATON: I think a <objectName type="gun">25 caliber blue automatic</objectName>. I believe we could find the <objectName type="gun">shells</objectName> of
                that <objectName type="gun">gun</objectName> because I hid them on a beam in the <placeName type="residence">New Hampshire house</placeName>.</p>
