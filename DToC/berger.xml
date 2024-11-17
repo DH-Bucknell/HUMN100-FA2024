@@ -117,7 +117,7 @@
                "Taylorology" and Robert Giroux's Deed of Death</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
+      <!--<encodingDesc>
          <classDecl>
             <taxonomy>
                <category xml:id="actor"/>
@@ -132,7 +132,7 @@
                <category xml:id="writer"/>
             </taxonomy>
          </classDecl>
-      </encodingDesc>
+      </encodingDesc>-->
    </teiHeader>
    <text>
       <body>
@@ -142,6 +142,7 @@
             <div type="interview">
                <head>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement
                   taken 3-11-26 at 1:30 PM</head>
+               
                <p>POLICE: We have been informed that you had a conversation with<persName
                      key="cshelby" ref="#actor"> Mrs. Shelby</persName> at the time he <persName
                      key="taylor" ref="#director">(Taylor)</persName> was killed in which you were

@@ -117,7 +117,7 @@
                "taylorology" and Robert Giroux's Deed of Death</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
+      <!--<encodingDesc>
          <classDecl>
             <taxonomy>
                <category xml:id="actor"/>
@@ -132,7 +132,7 @@
                <category xml:id="writer"/>
             </taxonomy>
          </classDecl>
-      </encodingDesc>
+      </encodingDesc>-->
    </teiHeader>
    <text>
       <body>
