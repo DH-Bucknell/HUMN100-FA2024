@@ -140,7 +140,7 @@
             <head>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement taken
                3-11-26 at 1:30 PM</head>
             <byline>Edited by Lily Stein</byline>
-
+<div>
             <p>POLICE: We have been informed that you had a conversation with<persName key="cshelby" ref="#actor"> Mrs.
                Shelby</persName> at the time he <persName key="taylor" ref="#director">(Taylor)</persName> was killed in which
                you were the first that gave her the information as to his <eventName type="death">death</eventName>. </p>
@@ -195,7 +195,7 @@
                alone." She did state that <orgName type="company">Lasky's Studio</orgName> had called her up
                and informed her about <time type="estimation">half an hour previous</time> to her calling me. It was
                between <time type="morning">7 and 7:30 that morning</time> at my <placeName type="work">office</placeName> that
-               she called. </p>
+               she called. </p></div>
          </div>
       </body>
   </text>

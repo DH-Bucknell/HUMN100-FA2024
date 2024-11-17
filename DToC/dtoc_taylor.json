@@ -38,7 +38,7 @@
     ],
     "documents": "//div[@type='interview']",
     "ignoreNamespace": true,
-    "documentTitle": "head",
+    "documentTitle": "head/title",
     "documentAuthor": "",
     "documentImages": "",
     "documentNotes": "",
