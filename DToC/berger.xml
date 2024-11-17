@@ -134,69 +134,81 @@
          </classDecl>
       </encodingDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
          <div type="interview">
             <head>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement taken
                3-11-26 at 1:30 PM</head>
             <byline>Edited by Lily Stein</byline>
-<div>
-            <p>POLICE: We have been informed that you had a conversation with<persName key="cshelby" ref="#actor"> Mrs.
-               Shelby</persName> at the time he <persName key="taylor" ref="#director">(Taylor)</persName> was killed in which
-               you were the first that gave her the information as to his <eventName type="death">death</eventName>. </p>
-            
-            <p>BERGER: I did! My god, the next thing they will say I <eventName type="murdered">murdered</eventName> him. I should say not.
-               I was the first one to give it to her? Absolutely not. I didn't know it until it was
-               given to me. I think <persName key="cshelby" ref="#actor">Mrs. Shelby</persName> called me up right after I got
-               to my <placeName type="office">office</placeName> in the morning.</p>
-            
-            <p> POLICE: What time was that?</p>
-            
-            <p> BERGER: I imagine about <time type="morning">7:30</time>. </p>
-            
-            <p> POLICE: Do you recall that you warned <persName key="cshelby" ref="#actor">Mrs. Shelby</persName> that she
-               should not be in that <placeName type="residence">house (N. Hampshire house)</placeName> by
-               herself?</p>
-            
-            <p> BERGER: I did? Well, I should say not.</p>
-            
-            <p> POLICE: And that she replied over the <objectName type="communication">phone</objectName> that she wasn't alone, that she had
-               <persName key="smith" ref="#writer">Mr. Smith</persName> there?</p>
-            
-            <p> BERGER: I say that? How could I ever make such a remark? The first time I heard or
-               saw you was after this murder, wasn't it?</p>
-            
-            <p>POLICE: Do you remember of ever calling<persName key="cshelby" ref="#actor"> Mrs. Shelby</persName> on the
-               telephone and telling her <persName key="taylor" ref="#director">Taylor</persName> was killed or murdered?</p>
-            
-            <p>BERGER: NO - capital letters - NO.</p>
-            
-            <p> POLICE: Now, <persName key="berger" ref="#professional">Miss Berger</persName>, I asked you <time>yesterday</time> a question,
-               whether or not you ever had a conversation with<persName key="cshelby" ref="#actor"> Mrs. Shelby</persName> on
-               the morning of <date type="febuary2">February 2, 1922</date>, following the death of<persName key="taylor" ref="director"> Mr.
-                  Taylor</persName>? </p>
-            <p> BERGER: I did. </p>
-            
-            <p>BERGER: At <time type="morning">half past seven in the morning</time><persName key="cshelby" ref="#actor"> Mrs.
-               Shelby</persName> called me.</p>
-            
-            <p>POLICE: Wou1d you care to relate to me what the conversation was?</p>
-            
-            <p>BERGER: Absolutely. Gladly. I arrived at my <placeName type="work">office</placeName>
-               <time>between 7 and 7:30 on the morning</time> of<date type="febuary2"> February 2nd, 1922</date>. My
-               <objectName type="communication">telephone</objectName> was ringing. I answered the phone. <persName key="cshelby" ref="#actor">Mrs. Charlotte
-                  Shelby</persName> said, "<persName key="berger" ref="#professional">Margery</persName>, I have something terrible
-               to tell you. The man that was in your <placeName type="work">office</placeName>
-               <time>yesterday afternoon</time> is no more. He is dead." I said, "What do you mean?"
-               She said, "He was found dead <time type="morning">this morning</time>." "Who told you? What do you
-               know about it?" I said. "<persName key="lasky" ref="#studio_employee">Lasky's</persName> just called me up and told me."
-               I said, "Where are you now?" She said, "I am at the <placeName type="residence">New Hampshire
-                  home</placeName>". I said, "Is the whole family there?" She said, "No, I am
-               alone." She did state that <orgName type="company">Lasky's Studio</orgName> had called her up
-               and informed her about <time type="estimation">half an hour previous</time> to her calling me. It was
-               between <time type="morning">7 and 7:30 that morning</time> at my <placeName type="work">office</placeName> that
-               she called. </p></div>
+            <div>
+               <p>POLICE: We have been informed that you had a conversation with<persName
+                     key="cshelby" ref="#actor"> Mrs. Shelby</persName> at the time he <persName
+                     key="taylor" ref="#director">(Taylor)</persName> was killed in which you were
+                  the first that gave her the information as to his <eventName type="death"
+                     >death</eventName>. </p>
+
+               <p>BERGER: I did! My god, the next thing they will say I <eventName type="murdered"
+                     >murdered</eventName> him. I should say not. I was the first one to give it to
+                  her? Absolutely not. I didn't know it until it was given to me. I think <persName
+                     key="cshelby" ref="#actor">Mrs. Shelby</persName> called me up right after I
+                  got to my <placeName type="office">office</placeName> in the morning.</p>
+
+               <p> POLICE: What time was that?</p>
+
+               <p> BERGER: I imagine about <time type="morning">7:30</time>. </p>
+
+               <p> POLICE: Do you recall that you warned <persName key="cshelby" ref="#actor">Mrs.
+                     Shelby</persName> that she should not be in that <placeName type="residence"
+                     >house (N. Hampshire house)</placeName> by herself?</p>
+
+               <p> BERGER: I did? Well, I should say not.</p>
+
+               <p> POLICE: And that she replied over the <objectName type="communication"
+                     >phone</objectName> that she wasn't alone, that she had <persName key="smith"
+                     ref="#writer">Mr. Smith</persName> there?</p>
+
+               <p> BERGER: I say that? How could I ever make such a remark? The first time I heard
+                  or saw you was after this murder, wasn't it?</p>
+
+               <p>POLICE: Do you remember of ever calling<persName key="cshelby" ref="#actor"> Mrs.
+                     Shelby</persName> on the telephone and telling her <persName key="taylor"
+                     ref="#director">Taylor</persName> was killed or murdered?</p>
+
+               <p>BERGER: NO - capital letters - NO.</p>
+
+               <p> POLICE: Now, <persName key="berger" ref="#professional">Miss Berger</persName>, I
+                  asked you <time>yesterday</time> a question, whether or not you ever had a
+                  conversation with<persName key="cshelby" ref="#actor"> Mrs. Shelby</persName> on
+                  the morning of <date type="febuary2">February 2, 1922</date>, following the death
+                     of<persName key="taylor" ref="director"> Mr. Taylor</persName>? </p>
+               <p> BERGER: I did. </p>
+
+               <p>BERGER: At <time type="morning">half past seven in the morning</time><persName
+                     key="cshelby" ref="#actor"> Mrs. Shelby</persName> called me.</p>
+
+               <p>POLICE: Wou1d you care to relate to me what the conversation was?</p>
+
+               <p>BERGER: Absolutely. Gladly. I arrived at my <placeName type="work"
+                     >office</placeName>
+                  <time>between 7 and 7:30 on the morning</time> of<date type="febuary2"> February
+                     2nd, 1922</date>. My <objectName type="communication">telephone</objectName>
+                  was ringing. I answered the phone. <persName key="cshelby" ref="#actor">Mrs.
+                     Charlotte Shelby</persName> said, "<persName key="berger" ref="#professional"
+                     >Margery</persName>, I have something terrible to tell you. The man that was in
+                  your <placeName type="work">office</placeName>
+                  <time>yesterday afternoon</time> is no more. He is dead." I said, "What do you
+                  mean?" She said, "He was found dead <time type="morning">this morning</time>."
+                  "Who told you? What do you know about it?" I said. "<persName key="lasky"
+                     ref="#studio_employee">Lasky's</persName> just called me up and told me." I
+                  said, "Where are you now?" She said, "I am at the <placeName type="residence">New
+                     Hampshire home</placeName>". I said, "Is the whole family there?" She said,
+                  "No, I am alone." She did state that <orgName type="company">Lasky's
+                     Studio</orgName> had called her up and informed her about <time
+                     type="estimation">half an hour previous</time> to her calling me. It was
+                  between <time type="morning">7 and 7:30 that morning</time> at my <placeName
+                     type="work">office</placeName> that she called. </p>
+            </div>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>
