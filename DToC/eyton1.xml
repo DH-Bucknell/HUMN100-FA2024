@@ -137,9 +137,9 @@
    <text>
       <body>
          <div type="interview">
-            <head>Coroner's Inquest Transcript: Interview with Charles Eyton</head>
+            <head><title>Coroner's Inquest Transcript: Interview with Charles Eyton</title></head>
             <byline>Edited by Ethan Esclamado</byline>
-
+<div>
             <p>The following is the <objectName type="document">transcript</objectName> of the shorthand
                   <objectName type="document">notes</objectName> taken at <persName key="coroner" ref="#law_enforcement" role="unknown">the Coroner's</persName> inquest
                held on the <objectName type="body">body</objectName> of<persName key="taylor" ref="#director">William Desmond
@@ -378,7 +378,7 @@
                when he talked to me.</p>
 
             <p>THE CORONER: Is there any other questions? That is all, you may be
-               excused.</p>
+               excused.</p></div>
 
          </div>
       </body>

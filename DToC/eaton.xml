@@ -137,9 +137,9 @@
   <text>
       <body>
          <div type="interview">
-            <head>CHAUNCEY EATON Chauffeur for Mrs Shelby Taken 6-1-36, at 4:30 PM</head>
+            <head><title>CHAUNCEY EATON Chauffeur for Mrs Shelby Taken 6-1-36, at 4:30 PM</title></head>
             <byline>Edited by Lily Stein</byline>
-
+<div>
             <p>POLICE: He was murdered on the night of <date type="febuary1">February 1st, 1922</date>. "When did you first hear
                of the minder.</p>
             
@@ -160,7 +160,7 @@
                <persName key="minter" ref="#actor">Mary</persName>?</p>
             
             <p> EATON: I think a <objectName type="gun">25 caliber blue automatic</objectName>. I believe we could find the <objectName type="gun">shells</objectName> of
-               that <objectName type="gun">gun</objectName> because I hid them on a beam in the <placeName type="residence">New Hampshire house</placeName>.</p>
+               that <objectName type="gun">gun</objectName> because I hid them on a beam in the <placeName type="residence">New Hampshire house</placeName>.</p></div>
          </div>
       </body>
   </text>

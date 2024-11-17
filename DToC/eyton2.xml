@@ -137,11 +137,11 @@
   <text>
       <body>
          <div type="interview">
-            <head>MR. CHARLES EYTON Gen. Mgr. Famous Players-Lasky Statement taken 11-30-25 at 2:20
-               PM</head>
+            <head><title>MR. CHARLES EYTON Gen. Mgr. Famous Players-Lasky Statement taken 11-30-25 at 2:20
+               PM</title></head>
             <byline>Edited by Rylie Smith</byline>
             
-            <p> A. (Speaking of the morning following the murder) ** I was called on the
+            <div><p> A. (Speaking of the morning following the murder) ** I was called on the
                <objectName type="communication ">telephone</objectName>, I should judge at <time>8</time> by his
                assistant <persName ref="#director" role="buissness" key="harryFellows">Harry Fellows</persName>, and he told me. He said,
                "<persName ref="#actor" role="buissness" key="eyton">Mr. Eyton</persName>, when I came over to <persName
@@ -192,7 +192,7 @@
                before any of this came up.</p>
             <p> ** When he <eventName type="wartime">went to war</eventName> it was understood that when he came
                back he was going to <eventName type="betroth">marry</eventName>
-               <persName  ref="#actor" role="romantic" key="gerber">Neva Gerber</persName>.</p>
+               <persName  ref="#actor" role="romantic" key="gerber">Neva Gerber</persName>.</p></div>
          </div>
       </body>
   </text>

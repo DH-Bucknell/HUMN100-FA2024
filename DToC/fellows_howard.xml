@@ -137,10 +137,10 @@
   <text>
       <body>
          <div type="interview">
-            <head>HOWARD FELLOWS, Chauffeur for Mr. Taylor Statement taken 2-9-22, 4:45 P.M.</head>
+            <head><title>HOWARD FELLOWS, Chauffeur for Mr. Taylor Statement taken 2-9-22, 4:45 P.M.</title></head>
             <byline>Edited by Lily Stein</byline>
 
-            
+           <div> 
             <p>POLICE: Where did you take<persName key="taylor" ref="#director"> Mr. Taylor</persName> the day he was <eventName type="killed">killed</eventName>
                begin in the morning?</p>
             
@@ -199,7 +199,7 @@
             
             <p>POLICE: His <placeName type="location">upstairs</placeName> lights were lit?</p>
             
-            <p>FELLOWS: One of them, just a glance I took at them.</p>
+            <p>FELLOWS: One of them, just a glance I took at them.</p></div>
          </div>
       </body>
   </text>
