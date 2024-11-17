@@ -136,10 +136,10 @@
    </teiHeader>
    <text>
       <body>
-         <div type="text">
+         <div type="interview">
             <head><title>Interview with Marjorie Berger (March 26, 1926)</title></head>            
             <!--<byline>Edited by Lily Stein</byline>-->
-            <div type="interview">
+            <div type="section">
                <head>MISS J. M. BERGER Income Tax Expert for Taylor and M.M. Minter Statement
                   taken 3-11-26 at 1:30 PM</head>
                
@@ -155,9 +155,9 @@
                      key="cshelby" ref="#actor">Mrs. Shelby</persName> called me up right after I
                   got to my <placeName type="office">office</placeName> in the morning.</p>
 
-               <p> POLICE: What time was that?</p>
+               <p>POLICE: What time was that?</p>
 
-               <p> BERGER: I imagine about <time type="morning">7:30</time>. </p>
+               <p>BERGER: I imagine about <time type="morning">7:30</time>. </p>
 
                <p> POLICE: Do you recall that you warned <persName key="cshelby" ref="#actor">Mrs.
                      Shelby</persName> that she should not be in that <placeName type="residence"
