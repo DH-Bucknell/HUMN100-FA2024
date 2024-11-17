@@ -3,9 +3,9 @@
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/berger.xml"
          
     ],
-    "documents": "//div[@type='essay']",
+    "documents": "//div[@type='text']",
     "ignoreNamespace": true,
-    "documentTitle": "head",
+    "documentTitle": "head/title",
     "documentAuthor": "",
     "documentImages": "",
     "documentNotes": "",
