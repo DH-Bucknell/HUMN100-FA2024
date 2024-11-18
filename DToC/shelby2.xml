@@ -136,10 +136,10 @@
    <text>
       <body>
          <div type="interview">
-            <div type="section" n="1">
+            
                <head><title>Interview with Charlotte Shelby: December 26, 1929</title></head>
                <byline>Edited by Katrina von Behren</byline>
-               <byline>Reporter: A. M. Rochlen LOS ANGELES EXAMINER</byline>
+              
 
                <p>In a remarkable interview, given exclusively to the LOS ANGELES EXAMINER,
                      <persName key="cshelby" ref="#family" role="familial">Mrs. Charlotte
@@ -369,9 +369,8 @@
 
                <p>"One night <persName key="minter" ref="#actor">Mary</persName> did not come home
                   to dinner. We waited and waited. She did not call. We began to worry. </p>
-            </div>
 
-            <div type="section" n="2">
+           
                <p> From the wealth of memories so closely associated with the career of her talented
                   daughter she brought forth details that shed a new light on the many
                   investigations that sought to unravel the tangled threads of the murder of the
@@ -625,7 +624,6 @@
                      <placeName type="residence">charming apartment</placeName> to <placeName
                      type="residence">our own home</placeName>, I will not be in seclusion or in
                   hiding." </p>
-            </div>
          </div>
       </body>
    </text>
