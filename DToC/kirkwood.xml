@@ -136,7 +136,7 @@
    <text type="interview">
       <body>
          <div type="interview">
-            <div><head><title>MEMORANDUM RE: JAMES KIRKWOOD AND MARY MILES MINTER</title></head>
+            <head><title>MEMORANDUM RE: JAMES KIRKWOOD AND MARY MILES MINTER</title></head>
             <byline>Daniel Hou</byline>
 
             <p><persName key="kirkwood" ref="#director" role="unknown">James Kirkwood</persName>, <persName key="kirkwood" ref="#director" role="unknown">actor and motion-picture director</persName>, was
@@ -240,7 +240,6 @@
             <p>Another <persName key="witness" ref="#military" role="unknown">witness</persName> recalls seeing <eventName type="murder"><persName key="witness" ref="#military" role="unknown">two men</persName> <placeName type="residence">at Taylor's door</placeName> <time>two nights before</time> the murder
                at about <time>6:00 P.M.</time></eventName> These were described as <persName key="witness" ref="#military" role="unknown">tall men</persName> (<persName key="kirkwood" ref="#director" role="unknown">Kirkwood</persName> was six feet and
                weighed 180 pounds) and <persName key="witness" ref="#military" role="unknown">a very small man</persName> weighing about 125 pounds.</p>
-</div>
          </div>
       </body>
    </text>
