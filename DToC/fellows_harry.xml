@@ -136,10 +136,7 @@
   <text>
       <body>
          <div type="interview">
-            <head>Harry Fellows Statement</head>
-            <byline></byline>
-            <head>HARRY FELLOWS, Assistant Director to Wm. Desmond Taylor Statement taken 2-9-22.</head>            
-<div type="section">
+            <head><title>HARRY FELLOWS, Assistant Director to Wm. Desmond Taylor Statement taken 2-9-22.</title></head>            
    <byline>Edited by Lily Stein</byline>
             <p> POLICE: Did she appear to be fond of him?</p>
             
@@ -187,7 +184,7 @@
             <p> FELLOWS: Gave them to<persName key="eyton" ref="#director"> Mr. Eyton</persName>. *** I dont think any body
                made an examination until <persName key="eyton" ref="director">Mr. Eyton</persName> insisted on an examination
                being made and that must have been <time type="estimation">two hours or 2 hours after</time> the time
-               we got there anyway.</p></div>
+               we got there anyway.</p>
          </div>
       </body>
   </text>

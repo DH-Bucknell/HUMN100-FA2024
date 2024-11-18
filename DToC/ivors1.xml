@@ -136,7 +136,7 @@
    <text>
       <body>
          <div type="interview">
-               <head>Interview With Julia C. Ivers</head>
+               <head><title>Interview With Julia C. Ivers</title></head>
                <byline>Edited by Liv King</byline>
                <p>
                   <persName key="ivers" ref="#writer">Julia Crawford Ivers</persName> was closely associated with

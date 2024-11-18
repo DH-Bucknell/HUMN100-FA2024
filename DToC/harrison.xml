@@ -135,9 +135,8 @@
    </teiHeader>
    <text>
       <body>
-         <div type="interview">
-            <head>Interview with Ethel May Harrison</head>
-            <div type="section" n="1">
+         <div type="interview" n="1">
+            <head><title>Interview with Ethel May Harrison</title></head>
                <byline>Edited by Charlie Meehleib</byline>
                <p> Interviews with Taylor's Ex-Wife * * * * * * * * * * * * * * * * * * * * * * * *
                   * * * * * * * * * February 5, 1922 NEW YORK HERALD</p>
@@ -310,9 +309,8 @@
                      coin</objectName>, a six-pence, I think. His father had been a member of
                   Parliament; his uncle was a justice of the peace. Altogether the family was quite
                   to the front."...</p>
-            </div>
 
-            <div type="section" n="2">
+            <div type="interview" n="2">
                <byline>Edited by Carter Morton</byline>
                <p> Interviews with <persName key="ethel">Ethel Mae Harrison</persName>
                   <date>February 13, 1922</date>

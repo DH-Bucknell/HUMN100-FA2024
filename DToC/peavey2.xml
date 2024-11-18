@@ -136,7 +136,7 @@
    <text>
       <body>
          <div type="interview">
-            <head>Interview With Henry Peavey</head>
+            <head><title>Interview With Henry Peavey</title></head>
             <byline>Edited by Campbell Killian</byline>
             <p> </p>
             <p> <persName key="Peavey" ref= "#servant">Henry Peavey</persName> accuses <persName key="Normand" ref="#actor">Mabel Normand</persName></p>

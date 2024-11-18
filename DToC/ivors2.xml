@@ -136,7 +136,7 @@
    <text>
       <body>
          <div type="interview">
-            <head>Newspaper Interview With Julia C. Ivers</head>
+            <head><title>Newspaper Interview With Julia C. Ivers</title></head>
             <byline>Edited by Liv King</byline>
             <p> February 7, 1922 LOS ANGELES EXAMINER <persName key="ivers" ref="#writer">Julia Crawford
                Ivers</persName>, scenarist for the late <persName key="taylor" ref="#director">William D.
