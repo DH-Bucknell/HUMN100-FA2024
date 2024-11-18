@@ -135,11 +135,11 @@
    </teiHeader>
    <text>
       <body>
-         <div type="interview" n="1">
-            <head><title>Interview with Ethel May Harrison</title></head>
+         <div type="interview">
+            <head><title>Interviews with Ethel May Harrison</title></head>
                <byline>Edited by Charlie Meehleib</byline>
-               <p> Interviews with Taylor's Ex-Wife * * * * * * * * * * * * * * * * * * * * * * * *
-                  * * * * * * * * * February 5, 1922 NEW YORK HERALD</p>
+            <byline>Edited by Carter Morton</byline>
+               <p>February 5, 1922 NEW YORK HERALD</p>
                <p><persName key="taylor">William Desmond Taylor</persName>, the slain movie
                   director, was well known in this city in <date>1908</date>. But he was not known
                   as <persName key="taylor">Taylor</persName>. He was <persName key="taylor">William
@@ -310,8 +310,8 @@
                   Parliament; his uncle was a justice of the peace. Altogether the family was quite
                   to the front."...</p>
 
-            <div type="interview" n="2">
-               <byline>Edited by Carter Morton</byline>
+            
+               
                <p> Interviews with <persName key="ethel">Ethel Mae Harrison</persName>
                   <date>February 13, 1922</date>
                   <orgName type="newspaper">NEW YORK HERALD</orgName>
@@ -633,7 +633,6 @@
                      firm</orgName> asking for a sum of <objectName type="money">money</objectName>.
                   This was sent to him by <persName type="Daniel">Daniel J. Barker</persName>, of
                   the firm. Then he disappeared."</p>
-            </div>
          </div>
       </body>
    </text>
