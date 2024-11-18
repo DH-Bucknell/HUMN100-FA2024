@@ -1,5 +1,6 @@
 {
     "inputs": [
+        "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/berger.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/davis.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/eaton.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/eyton1.xml",
@@ -7,6 +8,7 @@
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/fellows_harry.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/fellows_howard.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/fillmore.xml",
+        "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/harrington.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/harrington.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/ivors1.xml",
         "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/ivors2.xml",
