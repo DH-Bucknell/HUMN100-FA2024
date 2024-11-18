@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model hkey="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/lwc.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -234,7 +233,7 @@
                ever heard that Mrs. <persName key="cshelby" ref="#family">Shelby</persName> was a suspect in the murder, the
                veteran actor replied, "I did not hear any such rumors, but I did hear rumors that
                <persName key="mary">Mary</persName> (Miss Minter) and <persName key="normand" ref="#actor">Mabel Normand</persName>
-               were suspected of the murder." ~~~~</p></div>
+               were suspected of the murder." ~~~~</p>
          </div>
       </body>
   </text>
