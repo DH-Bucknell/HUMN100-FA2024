@@ -1,6 +1,6 @@
 {
     "inputs": [
-        "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/berger.xml"],
+        "https://raw.githubusercontent.com/DH-Bucknell/HUMN100-FA2024/refs/heads/main/DToC/kirkwood.xml"],
     "documents": "//div[@type='interview']",
     "ignoreNamespace": true,
     "documentTitle": "head//text()",
